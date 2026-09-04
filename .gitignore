@@ -216,3 +216,31 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ===== HanoiQA / G-Retriever =====
+# Secrets
+.env.*
+!.env.example
+
+# Model weights and graph tensors
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Training artifacts
+/checkpoints/
+/outputs/
+/wandb/
+
+# Generated dataset artifacts
+/dataset/hanoiqa/processed/
+/dataset/hanoiqa/cached_graphs/
+/dataset/hanoiqa/cached_desc/
+
+# Local frontend dependencies
+node_modules/
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,41 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000147,SRC_000048,PLACE_000006,location,"Di tích Gò Đống Đa có địa chỉ tại số 4 Đặng Tiến Đông, phường Đống Đa, thành phố Hà Nội.",normalized_summary,approved
+EVD_000148,SRC_000048,PLACE_000006,location,Di tích Gò Đống Đa thuộc phường Đống Đa.,normalized_summary,approved
+EVD_000149,SRC_000048,PLACE_000006,location,Di tích Gò Đống Đa nằm tại thành phố Hà Nội.,normalized_summary,approved
+EVD_000150,SRC_000046,PLACE_000006,classification,Gò Đống Đa là một di tích lịch sử gắn với chiến thắng Ngọc Hồi – Đống Đa.,normalized_summary,approved
+EVD_000151,SRC_000055,PLACE_000006,management,Ban Quản lý Công viên Văn hóa Đống Đa là đơn vị quản lý Di tích quốc gia đặc biệt Gò Đống Đa.,normalized_summary,approved
+EVD_000152,SRC_000050,PLACE_000006,recognition,Gò Đống Đa được xếp hạng là Di tích quốc gia đặc biệt.,normalized_summary,approved
+EVD_000153,SRC_000050,PLACE_000006,recognition,Thủ tướng Chính phủ xếp hạng Gò Đống Đa là Di tích quốc gia đặc biệt ngày 24 tháng 12 năm 2018.,normalized_summary,approved
+EVD_000154,SRC_000047,PLACE_000006,measurement,"Sau đợt tu bổ năm 2010, quần thể Gò Đống Đa có tổng diện tích hơn 22.120,8 m².",normalized_summary,approved
+EVD_000155,SRC_000046,PLACE_000006,person,Gò Đống Đa gắn với chiến thắng do Hoàng đế Quang Trung – Nguyễn Huệ chỉ huy mùa xuân năm 1789.,normalized_summary,approved
+EVD_000156,SRC_000053,PLACE_000006,person,Đền thờ trong quần thể Gò Đống Đa có ban thờ Bắc cung Hoàng hậu Lê Ngọc Hân.,normalized_summary,approved
+EVD_000157,SRC_000051,PLACE_000006,person,"Gò Đống Đa gắn với trận đánh tại Khương Thượng, nơi tướng Thanh Sầm Nghi Đống thất trận.",normalized_summary,approved
+EVD_000158,SRC_000046,PLACE_000006,history,Di tích Gò Đống Đa gắn với chiến thắng của nghĩa quân Tây Sơn.,normalized_summary,approved
+EVD_000159,SRC_000046,PLACE_000006,history,Di tích Gò Đống Đa ghi dấu cuộc đại phá quân Thanh năm 1789.,normalized_summary,approved
+EVD_000160,SRC_000046,PLACE_000006,history,Gò Đống Đa là một trong các bãi chiến trường của trận đại phá quân Thanh mùa xuân Kỷ Dậu 1789.,normalized_summary,approved
+EVD_000161,SRC_000052,PLACE_000006,festival,Lễ hội Gò Đống Đa được tổ chức hằng năm tại di tích để tưởng niệm chiến thắng và Hoàng đế Quang Trung.,normalized_summary,approved
+EVD_000162,SRC_000050,PLACE_000006,recognition,Di tích gắn với sự kiện được xếp hạng Di tích quốc gia đặc biệt theo quyết định của Thủ tướng Chính phủ.,normalized_summary,approved
+EVD_000163,SRC_000047,PLACE_000006,renovation,"Di tích Gò Đống Đa được tu bổ, tôn tạo và xây mới một số hạng mục nhân Đại lễ 1000 năm Thăng Long – Hà Nội.",normalized_summary,approved
+EVD_000164,SRC_000046,PLACE_000006,history,Chiến thắng Ngọc Hồi – Đống Đa diễn ra vào mùa xuân năm Kỷ Dậu 1789.,normalized_summary,approved
+EVD_000165,SRC_000052,PLACE_000006,festival,Lễ hội Gò Đống Đa được tổ chức vào mùng 5 Tết Nguyên Đán hằng năm.,normalized_summary,approved
+EVD_000166,SRC_000050,PLACE_000006,recognition,Sự kiện xếp hạng Di tích quốc gia đặc biệt diễn ra ngày 24 tháng 12 năm 2018.,normalized_summary,approved
+EVD_000167,SRC_000047,PLACE_000006,renovation,"Đợt tu bổ, tôn tạo di tích phục vụ Đại lễ 1000 năm Thăng Long – Hà Nội diễn ra năm 2010.",normalized_summary,approved
+EVD_000168,SRC_000049,PLACE_000006,architecture,Quần thể di tích bao gồm gò Đống Đa lịch sử.,normalized_summary,approved
+EVD_000169,SRC_000049,PLACE_000006,architecture,Di tích có ba cổng ra vào gồm cổng phố Tây Sơn và hai cổng trên phố Đặng Tiến Đông.,normalized_summary,approved
+EVD_000170,SRC_000049,PLACE_000006,architecture,Nghi môn là một hạng mục của Di tích Gò Đống Đa.,normalized_summary,approved
+EVD_000171,SRC_000049,PLACE_000006,architecture,Tượng đài Quang Trung là một hạng mục của Di tích Gò Đống Đa.,normalized_summary,approved
+EVD_000172,SRC_000049,PLACE_000006,architecture,Đền thờ Hoàng đế Quang Trung nằm trong quần thể Di tích Gò Đống Đa.,normalized_summary,approved
+EVD_000173,SRC_000049,PLACE_000006,exhibition,Nhà trưng bày Quang Trung và Chiến thắng Ngọc Hồi – Đống Đa nằm trong quần thể di tích.,normalized_summary,approved
+EVD_000174,SRC_000049,PLACE_000006,architecture,Hai bức phù điêu phía sau tượng đài Quang Trung là hạng mục của di tích.,normalized_summary,approved
+EVD_000175,SRC_000054,PLACE_000006,heritage_object,Nhà trưng bày tại di tích giới thiệu sa bàn trận chiến Ngọc Hồi – Đống Đa.,normalized_summary,approved
+EVD_000176,SRC_000053,PLACE_000006,measurement,Đền thờ Hoàng đế Quang Trung được xây dựng trên diện tích 300 m².,normalized_summary,approved
+EVD_000177,SRC_000053,PLACE_000006,construction,Đền thờ Hoàng đế Quang Trung được xây dựng mùa xuân năm 2014 và khánh thành tháng Giêng năm 2015.,normalized_summary,approved
+EVD_000178,SRC_000053,PLACE_000006,commemoration,Ban thờ chính trong hậu cung thờ Hoàng đế Quang Trung – Nguyễn Huệ.,normalized_summary,approved
+EVD_000179,SRC_000053,PLACE_000006,commemoration,Ban thờ bên tả trong hậu cung thờ Bắc cung Hoàng hậu Lê Ngọc Hân.,normalized_summary,approved
+EVD_000180,SRC_000046,PLACE_000006,person,Hoàng đế Quang Trung – Nguyễn Huệ chỉ huy nghĩa quân Tây Sơn trong chiến thắng Ngọc Hồi – Đống Đa.,normalized_summary,approved
+EVD_000181,SRC_000051,PLACE_000006,person,Sầm Nghi Đống là tướng phía quân Thanh tại đồn Khương Thượng trong trận Đống Đa.,normalized_summary,approved
+EVD_000182,SRC_000048,PLACE_000006,history,Quang Trung – Nguyễn Huệ là Hoàng đế thứ hai của Nhà Tây Sơn.,normalized_summary,approved
+EVD_000183,SRC_000051,PLACE_000006,history,Sầm Nghi Đống là tướng thuộc lực lượng quân Thanh trong trận Khương Thượng – Đống Đa.,normalized_summary,approved
+EVD_000184,SRC_000052,PLACE_000006,activity,"Lễ hội tại di tích có nghi thức rước kiệu Quang Trung và Ngọc Hân cùng lễ dâng hoa, dâng hương tưởng niệm.",normalized_summary,approved
+EVD_000185,SRC_000052,PLACE_000006,activity,Lễ hội Gò Đống Đa có biểu diễn võ thuật và múa rồng lửa tái hiện khí thế nghĩa quân Tây Sơn.,normalized_summary,approved
+EVD_000186,SRC_000054,PLACE_000006,exhibition,Sa bàn trận chiến Ngọc Hồi – Đống Đa được trưng bày trong Nhà trưng bày Quang Trung.,normalized_summary,approved

@@ -1,0 +1,35 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ADDRESS_000006,"Gò Rùa, hồ Hoàn Kiếm, thành phố Hà Nội",Address,,,go_rua_ho_hoan_kiem_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000070,Tầng một Tháp Rùa,Architecture,,,tang_mot_thap_rua,,,,approved
+ARCH_000071,Tầng hai Tháp Rùa,Architecture,,,tang_hai_thap_rua,,,,approved
+ARCH_000072,Tầng ba Tháp Rùa,Architecture,,,tang_ba_thap_rua,,,,approved
+ARCH_000073,Tầng đỉnh Tháp Rùa,Architecture,,,tang_dinh_thap_rua,,,,approved
+ARCH_000074,Móng Tháp Rùa,Architecture,,,mong_thap_rua,,,,approved
+ARCH_000075,Cửa tròn phía đông tầng ba Tháp Rùa,Architecture,,,cua_tron_phia_dong_tang_ba_thap_rua,,,,approved
+ARCH_000076,Hệ mái cong Tháp Rùa,Architecture,,,he_mai_cong_thap_rua,,,,approved
+ARCH_000077,Hệ lan can hai tầng dưới Tháp Rùa,Architecture,,,he_lan_can_hai_tang_duoi_thap_rua,,,,approved
+ASTYLE_000004,Kiến trúc vọng lâu,ArchitecturalStyle,,Kiểu vọng lâu,kien_truc_vong_lau,,,,approved
+ASTYLE_000005,Kiến trúc Gothic,ArchitecturalStyle,,Kiến trúc gô-tích|Gothic,kien_truc_gothic,,,,approved
+ASTYLE_000006,Kiến trúc truyền thống Việt Nam,ArchitecturalStyle,,,kien_truc_truyen_thong_viet_nam,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+EVENT_000016,Không gian chiếu sáng nghệ thuật Hồ Gươm–Tháp Rùa 2025–2026,Event,,,khong_gian_chieu_sang_nghe_thuat_ho_guomthap_rua_20252026,,,,approved
+HOBJ_000014,Dòng chữ Quy Sơn Tháp trên Tháp Rùa,HeritageObject,,Quy Sơn Tháp trên cửa tròn,dong_chu_quy_son_thap_tren_thap_rua,,,,approved
+LOCATION_000005,Gò Rùa,Location,,Đảo Rùa|Gò Tháp Rùa,go_rua,,,,approved
+PLACE_000008,Tháp Rùa,Place,,Quy Sơn Tháp|Tháp Núi Rùa|Turtle Tower,thap_rua,,,,approved
+PLACE_000009,Hồ Hoàn Kiếm,Place,,Hồ Gươm|Hồ Tả Vọng|Hoan Kiem Lake,ho_hoan_kiem,,,,approved
+TIME_000034,Khoảng giữa năm 1884 đến tháng 4 năm 1886,Time,,Khoảng 1884–1886,khoang_giua_nam_1884_den_thang_4_nam_1886,,,,approved
+TIME_000035,Từ ngày 24/12/2025 đến ngày 04/01/2026,Time,,2025-12-24/2026-01-04,tu_ngay_24_12_2025_den_ngay_04_01_2026,,,,approved
+VALUE_000031,"0,8 m",Value,,,0_8_m,0.8,m,dimension,approved
+VALUE_000033,"6,28 m",Value,,,6_28_m,6.28,m,length,approved
+VALUE_000034,"4,54 m",Value,,,4_54_m,4.54,m,width,approved
+VALUE_000035,"4,8 m",Value,,,4_8_m,4.8,m,length,approved
+VALUE_000036,"3,64 m",Value,,,3_64_m,3.64,m,width,approved
+VALUE_000037,"2,97 m",Value,,,2_97_m,2.97,m,length,approved
+VALUE_000038,"1,9 m",Value,,,1_9_m,1.9,m,width,approved
+VALUE_000039,"0,68 m",Value,,,0_68_m,0.68,m,diameter,approved
+VALUE_000040,2 m,Value,,,2_m,2,m,side_length,approved
+VALUE_000041,"8,8 m",Value,,,8_8_m,8.8,m,height,approved
+VALUE_000042,Khoảng 350 m²,Value,,,khoang_350_m,350,m²,area,approved
+VALUE_000043,10 cửa,Value,,,10_cua,10,cửa,opening_count,approved
+VALUE_000044,14 cửa,Value,,,14_cua,14,cửa,opening_count,approved

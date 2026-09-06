@@ -1,0 +1,36 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000016,Viếng Chủ tịch Hồ Chí Minh tại Lăng,Activity,,,vieng_chu_tich_ho_chi_minh_tai_lang,,,,approved
+ADDRESS_000008,"Quảng trường Ba Đình, đường Hùng Vương, phường Ba Đình, Hà Nội",Address,,,quang_truong_ba_dinh_duong_hung_vuong_phuong_ba_dinh_ha_noi,,,,approved
+ADMIN_000001,Phường Ba Đình,AdministrativeArea,ward,,phuong_ba_dinh,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000085,Bệ tam cấp Lăng Chủ tịch Hồ Chí Minh,Architecture,,,be_tam_cap_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000086,Khối trung tâm Lăng Chủ tịch Hồ Chí Minh,Architecture,,,khoi_trung_tam_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000087,Mái tam cấp Lăng Chủ tịch Hồ Chí Minh,Architecture,,,mai_tam_cap_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000088,Phòng thi hài Lăng Chủ tịch Hồ Chí Minh,Architecture,,,phong_thi_hai_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000089,Tiền sảnh Lăng Chủ tịch Hồ Chí Minh,Architecture,,,tien_sanh_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000090,Hệ cầu thang Lăng Chủ tịch Hồ Chí Minh,Architecture,,,he_cau_thang_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000091,Hàng cột vuông Lăng Chủ tịch Hồ Chí Minh,Architecture,,,hang_cot_vuong_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000092,Hệ cửa gỗ Lăng Chủ tịch Hồ Chí Minh,Architecture,,,he_cua_go_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000093,Lễ đài phía Nam Lăng Chủ tịch Hồ Chí Minh,Architecture,,,le_dai_phia_nam_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000094,Lễ đài phía Bắc Lăng Chủ tịch Hồ Chí Minh,Architecture,,,le_dai_phia_bac_lang_chu_tich_ho_chi_minh,,,,approved
+CATEGORY_000004,Công trình chính trị – văn hóa,TourismCategory,,Công trình chính trị và văn hóa,cong_trinh_chinh_tri_van_hoa,,,,approved
+EVENT_000020,Khởi công xây dựng Lăng Chủ tịch Hồ Chí Minh,Event,,,khoi_cong_xay_dung_lang_chu_tich_ho_chi_minh,,,,approved
+EVENT_000021,Khánh thành Lăng Chủ tịch Hồ Chí Minh,Event,,,khanh_thanh_lang_chu_tich_ho_chi_minh,,,,approved
+EVENT_000022,Đổ mẻ bê tông móng đầu tiên của Lăng Chủ tịch Hồ Chí Minh,Event,,,do_me_be_tong_mong_dau_tien_cua_lang_chu_tich_ho_chi_minh,,,,approved
+EVENT_000023,Lễ chào cờ đầu tiên trước Lăng Chủ tịch Hồ Chí Minh,Event,,,le_chao_co_dau_tien_truoc_lang_chu_tich_ho_chi_minh,,,,approved
+HOBJ_000021,Dòng chữ Chủ tịch Hồ Chí Minh trên mặt chính Lăng,HeritageObject,,,dong_chu_chu_tich_ho_chi_minh_tren_mat_chinh_lang,,,,approved
+HOBJ_000022,Hai hình cờ Đảng và cờ Tổ quốc ghép đá trong Lăng,HeritageObject,,,hai_hinh_co_dang_va_co_to_quoc_ghep_da_trong_lang,,,,approved
+LOCATION_000006,Quảng trường Ba Đình,Location,,,quang_truong_ba_dinh,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000006,Đá hoa cương,Material,,Đá granite,da_hoa_cuong,,,,approved
+MATERIAL_000007,Đá cẩm thạch,Material,,Đá marble,da_cam_thach,,,,approved
+MATERIAL_000008,Đá hoa cương đỏ hồng,Material,,Granite đỏ hồng,da_hoa_cuong_do_hong,,,,approved
+PERSON_000024,Hồ Chí Minh,Person,,Chủ tịch Hồ Chí Minh|Bác Hồ|Nguyễn Ái Quốc|Nguyễn Tất Thành,ho_chi_minh,,,,approved
+PLACE_000011,Lăng Chủ tịch Hồ Chí Minh,Place,,Lăng Bác|Lăng Hồ Chủ tịch|Ho Chi Minh Mausoleum,lang_chu_tich_ho_chi_minh,,,,approved
+TIME_000042,Ngày 2 tháng 9 năm 1973,Time,,02/09/1973|1973-09-02,ngay_2_thang_9_nam_1973,,,,approved
+TIME_000043,Ngày 29 tháng 8 năm 1975,Time,,29/08/1975|1975-08-29,ngay_29_thang_8_nam_1975,,,,approved
+TIME_000044,Ngày 27 tháng 10 năm 1973,Time,,27/10/1973|1973-10-27,ngay_27_thang_10_nam_1973,,,,approved
+TIME_000045,Ngày 19 tháng 5 năm 2001,Time,,19/05/2001|2001-05-19,ngay_19_thang_5_nam_2001,,,,approved
+VALUE_000046,"21,6 m",Value,,,21_6_m,21.6,m,height,approved
+VALUE_000047,"41,2 m",Value,,,41_2_m,41.2,m,width,approved
+VALUE_000048,65 m,Value,,,65_m,65,m,length,approved

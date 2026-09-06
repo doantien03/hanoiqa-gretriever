@@ -1,0 +1,13 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000332,SRC_000112,PLACE_000020,address,"Mục liên hệ di tích ghi số 194 Quán Thánh, phường Ba Đình; phần giới thiệu ghi số 190. Địa chỉ thuộc Hà Nội; hai số nhà chưa thống nhất trong cùng nguồn.",normalized_summary,approved
+EVD_000333,SRC_000112,PLACE_000020,construction,"Đền khởi dựng đầu thế kỷ XI, thời Lý Thái Tổ.",normalized_summary,approved
+EVD_000334,SRC_000112,PLACE_000020,restoration,"Các lần trùng tu được ghi nhận: 1618, 1677, 1768, 1836, 1843, 1893, 1941.",normalized_summary,approved
+EVD_000335,SRC_000112,PLACE_000020,architecture,"Đền có tam quan, sân trước, tiền tế, trung tế, hậu cung.",normalized_summary,approved
+EVD_000336,SRC_000112,PLACE_000020,religious_activity,Đền thờ Huyền Thiên Trấn Vũ; lễ hội truyền thống tổ chức ngày 3 tháng 3 âm lịch hằng năm.,normalized_summary,approved
+EVD_000337,SRC_000112,PLACE_000020,location,Đền Quán Thánh nằm cạnh Hồ Tây và là di tích lịch sử của Hà Nội.,normalized_summary,approved
+EVD_000338,SRC_000114,PLACE_000020,architecture,Nghi môn tứ trụ là cổng ngoài của đền; chuông đồng được treo trên gác tam quan.,normalized_summary,approved
+EVD_000339,SRC_000113,PLACE_000020,heritage_objects,"Trang 48: biển đồng Đề Chân Vũ quán do Thiệu Trị ngự đề, đúc năm 1842.",normalized_summary,approved
+EVD_000340,SRC_000113,PLACE_000020,heritage_objects,Trang 48–49: bia ký bằng đá; bia trùng tu quán Trấn Vũ năm 1857 do Lê Huy Vĩnh soạn; bia quán Chân Vũ năm 1893 do Hoàng Cao Khải soạn.,normalized_summary,approved
+EVD_000341,SRC_000113,PLACE_000020,material,Trang 48: đền lưu giữ pho tượng Trấn Vũ bằng đồng.,normalized_summary,approved
+EVD_000343,SRC_000115,PLACE_000020,recognition,"Quyết định 93/QĐ-TTg ngày 18/01/2022 xếp hạng Thăng Long tứ trấn, gồm Đền Quán Thánh, là di tích quốc gia đặc biệt.",normalized_summary,approved
+EVD_000344,SRC_000116,PLACE_000020,recognition,Tượng Trấn Vũ đền Quán Thánh được công nhận bảo vật quốc gia theo Quyết định 2496/QĐ-TTg ngày 22/12/2016. Nguồn ghi niên đại khoảng cuối thế kỷ XVII – đầu thế kỷ XVIII.,normalized_summary,approved

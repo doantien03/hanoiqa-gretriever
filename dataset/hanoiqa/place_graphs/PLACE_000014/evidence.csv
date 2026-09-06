@@ -1,0 +1,13 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000268,SRC_000092,PLACE_000014,address,"Nguồn Sở Văn hóa và Thể thao Hà Nội ngày 26/3/2026 xác định di tích ở số 5D phố Hàm Long, phường Cửa Nam, thành phố Hà Nội.",normalized_summary,approved
+EVD_000269,SRC_000090,PLACE_000014,historical_event,"Cuối tháng 3/1929, Chi bộ Cộng sản đầu tiên ở Việt Nam ra đời tại nhà 5D Hàm Long.",normalized_summary,approved
+EVD_000270,SRC_000090,PLACE_000014,historical_person,"Chi bộ gồm Ngô Gia Tự, Nguyễn Đức Cảnh, Trần Văn Cung, Trịnh Đình Cửu, Đỗ Ngọc Du, Nguyễn Phong Sắc, Dương Hạc Đính và Nguyễn Tuân; Trần Văn Cung làm Bí thư.",normalized_summary,approved
+EVD_000271,SRC_000091,PLACE_000014,historical_event,"Bảy người dự cuộc họp thành lập. Nguyễn Phong Sắc vắng mặt vì công tác, tán thành nghị quyết và được công nhận là thành viên thứ tám.",normalized_summary,approved
+EVD_000272,SRC_000093,PLACE_000014,historical_person,"Cuối năm 1928, Trần Văn Cung và vợ Nguyễn Thị Liên được giao đến ở, trông nom nhà 5D Hàm Long, làm cơ sở hoạt động bí mật.",normalized_summary,approved
+EVD_000273,SRC_000093,PLACE_000014,architecture,"Nhà 5D Hàm Long xưa là nhà gạch một tầng, có một gian ở, phía sau là sân nhỏ và bếp.",normalized_summary,approved
+EVD_000274,SRC_000091,PLACE_000014,measurement,"Gian nhà 5D Hàm Long có diện tích 24 m²; phía sau có sân, bếp và nhà vệ sinh.",normalized_summary,approved
+EVD_000275,SRC_000091,PLACE_000014,heritage_objects,"Bộ tràng kỷ, bộ ấm tích, bốn ghế đẩu, giường gỗ, hai hòm gỗ và nhóm nồi chảo, bát đĩa tại di tích được nguồn xác định là hiện vật phục chế.",normalized_summary,approved
+EVD_000276,SRC_000091,PLACE_000014,restoration,"Ngày 25/11/1959, nhà 5D Hàm Long được khôi phục thành nhà lưu niệm.",normalized_summary,approved
+EVD_000277,SRC_000091,PLACE_000014,restoration,"Năm 2000, nhà 5D Hàm Long được tu bổ nhằm khôi phục diện mạo thời điểm thành lập chi bộ.",normalized_summary,approved
+EVD_000278,SRC_000090,PLACE_000014,recognition,Nhà 5D Hàm Long được xếp hạng di tích quốc gia theo Quyết định 29-VH/QĐ ngày 13/1/1964 của Bộ trưởng Bộ Văn hóa.,normalized_summary,approved
+EVD_000279,SRC_000094,PLACE_000014,historical_context,Bài Nhân Dân ngày 26/3/2026 xác nhận nhà 5D Hàm Long gắn với chi bộ tám thành viên thành lập cuối tháng 3/1929 và được xếp hạng quốc gia ngày 13/1/1964.,normalized_summary,approved

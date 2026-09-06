@@ -1,0 +1,41 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000013,Quan sát quân sự,Activity,,Vọng canh quân sự,quan_sat_quan_su,,,,approved
+ADDRESS_000021,"Số 28A đường Điện Biên Phủ, phường Ba Đình, Hà Nội",Address,,,so_28a_duong_dien_bien_phu_phuong_ba_dinh_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000050,Tầng đế thứ nhất Cột cờ Hà Nội,Architecture,,,tang_de_thu_nhat_cot_co_ha_noi,,,,approved
+ARCH_000051,Tầng đế thứ hai Cột cờ Hà Nội,Architecture,,,tang_de_thu_hai_cot_co_ha_noi,,,,approved
+ARCH_000052,Tầng đế thứ ba Cột cờ Hà Nội,Architecture,,,tang_de_thu_ba_cot_co_ha_noi,,,,approved
+ARCH_000053,Thân tháp Cột cờ Hà Nội,Architecture,,,than_thap_cot_co_ha_noi,,,,approved
+ARCH_000054,Lầu vọng canh Cột cờ Hà Nội,Architecture,,,lau_vong_canh_cot_co_ha_noi,,,,approved
+ARCH_000055,Cầu thang xoắn trong thân tháp Cột cờ Hà Nội,Architecture,,,cau_thang_xoan_trong_than_thap_cot_co_ha_noi,,,,approved
+ARCH_000056,Cửa Đông Nghênh Húc Cột cờ Hà Nội,Architecture,,,cua_dong_nghenh_huc_cot_co_ha_noi,,,,approved
+ARCH_000057,Cửa Tây Hồi Quang Cột cờ Hà Nội,Architecture,,,cua_tay_hoi_quang_cot_co_ha_noi,,,,approved
+ARCH_000058,Cửa Nam Hướng Minh Cột cờ Hà Nội,Architecture,,,cua_nam_huong_minh_cot_co_ha_noi,,,,approved
+ARCH_000059,Nhóm ô cửa hình hoa thị Cột cờ Hà Nội,Architecture,,,nhom_o_cua_hinh_hoa_thi_cot_co_ha_noi,,,,approved
+ARCH_000060,Nhóm ô cửa hình rẻ quạt Cột cờ Hà Nội,Architecture,,,nhom_o_cua_hinh_re_quat_cot_co_ha_noi,,,,approved
+ARCH_000061,Nhóm cửa sổ lầu vọng canh Cột cờ Hà Nội,Architecture,,,nhom_cua_so_lau_vong_canh_cot_co_ha_noi,,,,approved
+ARCH_000062,Trụ tròn giữa lầu vọng canh Cột cờ Hà Nội,Architecture,,,tru_tron_giua_lau_vong_canh_cot_co_ha_noi,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+DYNASTY_000006,Nhà Nguyễn,Dynasty,,Triều Nguyễn,nha_nguyen,,,,approved
+EVENT_000014,Lễ thượng cờ tại Cột cờ Hà Nội ngày 10/10/1954,Event,,,le_thuong_co_tai_cot_co_ha_noi_ngay_10_10_1954,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+LOCATION_000002,Đường Điện Biên Phủ,Location,,Phố Điện Biên Phủ,duong_dien_bien_phu,,,,approved
+MATERIAL_000003,Gạch,Material,,,gach,,,,approved
+PERSON_000004,Gia Long,Person,,Nguyễn Phúc Ánh,gia_long,,,,approved
+PLACE_000003,Cột cờ Hà Nội,Place,,Kỳ đài Hà Nội,cot_co_ha_noi,,,,approved
+TIME_000006,Năm 1812,Time,,1812,nam_1812,,,,approved
+TIME_000014,Năm 1805,Time,,1805,nam_1805,1805,năm,year,approved
+TIME_000028,Năm 1989,Time,,1989,nam_1989,,,,approved
+TIME_000029,Ngày 10 tháng 10 năm 1954,Time,,10/10/1954|1954-10-10,ngay_10_thang_10_nam_1954,,,,approved
+VALUE_000015,"3,1 m",Value,,,3_1_m,3.1,m,height,approved
+VALUE_000016,"42,5 m",Value,,,42_5_m,42.5,m,length,approved
+VALUE_000017,"3,7 m",Value,,,3_7_m,3.7,m,height,approved
+VALUE_000018,27 m,Value,,,27_m,27,m,length,approved
+VALUE_000019,"5,1 m",Value,,,5_1_m,5.1,m,height,approved
+VALUE_000020,"12,8 m",Value,,,12_8_m,12.8,m,length,approved
+VALUE_000021,54 bậc,Value,,,54_bac,54,bậc,step_count,approved
+VALUE_000022,39 ô cửa,Value,,,39_o_cua,39,ô cửa,opening_count,approved
+VALUE_000023,6 ô cửa,Value,,,6_o_cua,6,ô cửa,opening_count,approved
+VALUE_000024,8 cửa sổ,Value,,,8_cua_so,8,cửa sổ,window_count,approved
+VALUE_000025,"3,3 m",Value,,,3_3_m,3.3,m,height,approved
+VALUE_000026,"0,4 m",Value,,,0_4_m,0.4,m,diameter,approved

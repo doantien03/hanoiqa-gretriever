@@ -1,0 +1,36 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000019,"In sách thuốc, kinh và sách luận về tín ngưỡng",Activity,,,in_sach_thuoc_kinh_va_sach_luan_ve_tin_nguong,,,,approved
+ADDRESS_000014,"Phố Đinh Tiên Hoàng, Hà Nội",Address,,,pho_dinh_tien_hoang_ha_noi,,,,approved
+ARCH_000131,Nghi môn ngoại Đền Ngọc Sơn,Architecture,,,nghi_mon_ngoai_den_ngoc_son,,,,approved
+ARCH_000132,Tháp Bút Đền Ngọc Sơn,Architecture,,Tháp Bút bên Hồ Gươm,thap_but_den_ngoc_son,,,,approved
+ARCH_000133,Nghi môn nội Đền Ngọc Sơn,Architecture,,,nghi_mon_noi_den_ngoc_son,,,,approved
+ARCH_000134,Đài Nghiên Đền Ngọc Sơn,Architecture,,,dai_nghien_den_ngoc_son,,,,approved
+ARCH_000135,Cầu Thê Húc Đền Ngọc Sơn,Architecture,,,cau_the_huc_den_ngoc_son,,,,approved
+ARCH_000136,Cổng Đắc Nguyệt Đền Ngọc Sơn,Architecture,,Đắc Nguyệt lâu Đền Ngọc Sơn,cong_dac_nguyet_den_ngoc_son,,,,approved
+ARCH_000137,Đình Trấn Ba Đền Ngọc Sơn,Architecture,,,dinh_tran_ba_den_ngoc_son,,,,approved
+ARCH_000138,Tiền tế Đền Ngọc Sơn,Architecture,,,tien_te_den_ngoc_son,,,,approved
+ARCH_000139,Trung đường Đền Ngọc Sơn,Architecture,,,trung_duong_den_ngoc_son,,,,approved
+ARCH_000140,Hậu cung Đền Ngọc Sơn,Architecture,,,hau_cung_den_ngoc_son,,,,approved
+ARCH_000141,Tả vu Đền Ngọc Sơn,Architecture,,,ta_vu_den_ngoc_son,,,,approved
+ARCH_000142,Hữu vu Đền Ngọc Sơn,Architecture,,,huu_vu_den_ngoc_son,,,,approved
+ARCH_000143,Nhà kính thư Đền Ngọc Sơn,Architecture,,,nha_kinh_thu_den_ngoc_son,,,,approved
+ARCH_000144,Nhà hậu Đền Ngọc Sơn,Architecture,,,nha_hau_den_ngoc_son,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+HOBJ_000040,Văn bia Bút Tháp chí trên Tháp Bút Đền Ngọc Sơn,HeritageObject,,,van_bia_but_thap_chi_tren_thap_but_den_ngoc_son,,,,approved
+HOBJ_000041,Nghiên mực bằng đá tại Đài Nghiên Đền Ngọc Sơn,HeritageObject,,,nghien_muc_bang_da_tai_dai_nghien_den_ngoc_son,,,,approved
+HOBJ_000042,Bài minh trên thành nghiên Đài Nghiên Đền Ngọc Sơn,HeritageObject,,,bai_minh_tren_thanh_nghien_dai_nghien_den_ngoc_son,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+LOCATION_000012,Đảo Ngọc trong Hồ Hoàn Kiếm,Location,,Đảo Ngọc Sơn|Đảo Ngọc,dao_ngoc_trong_ho_hoan_kiem,,,,approved
+LOCATION_000013,Phố Đinh Tiên Hoàng,Location,,,pho_dinh_tien_hoang,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000002,Đá,Material,,,da,,,,approved
+ORG_000009,Hội Hướng thiện,Organization,,Hội Hướng Thiện Đền Ngọc Sơn,hoi_huong_thien,,,,approved
+PERSON_000039,Nguyễn Văn Siêu,Person,,Phương Đình|Thần Siêu,nguyen_van_sieu,,,,approved
+PERSON_000040,Trần Hưng Đạo,Person,,Trần Quốc Tuấn|Hưng Đạo Đại Vương,tran_hung_dao,,,,approved
+PERSON_000041,Vũ Tông Phan,Person,,,vu_tong_phan,,,,approved
+PLACE_000009,Hồ Hoàn Kiếm,Place,,Hồ Gươm|Hồ Tả Vọng|Hoan Kiem Lake,ho_hoan_kiem,,,,approved
+PLACE_000016,Đền Ngọc Sơn,Place,,Ngoc Son Temple,den_ngoc_son,,,,approved
+TIME_000064,Năm 1865,Time,,1865,nam_1865,,,,approved
+TIME_000065,Ngày 9 tháng 12 năm 2013,Time,,09/12/2013|2013-12-09,ngay_9_thang_12_nam_2013,,,,approved
+VALUE_000054,5 tầng,Value,,,5_tang,5,tầng,storey_count,approved
+VALUE_000055,15 nhịp,Value,,,15_nhip,15,nhịp,span_count,approved

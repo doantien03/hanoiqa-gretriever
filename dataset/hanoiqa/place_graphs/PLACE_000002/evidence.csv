@@ -1,0 +1,42 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000067,SRC_000027,PLACE_000002,location,Khu di tích Cổ Loa thuộc thành phố Hà Nội.,normalized_summary,approved
+EVD_000068,SRC_000027,PLACE_000002,classification,Cổ Loa là di tích lịch sử và kiến trúc nghệ thuật.,normalized_summary,approved
+EVD_000069,SRC_000027,PLACE_000002,classification,Cổ Loa chứa nhiều di chỉ và dấu tích khảo cổ học.,normalized_summary,approved
+EVD_000070,SRC_000037,PLACE_000002,recognition,Cổ Loa được xếp hạng là di tích quốc gia đặc biệt theo Quyết định 1419/QĐ-TTg ngày 27/9/2012.,normalized_summary,approved
+EVD_000071,SRC_000027,PLACE_000002,component,Thành Cổ Loa là hạng mục trung tâm của khu di tích.,normalized_summary,approved
+EVD_000072,SRC_000027,PLACE_000002,component,Thành Cổ Loa có vòng Thành Nội.,normalized_summary,approved
+EVD_000073,SRC_000027,PLACE_000002,component,Thành Cổ Loa có vòng Thành Trung.,normalized_summary,approved
+EVD_000074,SRC_000027,PLACE_000002,component,Thành Cổ Loa có vòng Thành Ngoại.,normalized_summary,approved
+EVD_000075,SRC_000027,PLACE_000002,component,Hệ thống hào nước bao quanh các vòng thành và thông với sông Hoàng.,normalized_summary,approved
+EVD_000076,SRC_000028,PLACE_000002,component,Khu di tích có Đền Thượng thờ An Dương Vương.,normalized_summary,approved
+EVD_000077,SRC_000028,PLACE_000002,component,Khu di tích có Đình Ngự Triều Di Quy.,normalized_summary,approved
+EVD_000078,SRC_000028,PLACE_000002,component,Khu di tích có am thờ công chúa Mỵ Châu.,normalized_summary,approved
+EVD_000079,SRC_000028,PLACE_000002,component,Giếng Ngọc nằm phía trước Đền Thượng.,normalized_summary,approved
+EVD_000080,SRC_000029,PLACE_000002,component,Đền Cao Lỗ là một điểm tham quan trong Khu di tích Cổ Loa.,normalized_summary,approved
+EVD_000081,SRC_000028,PLACE_000002,component,Chùa Bảo Sơn thuộc quần thể di tích Cổ Loa.,normalized_summary,approved
+EVD_000082,SRC_000029,PLACE_000002,component,Nhà trưng bày giới thiệu lịch sử và hiện vật của Khu di tích Cổ Loa.,normalized_summary,approved
+EVD_000083,SRC_000033,PLACE_000002,archaeology,Di chỉ Cầu Vực là nơi phát hiện kho mũi tên đồng Cổ Loa.,normalized_summary,approved
+EVD_000084,SRC_000034,PLACE_000002,archaeology,Di tích Mả Tre là nơi phát hiện trống đồng Cổ Loa.,normalized_summary,approved
+EVD_000085,SRC_000035,PLACE_000002,archaeology,Khu lò đúc mũi tên đồng được phát hiện trong Thành Nội Cổ Loa.,normalized_summary,approved
+EVD_000086,SRC_000027,PLACE_000002,history,An Dương Vương chọn Cổ Loa làm kinh đô nước Âu Lạc.,normalized_summary,approved
+EVD_000087,SRC_000028,PLACE_000002,legend,Cổ Loa gắn với truyền thuyết về công chúa Mỵ Châu.,normalized_summary,approved
+EVD_000088,SRC_000029,PLACE_000002,history,Cổ Loa lưu giữ đền thờ tướng Cao Lỗ.,normalized_summary,approved
+EVD_000089,SRC_000033,PLACE_000002,history,Cổ Loa từng trở thành kinh đô dưới thời Ngô Quyền.,normalized_summary,approved
+EVD_000090,SRC_000027,PLACE_000002,history,Thành Cổ Loa được xây dựng khoảng năm 208 trước Công nguyên.,normalized_summary,approved
+EVD_000091,SRC_000027,PLACE_000002,history,An Dương Vương cho xây Thành Cổ Loa làm kinh đô Âu Lạc.,normalized_summary,approved
+EVD_000092,SRC_000028,PLACE_000002,worship,Đền Thượng thờ An Dương Vương.,normalized_summary,approved
+EVD_000093,SRC_000032,PLACE_000002,worship,Hậu cung Am Mỵ Châu đặt ban thờ và tượng đá Mỵ Châu.,normalized_summary,approved
+EVD_000094,SRC_000031,PLACE_000002,history,Đình Ngự Triều Di Quy tương truyền dựng trên nền điện thiết triều của An Dương Vương.,normalized_summary,approved
+EVD_000095,SRC_000029,PLACE_000002,worship,Đền Cao Lỗ tưởng niệm vị tướng gắn với nỏ Liên Châu.,normalized_summary,approved
+EVD_000096,SRC_000033,PLACE_000002,archaeology,Kho mũi tên đồng Cổ Loa được phát hiện tại di chỉ Cầu Vực.,normalized_summary,approved
+EVD_000097,SRC_000034,PLACE_000002,archaeology,Trống đồng Cổ Loa được phát hiện tại khu Mả Tre.,normalized_summary,approved
+EVD_000098,SRC_000035,PLACE_000002,archaeology,Lò đúc lưu lại nhiều mảnh khuôn đá dùng đúc mũi tên đồng ba cạnh.,normalized_summary,approved
+EVD_000099,SRC_000033,PLACE_000002,event,Khu di tích gắn với sự kiện phát hiện kho mũi tên đồng Cầu Vực.,normalized_summary,approved
+EVD_000100,SRC_000033,PLACE_000002,event_time,Kho mũi tên đồng Cầu Vực được phát hiện năm 1959.,normalized_summary,approved
+EVD_000101,SRC_000034,PLACE_000002,event,Khu di tích gắn với sự kiện phát hiện trống đồng tại Mả Tre.,normalized_summary,approved
+EVD_000102,SRC_000034,PLACE_000002,event_time,Trống đồng Cổ Loa được phát hiện năm 1982.,normalized_summary,approved
+EVD_000103,SRC_000034,PLACE_000002,recognition,Trống đồng Cổ Loa được công nhận là Bảo vật quốc gia.,normalized_summary,approved
+EVD_000104,SRC_000036,PLACE_000002,recognition,Sưu tập khuôn đúc Cổ Loa được công nhận là Bảo vật quốc gia.,normalized_summary,approved
+EVD_000105,SRC_000036,PLACE_000002,history,Lò đúc và sưu tập khuôn đúc Cổ Loa gắn trực tiếp với thời kỳ An Dương Vương.,normalized_summary,approved
+EVD_000106,SRC_000013,PLACE_000002,management,Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội có chức năng quản lý và phát huy giá trị Khu di tích Cổ Loa.,normalized_summary,approved
+EVD_000372,SRC_000125,PLACE_000002,address,"Cổng trưng bày của Khu di tích Cổ Loa ghi vùng đất Cổ Loa nằm trên địa bàn xã Đông Anh, thành phố Hà Nội. Địa chỉ được chuẩn hóa ở cấp xã, không suy đoán số nhà.",normalized_summary,approved

@@ -1,0 +1,13 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000256,SRC_000084,PLACE_000013,address,"Di tích nằm tại 48 Hàng Ngang, Hà Nội; có hai lối ra vào ở 48 phố Hàng Ngang và 35 phố Hàng Cân.",normalized_summary,approved
+EVD_000257,SRC_000085,PLACE_000013,historical_person,Ngôi nhà 48 Hàng Ngang thuộc sở hữu của vợ chồng Trịnh Văn Bô và Hoàng Thị Minh Hồ khi Hồ Chí Minh đến ở năm 1945.,normalized_summary,approved
+EVD_000258,SRC_000084,PLACE_000013,historical_event,"Hồ Chí Minh bắt đầu ở và làm việc tại nhà 48 Hàng Ngang ngày 25/8/1945, sau khi từ Việt Bắc về Hà Nội.",normalized_summary,approved
+EVD_000259,SRC_000089,PLACE_000013,historical_event,"Trong thời gian ở tại 48 Hàng Ngang từ 25/8 đến 2/9/1945, Hồ Chí Minh soạn thảo Tuyên ngôn Độc lập ở căn phòng tầng hai.",normalized_summary,approved
+EVD_000260,SRC_000086,PLACE_000013,historical_event,"Ngày 26/8/1945, Hồ Chí Minh chủ trì cuộc họp Thường vụ Trung ương tại nhà 48 Hàng Ngang, bàn mở rộng thành phần Chính phủ và việc ra mắt Chính phủ lâm thời ngày 2/9.",normalized_summary,approved
+EVD_000261,SRC_000087,PLACE_000013,architecture,"Nhà 48 Hàng Ngang có tầng một từng bán tơ lụa, tầng hai bố trí phòng khách và phòng ăn. Phòng ở tầng ba nhìn ra phố Hàng Ngang được bố trí làm nơi dâng hương tưởng niệm Hồ Chí Minh.",normalized_summary,approved
+EVD_000262,SRC_000086,PLACE_000013,architecture,"Tại tầng hai, phòng ăn của gia đình được dùng làm phòng họp. Qua hành lang có phòng của Hồ Chí Minh và phòng tiếp khách.",normalized_summary,approved
+EVD_000263,SRC_000085,PLACE_000013,architecture,"Cửa chính của nhà mở ra 48 Hàng Ngang, cửa hậu ra 35 Hàng Cân. Khoảng sân vuông nối giữa có một giếng nước.",normalized_summary,approved
+EVD_000264,SRC_000085,PLACE_000013,heritage_objects,"Di tích lưu giữ bàn nhỏ Hồ Chí Minh dùng làm việc, bàn chữ nhật của phòng họp, nhóm ghế tựa quanh bàn và chiếc giường Người từng nghỉ.",normalized_summary,approved
+EVD_000265,SRC_000084,PLACE_000013,recognition,Bộ Văn hóa Thông tin công nhận nhà 48 Hàng Ngang là Di tích Lịch sử văn hóa theo Quyết định 54 VH/QĐ ngày 29/4/1979.,normalized_summary,approved
+EVD_000266,SRC_000085,PLACE_000013,recognition,Bài năm 2018 xác định nhà 48 Hàng Ngang là di tích lịch sử cấp quốc gia.,normalized_summary,approved
+EVD_000267,SRC_000088,PLACE_000013,activity,"Ngày 18/5/2026, phường Hoàn Kiếm tổ chức dâng hương tưởng niệm Hồ Chí Minh tại di tích 48 Hàng Ngang.",normalized_summary,approved

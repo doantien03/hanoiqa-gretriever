@@ -1,0 +1,41 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000518,PLACE_000013,HAS_ADDRESS,ADDRESS_000010,EVD_000256,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""entrance"":""main"",""address_precision"":""house_number_street_city""}",approved
+EDGE_000519,PLACE_000013,HAS_ADDRESS,ADDRESS_000011,EVD_000256,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""entrance"":""rear"",""address_precision"":""house_number_street_city""}",approved
+EDGE_000520,PLACE_000013,LOCATED_IN,LOCATION_000007,EVD_000256,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""location_scope"":""street_frontage""}",approved
+EDGE_000521,PLACE_000013,LOCATED_IN,LOCATION_000008,EVD_000256,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""location_scope"":""street_frontage""}",approved
+EDGE_000522,PLACE_000013,LOCATED_IN,ADMIN_000002,EVD_000256,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000523,PLACE_000013,ASSOCIATED_WITH_PERSON,PERSON_000028,EVD_000257,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""association_scope"":""historical_owner_1945""}",approved
+EDGE_000524,PLACE_000013,ASSOCIATED_WITH_PERSON,PERSON_000029,EVD_000257,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""association_scope"":""historical_owner_1945""}",approved
+EDGE_000525,PLACE_000013,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000259,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000526,PLACE_000013,HAS_CATEGORY,CATEGORY_000001,EVD_000266,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000527,PLACE_000013,HAS_COMPONENT,ARCH_000104,EVD_000261,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000528,PLACE_000013,HAS_COMPONENT,ARCH_000105,EVD_000261,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000529,PLACE_000013,HAS_COMPONENT,ARCH_000113,EVD_000261,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000530,ARCH_000105,HAS_COMPONENT,ARCH_000106,EVD_000262,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000531,ARCH_000105,HAS_COMPONENT,ARCH_000107,EVD_000262,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000532,ARCH_000105,HAS_COMPONENT,ARCH_000108,EVD_000262,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000533,PLACE_000013,HAS_COMPONENT,ARCH_000109,EVD_000263,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000534,PLACE_000013,HAS_COMPONENT,ARCH_000111,EVD_000263,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000535,PLACE_000013,HAS_COMPONENT,ARCH_000112,EVD_000263,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000536,ARCH_000109,HAS_COMPONENT,ARCH_000110,EVD_000263,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000537,PLACE_000013,HAS_COMPONENT,HOBJ_000027,EVD_000264,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""placement_note"":""Ghi nhận ở cấp di tích; không tự suy ra phòng đặt hiện vật hiện hành.""}",approved
+EDGE_000538,PLACE_000013,HAS_COMPONENT,HOBJ_000028,EVD_000264,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""placement_note"":""Ghi nhận ở cấp di tích; không tự suy ra phòng đặt hiện vật hiện hành.""}",approved
+EDGE_000539,PLACE_000013,HAS_COMPONENT,HOBJ_000029,EVD_000264,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""placement_note"":""Ghi nhận ở cấp di tích; không tự suy ra phòng đặt hiện vật hiện hành.""}",approved
+EDGE_000540,PLACE_000013,HAS_COMPONENT,HOBJ_000030,EVD_000264,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""placement_note"":""Ghi nhận ở cấp di tích; không tự suy ra phòng đặt hiện vật hiện hành.""}",approved
+EDGE_000541,PLACE_000013,HAS_EVENT,EVENT_000029,EVD_000258,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000542,EVENT_000029,OCCURRED_IN,TIME_000053,EVD_000258,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000543,EVENT_000029,INVOLVED_PERSON,PERSON_000024,EVD_000258,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000544,PLACE_000013,HAS_EVENT,EVENT_000030,EVD_000260,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000545,EVENT_000030,OCCURRED_IN,TIME_000054,EVD_000260,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000546,EVENT_000030,INVOLVED_PERSON,PERSON_000024,EVD_000260,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000547,PLACE_000013,HAS_EVENT,EVENT_000031,EVD_000259,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000548,EVENT_000031,OCCURRED_IN,TIME_000056,EVD_000259,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""temporal_precision"":""within_residence_interval"",""note"":""Khoảng thời gian bao chứa việc soạn thảo; không khẳng định viết liên tục toàn kỳ.""}",approved
+EDGE_000549,EVENT_000031,INVOLVED_PERSON,PERSON_000024,EVD_000259,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000550,PLACE_000013,RECOGNIZED_IN,TIME_000055,EVD_000265,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""decision_number"":""54 VH/QĐ"",""recognition_scope"":""historical_designation_1979""}",approved
+EDGE_000551,PLACE_000013,HAS_ACTIVITY,ACTIVITY_000017,EVD_000259,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""activity_scope"":""historical_1945""}",approved
+EDGE_000552,PLACE_000013,HAS_ACTIVITY,ACTIVITY_000018,EVD_000267,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""observed_on"":""2026-05-18""}",approved
+EDGE_000553,HOBJ_000027,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000264,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000554,HOBJ_000030,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000264,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000555,ARCH_000106,USED_FOR,ACTIVITY_000017,EVD_000259,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000556,ARCH_000113,HONORS,PERSON_000024,EVD_000261,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked""}",approved
+EDGE_000557,PLACE_000013,RECOGNIZED_AS,HSTATUS_000005,EVD_000266,0.95,,,"{""source_datasets"":[""nha_48_hang_ngang""],""verification"":""web_source_checked"",""status_scope"":""documented_in_2018_not_exclusive_current_status""}",approved

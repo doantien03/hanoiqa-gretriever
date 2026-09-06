@@ -1,0 +1,35 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ADDRESS_000009,"Đá Chông, xã Bất Bạt, thành phố Hà Nội",Address,,,da_chong_xa_bat_bat_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000007,Xã Bất Bạt,AdministrativeArea,commune,,xa_bat_bat,,,,approved
+ARCH_000095,Nhà hai tầng tại K9 Đá Chông,Architecture,,,nha_hai_tang_tai_k9_da_chong,,,,approved
+ARCH_000096,Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9 Đá Chông,Architecture,,,nha_tuong_niem_chu_tich_ho_chi_minh_tai_k9_da_chong,,,,approved
+ARCH_000097,Nhà kính tại K9 Đá Chông,Architecture,,,nha_kinh_tai_k9_da_chong,,,,approved
+ARCH_000098,Phòng làm việc tại K9 Đá Chông,Architecture,,,phong_lam_viec_tai_k9_da_chong,,,,approved
+ARCH_000099,Phòng họp tại K9 Đá Chông,Architecture,,,phong_hop_tai_k9_da_chong,,,,approved
+ARCH_000100,Nhà phục vụ tại K9 Đá Chông,Architecture,,,nha_phuc_vu_tai_k9_da_chong,,,,approved
+ARCH_000101,Nhà khách Trung ương tại K9 Đá Chông,Architecture,,,nha_khach_trung_uong_tai_k9_da_chong,,,,approved
+ARCH_000102,Mái thượng Nhà tưởng niệm tại K9 Đá Chông,Architecture,,,mai_thuong_nha_tuong_niem_tai_k9_da_chong,,,,approved
+ARCH_000103,Mái hạ Nhà tưởng niệm tại K9 Đá Chông,Architecture,,,mai_ha_nha_tuong_niem_tai_k9_da_chong,,,,approved
+ASTYLE_000006,Kiến trúc truyền thống Việt Nam,ArchitecturalStyle,,,kien_truc_truyen_thong_viet_nam,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+EVENT_000024,Hồ Chí Minh dừng chân tại Đá Chông tháng 5/1957,Event,,,ho_chi_minh_dung_chan_tai_da_chong_thang_5_1957,,,,approved
+EVENT_000025,Hồ Chí Minh khảo sát và chọn Đá Chông làm căn cứ Trung ương năm 1958,Event,,,ho_chi_minh_khao_sat_va_chon_da_chong_lam_can_cu_trung_uong_nam_1958,,,,approved
+EVENT_000026,Khánh thành Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9,Event,,,khanh_thanh_nha_tuong_niem_chu_tich_ho_chi_minh_tai_k9,,,,approved
+EVENT_000027,Hồ Chí Minh tiếp Đặng Dĩnh Siêu tại K9,Event,,,ho_chi_minh_tiep_dang_dinh_sieu_tai_k9,,,,approved
+EVENT_000028,Hồ Chí Minh tiếp Giéc man Ti tốp tại K9,Event,,,ho_chi_minh_tiep_giec_man_ti_top_tai_k9,,,,approved
+HOBJ_000023,Xe UAZ cứu thương FH-1468 tại K9,HeritageObject,,,xe_uaz_cuu_thuong_fh_1468_tai_k9,,,,approved
+HOBJ_000024,Xe ZIL 157 biển số 470-189 tại K9,HeritageObject,,,xe_zil_157_bien_so_470_189_tai_k9,,,,approved
+HOBJ_000025,Xe PAP biển số 31-162 tại K9,HeritageObject,,,xe_pap_bien_so_31_162_tai_k9,,,,approved
+HOBJ_000026,Hệ thống tổng đài điện thoại tại K9,HeritageObject,,,he_thong_tong_dai_dien_thoai_tai_k9,,,,approved
+PERSON_000024,Hồ Chí Minh,Person,,Chủ tịch Hồ Chí Minh|Bác Hồ|Nguyễn Ái Quốc|Nguyễn Tất Thành,ho_chi_minh,,,,approved
+PERSON_000026,Đặng Dĩnh Siêu,Person,,,dang_dinh_sieu,,,,approved
+PERSON_000027,Giéc man Ti tốp,Person,,Gherman Titov|German Titov|G. M. Titov,giec_man_ti_top,,,,approved
+PLACE_000012,Khu di tích K9 Đá Chông,Place,,Khu Di tích Chủ tịch Hồ Chí Minh tại Đá Chông|Khu căn cứ K9|Khu căn cứ K84|K9 Đá Chông,khu_di_tich_k9_da_chong,,,,approved
+TIME_000046,Tháng 5 năm 1957,Time,,05/1957|1957-05,thang_5_nam_1957,,,,approved
+TIME_000047,Ngày 23 tháng 2 năm 1958,Time,,23/02/1958|1958-02-23,ngay_23_thang_2_nam_1958,,,,approved
+TIME_000048,Ngày 15 tháng 3 năm 1960,Time,,15/03/1960|1960-03-15,ngay_15_thang_3_nam_1960,,,,approved
+TIME_000049,Ngày 17 tháng 3 năm 2014,Time,,17/03/2014|2014-03-17,ngay_17_thang_3_nam_2014,,,,approved
+TIME_000050,Ngày 2 tháng 9 năm 2015,Time,,02/09/2015|2015-09-02,ngay_2_thang_9_nam_2015,,,,approved
+TIME_000051,Ngày 13 tháng 3 năm 1961,Time,,13/03/1961|1961-03-13,ngay_13_thang_3_nam_1961,,,,approved
+TIME_000052,Ngày 23 tháng 2 năm 1962,Time,,23/02/1962|1962-02-23,ngay_23_thang_2_nam_1962,,,,approved

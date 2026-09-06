@@ -1,0 +1,41 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000478,PLACE_000012,HAS_ADDRESS,ADDRESS_000009,EVD_000242,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked"",""address_precision"":""locality_and_commune"",""source_publication_date"":""2026-05-11"",""administrative_note"":""Theo Bộ Tư lệnh Lăng năm 2026; không dùng địa chỉ Minh Quang, huyện Ba Vì trong tư liệu cũ làm địa chỉ hiện hành.""}",approved
+EDGE_000479,PLACE_000012,LOCATED_IN,ADMIN_000007,EVD_000242,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000480,PLACE_000012,LOCATED_IN,ADMIN_000002,EVD_000242,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000481,PLACE_000012,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000243,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000482,PLACE_000012,HAS_CATEGORY,CATEGORY_000001,EVD_000243,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000483,PLACE_000012,HAS_COMPONENT,ARCH_000095,EVD_000244,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000484,PLACE_000012,HAS_COMPONENT,ARCH_000096,EVD_000248,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000485,PLACE_000012,HAS_COMPONENT,ARCH_000097,EVD_000252,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000486,PLACE_000012,HAS_COMPONENT,ARCH_000098,EVD_000244,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000487,PLACE_000012,HAS_COMPONENT,ARCH_000099,EVD_000244,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000488,PLACE_000012,HAS_COMPONENT,ARCH_000100,EVD_000244,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000489,PLACE_000012,HAS_COMPONENT,ARCH_000101,EVD_000244,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000490,ARCH_000096,HAS_COMPONENT,ARCH_000102,EVD_000248,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000491,ARCH_000096,HAS_COMPONENT,ARCH_000103,EVD_000248,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000492,PLACE_000012,HAS_COMPONENT,HOBJ_000023,EVD_000251,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000493,PLACE_000012,HAS_COMPONENT,HOBJ_000024,EVD_000251,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000494,PLACE_000012,HAS_COMPONENT,HOBJ_000025,EVD_000251,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000495,PLACE_000012,HAS_COMPONENT,HOBJ_000026,EVD_000244,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000496,HOBJ_000023,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000251,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked"",""association_scope"":""Phương tiện lịch sử di chuyển thi hài""}",approved
+EDGE_000497,HOBJ_000024,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000251,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked"",""association_scope"":""Phương tiện lịch sử di chuyển thi hài""}",approved
+EDGE_000498,HOBJ_000025,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000251,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked"",""association_scope"":""Phương tiện lịch sử di chuyển thi hài""}",approved
+EDGE_000499,ARCH_000095,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000245,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000500,ARCH_000096,HONORS,PERSON_000024,EVD_000248,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000501,ARCH_000095,BUILT_IN,TIME_000048,EVD_000255,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked"",""construction_phase"":""completion""}",approved
+EDGE_000502,ARCH_000096,BUILT_IN,TIME_000049,EVD_000249,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked"",""construction_phase"":""start""}",approved
+EDGE_000503,PLACE_000012,HAS_EVENT,EVENT_000024,EVD_000246,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000504,EVENT_000024,OCCURRED_IN,TIME_000046,EVD_000246,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000505,PLACE_000012,HAS_EVENT,EVENT_000025,EVD_000247,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000506,EVENT_000025,OCCURRED_IN,TIME_000047,EVD_000247,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000507,PLACE_000012,HAS_EVENT,EVENT_000026,EVD_000250,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000508,EVENT_000026,OCCURRED_IN,TIME_000050,EVD_000250,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000509,PLACE_000012,HAS_EVENT,EVENT_000027,EVD_000253,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000510,EVENT_000027,OCCURRED_IN,TIME_000051,EVD_000253,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000511,PLACE_000012,HAS_EVENT,EVENT_000028,EVD_000254,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000512,EVENT_000028,OCCURRED_IN,TIME_000052,EVD_000254,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000513,EVENT_000024,INVOLVED_PERSON,PERSON_000024,EVD_000246,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000514,EVENT_000025,INVOLVED_PERSON,PERSON_000024,EVD_000247,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000515,EVENT_000027,INVOLVED_PERSON,PERSON_000026,EVD_000253,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000516,EVENT_000028,INVOLVED_PERSON,PERSON_000027,EVD_000254,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved
+EDGE_000517,ARCH_000096,HAS_ARCHITECTURAL_STYLE,ASTYLE_000006,EVD_000248,0.95,,,"{""source_datasets"":[""k9_da_chong""],""verification"":""web_source_checked""}",approved

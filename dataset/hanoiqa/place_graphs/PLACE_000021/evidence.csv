@@ -1,0 +1,14 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000345,SRC_000117,PLACE_000021,address,"Đầu trang ghi số 71 ngõ 50 Đặng Thai Mai, phường Tây Hồ. Thành phố chuẩn hóa: Hà Nội.",normalized_summary,approved
+EVD_000346,SRC_000117,PLACE_000021,location,Phủ nằm trên doi đất ven Hồ Tây.,normalized_summary,approved
+EVD_000347,SRC_000117,PLACE_000021,architecture,"Phủ chính chia ba phần kiểu chữ tam, có tiền tế và trung tế; kiến trúc dùng bê tông giả gỗ.",normalized_summary,approved
+EVD_000348,SRC_000117,PLACE_000021,restoration_material,"Điện Sơn Trang tu tạo năm 2006; kết cấu bê tông, mái trên bằng gỗ; thờ chúa Đệ Nhị Thượng Ngàn.",normalized_summary,approved
+EVD_000349,SRC_000117,PLACE_000021,heritage_objects,"Danh mục hiện vật có bài vị, bát hương, chuông, kiệu bát cống, tượng Ngọc Hoàng, Nam Tào, Bắc Đẩu, Mẫu Thượng Ngàn.",normalized_summary,approved
+EVD_000350,SRC_000117,PLACE_000021,recognition,Quyết định 310/QĐ ngày 13/02/1996 công nhận phủ là di tích nghệ thuật cấp quốc gia.,normalized_summary,approved
+EVD_000351,SRC_000118,PLACE_000021,religious_activity,Phủ thờ Mẫu Liễu Hạnh. Hằng năm tổ chức tế lễ vào mồng 3 tháng 3 và ngày 13 tháng 8 âm lịch.,normalized_summary,approved
+EVD_000352,SRC_000119,PLACE_000021,architecture,"Quần thể có tam quan, phủ chính, phương đình, tiền tế, hậu cung, điện Sơn Trang, lầu Cô, lầu Cậu; điện Sơn Trang ở cạnh tam quan.",normalized_summary,approved
+EVD_000353,SRC_000119,PLACE_000021,activity,"Người dân đến phủ cúng lễ, cầu may mắn và an bình vào các dịp lễ.",normalized_summary,approved
+EVD_000354,SRC_000120,PLACE_000021,heritage_objects,Phủ lưu giữ hoành phi Mẫu nghi thiên hạ ở cửa cung.,normalized_summary,approved
+EVD_000355,SRC_000120,PLACE_000021,material,Phóng sự ảnh giới thiệu chuông đồng trong Phủ Tây Hồ.,normalized_summary,approved
+EVD_000356,SRC_000120,PLACE_000021,recognition,Bài báo ghi Phủ Tây Hồ được xếp hạng di tích nghệ thuật ngày 13/02/1996.,normalized_summary,approved
+EVD_000357,SRC_000117,PLACE_000021,worship_layout,Phủ chính có trung tế thờ tượng Ngọc Hoàng và Tam tòa Thánh Mẫu.,normalized_summary,approved

@@ -1,0 +1,14 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000358,SRC_000121,PLACE_000022,address,"Tổng Giáo phận Hà Nội ghi địa chỉ Giáo xứ Chính Tòa: số 40 Nhà Chung, phường Hoàn Kiếm, thành phố Hà Nội.",normalized_summary,approved
+EVD_000359,SRC_000121,PLACE_000022,identity,Nhà thờ Chính Tòa Thánh Giu-se còn được gọi là Nhà thờ Lớn; công trình là nhà thờ chính tòa của Tổng Giáo phận Hà Nội.,normalized_summary,approved
+EVD_000360,SRC_000121,PLACE_000022,construction,"Nhà thờ được xây dựng dưới thời Giám mục Paul-François Puginier, hoàn tất sau giai đoạn 1882–1886.",normalized_summary,approved
+EVD_000361,SRC_000121,PLACE_000022,historical_event,Ngày 24/12/1886 diễn ra thánh lễ đầu tiên tại nhà thờ.,normalized_summary,approved
+EVD_000362,SRC_000121,PLACE_000022,historical_event,Nguồn ghi lễ khánh thành chính thức ngày 23/12/1887.,normalized_summary,approved
+EVD_000363,SRC_000121,PLACE_000022,institutional_history,"Ngày 03/12/1924, Giáo phận Tây Đàng Ngoài đổi thành Giáo phận Hà Nội và Nhà thờ Lớn trở thành nhà thờ chính tòa.",normalized_summary,approved
+EVD_000364,SRC_000124,PLACE_000022,architecture,"Công trình mang phong cách Gothic cổ châu Âu; có lòng nhà thờ, phòng thánh, hai gian tháp chuông và các mái vòm uốn cong.",normalized_summary,approved
+EVD_000365,SRC_000124,PLACE_000022,heritage_objects,"Nội thất có màn gỗ chạm, tranh kính màu; tháp chuông có năm quả chuông và đồng hồ ba mặt; đại phong cầm được lắp năm 2022.",normalized_summary,approved
+EVD_000366,SRC_000124,PLACE_000022,material,"Nguồn chính thức ghi vật liệu xây dựng gồm gạch đất nung, vôi vữa và giấy bồi; cung thánh và bàn thờ có trang trí gỗ chạm.",normalized_summary,approved
+EVD_000367,SRC_000124,PLACE_000022,restoration,"Năm 1999, nhà thờ được lợp lại ngói, gia cố khung gỗ và mở hai cửa hông.",normalized_summary,approved
+EVD_000368,SRC_000124,PLACE_000022,restoration,"Giai đoạn 2013–2014, nhà thờ được lát nền đá cẩm thạch và sơn lại tường.",normalized_summary,approved
+EVD_000369,SRC_000124,PLACE_000022,restoration,"Năm 2018, cung thánh được lát đá, đặt bàn thờ đá cẩm thạch và làm mới tầng hầm.",normalized_summary,approved
+EVD_000370,SRC_000122,PLACE_000022,location,"Tạp chí Du lịch Việt Nam ghi nhà thờ ở khu trung tâm, cách Hồ Hoàn Kiếm khoảng 1 km.",normalized_summary,approved

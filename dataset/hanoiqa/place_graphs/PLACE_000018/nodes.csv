@@ -1,0 +1,37 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ADDRESS_000016,"Số 30 đường Thanh Niên, phường Tây Hồ, Hà Nội",Address,,,so_30_duong_thanh_nien_phuong_tay_ho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000153,Tiền đường Chùa Trấn Quốc,Architecture,,,tien_duong_chua_tran_quoc,,,,approved
+ARCH_000154,Nhà thiêu hương Chùa Trấn Quốc,Architecture,,,nha_thieu_huong_chua_tran_quoc,,,,approved
+ARCH_000155,Thượng điện Chùa Trấn Quốc,Architecture,,,thuong_dien_chua_tran_quoc,,,,approved
+ARCH_000156,Hành lang tả Chùa Trấn Quốc,Architecture,,,hanh_lang_ta_chua_tran_quoc,,,,approved
+ARCH_000157,Hành lang hữu Chùa Trấn Quốc,Architecture,,,hanh_lang_huu_chua_tran_quoc,,,,approved
+ARCH_000158,Gác chuông Chùa Trấn Quốc,Architecture,,,gac_chuong_chua_tran_quoc,,,,approved
+ARCH_000159,Nhà Tổ Chùa Trấn Quốc,Architecture,,,nha_to_chua_tran_quoc,,,,approved
+ARCH_000160,Nhà bia Chùa Trấn Quốc,Architecture,,,nha_bia_chua_tran_quoc,,,,approved
+ARCH_000161,Bảo tháp Lục Độ Đài Sen Chùa Trấn Quốc,Architecture,,,bao_thap_luc_do_dai_sen_chua_tran_quoc,,,,approved
+ARCH_000162,Vườn tháp Chùa Trấn Quốc,Architecture,,,vuon_thap_chua_tran_quoc,,,,approved
+ARCH_000163,Đài sen Cửu Phẩm Liên Hoa Chùa Trấn Quốc,Architecture,,,dai_sen_cuu_pham_lien_hoa_chua_tran_quoc,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+EVENT_000037,Dời Chùa Trấn Quốc từ bờ sông Hồng vào Hồ Tây năm 1615,Event,,,doi_chua_tran_quoc_tu_bo_song_hong_vao_ho_tay_nam_1615,,,,approved
+HOBJ_000046,Tượng Thích Ca nhập Niết Bàn Chùa Trấn Quốc,HeritageObject,,,tuong_thich_ca_nhap_niet_ban_chua_tran_quoc,,,,approved
+HOBJ_000047,Bia năm 1639 Chùa Trấn Quốc,HeritageObject,,,bia_nam_1639_chua_tran_quoc,,,,approved
+HOBJ_000048,Bia năm 1815 Chùa Trấn Quốc,HeritageObject,,,bia_nam_1815_chua_tran_quoc,,,,approved
+HOBJ_000049,Nhóm 66 tượng A Di Đà tại Bảo tháp Chùa Trấn Quốc,HeritageObject,,,nhom_66_tuong_a_di_da_tai_bao_thap_chua_tran_quoc,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+LOCATION_000016,Đường Thanh Niên,Location,,,duong_thanh_nien,,,,approved
+LOCATION_000017,Bán đảo Kim Ngư ở Hồ Tây,Location,,Đảo Cá Vàng Hồ Tây|Đảo Kim Ngưu Hồ Tây,ban_dao_kim_ngu_o_ho_tay,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000002,Đá,Material,,,da,,,,approved
+PERSON_000044,Nguyễn Xuân Chính,Person,,Nguyễn Xuân Chinh,nguyen_xuan_chinh,,,,approved
+PERSON_000045,Phạm Quý Thích,Person,,Phạm Lập Trai,pham_quy_thich,,,,approved
+PLACE_000018,Chùa Trấn Quốc,Place,,Trấn Quốc Tự|Chùa Khai Quốc|Chùa An Quốc|Chùa Trấn Bắc,chua_tran_quoc,,,,approved
+PLACE_000019,Hồ Tây,Place,,West Lake,ho_tay,,,,approved
+TIME_000068,Năm 1962,Time,,1962,nam_1962,,,,approved
+TIME_000070,Thế kỷ VI,Time,,Thế kỷ 6,the_ky_vi,,,,approved
+TIME_000071,Năm 1615,Time,,1615,nam_1615,,,,approved
+TIME_000072,Năm 1815,Time,,1815,nam_1815,,,,approved
+TIME_000073,Năm 1998,Time,,1998,nam_1998,,,,approved
+VALUE_000059,11 tầng,Value,,,11_tang,11,tầng,storey_count,approved
+VALUE_000060,15 m,Value,,,15_m,15,m,height,approved
+VALUE_000061,9 tầng,Value,,,9_tang,9,tầng,tier_count,approved

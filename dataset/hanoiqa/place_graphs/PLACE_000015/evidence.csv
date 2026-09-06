@@ -1,0 +1,14 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000280,SRC_000096,PLACE_000015,address,"Thành cổ Sơn Tây nằm tại Sơn Tây, Hà Nội; Cửa Tiền nhìn ra phố Quang Trung, Cửa Hậu nhìn ra phố Lê Lợi. Địa chỉ được chuẩn hóa theo lối Cửa Tiền, không thêm số nhà.",normalized_summary,approved
+EVD_000281,SRC_000095,PLACE_000015,construction,"Thành cổ Sơn Tây được xây dựng năm 1822 dưới triều Minh Mạng, nhà Nguyễn, theo kiểu Vauban.",normalized_summary,approved
+EVD_000282,SRC_000098,PLACE_000015,architecture,"Thành có tường thành, hào nước và bốn cổng: Cửa Hậu hướng Bắc, Cửa Tiền hướng Nam, Cửa Hữu hướng Tây, Cửa Tả hướng Đông.",normalized_summary,approved
+EVD_000283,SRC_000097,PLACE_000015,measurement,"Theo mô tả thành cũ, mỗi cạnh dài khoảng 400 m; tường cao trung bình khoảng 5 m, chân rộng 6 m và mặt rộng 4 m. Nhiều đoạn tường đã sụp đổ.",normalized_summary,approved
+EVD_000284,SRC_000095,PLACE_000015,material,Tường thành Sơn Tây được xây bằng đá ong.,normalized_summary,approved
+EVD_000285,SRC_000095,PLACE_000015,architecture,"Trong thành có Vọng cung, Kỳ đài, Đoan môn, sân lát gạch và bình phong. Bốn góc thành xưa có bốn giếng nước hình vuông.",normalized_summary,approved
+EVD_000286,SRC_000095,PLACE_000015,material,Bệ Kỳ đài được xây bằng đá ong.,normalized_summary,approved
+EVD_000287,SRC_000095,PLACE_000015,material,"Bình phong xây gạch, có hình nổi Long vân khánh hội; sân trước điện được lát gạch.",normalized_summary,approved
+EVD_000288,SRC_000096,PLACE_000015,heritage_objects,Cửa Bắc Thành cổ Sơn Tây còn đặt hai khẩu súng thần công theo bài giới thiệu năm 2021.,normalized_summary,approved
+EVD_000289,SRC_000096,PLACE_000015,heritage_objects,"Năm 2014, khu trưng bày máy bay được xây dựng tại thành, gồm hai MiG-21 từ Trung đoàn Sao Đỏ và một Mi-8 từ Trung đoàn 916.",normalized_summary,approved
+EVD_000290,SRC_000096,PLACE_000015,recognition,Di tích được xếp hạng quốc gia theo Quyết định 2754/QĐ-BVHTT ngày 15/10/1994.,normalized_summary,approved
+EVD_000291,SRC_000095,PLACE_000015,historical_event,"Tháng 12/1946, một cuộc họp của Chính phủ Việt Nam Dân chủ Cộng hòa diễn ra tại Thành cổ Sơn Tây.",normalized_summary,approved
+EVD_000292,SRC_000096,PLACE_000015,historical_event,"Năm 1946, Hội đồng Chính phủ họp tại Vọng cung Thành cổ Sơn Tây.",normalized_summary,approved

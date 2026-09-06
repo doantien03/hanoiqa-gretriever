@@ -1,0 +1,35 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000017,Soạn thảo Tuyên ngôn Độc lập năm 1945,Activity,,,soan_thao_tuyen_ngon_doc_lap_nam_1945,,,,approved
+ACTIVITY_000018,Dâng hương tưởng niệm Hồ Chí Minh,Activity,,,dang_huong_tuong_niem_ho_chi_minh,,,,approved
+ADDRESS_000010,"48 phố Hàng Ngang, Hà Nội",Address,,,48_pho_hang_ngang_ha_noi,,,,approved
+ADDRESS_000011,"35 phố Hàng Cân, Hà Nội",Address,,,35_pho_hang_can_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000104,Tầng một tại Nhà số 48 Hàng Ngang,Architecture,,,tang_mot_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000105,Tầng hai tại Nhà số 48 Hàng Ngang,Architecture,,,tang_hai_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000106,Phòng ở và làm việc của Hồ Chí Minh tại Nhà số 48 Hàng Ngang,Architecture,,,phong_o_va_lam_viec_cua_ho_chi_minh_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000107,Phòng họp Thường vụ Trung ương tại Nhà số 48 Hàng Ngang,Architecture,,,phong_hop_thuong_vu_trung_uong_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000108,Phòng tiếp khách tại Nhà số 48 Hàng Ngang,Architecture,,,phong_tiep_khach_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000109,Sân trong hình vuông tại Nhà số 48 Hàng Ngang,Architecture,,,san_trong_hinh_vuong_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000110,Giếng nước sân trong tại Nhà số 48 Hàng Ngang,Architecture,,,gieng_nuoc_san_trong_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000111,Cửa chính tại Nhà số 48 Hàng Ngang,Architecture,,,cua_chinh_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000112,Cửa hậu tại Nhà số 48 Hàng Ngang,Architecture,,,cua_hau_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000113,Phòng tưởng niệm Hồ Chí Minh tầng ba tại Nhà số 48 Hàng Ngang,Architecture,,,phong_tuong_niem_ho_chi_minh_tang_ba_tai_nha_so_48_hang_ngang,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+EVENT_000029,Hồ Chí Minh đến ở Nhà số 48 Hàng Ngang,Event,,,ho_chi_minh_den_o_nha_so_48_hang_ngang,,,,approved
+EVENT_000030,Cuộc họp Thường vụ Trung ương tại 48 Hàng Ngang ngày 26/8/1945,Event,,,cuoc_hop_thuong_vu_trung_uong_tai_48_hang_ngang_ngay_26_8_1945,,,,approved
+EVENT_000031,Hồ Chí Minh soạn thảo Tuyên ngôn Độc lập tại 48 Hàng Ngang,Event,,,ho_chi_minh_soan_thao_tuyen_ngon_doc_lap_tai_48_hang_ngang,,,,approved
+HOBJ_000027,Bàn nhỏ Hồ Chí Minh làm việc tại Nhà số 48 Hàng Ngang,HeritageObject,,,ban_nho_ho_chi_minh_lam_viec_tai_nha_so_48_hang_ngang,,,,approved
+HOBJ_000028,Bàn chữ nhật phòng họp tại Nhà số 48 Hàng Ngang,HeritageObject,,,ban_chu_nhat_phong_hop_tai_nha_so_48_hang_ngang,,,,approved
+HOBJ_000029,Nhóm ghế tựa phòng họp tại Nhà số 48 Hàng Ngang,HeritageObject,,,nhom_ghe_tua_phong_hop_tai_nha_so_48_hang_ngang,,,,approved
+HOBJ_000030,Giường Hồ Chí Minh từng nghỉ tại Nhà số 48 Hàng Ngang,HeritageObject,,,giuong_ho_chi_minh_tung_nghi_tai_nha_so_48_hang_ngang,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+LOCATION_000007,Phố Hàng Ngang,Location,,,pho_hang_ngang,,,,approved
+LOCATION_000008,Phố Hàng Cân,Location,,,pho_hang_can,,,,approved
+PERSON_000024,Hồ Chí Minh,Person,,Chủ tịch Hồ Chí Minh|Bác Hồ|Nguyễn Ái Quốc|Nguyễn Tất Thành,ho_chi_minh,,,,approved
+PERSON_000028,Trịnh Văn Bô,Person,,,trinh_van_bo,,,,approved
+PERSON_000029,Hoàng Thị Minh Hồ,Person,,,hoang_thi_minh_ho,,,,approved
+PLACE_000013,Nhà số 48 Hàng Ngang,Place,,Di tích 48 Hàng Ngang|Ngôi nhà 48 Hàng Ngang,nha_so_48_hang_ngang,,,,approved
+TIME_000053,Ngày 25 tháng 8 năm 1945,Time,,25/08/1945|1945-08-25,ngay_25_thang_8_nam_1945,,,,approved
+TIME_000054,Ngày 26 tháng 8 năm 1945,Time,,26/08/1945|1945-08-26,ngay_26_thang_8_nam_1945,,,,approved
+TIME_000055,Ngày 29 tháng 4 năm 1979,Time,,29/04/1979|1979-04-29,ngay_29_thang_4_nam_1979,,,,approved
+TIME_000056,Từ ngày 25/8 đến ngày 2/9/1945,Time,,1945-08-25/1945-09-02,tu_ngay_25_8_den_ngay_2_9_1945,,,,approved

@@ -1,0 +1,41 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000718,PLACE_000018,HAS_ADDRESS,ADDRESS_000016,EVD_000319,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""address_precision"":""house_number_street_ward_city"",""address_note"":""Ưu tiên địa chỉ đầu trang Tây Hồ 360; phần thân vẫn còn tên phường/quận cũ.""}",approved
+EDGE_000719,PLACE_000018,LOCATED_IN,LOCATION_000017,EVD_000320,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000720,PLACE_000018,LOCATED_IN,PLACE_000019,EVD_000320,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""location_scope"":""peninsula_in_lake""}",approved
+EDGE_000721,PLACE_000018,LOCATED_IN,LOCATION_000016,EVD_000319,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""location_scope"":""access_street""}",approved
+EDGE_000722,PLACE_000018,HAS_COMPONENT,ARCH_000153,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000723,PLACE_000018,HAS_COMPONENT,ARCH_000154,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000724,PLACE_000018,HAS_COMPONENT,ARCH_000155,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000725,PLACE_000018,HAS_COMPONENT,ARCH_000156,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000726,PLACE_000018,HAS_COMPONENT,ARCH_000157,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000727,PLACE_000018,HAS_COMPONENT,ARCH_000158,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000728,PLACE_000018,HAS_COMPONENT,ARCH_000159,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000729,PLACE_000018,HAS_COMPONENT,ARCH_000160,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000730,ARCH_000162,HAS_COMPONENT,ARCH_000161,EVD_000325,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000731,PLACE_000018,HAS_COMPONENT,ARCH_000162,EVD_000324,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000732,ARCH_000161,HAS_COMPONENT,ARCH_000163,EVD_000325,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000733,PLACE_000018,HAS_COMPONENT,HOBJ_000046,EVD_000327,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000734,PLACE_000018,HAS_COMPONENT,HOBJ_000047,EVD_000328,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000735,PLACE_000018,HAS_COMPONENT,HOBJ_000048,EVD_000328,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000736,ARCH_000161,HAS_COMPONENT,HOBJ_000049,EVD_000326,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000737,HOBJ_000047,ASSOCIATED_WITH_PERSON,PERSON_000044,EVD_000328,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""association_scope"":""inscription_author""}",approved
+EDGE_000738,HOBJ_000048,ASSOCIATED_WITH_PERSON,PERSON_000045,EVD_000328,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""association_scope"":""inscription_author""}",approved
+EDGE_000739,PLACE_000018,BUILT_IN,TIME_000070,EVD_000321,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""construction_phase"":""original_foundation_at_old_riverbank_site""}",approved
+EDGE_000740,PLACE_000018,RENOVATED_IN,TIME_000072,EVD_000330,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000741,ARCH_000161,BUILT_IN,TIME_000073,EVD_000325,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000742,PLACE_000018,HAS_EVENT,EVENT_000037,EVD_000322|EVD_000323,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000743,EVENT_000037,OCCURRED_IN,TIME_000071,EVD_000322|EVD_000323,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000744,ARCH_000161,HAS_MEASUREMENT,VALUE_000059,EVD_000325,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""measurement_kind"":""storey_count""}",approved
+EDGE_000745,ARCH_000161,HAS_MEASUREMENT,VALUE_000060,EVD_000325,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""measurement_kind"":""height""}",approved
+EDGE_000746,ARCH_000163,HAS_MEASUREMENT,VALUE_000061,EVD_000325,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""measurement_kind"":""tier_count""}",approved
+EDGE_000747,HOBJ_000046,BUILT_WITH,MATERIAL_000001,EVD_000327,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""finish"":""gilded""}",approved
+EDGE_000748,PLACE_000018,RECOGNIZED_AS,HSTATUS_000005,EVD_000331,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""decision_number"":""313-VH/VP"",""decision_date"":""1962-04-28""}",approved
+EDGE_000749,PLACE_000018,RECOGNIZED_IN,TIME_000068,EVD_000331,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""decision_number"":""313-VH/VP"",""decision_date"":""1962-04-28""}",approved
+EDGE_000750,PLACE_000018,ASSOCIATED_WITH_PERSON,PERSON_000044,EVD_000328,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""association_scope"":""author_of_stele_at_temple""}",approved
+EDGE_000751,PLACE_000018,ASSOCIATED_WITH_PERSON,PERSON_000045,EVD_000328,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""association_scope"":""author_of_stele_at_temple""}",approved
+EDGE_000752,PLACE_000018,HAS_CATEGORY,CATEGORY_000001,EVD_000331,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000753,ARCH_000163,BUILT_WITH,MATERIAL_000002,EVD_000325,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""source_material_description"":""đá quý""}",approved
+EDGE_000754,HOBJ_000049,BUILT_WITH,MATERIAL_000002,EVD_000326,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked"",""source_material_description"":""đá quý""}",approved
+EDGE_000755,PLACE_000019,LOCATED_IN,ADMIN_000002,EVD_000320,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000756,PLACE_000018,LOCATED_IN,ADMIN_000002,EVD_000320,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved
+EDGE_000757,HOBJ_000047,BUILT_WITH,MATERIAL_000002,EVD_000329,0.95,,,"{""source_datasets"":[""chua_tran_quoc""],""verification"":""web_source_checked""}",approved

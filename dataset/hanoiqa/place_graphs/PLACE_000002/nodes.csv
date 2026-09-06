@@ -1,0 +1,36 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ADDRESS_000020,"Xã Đông Anh, thành phố Hà Nội",Address,,"Đông Anh, Hà Nội",xa_dong_anh_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCHSITE_000002,Di chỉ Cầu Vực,ArchaeologicalSite,,Di tích Cầu Vực,di_chi_cau_vuc,,,,approved
+ARCHSITE_000003,Di tích Mả Tre,ArchaeologicalSite,,Di chỉ Mả Tre,di_tich_ma_tre,,,,approved
+ARCHSITE_000004,Lò đúc mũi tên đồng Cổ Loa,ArchaeologicalSite,,Khu lò đúc đồng Đền Thượng|Lò đúc đồng Cổ Loa,lo_duc_mui_ten_dong_co_loa,,,,approved
+ARCH_000025,Thành Cổ Loa,Architecture,,Loa thành|Thành Ốc|Cổ Loa thành,thanh_co_loa,,,,approved
+ARCH_000026,Thành Nội,Architecture,,Vòng thành Nội|Tường thành nội,thanh_noi_co_loa,,,,approved
+ARCH_000027,Thành Trung,Architecture,,Vòng thành Trung|Tường thành trung,thanh_trung_co_loa,,,,approved
+ARCH_000028,Thành Ngoại,Architecture,,Vòng thành Ngoại|Tường thành ngoại,thanh_ngoai_co_loa,,,,approved
+ARCH_000029,Hào nước Cổ Loa,Architecture,,Hệ thống hào Cổ Loa|Thành hào Cổ Loa,hao_nuoc_co_loa,,,,approved
+ARCH_000030,Đền Thượng,Architecture,,Đền thờ An Dương Vương|Đền Thục An Dương Vương,den_thuong_co_loa,,,,approved
+ARCH_000031,Đình Ngự Triều Di Quy,Architecture,,Đình Cổ Loa|Ngự Triều Di Quy,dinh_ngu_trieu_di_quy,,,,approved
+ARCH_000032,Am Mỵ Châu,Architecture,,Am Bà Chúa|Am thờ Mỵ Châu,am_my_chau,,,,approved
+ARCH_000033,Giếng Ngọc,Architecture,,Giếng Trọng Thủy|Hồ Giếng Ngọc,gieng_ngoc_co_loa,,,,approved
+ARCH_000034,Đền Cao Lỗ,Architecture,,Đền thờ tướng Cao Lỗ,den_cao_lo,,,,approved
+ARCH_000035,Chùa Bảo Sơn,Architecture,,Chùa Cổ Loa,chua_bao_son,,,,approved
+ARCH_000036,Nhà trưng bày Khu di tích Cổ Loa,Architecture,,Nhà trưng bày Cổ Loa,nha_trung_bay_co_loa,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+CATEGORY_000002,Di tích khảo cổ,TourismCategory,,Điểm khảo cổ,di_tich_khao_co,,,,approved
+EVENT_000004,Phát hiện kho mũi tên đồng Cầu Vực,Event,,Phát hiện mũi tên đồng Cổ Loa năm 1959,phat_hien_kho_mui_ten_dong_cau_vuc,,,,approved
+EVENT_000005,Phát hiện trống đồng tại Mả Tre,Event,,Phát hiện trống đồng Cổ Loa năm 1982,phat_hien_trong_dong_tai_ma_tre,,,,approved
+HOBJ_000006,Mũi tên đồng Cổ Loa,HeritageObject,,Mũi tên đồng ba cạnh|Kho mũi tên đồng Cầu Vực,mui_ten_dong_co_loa,,,,approved
+HOBJ_000007,Trống đồng Cổ Loa,HeritageObject,,Trống đồng Cổ Loa I,trong_dong_co_loa,,,,approved
+HOBJ_000008,Sưu tập khuôn đúc Cổ Loa,HeritageObject,,Khuôn đúc mũi tên đồng ba cạnh,suu_tap_khuon_duc_co_loa,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+HSTATUS_000004,Bảo vật quốc gia,HeritageStatus,,Bảo vật Quốc gia,bao_vat_quoc_gia,,,,approved
+ORG_000002,Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội,Organization,,Trung tâm Thăng Long,trung_tam_bao_ton_di_san_thang_long_ha_noi,,,,approved
+PERSON_000013,An Dương Vương,Person,,Thục Phán|Vua Thục,an_duong_vuong,,,,approved
+PERSON_000014,Mỵ Châu,Person,,Công chúa Mỵ Châu,my_chau,,,,approved
+PERSON_000015,Cao Lỗ,Person,,Tướng Cao Lỗ,cao_lo,,,,approved
+PERSON_000016,Ngô Quyền,Person,,Vua Ngô Quyền,ngo_quyen,,,,approved
+PLACE_000002,Khu di tích Cổ Loa,Place,,Thành Cổ Loa|Cổ Loa|Khu di tích thành Cổ Loa,khu_di_tich_co_loa,,,,approved
+TIME_000015,Khoảng năm 208 trước Công nguyên,Time,,Khoảng 208 TCN|Thế kỷ III trước Công nguyên,khoang_nam_208_truoc_cong_nguyen,-208,năm,year_approx,approved
+TIME_000016,Năm 1959,Time,,1959,nam_1959,1959,năm,year,approved
+TIME_000017,Năm 1982,Time,,1982,nam_1982,1982,năm,year,approved

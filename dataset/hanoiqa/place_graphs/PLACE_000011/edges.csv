@@ -1,0 +1,42 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000438,PLACE_000011,HAS_ADDRESS,ADDRESS_000008,EVD_000233|EVD_000232,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""address_precision"":""square_and_street"",""normalization_note"":""Tổng hợp vị trí từ hai nguồn; không phải địa chỉ cổng đón khách.""}",approved
+EDGE_000439,PLACE_000011,LOCATED_IN,LOCATION_000006,EVD_000232,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000440,PLACE_000011,LOCATED_IN,ADMIN_000002,EVD_000233,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000441,PLACE_000011,HONORS,PERSON_000024,EVD_000232,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000442,PLACE_000011,HAS_COMPONENT,ARCH_000085,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000443,PLACE_000011,HAS_COMPONENT,ARCH_000086,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000444,PLACE_000011,HAS_COMPONENT,ARCH_000087,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000445,PLACE_000011,HAS_COMPONENT,ARCH_000091,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000446,PLACE_000011,HAS_COMPONENT,ARCH_000092,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000447,PLACE_000011,HAS_COMPONENT,ARCH_000093,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000448,PLACE_000011,HAS_COMPONENT,ARCH_000094,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000449,ARCH_000086,HAS_COMPONENT,ARCH_000088,EVD_000237,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000450,ARCH_000086,HAS_COMPONENT,ARCH_000089,EVD_000237,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000451,ARCH_000086,HAS_COMPONENT,ARCH_000090,EVD_000237,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000452,PLACE_000011,HAS_COMPONENT,HOBJ_000021,EVD_000236,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000453,ARCH_000088,HAS_COMPONENT,HOBJ_000022,EVD_000236,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000454,PLACE_000011,HAS_MEASUREMENT,VALUE_000046,EVD_000235,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height""}",approved
+EDGE_000455,PLACE_000011,HAS_MEASUREMENT,VALUE_000047,EVD_000235,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""measurement_kind"":""width"",""measurement_type"":""width""}",approved
+EDGE_000456,ARCH_000093,HAS_MEASUREMENT,VALUE_000048,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""measurement_kind"":""length"",""measurement_type"":""length""}",approved
+EDGE_000457,ARCH_000094,HAS_MEASUREMENT,VALUE_000048,EVD_000234,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""measurement_kind"":""length"",""measurement_type"":""length""}",approved
+EDGE_000458,PLACE_000011,HAS_EVENT,EVENT_000020,EVD_000239,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""event_location"":""Lăng Chủ tịch Hồ Chí Minh""}",approved
+EDGE_000459,EVENT_000020,OCCURRED_IN,TIME_000042,EVD_000239,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000460,PLACE_000011,HAS_EVENT,EVENT_000021,EVD_000239,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""event_location"":""Lăng Chủ tịch Hồ Chí Minh""}",approved
+EDGE_000461,EVENT_000021,OCCURRED_IN,TIME_000043,EVD_000239,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000462,PLACE_000011,HAS_EVENT,EVENT_000022,EVD_000239,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""event_location"":""Lăng Chủ tịch Hồ Chí Minh""}",approved
+EDGE_000463,EVENT_000022,OCCURRED_IN,TIME_000044,EVD_000239,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000464,PLACE_000011,HAS_EVENT,EVENT_000023,EVD_000240,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""event_location"":""Trước Lăng, trên Quảng trường Ba Đình""}",approved
+EDGE_000465,EVENT_000023,OCCURRED_IN,TIME_000045,EVD_000240,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""time_of_day"":""06:30""}",approved
+EDGE_000466,PLACE_000011,BUILT_IN,TIME_000042,EVD_000239,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""construction_phase"":""start""}",approved
+EDGE_000467,ARCH_000092,BUILT_WITH,MATERIAL_000001,EVD_000238,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000468,ARCH_000091,BUILT_WITH,MATERIAL_000006,EVD_000238,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000469,ARCH_000088,BUILT_WITH,MATERIAL_000007,EVD_000237,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""material_scope"":""wall_cladding""}",approved
+EDGE_000470,ARCH_000089,BUILT_WITH,MATERIAL_000008,EVD_000237,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""material_scope"":""main_wall_cladding""}",approved
+EDGE_000471,HOBJ_000021,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000236,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000472,PLACE_000011,ASSOCIATED_WITH_PERSON,PERSON_000024,EVD_000232,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000473,PLACE_000011,HAS_ACTIVITY,ACTIVITY_000016,EVD_000241,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""activity_scope"":""visitation_not_current_opening_schedule""}",approved
+EDGE_000474,ARCH_000088,USED_FOR,ACTIVITY_000016,EVD_000241,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000475,PLACE_000011,LOCATED_IN,ADMIN_000001,EVD_000233,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""derivation"":""Vị trí tại Quảng trường Ba Đình; nguồn địa chỉ phường của quảng trường.""}",approved
+EDGE_000476,ARCH_000090,BUILT_WITH,MATERIAL_000007,EVD_000237,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked"",""material_scope"":""walls_along_stairway""}",approved
+EDGE_000477,ARCH_000089,LOCATED_IN,PLACE_000011,EVD_000237,0.95,,,"{""source_datasets"":[""lang_chu_tich_ho_chi_minh""],""verification"":""web_source_checked""}",approved
+EDGE_000881,PLACE_000011,HAS_CATEGORY,CATEGORY_000004,EVD_000375,0.95,,,"{""source_datasets"":[""missing_address_category_patch""],""verification"":""web_source_checked"",""category_basis"":""official_description_of_political_and_cultural_significance""}",approved

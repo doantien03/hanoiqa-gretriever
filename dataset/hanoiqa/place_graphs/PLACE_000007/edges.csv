@@ -1,0 +1,42 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000317,PLACE_000007,HAS_ADDRESS,ADDRESS_000005,EVD_000197,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""address_as_of_source"":""2025-08-10"",""address_precision"":""street_intersection""}",approved
+EDGE_000318,PLACE_000007,LOCATED_IN,ADMIN_000006,EVD_000197,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""administrative_context"":""post_2025_reorganization""}",approved
+EDGE_000319,PLACE_000007,LOCATED_IN,ADMIN_000002,EVD_000197,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000320,PLACE_000007,LOCATED_IN,LOCATION_000003,EVD_000198,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""position"":""street_end""}",approved
+EDGE_000321,PLACE_000007,LOCATED_IN,LOCATION_000004,EVD_000198,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""position"":""street_start""}",approved
+EDGE_000322,PLACE_000007,BUILT_IN,TIME_000030,EVD_000199,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""construction_phase"":""initial_construction""}",approved
+EDGE_000323,PLACE_000007,ASSOCIATED_WITH_DYNASTY,DYNASTY_000005,EVD_000199,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""historical_context"":""Lê Trung hưng; niên hiệu Cảnh Hưng""}",approved
+EDGE_000324,PLACE_000007,RENOVATED_IN,TIME_000031,EVD_000199,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""renovation_kind"":""major_repair""}",approved
+EDGE_000325,PLACE_000007,RENOVATED_IN,TIME_000032,EVD_000199,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""renovation_kind"":""reconstruction""}",approved
+EDGE_000326,PLACE_000007,HAS_ARCHITECTURAL_STYLE,ASTYLE_000004,EVD_000200,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000327,PLACE_000007,HAS_COMPONENT,ARCH_000063,EVD_000200,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000328,PLACE_000007,HAS_COMPONENT,ARCH_000067,EVD_000200,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000329,PLACE_000007,HAS_COMPONENT,ARCH_000068,EVD_000200,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000330,ARCH_000063,HAS_COMPONENT,ARCH_000064,EVD_000200,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000331,ARCH_000063,HAS_COMPONENT,ARCH_000065,EVD_000200,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""orientation_reference"":""Nhìn từ ngoài về mặt trước cổng; trái/phải chỉ định danh hai cửa đối xứng, không suy ra hướng địa lý.""}",approved
+EDGE_000332,ARCH_000063,HAS_COMPONENT,ARCH_000066,EVD_000200,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""orientation_reference"":""Nhìn từ ngoài về mặt trước cổng; trái/phải chỉ định danh hai cửa đối xứng, không suy ra hướng địa lý.""}",approved
+EDGE_000333,ARCH_000067,HAS_COMPONENT,ARCH_000069,EVD_000201,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000334,PLACE_000007,HAS_COMPONENT,HOBJ_000012,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000335,PLACE_000007,HAS_COMPONENT,HOBJ_000013,EVD_000204,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000336,ARCH_000063,BUILT_WITH,MATERIAL_000004,EVD_000203,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""scope_note"":""Vật liệu kết cấu cổng theo nguồn.""}",approved
+EDGE_000337,ARCH_000063,BUILT_WITH,MATERIAL_000002,EVD_000203,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""scope_note"":""Vật liệu kết cấu cổng theo nguồn.""}",approved
+EDGE_000338,HOBJ_000012,BUILT_WITH,MATERIAL_000002,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000339,HOBJ_000012,ASSOCIATED_WITH_PERSON,PERSON_000022,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000340,HOBJ_000012,ASSOCIATED_WITH_PERSON,PERSON_000023,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000341,PLACE_000007,ASSOCIATED_WITH_PERSON,PERSON_000022,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000342,PLACE_000007,HAS_EVENT,EVENT_000015,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000343,EVENT_000015,OCCURRED_IN,TIME_000033,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000344,EVENT_000015,INVOLVED_PERSON,PERSON_000022,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000345,EVENT_000015,INVOLVED_PERSON,PERSON_000023,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000346,ARCH_000064,HAS_MEASUREMENT,VALUE_000027,EVD_000202,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height""}",approved
+EDGE_000347,ARCH_000065,HAS_MEASUREMENT,VALUE_000028,EVD_000202,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height""}",approved
+EDGE_000348,ARCH_000065,HAS_MEASUREMENT,VALUE_000029,EVD_000202,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""measurement_kind"":""width"",""measurement_type"":""width""}",approved
+EDGE_000349,ARCH_000066,HAS_MEASUREMENT,VALUE_000028,EVD_000202,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height""}",approved
+EDGE_000350,ARCH_000066,HAS_MEASUREMENT,VALUE_000029,EVD_000202,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""measurement_kind"":""width"",""measurement_type"":""width""}",approved
+EDGE_000351,PLACE_000007,HAS_MEASUREMENT,VALUE_000030,EVD_000203,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""measurement_kind"":""thickness"",""measurement_type"":""thickness""}",approved
+EDGE_000352,HOBJ_000012,HAS_MEASUREMENT,VALUE_000031,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""measurement_kind"":""dimension"",""measurement_type"":""dimension"",""dimension_axis"":""unspecified_in_source"",""dimension_pair_m"":[0.8,1]}",approved
+EDGE_000353,HOBJ_000012,HAS_MEASUREMENT,VALUE_000032,EVD_000205,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""measurement_kind"":""dimension"",""measurement_type"":""dimension"",""dimension_axis"":""unspecified_in_source"",""dimension_pair_m"":[0.8,1]}",approved
+EDGE_000354,ARCH_000067,USED_FOR,ACTIVITY_000014,EVD_000206,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""temporal_scope"":""historical""}",approved
+EDGE_000355,PLACE_000007,USED_FOR,ACTIVITY_000014,EVD_000206,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked"",""temporal_scope"":""historical""}",approved
+EDGE_000356,PLACE_000007,RECOGNIZED_AS,HSTATUS_000005,EVD_000207,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved
+EDGE_000357,PLACE_000007,HAS_CATEGORY,CATEGORY_000001,EVD_000207,0.95,,,"{""source_datasets"":[""o_quan_chuong""],""verification"":""web_source_checked""}",approved

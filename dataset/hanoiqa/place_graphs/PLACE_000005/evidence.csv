@@ -1,0 +1,41 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000107,SRC_000038,PLACE_000005,location,"Di tích Nhà tù Hỏa Lò có địa chỉ tại số 1 phố Hỏa Lò, phường Cửa Nam, thành phố Hà Nội.",normalized_summary,approved
+EVD_000108,SRC_000038,PLACE_000005,location,Di tích Nhà tù Hỏa Lò nằm tại phường Cửa Nam.,normalized_summary,approved
+EVD_000109,SRC_000038,PLACE_000005,location,Di tích Nhà tù Hỏa Lò nằm tại thành phố Hà Nội.,normalized_summary,approved
+EVD_000110,SRC_000041,PLACE_000005,classification,Nhà tù Hỏa Lò được giới thiệu và xếp hạng theo loại hình di tích lịch sử.,normalized_summary,approved
+EVD_000111,SRC_000038,PLACE_000005,construction,Nhà tù Hỏa Lò được chính quyền thực dân Pháp xây dựng năm 1896.,normalized_summary,approved
+EVD_000112,SRC_000038,PLACE_000005,construction,Nhà tù Hỏa Lò do chính quyền thực dân Pháp xây dựng.,normalized_summary,approved
+EVD_000113,SRC_000041,PLACE_000005,recognition,Nhà tù Hỏa Lò được công nhận là di tích lịch sử quốc gia.,normalized_summary,approved
+EVD_000114,SRC_000041,PLACE_000005,recognition,Nhà tù Hỏa Lò được công nhận là di tích lịch sử ngày 18 tháng 6 năm 1997 theo Quyết định 1543-QĐ/VH.,normalized_summary,approved
+EVD_000115,SRC_000040,PLACE_000005,management,"Ban Quản lý Di tích Nhà tù Hỏa Lò là đơn vị trực tiếp quản lý, bảo quản và trưng bày tài liệu, hiện vật của di tích.",normalized_summary,approved
+EVD_000116,SRC_000038,PLACE_000005,measurement,Tổng diện tích Nhà tù Trung ương và các đường lân cận dẫn đến nhà tù là 12.908 m².,normalized_summary,approved
+EVD_000117,SRC_000042,PLACE_000005,measurement,Phần còn lại của Nhà tù Hỏa Lò được bảo tồn và xếp hạng có diện tích 2.434 m².,normalized_summary,approved
+EVD_000118,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có một nhà dùng cho việc canh gác.,normalized_summary,approved
+EVD_000119,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có hai nhà dùng làm bệnh xá.,normalized_summary,approved
+EVD_000120,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có hai nhà dùng để giam bị can.,normalized_summary,approved
+EVD_000121,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có một nhà dùng làm phân xưởng.,normalized_summary,approved
+EVD_000122,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có năm nhà dùng để giam tù nhân.,normalized_summary,approved
+EVD_000123,SRC_000041,PLACE_000005,architecture,Khu di tích có Đài tưởng niệm Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000124,SRC_000043,PLACE_000005,exhibition,Hai phòng trưng bày tại di tích giới thiệu cuộc sống của tù binh phi công Mỹ ở Hỏa Lò.,normalized_summary,approved
+EVD_000125,SRC_000041,PLACE_000005,heritage_object,Hệ thống trưng bày tại di tích có chiếc máy chém từng được thực dân Pháp sử dụng để hành quyết chiến sĩ cách mạng.,normalized_summary,approved
+EVD_000126,SRC_000041,PLACE_000005,heritage_object,Di tích có mô hình tái tạo hình ảnh các chiến sĩ cách mạng trong lao tù.,normalized_summary,approved
+EVD_000127,SRC_000039,PLACE_000005,architecture,Nhà canh gác là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000128,SRC_000039,PLACE_000005,architecture,Cụm bệnh xá là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000129,SRC_000039,PLACE_000005,architecture,Khu giam bị can là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000130,SRC_000039,PLACE_000005,architecture,Phân xưởng là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000131,SRC_000039,PLACE_000005,architecture,Khu giam tù nhân là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000132,SRC_000041,PLACE_000005,architecture,Đài tưởng niệm nằm trong khu Di tích Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000133,SRC_000038,PLACE_000005,history,Di tích gắn với sự kiện xây dựng Nhà tù Hỏa Lò trong năm 1896.,normalized_summary,approved
+EVD_000134,SRC_000042,PLACE_000005,history,"Năm 1954, Quân đội nhân dân Việt Nam tiếp quản Nhà tù Hỏa Lò.",normalized_summary,approved
+EVD_000135,SRC_000042,PLACE_000005,history,"Trong giai đoạn 1964–1973, Nhà tù Hỏa Lò được dùng để giam phi công Mỹ bị bắt khi đánh phá miền Bắc Việt Nam.",normalized_summary,approved
+EVD_000136,SRC_000043,PLACE_000005,history,"Tháng 3 năm 1973, Chính phủ Việt Nam trao trả các phi công Mỹ bị bắt trong chiến tranh.",normalized_summary,approved
+EVD_000137,SRC_000038,PLACE_000005,history,Dự án Nhà tù Hỏa Lò được phê duyệt và công trình được tiến hành trong năm 1896.,normalized_summary,approved
+EVD_000138,SRC_000042,PLACE_000005,history,Sự kiện Quân đội nhân dân Việt Nam tiếp quản Nhà tù Hỏa Lò diễn ra năm 1954.,normalized_summary,approved
+EVD_000139,SRC_000042,PLACE_000005,history,Việc sử dụng Nhà tù Hỏa Lò để giam phi công Mỹ diễn ra trong giai đoạn 1964–1973.,normalized_summary,approved
+EVD_000140,SRC_000043,PLACE_000005,history,Một nhóm phi công Mỹ được trao trả tại sân bay Gia Lâm ngày 14 tháng 3 năm 1973.,normalized_summary,approved
+EVD_000141,SRC_000044,PLACE_000005,person,John Sidney McCain từng bị giam tại Hỏa Lò và nhiều lần trở lại thăm di tích.,normalized_summary,approved
+EVD_000142,SRC_000044,PLACE_000005,person,Đại tá Trần Trọng Duyệt từng là trại trưởng trại giam Hỏa Lò.,normalized_summary,approved
+EVD_000143,SRC_000043,PLACE_000005,exhibition,Phòng trưng bày về tù binh phi công Mỹ có tư liệu về John McCain sau khi ông bị bắt ngày 26 tháng 10 năm 1967.,normalized_summary,approved
+EVD_000144,SRC_000044,PLACE_000005,person,John Sidney McCain được trao trả về Hoa Kỳ ngày 14 tháng 3 năm 1973.,normalized_summary,approved
+EVD_000145,SRC_000041,PLACE_000005,activity,Di tích là địa chỉ đỏ phục vụ giáo dục truyền thống yêu nước và cách mạng.,normalized_summary,approved
+EVD_000146,SRC_000041,PLACE_000005,activity,"Di tích thu hút khách trong nước và quốc tế đến tham quan, nghiên cứu và học tập.",normalized_summary,approved

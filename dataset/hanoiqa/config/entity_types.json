@@ -1,0 +1,218 @@
+[
+  {
+    "type": "Place",
+    "prefix": "PLACE",
+    "description_vi": "Địa danh du lịch hoặc quần thể di tích được chọn làm đối tượng chính của HanoiQA",
+    "examples": [
+      "Văn Miếu – Quốc Tử Giám",
+      "Hoàng thành Thăng Long",
+      "Hồ Hoàn Kiếm"
+    ]
+  },
+  {
+    "type": "Architecture",
+    "prefix": "ARCH",
+    "description_vi": "Công trình hoặc hạng mục kiến trúc thuộc một địa danh",
+    "examples": [
+      "Khuê Văn Các",
+      "Điện Kính Thiên",
+      "Đoan Môn"
+    ]
+  },
+  {
+    "type": "ArchaeologicalSite",
+    "prefix": "ARCHSITE",
+    "description_vi": "Khu vực hoặc địa điểm khảo cổ học",
+    "examples": [
+      "Khu khảo cổ 18 Hoàng Diệu"
+    ]
+  },
+  {
+    "type": "HeritageObject",
+    "prefix": "HOBJ",
+    "description_vi": "Hiện vật, di vật hoặc nhóm hiện vật có giá trị di sản",
+    "examples": [
+      "Bia Tiến sĩ",
+      "Trống Sấm",
+      "Rồng đá Điện Kính Thiên"
+    ]
+  },
+  {
+    "type": "Person",
+    "prefix": "PERSON",
+    "description_vi": "Nhân vật lịch sử hoặc nhân vật đương đại có liên quan đến địa danh",
+    "examples": [
+      "Lý Thánh Tông",
+      "Lê Thái Tổ",
+      "Gia Long"
+    ]
+  },
+  {
+    "type": "Dynasty",
+    "prefix": "DYNASTY",
+    "description_vi": "Một triều đại trong lịch sử Việt Nam",
+    "examples": [
+      "Nhà Lý",
+      "Nhà Trần",
+      "Nhà Nguyễn"
+    ]
+  },
+  {
+    "type": "HistoricalPeriod",
+    "prefix": "HPERIOD",
+    "description_vi": "Thời kỳ hoặc giai đoạn lịch sử không phải tên một triều đại cụ thể",
+    "examples": [
+      "Thời Bắc thuộc",
+      "Thời Đại La",
+      "Thời Pháp thuộc"
+    ]
+  },
+  {
+    "type": "Time",
+    "prefix": "TIME",
+    "description_vi": "Ngày, tháng, năm, thế kỷ hoặc mốc thời gian xác định",
+    "examples": [
+      "1070",
+      "Ngày 31 tháng 7 năm 2010",
+      "Thế kỷ XV"
+    ]
+  },
+  {
+    "type": "Duration",
+    "prefix": "DURATION",
+    "description_vi": "Khoảng thời gian hoặc độ dài thời gian",
+    "examples": [
+      "13 thế kỷ",
+      "Khoảng 10 năm"
+    ]
+  },
+  {
+    "type": "AdministrativeArea",
+    "prefix": "ADMIN",
+    "description_vi": "Đơn vị hành chính như thành phố, phường hoặc xã",
+    "examples": [
+      "Hà Nội",
+      "Phường Điện Biên"
+    ]
+  },
+  {
+    "type": "Location",
+    "prefix": "LOCATION",
+    "description_vi": "Đường phố, quảng trường, hồ, đảo hoặc khu vực địa lý không phải đơn vị hành chính",
+    "examples": [
+      "Đường Hoàng Diệu",
+      "Quảng trường Ba Đình",
+      "Đảo Ngọc"
+    ]
+  },
+  {
+    "type": "Address",
+    "prefix": "ADDRESS",
+    "description_vi": "Địa chỉ cụ thể được ghi nhận cho một địa danh",
+    "examples": [
+      "Số 19C Hoàng Diệu, phường Ba Đình, thành phố Hà Nội."
+    ]
+  },
+  {
+    "type": "Event",
+    "prefix": "EVENT",
+    "description_vi": "Sự kiện lịch sử, văn hóa hoặc du lịch xảy ra tại một thời điểm cụ thể",
+    "examples": [
+      "Lễ thượng cờ Giải phóng Thủ đô",
+      "Cuộc khai quật Hoàng thành năm 2002",
+      "Sự kiện công nhận di sản năm 2010"
+    ]
+  },
+  {
+    "type": "Activity",
+    "prefix": "ACTIVITY",
+    "description_vi": "Hoạt động, nghi lễ hoặc trải nghiệm có thể diễn ra thường xuyên tại địa danh",
+    "examples": [
+      "Thiết triều",
+      "Dâng hương khuyến học",
+      "Tham quan khảo cổ"
+    ]
+  },
+  {
+    "type": "Organization",
+    "prefix": "ORG",
+    "description_vi": "Cơ quan, tổ chức, đơn vị quản lý hoặc đơn vị được nhắc đến trong lịch sử địa danh",
+    "examples": [
+      "UNESCO",
+      "Bộ Quốc phòng",
+      "Ủy ban Di sản thế giới"
+    ]
+  },
+  {
+    "type": "HeritageStatus",
+    "prefix": "HSTATUS",
+    "description_vi": "Danh hiệu, trạng thái hoặc cấp xếp hạng di sản",
+    "examples": [
+      "Di sản Văn hóa thế giới",
+      "Di tích Quốc gia đặc biệt",
+      "Di tích cấp quốc gia"
+    ]
+  },
+  {
+    "type": "TourismCategory",
+    "prefix": "CATEGORY",
+    "description_vi": "Loại hình du lịch hoặc nhóm phân loại của địa danh",
+    "examples": [
+      "Di tích lịch sử",
+      "Bảo tàng",
+      "Cơ sở tôn giáo",
+      "Danh lam thắng cảnh"
+    ]
+  },
+  {
+    "type": "VisitorGroup",
+    "prefix": "VISITOR",
+    "description_vi": "Nhóm khách được xem là phù hợp với địa danh hoặc hoạt động",
+    "examples": [
+      "Gia đình",
+      "Học sinh",
+      "Người cao tuổi",
+      "Khách quốc tế"
+    ]
+  },
+  {
+    "type": "Material",
+    "prefix": "MATERIAL",
+    "description_vi": "Vật liệu được sử dụng để xây dựng, tu bổ hoặc chế tác",
+    "examples": [
+      "Gỗ lim",
+      "Gạch Bát Tràng",
+      "Đá xanh"
+    ]
+  },
+  {
+    "type": "ArchitecturalStyle",
+    "prefix": "ASTYLE",
+    "description_vi": "Phong cách, đặc trưng hoặc hình thức kiến trúc",
+    "examples": [
+      "Kiến trúc thời Hậu Lê",
+      "Kiến trúc thời Nguyễn",
+      "Kiến trúc Gothic"
+    ]
+  },
+  {
+    "type": "Role",
+    "prefix": "ROLE",
+    "description_vi": "Chức vụ, chức danh hoặc vai trò của một nhân vật",
+    "examples": [
+      "Tư nghiệp Quốc Tử Giám",
+      "Tổng chỉ huy",
+      "Chưởng cơ"
+    ]
+  },
+  {
+    "type": "Value",
+    "prefix": "VALUE",
+    "description_vi": "Giá trị định lượng có kiểu đo và đơn vị",
+    "examples": [
+      "8,71 m",
+      "19.000 m²",
+      "82 bậc"
+    ]
+  }
+]

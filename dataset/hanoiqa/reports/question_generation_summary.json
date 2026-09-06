@@ -1,0 +1,36 @@
+{
+  "ready_places": 20,
+  "draft_questions": 439,
+  "by_type": {
+    "list": 98,
+    "multi_hop": 88,
+    "single_hop": 253
+  },
+  "by_status": {
+    "draft": 396,
+    "needs_revision": 43
+  },
+  "by_place": {
+    "PLACE_000001": 74,
+    "PLACE_000002": 16,
+    "PLACE_000003": 27,
+    "PLACE_000004": 21,
+    "PLACE_000005": 21,
+    "PLACE_000006": 19,
+    "PLACE_000007": 25,
+    "PLACE_000008": 30,
+    "PLACE_000010": 19,
+    "PLACE_000011": 16,
+    "PLACE_000012": 14,
+    "PLACE_000013": 13,
+    "PLACE_000014": 16,
+    "PLACE_000015": 17,
+    "PLACE_000016": 20,
+    "PLACE_000017": 22,
+    "PLACE_000018": 19,
+    "PLACE_000020": 14,
+    "PLACE_000021": 17,
+    "PLACE_000022": 19
+  },
+  "warning": "All generated rows require human review; needs_revision rows must not be approved unchanged."
+}

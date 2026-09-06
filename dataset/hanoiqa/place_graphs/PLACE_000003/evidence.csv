@@ -1,0 +1,12 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000187,SRC_000056,PLACE_000003,construction,Gia Long cho xây Cột cờ Hà Nội từ 1805 đến 1812.,normalized_summary,approved
+EVD_000188,SRC_000056,PLACE_000003,location,"Cột cờ Hà Nội nằm trên đường Điện Biên Phủ, Hà Nội.",normalized_summary,approved
+EVD_000189,SRC_000057,PLACE_000003,architecture,Cột cờ gồm ba tầng đế và thân cột; trên đỉnh có lầu vọng canh.,normalized_summary,approved
+EVD_000190,SRC_000057,PLACE_000003,measurement,"Tầng đế thứ nhất cao 3,1 m, cạnh 42,5 m; tầng thứ hai cao 3,7 m, cạnh 27 m; tầng thứ ba cao 5,1 m, cạnh 12,8 m.",normalized_summary,approved
+EVD_000191,SRC_000057,PLACE_000003,material,Các tầng đế Cột cờ Hà Nội được ốp gạch.,normalized_summary,approved
+EVD_000192,SRC_000056,PLACE_000003,architecture,"Thân cột có cầu thang xoắn 54 bậc, nhóm 39 ô hoa thị và nhóm 6 ô rẻ quạt; lầu bát giác cao 3,3 m có 8 cửa sổ và trụ giữa đường kính 40 cm.",normalized_summary,approved
+EVD_000193,SRC_000057,PLACE_000003,doors,"Cột cờ có cửa Đông Nghênh Húc, cửa Tây Hồi Quang và cửa Nam Hướng Minh.",normalized_summary,approved
+EVD_000194,SRC_000058,PLACE_000003,recognition,Cột cờ Hà Nội được công nhận là Di tích quốc gia năm 1989.,normalized_summary,approved
+EVD_000195,SRC_000056,PLACE_000003,historical_event,Lễ thượng cờ tại Cột cờ Hà Nội diễn ra lúc 15 giờ ngày 10/10/1954.,normalized_summary,approved
+EVD_000196,SRC_000057,PLACE_000003,historical_function,"Cột cờ từng phục vụ quan sát quân sự; lầu vọng canh có các cửa sổ quan sát nội, ngoại thành.",normalized_summary,approved
+EVD_000373,SRC_000126,PLACE_000003,address,"Cổng du lịch phường Ba Đình ghi Cột cờ Hà Nội tại số 28A đường Điện Biên Phủ, phường Ba Đình, Hà Nội.",normalized_summary,approved

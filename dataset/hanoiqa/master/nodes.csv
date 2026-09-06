@@ -1,0 +1,653 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+PLACE_000001,Hoàng thành Thăng Long,Place,,Khu Trung tâm Hoàng thành Thăng Long – Hà Nội|Hoàng thành Thăng Long – Hà Nội,hoang_thanh_thang_long,,,,approved
+PLACE_000003,Cột cờ Hà Nội,Place,,Kỳ đài Hà Nội,cot_co_ha_noi,,,,approved
+ADDRESS_000001,"Số 19C Hoàng Diệu, phường Ba Đình, thành phố Hà Nội",Address,,,so_19c_hoang_dieu_phuong_ba_dinh_thanh_pho_ha_noi,,,,approved
+ADMIN_000001,Phường Ba Đình,AdministrativeArea,ward,,phuong_ba_dinh,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000001,Đoan Môn,Architecture,,Cửa Đoan Môn,doan_mon,,,,approved
+ARCH_000002,Bắc Môn,Architecture,,Cửa Bắc|Cửa Bắc Môn,bac_mon,,,,approved
+ARCH_000003,Hậu Lâu,Architecture,,Lầu Công chúa|Tĩnh Bắc Lâu|Lầu Tĩnh Bắc,hau_lau,,,,approved
+ARCH_000004,Điện Kính Thiên,Architecture,,Nền điện Kính Thiên|Chính điện Kính Thiên,dien_kinh_thien,,,,approved
+ARCH_000005,Nhà D67,Architecture,,Phòng họp Bộ Chính trị và Quân ủy Trung ương,nha_d67,,,,approved
+ARCH_000006,Hầm D67,Architecture,,Hầm Quân ủy Trung ương,ham_d67,,,,approved
+ARCH_000007,Thềm Rồng Điện Kính Thiên,Architecture,,Thềm đá Điện Kính Thiên,them_rong_dien_kinh_thien,,,,approved
+ARCHSITE_000001,Khu khảo cổ 18 Hoàng Diệu,ArchaeologicalSite,,Khu khảo cổ học 18 Hoàng Diệu|Di chỉ 18 Hoàng Diệu,khu_khao_co_18_hoang_dieu,,,,approved
+HOBJ_000001,Rồng đá Điện Kính Thiên,HeritageObject,,Rồng đá Thềm Rồng,rong_da_dien_kinh_thien,,,,approved
+HOBJ_000002,Nhóm di vật thời Đại La tại 18 Hoàng Diệu,HeritageObject,,Di vật Tiền Thăng Long,nhom_di_vat_thoi_dai_la_18_hoang_dieu,,,,approved
+HOBJ_000003,Nhóm di vật thời Lý – Trần tại 18 Hoàng Diệu,HeritageObject,,Di vật Lý – Trần,nhom_di_vat_ly_tran_18_hoang_dieu,,,,approved
+HOBJ_000004,Nhóm di vật thời Lê tại 18 Hoàng Diệu,HeritageObject,,Di vật thời Lê,nhom_di_vat_thoi_le_18_hoang_dieu,,,,approved
+VALUE_000002,"Khoảng 18,395 ha",Value,,,khoang_18_395_ha,18.395,ha,area,approved
+VALUE_000003,108 ha,Value,,,108_ha,108,ha,buffer_area,approved
+VALUE_000004,Khoảng 57 m,Value,,,khoang_57_m,57,m,length,approved
+VALUE_000005,"41,5 m",Value,,,41_5_m,41.5,m,width,approved
+VALUE_000006,"Khoảng 2,3 m",Value,,,khoang_2_3_m,2.3,m,height,approved
+VALUE_000007,10 bậc,Value,,,10_bac,10,bậc,step_count,approved
+VALUE_000008,"33,4 m",Value,,,33_4_m,33.4,m,height,approved
+VALUE_000009,9 m,Value,,,9_m,9,m,depth,approved
+VALUE_000010,"0,6 m",Value,,,0_6_m,0.6,m,wall_thickness,approved
+ORG_000001,UNESCO,Organization,,Tổ chức Giáo dục Khoa học và Văn hóa Liên Hợp Quốc,unesco,,,,approved
+ORG_000002,Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội,Organization,,Trung tâm Thăng Long,trung_tam_bao_ton_di_san_thang_long_ha_noi,,,,approved
+ORG_000003,Bộ Quốc phòng,Organization,,,bo_quoc_phong,,,,approved
+ORG_000004,Ủy ban nhân dân thành phố Hà Nội,Organization,,UBND thành phố Hà Nội,uy_ban_nhan_dan_thanh_pho_ha_noi,,,,approved
+HSTATUS_000001,Di sản văn hóa thế giới,HeritageStatus,,Di sản Văn hóa Thế giới,di_san_van_hoa_the_gioi,,,,approved
+TIME_000001,Ngày 31 tháng 07 năm 2010,Time,,Ngày 01 tháng 08 năm 2010 theo giờ Việt Nam|31/07/2010,ngay_31_thang_07_nam_2010,,,,approved
+TIME_000002,Năm 1010,Time,,1010,nam_1010,,,,approved
+TIME_000004,Năm 1428,Time,,1428,nam_1428,,,,approved
+TIME_000005,Năm 1467,Time,,1467,nam_1467,,,,approved
+TIME_000006,Năm 1812,Time,,1812,nam_1812,,,,approved
+TIME_000007,Tháng 10 năm 1821,Time,,Năm 1821,thang_10_nam_1821,,,,approved
+TIME_000008,Năm 1967,Time,,1967,nam_1967,,,,approved
+TIME_000009,Tháng 12 năm 2002,Time,,Năm 2002,thang_12_nam_2002,,,,approved
+TIME_000010,Ngày 01 tháng 09 năm 2006,Time,,01/09/2006,ngay_01_thang_09_nam_2006,,,,approved
+TIME_000011,Thế kỷ XIX,Time,,Thế kỷ 19,the_ky_19,,,,approved
+PERSON_000001,Lý Thái Tổ,Person,,Lý Công Uẩn,ly_thai_to,,,,approved
+PERSON_000002,Lê Thái Tổ,Person,,Lê Lợi,le_thai_to,,,,approved
+PERSON_000003,Lê Thánh Tông,Person,,,le_thanh_tong,,,,approved
+PERSON_000004,Gia Long,Person,,Nguyễn Phúc Ánh,gia_long,,,,approved
+PERSON_000005,Minh Mạng,Person,,Nguyễn Phúc Đảm,minh_mang,,,,approved
+PERSON_000006,Võ Nguyên Giáp,Person,,Đại tướng Võ Nguyên Giáp,vo_nguyen_giap,,,,approved
+PERSON_000007,Văn Tiến Dũng,Person,,Đại tướng Văn Tiến Dũng,van_tien_dung,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+CATEGORY_000002,Di tích khảo cổ,TourismCategory,,Điểm khảo cổ,di_tich_khao_co,,,,approved
+EVENT_000001,Dời đô từ Hoa Lư ra thành Đại La năm 1010,Event,,Sự kiện dời đô năm 1010,doi_do_tu_hoa_lu_ra_thanh_dai_la_nam_1010,,,,approved
+EVENT_000002,Cuộc khai quật Hoàng thành tháng 12 năm 2002,Event,,Cuộc khai quật Hoàng thành năm 2002,cuoc_khai_quat_hoang_thanh_thang_12_nam_2002,,,,approved
+EVENT_000003,UNESCO ghi danh Hoàng thành Thăng Long năm 2010,Event,,Sự kiện công nhận di sản năm 2010,unesco_ghi_danh_hoang_thanh_thang_long_nam_2010,,,,approved
+ACTIVITY_000001,Thiết triều,Activity,,Thiết đại triều,thiet_trieu,,,,approved
+ACTIVITY_000002,Cử hành nghi lễ quốc gia,Activity,,Nghi lễ triều đình,cu_hanh_nghi_le_quoc_gia,,,,approved
+ACTIVITY_000003,Đón tiếp sứ thần,Activity,,Tiếp sứ thần,don_tiep_su_than,,,,approved
+ACTIVITY_000004,Tham quan khảo cổ,Activity,,Tìm hiểu khảo cổ,tham_quan_khao_co,,,,approved
+ACTIVITY_000005,Xem trưng bày hiện vật,Activity,,Tham quan nhà trưng bày,xem_trung_bay_hien_vat,,,,approved
+ACTIVITY_000006,Tour đêm Giải mã Hoàng thành Thăng Long,Activity,,Tour đêm Giải mã Hoàng thành,tour_dem_giai_ma_hoang_thanh_thang_long,,,,approved
+ACTIVITY_000007,Dâng hương tưởng niệm các bậc tiên đế,Activity,,Dâng hương tại Điện Kính Thiên,dang_huong_tuong_niem_cac_bac_tien_de,,,,approved
+ACTIVITY_000008,Họp Bộ Chính trị và Quân ủy Trung ương,Activity,,Họp tại Nhà D67,hop_bo_chinh_tri_va_quan_uy_trung_uong,,,,approved
+VISITOR_000001,Học sinh trung học cơ sở,VisitorGroup,,Học sinh THCS,hoc_sinh_trung_hoc_co_so,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000002,Đá,Material,,,da,,,,approved
+MATERIAL_000003,Gạch,Material,,,gach,,,,approved
+ASTYLE_000001,Kiến trúc cung đình thời Lê,ArchitecturalStyle,,Kiến trúc Hoàng cung thời Lê,kien_truc_cung_dinh_thoi_le,,,,approved
+ASTYLE_000002,Kiến trúc thời Nguyễn,ArchitecturalStyle,,,kien_truc_thoi_nguyen,,,,approved
+ASTYLE_000003,Kiến trúc quân sự thời kháng chiến chống Mỹ,ArchitecturalStyle,,Kiến trúc quân sự Nhà D67,kien_truc_quan_su_thoi_khang_chien_chong_my,,,,approved
+DYNASTY_000001,Nhà Lý,Dynasty,,Triều Lý,nha_ly,,,,approved
+DYNASTY_000002,Nhà Trần,Dynasty,,Triều Trần,nha_tran,,,,approved
+DYNASTY_000003,Nhà Lê sơ,Dynasty,,Triều Lê sơ|Nhà Hậu Lê,nha_le_so,,,,approved
+DYNASTY_000004,Nhà Mạc,Dynasty,,Triều Mạc,nha_mac,,,,approved
+DYNASTY_000005,Nhà Lê Trung hưng,Dynasty,,Triều Lê Trung hưng,nha_le_trung_hung,,,,approved
+DYNASTY_000006,Nhà Nguyễn,Dynasty,,Triều Nguyễn,nha_nguyen,,,,approved
+HPERIOD_000001,Thời Tiền Thăng Long – Đại La,HistoricalPeriod,,Thời Đại La|Thời An Nam đô hộ phủ,thoi_tien_thang_long_dai_la,,,,approved
+HPERIOD_000002,Thời kỳ kháng chiến chống Mỹ,HistoricalPeriod,,Kháng chiến chống Mỹ,thoi_ky_khang_chien_chong_my,,,,approved
+LOCATION_000001,Núi Nùng,Location,,Nùng Sơn,nui_nung,,,,approved
+ROLE_000001,Hoàng đế,Role,,Vua,hoang_de,,,,approved
+ROLE_000002,Đại tướng,Role,,,dai_tuong,,,,approved
+PLACE_000004,Văn Miếu – Quốc Tử Giám,Place,,Văn Miếu - Quốc Tử Giám|Văn Miếu Quốc Tử Giám|Temple of Literature,van_mieu_quoc_tu_giam,,,,approved
+ADDRESS_000002,"Số 58 phố Quốc Tử Giám, phường Văn Miếu - Quốc Tử Giám, thành phố Hà Nội",Address,,58 Quốc Tử Giám|No. 58 Quoc Tu Giam Street,so_58_pho_quoc_tu_giam_phuong_van_mieu_quoc_tu_giam_ha_noi,,,,approved
+ADMIN_000003,Phường Văn Miếu - Quốc Tử Giám,AdministrativeArea,ward,Phường Văn Miếu – Quốc Tử Giám,phuong_van_mieu_quoc_tu_giam,,,,approved
+ARCH_000008,Văn Miếu,Architecture,,Văn Miếu Hà Nội|Temple of Literature,van_mieu,,,,approved
+ARCH_000009,Quốc Tử Giám,Architecture,,Quốc học viện|Thái Học viện,quoc_tu_giam,,,,approved
+ARCH_000010,Hồ Văn,Architecture,,Hồ Giám|Minh Đường hồ,ho_van,,,,approved
+ARCH_000011,Vườn Giám,Architecture,,Giám viên,vuon_giam,,,,approved
+ARCH_000012,Khu Nhập Đạo,Architecture,,Nhập Đạo,khu_nhap_dao,,,,approved
+ARCH_000013,Khu Thành Đạt,Architecture,,Thành Đạt,khu_thanh_dat,,,,approved
+ARCH_000014,Vườn bia Tiến sĩ,Architecture,,Khu Vườn Bia Tiến Sĩ|Vườn bia,vuon_bia_tien_si,,,,approved
+ARCH_000015,Khu Đại Thành,Architecture,,Đại Thành,khu_dai_thanh,,,,approved
+ARCH_000016,Khu Thái Học,Architecture,,Khu Thái học|Thái Học,khu_thai_hoc,,,,approved
+ARCH_000017,Khuê Văn Các,Architecture,,Gác Khuê Văn|Khue Van Pavilion,khue_van_cac,,,,approved
+ARCH_000018,Điện Đại Thành,Architecture,,Đại Thành điện,dien_dai_thanh,,,,approved
+ARCH_000019,Nhà Thái Học,Architecture,,Nhà Thái học,nha_thai_hoc,,,,approved
+ARCH_000020,Nhà Tiền Đường,Architecture,,Tiền Đường,nha_tien_duong,,,,approved
+ARCH_000021,Nhà Hậu Đường,Architecture,,Hậu Đường|Hậu cung,nha_hau_duong,,,,approved
+ARCH_000022,Nhà Chuông,Architecture,,Lầu Chuông,nha_chuong,,,,approved
+ARCH_000023,Nhà Trống,Architecture,,Lầu Trống,nha_trong,,,,approved
+ARCH_000024,Giếng Thiên Quang,Architecture,,Thiên Quang Tỉnh|Giếng Thiên Quang Tỉnh,gieng_thien_quang,,,,approved
+HOBJ_000005,82 bia Tiến sĩ,HeritageObject,,Bia Tiến sĩ triều Lê – Mạc|Doctoral Stelae,82_bia_tien_si,82,tấm bia,object_count,approved
+PERSON_000008,Lý Thánh Tông,Person,,Vua Lý Thánh Tông,ly_thanh_tong,,,,approved
+PERSON_000009,Lý Nhân Tông,Person,,Vua Lý Nhân Tông|Càn Đức,ly_nhan_tong,,,,approved
+PERSON_000010,Chu Văn An,Person,,Danh sư Chu Văn An,chu_van_an,,,,approved
+PERSON_000011,Khổng Tử,Person,,Khổng Phu Tử|Confucius,khong_tu,,,,approved
+PERSON_000012,Nguyễn Văn Thành,Person,,Tổng trấn Bắc Thành Nguyễn Văn Thành,nguyen_van_thanh,,,,approved
+TIME_000012,Năm 1070,Time,,1070,nam_1070,1070,năm,year,approved
+TIME_000013,Năm 1076,Time,,1076,nam_1076,1076,năm,year,approved
+TIME_000014,Năm 1805,Time,,1805,nam_1805,1805,năm,year,approved
+HSTATUS_000002,Di sản tư liệu thế giới,HeritageStatus,,Di sản Tư liệu Thế giới|Memory of the World,di_san_tu_lieu_the_gioi,,,,approved
+PLACE_000002,Khu di tích Cổ Loa,Place,,Thành Cổ Loa|Cổ Loa|Khu di tích thành Cổ Loa,khu_di_tich_co_loa,,,,approved
+ARCH_000025,Thành Cổ Loa,Architecture,,Loa thành|Thành Ốc|Cổ Loa thành,thanh_co_loa,,,,approved
+ARCH_000026,Thành Nội,Architecture,,Vòng thành Nội|Tường thành nội,thanh_noi_co_loa,,,,approved
+ARCH_000027,Thành Trung,Architecture,,Vòng thành Trung|Tường thành trung,thanh_trung_co_loa,,,,approved
+ARCH_000028,Thành Ngoại,Architecture,,Vòng thành Ngoại|Tường thành ngoại,thanh_ngoai_co_loa,,,,approved
+ARCH_000029,Hào nước Cổ Loa,Architecture,,Hệ thống hào Cổ Loa|Thành hào Cổ Loa,hao_nuoc_co_loa,,,,approved
+ARCH_000030,Đền Thượng,Architecture,,Đền thờ An Dương Vương|Đền Thục An Dương Vương,den_thuong_co_loa,,,,approved
+ARCH_000031,Đình Ngự Triều Di Quy,Architecture,,Đình Cổ Loa|Ngự Triều Di Quy,dinh_ngu_trieu_di_quy,,,,approved
+ARCH_000032,Am Mỵ Châu,Architecture,,Am Bà Chúa|Am thờ Mỵ Châu,am_my_chau,,,,approved
+ARCH_000033,Giếng Ngọc,Architecture,,Giếng Trọng Thủy|Hồ Giếng Ngọc,gieng_ngoc_co_loa,,,,approved
+ARCH_000034,Đền Cao Lỗ,Architecture,,Đền thờ tướng Cao Lỗ,den_cao_lo,,,,approved
+ARCH_000035,Chùa Bảo Sơn,Architecture,,Chùa Cổ Loa,chua_bao_son,,,,approved
+ARCH_000036,Nhà trưng bày Khu di tích Cổ Loa,Architecture,,Nhà trưng bày Cổ Loa,nha_trung_bay_co_loa,,,,approved
+ARCHSITE_000002,Di chỉ Cầu Vực,ArchaeologicalSite,,Di tích Cầu Vực,di_chi_cau_vuc,,,,approved
+ARCHSITE_000003,Di tích Mả Tre,ArchaeologicalSite,,Di chỉ Mả Tre,di_tich_ma_tre,,,,approved
+ARCHSITE_000004,Lò đúc mũi tên đồng Cổ Loa,ArchaeologicalSite,,Khu lò đúc đồng Đền Thượng|Lò đúc đồng Cổ Loa,lo_duc_mui_ten_dong_co_loa,,,,approved
+HOBJ_000006,Mũi tên đồng Cổ Loa,HeritageObject,,Mũi tên đồng ba cạnh|Kho mũi tên đồng Cầu Vực,mui_ten_dong_co_loa,,,,approved
+HOBJ_000007,Trống đồng Cổ Loa,HeritageObject,,Trống đồng Cổ Loa I,trong_dong_co_loa,,,,approved
+HOBJ_000008,Sưu tập khuôn đúc Cổ Loa,HeritageObject,,Khuôn đúc mũi tên đồng ba cạnh,suu_tap_khuon_duc_co_loa,,,,approved
+PERSON_000013,An Dương Vương,Person,,Thục Phán|Vua Thục,an_duong_vuong,,,,approved
+PERSON_000014,Mỵ Châu,Person,,Công chúa Mỵ Châu,my_chau,,,,approved
+PERSON_000015,Cao Lỗ,Person,,Tướng Cao Lỗ,cao_lo,,,,approved
+PERSON_000016,Ngô Quyền,Person,,Vua Ngô Quyền,ngo_quyen,,,,approved
+TIME_000015,Khoảng năm 208 trước Công nguyên,Time,,Khoảng 208 TCN|Thế kỷ III trước Công nguyên,khoang_nam_208_truoc_cong_nguyen,-208,năm,year_approx,approved
+TIME_000016,Năm 1959,Time,,1959,nam_1959,1959,năm,year,approved
+TIME_000017,Năm 1982,Time,,1982,nam_1982,1982,năm,year,approved
+EVENT_000004,Phát hiện kho mũi tên đồng Cầu Vực,Event,,Phát hiện mũi tên đồng Cổ Loa năm 1959,phat_hien_kho_mui_ten_dong_cau_vuc,,,,approved
+EVENT_000005,Phát hiện trống đồng tại Mả Tre,Event,,Phát hiện trống đồng Cổ Loa năm 1982,phat_hien_trong_dong_tai_ma_tre,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+HSTATUS_000004,Bảo vật quốc gia,HeritageStatus,,Bảo vật Quốc gia,bao_vat_quoc_gia,,,,approved
+PLACE_000005,Di tích Nhà tù Hỏa Lò,Place,,Nhà tù Hỏa Lò|Hỏa Lò Prison Relic|Maison Centrale,di_tich_nha_tu_hoa_lo,,,,approved
+ADDRESS_000003,"Số 1 phố Hỏa Lò, phường Cửa Nam, thành phố Hà Nội",Address,,1 Hỏa Lò|No. 1 Hoa Lo Street,so_1_pho_hoa_lo_phuong_cua_nam_thanh_pho_ha_noi,,,,approved
+ADMIN_000004,Phường Cửa Nam,AdministrativeArea,ward,,phuong_cua_nam,,,,approved
+ORG_000005,Ban Quản lý Di tích Nhà tù Hỏa Lò,Organization,,Ban quản lý Hỏa Lò,ban_quan_ly_di_tich_nha_tu_hoa_lo,,,,approved
+ORG_000006,Chính quyền thực dân Pháp,Organization,,Thực dân Pháp|French colonial administration,chinh_quyen_thuc_dan_phap,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+ARCH_000037,Nhà canh gác Nhà tù Hỏa Lò,Architecture,,Nhà dùng cho việc canh gác,nha_canh_gac_nha_tu_hoa_lo,,,,approved
+ARCH_000038,Cụm bệnh xá Nhà tù Hỏa Lò,Architecture,,Hai nhà bệnh xá,cum_benh_xa_nha_tu_hoa_lo,,,,approved
+ARCH_000039,Khu giam bị can Nhà tù Hỏa Lò,Architecture,,Hai nhà giam bị can,khu_giam_bi_can_nha_tu_hoa_lo,,,,approved
+ARCH_000040,Phân xưởng Nhà tù Hỏa Lò,Architecture,,Nhà phân xưởng,phan_xuong_nha_tu_hoa_lo,,,,approved
+ARCH_000041,Khu giam tù nhân Nhà tù Hỏa Lò,Architecture,,Năm nhà giam tù nhân,khu_giam_tu_nhan_nha_tu_hoa_lo,,,,approved
+ARCH_000042,Đài tưởng niệm Nhà tù Hỏa Lò,Architecture,,Khu tưởng niệm,dai_tuong_niem_nha_tu_hoa_lo,,,,approved
+ARCH_000043,Phòng trưng bày cuộc sống tù binh phi công Mỹ,Architecture,,Phòng trưng bày phi công Mỹ|American pilots exhibition rooms,phong_trung_bay_cuoc_song_tu_binh_phi_cong_my,,,,approved
+HOBJ_000009,Máy chém Nhà tù Hỏa Lò,HeritageObject,,Chiếc máy chém Hỏa Lò,may_chem_nha_tu_hoa_lo,,,,approved
+HOBJ_000010,Mô hình tái tạo chiến sĩ cách mạng trong lao tù,HeritageObject,,Mô hình tù nhân Hỏa Lò,mo_hinh_tai_tao_chien_si_cach_mang_trong_laotu,,,,approved
+PERSON_000017,John Sidney McCain,Person,,John McCain|John Sidney Mc.Cain,john_sidney_mccain,,,,approved
+PERSON_000018,Trần Trọng Duyệt,Person,,Đại tá Trần Trọng Duyệt,tran_trong_duyet,,,,approved
+TIME_000018,Năm 1896,Time,,1896,nam_1896,,,,approved
+TIME_000019,Năm 1954,Time,,1954,nam_1954,,,,approved
+TIME_000020,Giai đoạn 1964–1973,Time,,1964-1973,giai_doan_1964_1973,,,,approved
+TIME_000021,Ngày 18 tháng 6 năm 1997,Time,,18/6/1997|18-06-1997,ngay_18_thang_6_nam_1997,,,,approved
+TIME_000022,Ngày 14 tháng 3 năm 1973,Time,,14/3/1973|14-03-1973,ngay_14_thang_3_nam_1973,,,,approved
+EVENT_000006,Xây dựng Nhà tù Hỏa Lò,Event,,Khởi công Nhà tù Trung ương,xay_dung_nha_tu_hoa_lo,,,,approved
+EVENT_000007,Tiếp quản Nhà tù Hỏa Lò năm 1954,Event,,Quân đội nhân dân Việt Nam tiếp quản Hỏa Lò,tiep_quan_nha_tu_hoa_lo_nam_1954,,,,approved
+EVENT_000008,Giam giữ phi công Mỹ tại Hỏa Lò,Event,,Thời kỳ Hilton Hà Nội,giam_giu_phi_cong_my_tai_hoa_lo,,,,approved
+EVENT_000009,Trao trả phi công Mỹ năm 1973,Event,,Trao trả tù binh phi công Mỹ,trao_tra_phi_cong_my_nam_1973,,,,approved
+ACTIVITY_000009,Giáo dục truyền thống yêu nước và cách mạng,Activity,,Giáo dục truyền thống cách mạng,giao_duc_truyen_thong_yeu_nuoc_va_cach_mang,,,,approved
+ACTIVITY_000010,"Tham quan, nghiên cứu và học tập",Activity,,Tham quan và nghiên cứu di tích,tham_quan_nghien_cuu_va_hoc_tap,,,,approved
+VALUE_000011,12.908 m²,Value,,12908 m2,12908_m2,12908,m²,area,approved
+VALUE_000012,2.434 m²,Value,,2434 m2,2434_m2,2434,m²,area,approved
+PLACE_000006,Di tích Gò Đống Đa,Place,,Gò Đống Đa|Công viên Văn hóa Đống Đa|Di tích quốc gia đặc biệt Gò Đống Đa,di_tich_go_dong_da,,,,approved
+ADDRESS_000004,"Số 4 Đặng Tiến Đông, phường Đống Đa, thành phố Hà Nội",Address,,4 Đặng Tiến Đông|No. 4 Dang Tien Dong,so_4_dang_tien_dong_phuong_dong_da_thanh_pho_ha_noi,,,,approved
+ADMIN_000005,Phường Đống Đa,AdministrativeArea,ward,,phuong_dong_da,,,,approved
+ORG_000007,Ban Quản lý Công viên Văn hóa Đống Đa,Organization,,Ban Quản lý Di tích Gò Đống Đa,ban_quan_ly_cong_vien_van_hoa_dong_da,,,,approved
+PERSON_000019,Quang Trung – Nguyễn Huệ,Person,,Hoàng đế Quang Trung|Nguyễn Huệ|Nguyễn Quang Bình|Bắc Bình Vương,quang_trung_nguyen_hue,,,,approved
+PERSON_000020,Lê Ngọc Hân,Person,,Bắc cung Hoàng hậu Ngọc Hân|Ngọc Hân công chúa,le_ngoc_han,,,,approved
+PERSON_000021,Sầm Nghi Đống,Person,,Thái thú Điền Châu Sầm Nghi Đống,sam_nghi_dong,,,,approved
+DYNASTY_000007,Nhà Tây Sơn,Dynasty,,Triều Tây Sơn|Vương triều Tây Sơn,nha_tay_son,,,,approved
+DYNASTY_000008,Nhà Thanh,Dynasty,,Triều Thanh|Đại Thanh,nha_thanh,,,,approved
+ARCHSITE_000005,Gò Đống Đa lịch sử,ArchaeologicalSite,,Gò Đống Đa nguyên gốc|Gò Đống Đa,go_dong_da_lich_su,,,,approved
+ARCH_000044,Cụm cổng ra vào Gò Đống Đa,Architecture,,Cổng phố Tây Sơn|Cổng số 2 Đặng Tiến Đông|Cổng số 4 Đặng Tiến Đông,cum_cong_ra_vao_go_dong_da,,,,approved
+ARCH_000045,Nghi môn Gò Đống Đa,Architecture,,Nghi Môn,nghi_mon_go_dong_da,,,,approved
+ARCH_000046,Tượng đài Quang Trung,Architecture,,Tượng đài Hoàng đế Quang Trung,tuong_dai_quang_trung,,,,approved
+ARCH_000047,Đền thờ Hoàng đế Quang Trung,Architecture,,Điện thờ Hoàng đế Quang Trung,den_tho_hoang_de_quang_trung,,,,approved
+ARCH_000048,Nhà trưng bày Quang Trung và Chiến thắng Ngọc Hồi – Đống Đa,Architecture,,Nhà trưng bày Quang Trung,nha_trung_bay_quang_trung_va_chien_thang_ngoc_hoi_dong_da,,,,approved
+ARCH_000049,Cụm phù điêu Chiến thắng Ngọc Hồi – Đống Đa,Architecture,,Hai bức phù điêu sau tượng đài Quang Trung,cum_phu_dieu_chien_thang_ngoc_hoi_dong_da,,,,approved
+HOBJ_000011,Sa bàn trận chiến Ngọc Hồi – Đống Đa,HeritageObject,,Sa bàn Chiến thắng Ngọc Hồi – Đống Đa,sa_ban_tran_chien_ngoc_hoi_dong_da,,,,approved
+TIME_000023,Mùa xuân năm Kỷ Dậu 1789,Time,,Năm 1789|Xuân Kỷ Dậu,mua_xuan_nam_ky_dau_1789,,,,approved
+TIME_000024,Mùng 5 Tết Nguyên Đán,Time,,Ngày mùng 5 tháng Giêng âm lịch,mung_5_tet_nguyen_dan,,,,approved
+TIME_000025,Ngày 24 tháng 12 năm 2018,Time,,24/12/2018|24-12-2018,ngay_24_thang_12_nam_2018,,,,approved
+TIME_000026,Năm 2010,Time,,2010,nam_2010,,,,approved
+TIME_000027,Giai đoạn 2014–2015,Time,,Mùa xuân 2014 đến tháng Giêng 2015,giai_doan_2014_2015,,,,approved
+EVENT_000010,Chiến thắng Ngọc Hồi – Đống Đa,Event,,Trận Ngọc Hồi – Đống Đa|Đại phá quân Thanh,chien_thang_ngoc_hoi_dong_da,,,,approved
+EVENT_000011,Lễ hội Gò Đống Đa,Event,,Giỗ trận Đống Đa|Hội Gò Đống Đa,le_hoi_go_dong_da,,,,approved
+EVENT_000012,Xếp hạng Gò Đống Đa là Di tích quốc gia đặc biệt,Event,,Quyết định 1820/QĐ-TTg,xep_hang_go_dong_da_la_di_tich_quoc_gia_dac_biet,,,,approved
+EVENT_000013,"Tu bổ, tôn tạo Gò Đống Đa năm 2010",Event,,Tôn tạo Gò Đống Đa dịp 1000 năm Thăng Long – Hà Nội,tu_bo_ton_tao_go_dong_da_nam_2010,,,,approved
+ACTIVITY_000011,Dâng hương và rước kiệu tưởng niệm,Activity,,Dâng hoa dâng hương|Rước kiệu Quang Trung và Ngọc Hân,dang_huong_va_ruoc_kieu_tuong_niem,,,,approved
+ACTIVITY_000012,Biểu diễn võ thuật và múa rồng lửa,Activity,,Múa Rồng lửa Thăng Long|Biểu diễn côn quyền,bieu_dien_vo_thuat_va_mua_rong_lua,,,,approved
+VALUE_000013,"22.120,8 m²",Value,,"Hơn 22120,8 m2",22120_8_m2,22120.8,m²,area,approved
+VALUE_000014,300 m²,Value,,300 m2,300_m2,300,m²,area,approved
+ARCH_000050,Tầng đế thứ nhất Cột cờ Hà Nội,Architecture,,,tang_de_thu_nhat_cot_co_ha_noi,,,,approved
+ARCH_000051,Tầng đế thứ hai Cột cờ Hà Nội,Architecture,,,tang_de_thu_hai_cot_co_ha_noi,,,,approved
+ARCH_000052,Tầng đế thứ ba Cột cờ Hà Nội,Architecture,,,tang_de_thu_ba_cot_co_ha_noi,,,,approved
+ARCH_000053,Thân tháp Cột cờ Hà Nội,Architecture,,,than_thap_cot_co_ha_noi,,,,approved
+ARCH_000054,Lầu vọng canh Cột cờ Hà Nội,Architecture,,,lau_vong_canh_cot_co_ha_noi,,,,approved
+ARCH_000055,Cầu thang xoắn trong thân tháp Cột cờ Hà Nội,Architecture,,,cau_thang_xoan_trong_than_thap_cot_co_ha_noi,,,,approved
+ARCH_000056,Cửa Đông Nghênh Húc Cột cờ Hà Nội,Architecture,,,cua_dong_nghenh_huc_cot_co_ha_noi,,,,approved
+ARCH_000057,Cửa Tây Hồi Quang Cột cờ Hà Nội,Architecture,,,cua_tay_hoi_quang_cot_co_ha_noi,,,,approved
+ARCH_000058,Cửa Nam Hướng Minh Cột cờ Hà Nội,Architecture,,,cua_nam_huong_minh_cot_co_ha_noi,,,,approved
+ARCH_000059,Nhóm ô cửa hình hoa thị Cột cờ Hà Nội,Architecture,,,nhom_o_cua_hinh_hoa_thi_cot_co_ha_noi,,,,approved
+ARCH_000060,Nhóm ô cửa hình rẻ quạt Cột cờ Hà Nội,Architecture,,,nhom_o_cua_hinh_re_quat_cot_co_ha_noi,,,,approved
+ARCH_000061,Nhóm cửa sổ lầu vọng canh Cột cờ Hà Nội,Architecture,,,nhom_cua_so_lau_vong_canh_cot_co_ha_noi,,,,approved
+ARCH_000062,Trụ tròn giữa lầu vọng canh Cột cờ Hà Nội,Architecture,,,tru_tron_giua_lau_vong_canh_cot_co_ha_noi,,,,approved
+VALUE_000015,"3,1 m",Value,,,3_1_m,3.1,m,height,approved
+VALUE_000016,"42,5 m",Value,,,42_5_m,42.5,m,length,approved
+VALUE_000017,"3,7 m",Value,,,3_7_m,3.7,m,height,approved
+VALUE_000018,27 m,Value,,,27_m,27,m,length,approved
+VALUE_000019,"5,1 m",Value,,,5_1_m,5.1,m,height,approved
+VALUE_000020,"12,8 m",Value,,,12_8_m,12.8,m,length,approved
+VALUE_000021,54 bậc,Value,,,54_bac,54,bậc,step_count,approved
+VALUE_000022,39 ô cửa,Value,,,39_o_cua,39,ô cửa,opening_count,approved
+VALUE_000023,6 ô cửa,Value,,,6_o_cua,6,ô cửa,opening_count,approved
+VALUE_000024,8 cửa sổ,Value,,,8_cua_so,8,cửa sổ,window_count,approved
+VALUE_000025,"3,3 m",Value,,,3_3_m,3.3,m,height,approved
+VALUE_000026,"0,4 m",Value,,,0_4_m,0.4,m,diameter,approved
+LOCATION_000002,Đường Điện Biên Phủ,Location,,Phố Điện Biên Phủ,duong_dien_bien_phu,,,,approved
+TIME_000028,Năm 1989,Time,,1989,nam_1989,,,,approved
+TIME_000029,Ngày 10 tháng 10 năm 1954,Time,,10/10/1954|1954-10-10,ngay_10_thang_10_nam_1954,,,,approved
+EVENT_000014,Lễ thượng cờ tại Cột cờ Hà Nội ngày 10/10/1954,Event,,,le_thuong_co_tai_cot_co_ha_noi_ngay_10_10_1954,,,,approved
+ACTIVITY_000013,Quan sát quân sự,Activity,,Vọng canh quân sự,quan_sat_quan_su,,,,approved
+PLACE_000007,Ô Quan Chưởng,Place,,Ô Đông Hà|Đông Hà Môn|Đông Hà môn|Ô Thanh Hà|Ô Cửa Đông,o_quan_chuong,,,,approved
+ADDRESS_000005,"Ngã tư Hàng Chiếu – Đào Duy Từ – Thanh Hà – Ô Quan Chưởng, phường Hoàn Kiếm, thành phố Hà Nội",Address,,,nga_tu_hang_chieu_dao_duy_tu_thanh_ha_o_quan_chuong_phuong_hoan_kiem_thanh_pho_ha_noi,,,,approved
+ADMIN_000006,Phường Hoàn Kiếm,AdministrativeArea,ward,,phuong_hoan_kiem,,,,approved
+LOCATION_000003,Phố Ô Quan Chưởng,Location,,,pho_o_quan_chuong,,,,approved
+LOCATION_000004,Phố Hàng Chiếu,Location,,,pho_hang_chieu,,,,approved
+ARCH_000063,Tầng dưới Ô Quan Chưởng,Architecture,,,tang_duoi_o_quan_chuong,,,,approved
+ARCH_000064,Cửa chính Ô Quan Chưởng,Architecture,,,cua_chinh_o_quan_chuong,,,,approved
+ARCH_000065,Cửa phụ bên trái Ô Quan Chưởng,Architecture,,,cua_phu_ben_trai_o_quan_chuong,,,,approved
+ARCH_000066,Cửa phụ bên phải Ô Quan Chưởng,Architecture,,,cua_phu_ben_phai_o_quan_chuong,,,,approved
+ARCH_000067,Vọng lâu Ô Quan Chưởng,Architecture,,,vong_lau_o_quan_chuong,,,,approved
+ARCH_000068,Hệ bậc thang lên vọng lâu Ô Quan Chưởng,Architecture,,,he_bac_thang_len_vong_lau_o_quan_chuong,,,,approved
+ARCH_000069,Lan can vọng lâu Ô Quan Chưởng,Architecture,,,lan_can_vong_lau_o_quan_chuong,,,,approved
+HOBJ_000012,Bia Thân cấm khư tệ tại Ô Quan Chưởng,HeritageObject,,Bia Lệnh cấm trừ tệ Ô Quan Chưởng,bia_than_cam_khu_te_tai_o_quan_chuong,,,,approved
+HOBJ_000013,Bảng chữ Đông Hà Môn tại Ô Quan Chưởng,HeritageObject,,,bang_chu_dong_ha_mon_tai_o_quan_chuong,,,,approved
+PERSON_000022,Hoàng Diệu,Person,,,hoang_dieu,,,,approved
+PERSON_000023,Hoàng Văn Xứng,Person,,,hoang_van_xung,,,,approved
+TIME_000030,Năm 1749,Time,,1749,nam_1749,,,,approved
+TIME_000031,Năm 1785,Time,,1785,nam_1785,,,,approved
+TIME_000032,Năm 1804,Time,,1804,nam_1804,,,,approved
+TIME_000033,Năm 1881,Time,,1881,nam_1881,,,,approved
+EVENT_000015,Lập bia Thân cấm khư tệ tại Ô Quan Chưởng năm 1881,Event,,,lap_bia_than_cam_khu_te_tai_o_quan_chuong_nam_1881,,,,approved
+ASTYLE_000004,Kiến trúc vọng lâu,ArchitecturalStyle,,Kiểu vọng lâu,kien_truc_vong_lau,,,,approved
+MATERIAL_000004,Gạch vồ,Material,,,gach_vo,,,,approved
+ACTIVITY_000014,Canh gác và kiểm soát an ninh cửa ô,Activity,,,canh_gac_va_kiem_soat_an_ninh_cua_o,,,,approved
+VALUE_000027,3 m,Value,,,3_m,3,m,height,approved
+VALUE_000028,"2,5 m",Value,,,2_5_m,2.5,m,height,approved
+VALUE_000029,"1,65 m",Value,,,1_65_m,1.65,m,width,approved
+VALUE_000030,7 m,Value,,,7_m,7,m,thickness,approved
+VALUE_000031,"0,8 m",Value,,,0_8_m,0.8,m,dimension,approved
+VALUE_000032,1 m,Value,,,1_m,1,m,dimension,approved
+PLACE_000008,Tháp Rùa,Place,,Quy Sơn Tháp|Tháp Núi Rùa|Turtle Tower,thap_rua,,,,approved
+PLACE_000009,Hồ Hoàn Kiếm,Place,,Hồ Gươm|Hồ Tả Vọng|Hoan Kiem Lake,ho_hoan_kiem,,,,approved
+LOCATION_000005,Gò Rùa,Location,,Đảo Rùa|Gò Tháp Rùa,go_rua,,,,approved
+ADDRESS_000006,"Gò Rùa, hồ Hoàn Kiếm, thành phố Hà Nội",Address,,,go_rua_ho_hoan_kiem_thanh_pho_ha_noi,,,,approved
+ARCH_000070,Tầng một Tháp Rùa,Architecture,,,tang_mot_thap_rua,,,,approved
+ARCH_000071,Tầng hai Tháp Rùa,Architecture,,,tang_hai_thap_rua,,,,approved
+ARCH_000072,Tầng ba Tháp Rùa,Architecture,,,tang_ba_thap_rua,,,,approved
+ARCH_000073,Tầng đỉnh Tháp Rùa,Architecture,,,tang_dinh_thap_rua,,,,approved
+ARCH_000074,Móng Tháp Rùa,Architecture,,,mong_thap_rua,,,,approved
+ARCH_000075,Cửa tròn phía đông tầng ba Tháp Rùa,Architecture,,,cua_tron_phia_dong_tang_ba_thap_rua,,,,approved
+ARCH_000076,Hệ mái cong Tháp Rùa,Architecture,,,he_mai_cong_thap_rua,,,,approved
+ARCH_000077,Hệ lan can hai tầng dưới Tháp Rùa,Architecture,,,he_lan_can_hai_tang_duoi_thap_rua,,,,approved
+HOBJ_000014,Dòng chữ Quy Sơn Tháp trên Tháp Rùa,HeritageObject,,Quy Sơn Tháp trên cửa tròn,dong_chu_quy_son_thap_tren_thap_rua,,,,approved
+VALUE_000033,"6,28 m",Value,,,6_28_m,6.28,m,length,approved
+VALUE_000034,"4,54 m",Value,,,4_54_m,4.54,m,width,approved
+VALUE_000035,"4,8 m",Value,,,4_8_m,4.8,m,length,approved
+VALUE_000036,"3,64 m",Value,,,3_64_m,3.64,m,width,approved
+VALUE_000037,"2,97 m",Value,,,2_97_m,2.97,m,length,approved
+VALUE_000038,"1,9 m",Value,,,1_9_m,1.9,m,width,approved
+VALUE_000039,"0,68 m",Value,,,0_68_m,0.68,m,diameter,approved
+VALUE_000040,2 m,Value,,,2_m,2,m,side_length,approved
+VALUE_000041,"8,8 m",Value,,,8_8_m,8.8,m,height,approved
+VALUE_000042,Khoảng 350 m²,Value,,,khoang_350_m,350,m²,area,approved
+VALUE_000043,10 cửa,Value,,,10_cua,10,cửa,opening_count,approved
+VALUE_000044,14 cửa,Value,,,14_cua,14,cửa,opening_count,approved
+TIME_000034,Khoảng giữa năm 1884 đến tháng 4 năm 1886,Time,,Khoảng 1884–1886,khoang_giua_nam_1884_den_thang_4_nam_1886,,,,approved
+ASTYLE_000005,Kiến trúc Gothic,ArchitecturalStyle,,Kiến trúc gô-tích|Gothic,kien_truc_gothic,,,,approved
+ASTYLE_000006,Kiến trúc truyền thống Việt Nam,ArchitecturalStyle,,,kien_truc_truyen_thong_viet_nam,,,,approved
+EVENT_000016,Không gian chiếu sáng nghệ thuật Hồ Gươm–Tháp Rùa 2025–2026,Event,,,khong_gian_chieu_sang_nghe_thuat_ho_guomthap_rua_20252026,,,,approved
+TIME_000035,Từ ngày 24/12/2025 đến ngày 04/01/2026,Time,,2025-12-24/2026-01-04,tu_ngay_24_12_2025_den_ngay_04_01_2026,,,,approved
+PLACE_000010,Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch,Place,,Khu Di tích Phủ Chủ tịch|Khu lưu niệm Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch,khu_di_tich_chu_tich_ho_chi_minh_tai_phu_chu_tich,,,,approved
+ADDRESS_000007,"Số 1 Hoàng Hoa Thám (Cổng Đỏ), Ba Đình, Hà Nội",Address,,"1 Hoàng Hoa Thám, Cổng Đỏ",so_1_hoang_hoa_tham_cong_do_ba_dinh_ha_noi,,,,approved
+PERSON_000024,Hồ Chí Minh,Person,,Chủ tịch Hồ Chí Minh|Bác Hồ|Nguyễn Ái Quốc|Nguyễn Tất Thành,ho_chi_minh,,,,approved
+ARCH_000078,Nhà 54 tại Khu Di tích Phủ Chủ tịch,Architecture,,Di tích Nhà 54,nha_54_tai_khu_di_tich_phu_chu_tich,,,,approved
+ARCH_000079,Nhà sàn Bác Hồ tại Phủ Chủ tịch,Architecture,,Nhà sàn Bác Hồ|Di tích Nhà sàn,nha_san_bac_ho_tai_phu_chu_tich,,,,approved
+ARCH_000080,Nhà 67 tại Khu Di tích Phủ Chủ tịch,Architecture,,Di tích Nhà 67|DK2,nha_67_tai_khu_di_tich_phu_chu_tich,,,,approved
+ARCH_000081,Phòng làm việc Nhà 54,Architecture,,,phong_lam_viec_nha_54,,,,approved
+ARCH_000082,Phòng ăn Nhà 54,Architecture,,,phong_an_nha_54,,,,approved
+ARCH_000083,Phòng ngủ Nhà 54,Architecture,,,phong_ngu_nha_54,,,,approved
+ARCH_000084,Ao cá Bác Hồ tại Khu Di tích Phủ Chủ tịch,Architecture,,Ao cá Bác Hồ,ao_ca_bac_ho_tai_khu_di_tich_phu_chu_tich,,,,approved
+VALUE_000045,Khoảng 3.200 m²,Value,,,khoang_3_200_m,3200,m²,area,approved
+HOBJ_000015,Bộ đồ ăn của Hồ Chí Minh tại Nhà 54,HeritageObject,,,bo_do_an_cua_ho_chi_minh_tai_nha_54,,,,approved
+HOBJ_000016,Giường ngủ của Hồ Chí Minh tại Nhà 54,HeritageObject,,,giuong_ngu_cua_ho_chi_minh_tai_nha_54,,,,approved
+HOBJ_000017,Tủ quần áo của Hồ Chí Minh tại Nhà 54,HeritageObject,,,tu_quan_ao_cua_ho_chi_minh_tai_nha_54,,,,approved
+HOBJ_000018,Đài ZENITH của Hồ Chí Minh tại Nhà 67,HeritageObject,,,dai_zenith_cua_ho_chi_minh_tai_nha_67,,,,approved
+HOBJ_000019,Đồng hồ cạnh giường tại Nhà 67,HeritageObject,,,dong_ho_canh_giuong_tai_nha_67,,,,approved
+HOBJ_000020,Hai bản đồ quân sự tại Nhà 67,HeritageObject,,,hai_ban_do_quan_su_tai_nha_67,,,,approved
+TIME_000036,Ngày 12 tháng 8 năm 2009,Time,,12/08/2009|2009-08-12,ngay_12_thang_8_nam_2009,,,,approved
+TIME_000037,Ngày 1 tháng 5 năm 1967,Time,,01/05/1967|1967-05-01,ngay_1_thang_5_nam_1967,,,,approved
+TIME_000038,Ngày 17 tháng 5 năm 1958,Time,,17/05/1958|1958-05-17,ngay_17_thang_5_nam_1958,,,,approved
+TIME_000039,Ngày 2 tháng 9 năm 1969,Time,,02/09/1969|1969-09-02,ngay_2_thang_9_nam_1969,,,,approved
+TIME_000040,Từ tháng 12 năm 1954 đến giữa tháng 5 năm 1958,Time,,12/1954–05/1958,tu_thang_12_nam_1954_den_giua_thang_5_nam_1958,,,,approved
+TIME_000041,Từ tháng 5 năm 1958 đến tháng 8 năm 1969,Time,,05/1958–08/1969,tu_thang_5_nam_1958_den_thang_8_nam_1969,,,,approved
+EVENT_000017,Hồ Chí Minh ở và làm việc tại Nhà 54,Event,,,ho_chi_minh_o_va_lam_viec_tai_nha_54,,,,approved
+EVENT_000018,Hồ Chí Minh ở và làm việc tại Nhà sàn Phủ Chủ tịch,Event,,,ho_chi_minh_o_va_lam_viec_tai_nha_san_phu_chu_tich,,,,approved
+EVENT_000019,Chủ tịch Hồ Chí Minh qua đời tại Nhà 67,Event,,,chu_tich_ho_chi_minh_qua_doi_tai_nha_67,,,,approved
+MATERIAL_000005,Bê tông cốt thép,Material,,,be_tong_cot_thep,,,,approved
+ACTIVITY_000015,Họp Bộ Chính trị,Activity,,,hop_bo_chinh_tri,,,,approved
+PERSON_000025,Nguyễn Văn Ninh,Person,,Kiến trúc sư Nguyễn Văn Ninh,nguyen_van_ninh,,,,approved
+ASTYLE_000007,Kiến trúc nhà sàn dân tộc Việt Bắc,ArchitecturalStyle,,,kien_truc_nha_san_dan_toc_viet_bac,,,,approved
+PLACE_000011,Lăng Chủ tịch Hồ Chí Minh,Place,,Lăng Bác|Lăng Hồ Chủ tịch|Ho Chi Minh Mausoleum,lang_chu_tich_ho_chi_minh,,,,approved
+ADDRESS_000008,"Quảng trường Ba Đình, đường Hùng Vương, phường Ba Đình, Hà Nội",Address,,,quang_truong_ba_dinh_duong_hung_vuong_phuong_ba_dinh_ha_noi,,,,approved
+LOCATION_000006,Quảng trường Ba Đình,Location,,,quang_truong_ba_dinh,,,,approved
+ARCH_000085,Bệ tam cấp Lăng Chủ tịch Hồ Chí Minh,Architecture,,,be_tam_cap_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000086,Khối trung tâm Lăng Chủ tịch Hồ Chí Minh,Architecture,,,khoi_trung_tam_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000087,Mái tam cấp Lăng Chủ tịch Hồ Chí Minh,Architecture,,,mai_tam_cap_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000088,Phòng thi hài Lăng Chủ tịch Hồ Chí Minh,Architecture,,,phong_thi_hai_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000089,Tiền sảnh Lăng Chủ tịch Hồ Chí Minh,Architecture,,,tien_sanh_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000090,Hệ cầu thang Lăng Chủ tịch Hồ Chí Minh,Architecture,,,he_cau_thang_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000091,Hàng cột vuông Lăng Chủ tịch Hồ Chí Minh,Architecture,,,hang_cot_vuong_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000092,Hệ cửa gỗ Lăng Chủ tịch Hồ Chí Minh,Architecture,,,he_cua_go_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000093,Lễ đài phía Nam Lăng Chủ tịch Hồ Chí Minh,Architecture,,,le_dai_phia_nam_lang_chu_tich_ho_chi_minh,,,,approved
+ARCH_000094,Lễ đài phía Bắc Lăng Chủ tịch Hồ Chí Minh,Architecture,,,le_dai_phia_bac_lang_chu_tich_ho_chi_minh,,,,approved
+HOBJ_000021,Dòng chữ Chủ tịch Hồ Chí Minh trên mặt chính Lăng,HeritageObject,,,dong_chu_chu_tich_ho_chi_minh_tren_mat_chinh_lang,,,,approved
+HOBJ_000022,Hai hình cờ Đảng và cờ Tổ quốc ghép đá trong Lăng,HeritageObject,,,hai_hinh_co_dang_va_co_to_quoc_ghep_da_trong_lang,,,,approved
+MATERIAL_000006,Đá hoa cương,Material,,Đá granite,da_hoa_cuong,,,,approved
+MATERIAL_000007,Đá cẩm thạch,Material,,Đá marble,da_cam_thach,,,,approved
+MATERIAL_000008,Đá hoa cương đỏ hồng,Material,,Granite đỏ hồng,da_hoa_cuong_do_hong,,,,approved
+VALUE_000046,"21,6 m",Value,,,21_6_m,21.6,m,height,approved
+VALUE_000047,"41,2 m",Value,,,41_2_m,41.2,m,width,approved
+VALUE_000048,65 m,Value,,,65_m,65,m,length,approved
+TIME_000042,Ngày 2 tháng 9 năm 1973,Time,,02/09/1973|1973-09-02,ngay_2_thang_9_nam_1973,,,,approved
+TIME_000043,Ngày 29 tháng 8 năm 1975,Time,,29/08/1975|1975-08-29,ngay_29_thang_8_nam_1975,,,,approved
+TIME_000044,Ngày 27 tháng 10 năm 1973,Time,,27/10/1973|1973-10-27,ngay_27_thang_10_nam_1973,,,,approved
+TIME_000045,Ngày 19 tháng 5 năm 2001,Time,,19/05/2001|2001-05-19,ngay_19_thang_5_nam_2001,,,,approved
+EVENT_000020,Khởi công xây dựng Lăng Chủ tịch Hồ Chí Minh,Event,,,khoi_cong_xay_dung_lang_chu_tich_ho_chi_minh,,,,approved
+EVENT_000021,Khánh thành Lăng Chủ tịch Hồ Chí Minh,Event,,,khanh_thanh_lang_chu_tich_ho_chi_minh,,,,approved
+EVENT_000022,Đổ mẻ bê tông móng đầu tiên của Lăng Chủ tịch Hồ Chí Minh,Event,,,do_me_be_tong_mong_dau_tien_cua_lang_chu_tich_ho_chi_minh,,,,approved
+EVENT_000023,Lễ chào cờ đầu tiên trước Lăng Chủ tịch Hồ Chí Minh,Event,,,le_chao_co_dau_tien_truoc_lang_chu_tich_ho_chi_minh,,,,approved
+ACTIVITY_000016,Viếng Chủ tịch Hồ Chí Minh tại Lăng,Activity,,,vieng_chu_tich_ho_chi_minh_tai_lang,,,,approved
+PLACE_000012,Khu di tích K9 Đá Chông,Place,,Khu Di tích Chủ tịch Hồ Chí Minh tại Đá Chông|Khu căn cứ K9|Khu căn cứ K84|K9 Đá Chông,khu_di_tich_k9_da_chong,,,,approved
+ADDRESS_000009,"Đá Chông, xã Bất Bạt, thành phố Hà Nội",Address,,,da_chong_xa_bat_bat_thanh_pho_ha_noi,,,,approved
+ADMIN_000007,Xã Bất Bạt,AdministrativeArea,commune,,xa_bat_bat,,,,approved
+ARCH_000095,Nhà hai tầng tại K9 Đá Chông,Architecture,,,nha_hai_tang_tai_k9_da_chong,,,,approved
+ARCH_000096,Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9 Đá Chông,Architecture,,,nha_tuong_niem_chu_tich_ho_chi_minh_tai_k9_da_chong,,,,approved
+ARCH_000097,Nhà kính tại K9 Đá Chông,Architecture,,,nha_kinh_tai_k9_da_chong,,,,approved
+ARCH_000098,Phòng làm việc tại K9 Đá Chông,Architecture,,,phong_lam_viec_tai_k9_da_chong,,,,approved
+ARCH_000099,Phòng họp tại K9 Đá Chông,Architecture,,,phong_hop_tai_k9_da_chong,,,,approved
+ARCH_000100,Nhà phục vụ tại K9 Đá Chông,Architecture,,,nha_phuc_vu_tai_k9_da_chong,,,,approved
+ARCH_000101,Nhà khách Trung ương tại K9 Đá Chông,Architecture,,,nha_khach_trung_uong_tai_k9_da_chong,,,,approved
+ARCH_000102,Mái thượng Nhà tưởng niệm tại K9 Đá Chông,Architecture,,,mai_thuong_nha_tuong_niem_tai_k9_da_chong,,,,approved
+ARCH_000103,Mái hạ Nhà tưởng niệm tại K9 Đá Chông,Architecture,,,mai_ha_nha_tuong_niem_tai_k9_da_chong,,,,approved
+HOBJ_000023,Xe UAZ cứu thương FH-1468 tại K9,HeritageObject,,,xe_uaz_cuu_thuong_fh_1468_tai_k9,,,,approved
+HOBJ_000024,Xe ZIL 157 biển số 470-189 tại K9,HeritageObject,,,xe_zil_157_bien_so_470_189_tai_k9,,,,approved
+HOBJ_000025,Xe PAP biển số 31-162 tại K9,HeritageObject,,,xe_pap_bien_so_31_162_tai_k9,,,,approved
+HOBJ_000026,Hệ thống tổng đài điện thoại tại K9,HeritageObject,,,he_thong_tong_dai_dien_thoai_tai_k9,,,,approved
+TIME_000046,Tháng 5 năm 1957,Time,,05/1957|1957-05,thang_5_nam_1957,,,,approved
+TIME_000047,Ngày 23 tháng 2 năm 1958,Time,,23/02/1958|1958-02-23,ngay_23_thang_2_nam_1958,,,,approved
+TIME_000048,Ngày 15 tháng 3 năm 1960,Time,,15/03/1960|1960-03-15,ngay_15_thang_3_nam_1960,,,,approved
+TIME_000049,Ngày 17 tháng 3 năm 2014,Time,,17/03/2014|2014-03-17,ngay_17_thang_3_nam_2014,,,,approved
+TIME_000050,Ngày 2 tháng 9 năm 2015,Time,,02/09/2015|2015-09-02,ngay_2_thang_9_nam_2015,,,,approved
+TIME_000051,Ngày 13 tháng 3 năm 1961,Time,,13/03/1961|1961-03-13,ngay_13_thang_3_nam_1961,,,,approved
+TIME_000052,Ngày 23 tháng 2 năm 1962,Time,,23/02/1962|1962-02-23,ngay_23_thang_2_nam_1962,,,,approved
+EVENT_000024,Hồ Chí Minh dừng chân tại Đá Chông tháng 5/1957,Event,,,ho_chi_minh_dung_chan_tai_da_chong_thang_5_1957,,,,approved
+EVENT_000025,Hồ Chí Minh khảo sát và chọn Đá Chông làm căn cứ Trung ương năm 1958,Event,,,ho_chi_minh_khao_sat_va_chon_da_chong_lam_can_cu_trung_uong_nam_1958,,,,approved
+EVENT_000026,Khánh thành Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9,Event,,,khanh_thanh_nha_tuong_niem_chu_tich_ho_chi_minh_tai_k9,,,,approved
+EVENT_000027,Hồ Chí Minh tiếp Đặng Dĩnh Siêu tại K9,Event,,,ho_chi_minh_tiep_dang_dinh_sieu_tai_k9,,,,approved
+EVENT_000028,Hồ Chí Minh tiếp Giéc man Ti tốp tại K9,Event,,,ho_chi_minh_tiep_giec_man_ti_top_tai_k9,,,,approved
+PERSON_000026,Đặng Dĩnh Siêu,Person,,,dang_dinh_sieu,,,,approved
+PERSON_000027,Giéc man Ti tốp,Person,,Gherman Titov|German Titov|G. M. Titov,giec_man_ti_top,,,,approved
+PLACE_000013,Nhà số 48 Hàng Ngang,Place,,Di tích 48 Hàng Ngang|Ngôi nhà 48 Hàng Ngang,nha_so_48_hang_ngang,,,,approved
+ADDRESS_000010,"48 phố Hàng Ngang, Hà Nội",Address,,,48_pho_hang_ngang_ha_noi,,,,approved
+ADDRESS_000011,"35 phố Hàng Cân, Hà Nội",Address,,,35_pho_hang_can_ha_noi,,,,approved
+LOCATION_000007,Phố Hàng Ngang,Location,,,pho_hang_ngang,,,,approved
+LOCATION_000008,Phố Hàng Cân,Location,,,pho_hang_can,,,,approved
+PERSON_000028,Trịnh Văn Bô,Person,,,trinh_van_bo,,,,approved
+PERSON_000029,Hoàng Thị Minh Hồ,Person,,,hoang_thi_minh_ho,,,,approved
+ARCH_000104,Tầng một tại Nhà số 48 Hàng Ngang,Architecture,,,tang_mot_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000105,Tầng hai tại Nhà số 48 Hàng Ngang,Architecture,,,tang_hai_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000106,Phòng ở và làm việc của Hồ Chí Minh tại Nhà số 48 Hàng Ngang,Architecture,,,phong_o_va_lam_viec_cua_ho_chi_minh_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000107,Phòng họp Thường vụ Trung ương tại Nhà số 48 Hàng Ngang,Architecture,,,phong_hop_thuong_vu_trung_uong_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000108,Phòng tiếp khách tại Nhà số 48 Hàng Ngang,Architecture,,,phong_tiep_khach_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000109,Sân trong hình vuông tại Nhà số 48 Hàng Ngang,Architecture,,,san_trong_hinh_vuong_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000110,Giếng nước sân trong tại Nhà số 48 Hàng Ngang,Architecture,,,gieng_nuoc_san_trong_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000111,Cửa chính tại Nhà số 48 Hàng Ngang,Architecture,,,cua_chinh_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000112,Cửa hậu tại Nhà số 48 Hàng Ngang,Architecture,,,cua_hau_tai_nha_so_48_hang_ngang,,,,approved
+ARCH_000113,Phòng tưởng niệm Hồ Chí Minh tầng ba tại Nhà số 48 Hàng Ngang,Architecture,,,phong_tuong_niem_ho_chi_minh_tang_ba_tai_nha_so_48_hang_ngang,,,,approved
+HOBJ_000027,Bàn nhỏ Hồ Chí Minh làm việc tại Nhà số 48 Hàng Ngang,HeritageObject,,,ban_nho_ho_chi_minh_lam_viec_tai_nha_so_48_hang_ngang,,,,approved
+HOBJ_000028,Bàn chữ nhật phòng họp tại Nhà số 48 Hàng Ngang,HeritageObject,,,ban_chu_nhat_phong_hop_tai_nha_so_48_hang_ngang,,,,approved
+HOBJ_000029,Nhóm ghế tựa phòng họp tại Nhà số 48 Hàng Ngang,HeritageObject,,,nhom_ghe_tua_phong_hop_tai_nha_so_48_hang_ngang,,,,approved
+HOBJ_000030,Giường Hồ Chí Minh từng nghỉ tại Nhà số 48 Hàng Ngang,HeritageObject,,,giuong_ho_chi_minh_tung_nghi_tai_nha_so_48_hang_ngang,,,,approved
+TIME_000053,Ngày 25 tháng 8 năm 1945,Time,,25/08/1945|1945-08-25,ngay_25_thang_8_nam_1945,,,,approved
+TIME_000054,Ngày 26 tháng 8 năm 1945,Time,,26/08/1945|1945-08-26,ngay_26_thang_8_nam_1945,,,,approved
+TIME_000055,Ngày 29 tháng 4 năm 1979,Time,,29/04/1979|1979-04-29,ngay_29_thang_4_nam_1979,,,,approved
+TIME_000056,Từ ngày 25/8 đến ngày 2/9/1945,Time,,1945-08-25/1945-09-02,tu_ngay_25_8_den_ngay_2_9_1945,,,,approved
+EVENT_000029,Hồ Chí Minh đến ở Nhà số 48 Hàng Ngang,Event,,,ho_chi_minh_den_o_nha_so_48_hang_ngang,,,,approved
+EVENT_000030,Cuộc họp Thường vụ Trung ương tại 48 Hàng Ngang ngày 26/8/1945,Event,,,cuoc_hop_thuong_vu_trung_uong_tai_48_hang_ngang_ngay_26_8_1945,,,,approved
+EVENT_000031,Hồ Chí Minh soạn thảo Tuyên ngôn Độc lập tại 48 Hàng Ngang,Event,,,ho_chi_minh_soan_thao_tuyen_ngon_doc_lap_tai_48_hang_ngang,,,,approved
+ACTIVITY_000017,Soạn thảo Tuyên ngôn Độc lập năm 1945,Activity,,,soan_thao_tuyen_ngon_doc_lap_nam_1945,,,,approved
+ACTIVITY_000018,Dâng hương tưởng niệm Hồ Chí Minh,Activity,,,dang_huong_tuong_niem_ho_chi_minh,,,,approved
+PLACE_000014,Di tích cách mạng 5D Hàm Long,Place,,Nhà số 5D Hàm Long|Di tích nhà 5D phố Hàm Long,di_tich_cach_mang_5d_ham_long,,,,approved
+ADDRESS_000012,"5D phố Hàm Long, phường Cửa Nam, thành phố Hà Nội",Address,,,5d_pho_ham_long_phuong_cua_nam_thanh_pho_ha_noi,,,,approved
+LOCATION_000009,Phố Hàm Long,Location,,,pho_ham_long,,,,approved
+PERSON_000030,Ngô Gia Tự,Person,,,ngo_gia_tu,,,,approved
+PERSON_000031,Nguyễn Đức Cảnh,Person,,,nguyen_duc_canh,,,,approved
+PERSON_000032,Trần Văn Cung,Person,,Quốc Anh,tran_van_cung,,,,approved
+PERSON_000033,Trịnh Đình Cửu,Person,,,trinh_dinh_cuu,,,,approved
+PERSON_000034,Đỗ Ngọc Du,Person,,,do_ngoc_du,,,,approved
+PERSON_000035,Nguyễn Phong Sắc,Person,,,nguyen_phong_sac,,,,approved
+PERSON_000036,Dương Hạc Đính,Person,,,duong_hac_dinh,,,,approved
+PERSON_000037,Nguyễn Tuân (Chi bộ 5D Hàm Long),Person,,Nguyễn Tuân,nguyen_tuan_chi_bo_5d_ham_long,,,,approved
+PERSON_000038,Nguyễn Thị Liên,Person,,,nguyen_thi_lien,,,,approved
+ARCH_000114,Gian ở lịch sử Nhà 5D Hàm Long,Architecture,,,gian_o_lich_su_nha_5d_ham_long,,,,approved
+ARCH_000115,Sân sau Nhà 5D Hàm Long,Architecture,,,san_sau_nha_5d_ham_long,,,,approved
+ARCH_000116,Bếp Nhà 5D Hàm Long,Architecture,,,bep_nha_5d_ham_long,,,,approved
+ARCH_000117,Nhà vệ sinh Nhà 5D Hàm Long,Architecture,,,nha_ve_sinh_nha_5d_ham_long,,,,approved
+HOBJ_000031,Bộ tràng kỷ phục chế tại 5D Hàm Long,HeritageObject,,,bo_trang_ky_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000032,Bộ ấm tích phục chế tại 5D Hàm Long,HeritageObject,,,bo_am_tich_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000033,Nhóm bốn ghế đẩu phục chế tại 5D Hàm Long,HeritageObject,,,nhom_bon_ghe_dau_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000034,Giường gỗ phục chế tại 5D Hàm Long,HeritageObject,,,giuong_go_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000035,Nhóm hai hòm gỗ phục chế tại 5D Hàm Long,HeritageObject,,,nhom_hai_hom_go_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000036,Nhóm nồi chảo và bát đĩa phục chế tại 5D Hàm Long,HeritageObject,,,nhom_noi_chao_va_bat_dia_phuc_che_tai_5d_ham_long,,,,approved
+TIME_000057,Cuối tháng 3 năm 1929,Time,,Cuối tháng 03/1929,cuoi_thang_3_nam_1929,,,,approved
+TIME_000058,Ngày 25 tháng 11 năm 1959,Time,,25/11/1959|1959-11-25,ngay_25_thang_11_nam_1959,,,,approved
+TIME_000059,Ngày 13 tháng 1 năm 1964,Time,,13/01/1964|1964-01-13,ngay_13_thang_1_nam_1964,,,,approved
+TIME_000060,Năm 2000,Time,,2000,nam_2000,,,,approved
+ORG_000008,Chi bộ Cộng sản 5D Hàm Long,Organization,,Chi bộ Cộng sản đầu tiên ở Việt Nam|Chi bộ 5D Hàm Long,chi_bo_cong_san_5d_ham_long,,,,approved
+ROLE_000003,Bí thư Chi bộ Cộng sản 5D Hàm Long,Role,,,bi_thu_chi_bo_cong_san_5d_ham_long,,,,approved
+EVENT_000032,Thành lập Chi bộ Cộng sản đầu tiên tại 5D Hàm Long,Event,,,thanh_lap_chi_bo_cong_san_dau_tien_tai_5d_ham_long,,,,approved
+VALUE_000049,24 m²,Value,,,24_m,24,m²,area,approved
+PLACE_000015,Thành cổ Sơn Tây,Place,,Thành Sơn Tây|Sơn Tây cổ thành,thanh_co_son_tay,,,,approved
+ADDRESS_000013,"Cửa Tiền, phố Quang Trung, Sơn Tây, Hà Nội",Address,,,cua_tien_pho_quang_trung_son_tay_ha_noi,,,,approved
+LOCATION_000010,Phố Quang Trung (Sơn Tây),Location,,,pho_quang_trung_son_tay,,,,approved
+LOCATION_000011,Phố Lê Lợi (Sơn Tây),Location,,,pho_le_loi_son_tay,,,,approved
+ARCH_000118,Cửa Tiền Thành cổ Sơn Tây,Architecture,,Cửa Nam Thành cổ Sơn Tây,cua_tien_thanh_co_son_tay,,,,approved
+ARCH_000119,Cửa Hậu Thành cổ Sơn Tây,Architecture,,Cửa Bắc Thành cổ Sơn Tây,cua_hau_thanh_co_son_tay,,,,approved
+ARCH_000120,Cửa Hữu Thành cổ Sơn Tây,Architecture,,Cửa Tây Thành cổ Sơn Tây,cua_huu_thanh_co_son_tay,,,,approved
+ARCH_000121,Cửa Tả Thành cổ Sơn Tây,Architecture,,Cửa Đông Thành cổ Sơn Tây,cua_ta_thanh_co_son_tay,,,,approved
+ARCH_000122,Tường thành Thành cổ Sơn Tây,Architecture,,,tuong_thanh_thanh_co_son_tay,,,,approved
+ARCH_000123,Hào nước Thành cổ Sơn Tây,Architecture,,,hao_nuoc_thanh_co_son_tay,,,,approved
+ARCH_000124,Kỳ đài Thành cổ Sơn Tây,Architecture,,Cột cờ Thành cổ Sơn Tây,ky_dai_thanh_co_son_tay,,,,approved
+ARCH_000125,Vọng cung Thành cổ Sơn Tây,Architecture,,,vong_cung_thanh_co_son_tay,,,,approved
+ARCH_000126,Đoan môn Thành cổ Sơn Tây,Architecture,,,doan_mon_thanh_co_son_tay,,,,approved
+ARCH_000127,Bình phong Thành cổ Sơn Tây,Architecture,,,binh_phong_thanh_co_son_tay,,,,approved
+ARCH_000128,Sân lát gạch trước điện Thành cổ Sơn Tây,Architecture,,,san_lat_gach_truoc_dien_thanh_co_son_tay,,,,approved
+ARCH_000129,Nhóm bốn giếng nước lịch sử Thành cổ Sơn Tây,Architecture,,,nhom_bon_gieng_nuoc_lich_su_thanh_co_son_tay,,,,approved
+ARCH_000130,Khu trưng bày máy bay Thành cổ Sơn Tây,Architecture,,,khu_trung_bay_may_bay_thanh_co_son_tay,,,,approved
+HOBJ_000037,Nhóm hai súng thần công tại Thành cổ Sơn Tây,HeritageObject,,,nhom_hai_sung_than_cong_tai_thanh_co_son_tay,,,,approved
+HOBJ_000038,Nhóm hai máy bay MiG-21 tại Thành cổ Sơn Tây,HeritageObject,,,nhom_hai_may_bay_mig_21_tai_thanh_co_son_tay,,,,approved
+HOBJ_000039,Máy bay Mi-8 tại Thành cổ Sơn Tây,HeritageObject,,,may_bay_mi_8_tai_thanh_co_son_tay,,,,approved
+MATERIAL_000009,Đá ong,Material,,,da_ong,,,,approved
+ASTYLE_000008,Kiến trúc Vauban,ArchitecturalStyle,,Kiến trúc Vô-băng,kien_truc_vauban,,,,approved
+TIME_000061,Năm 1822,Time,,1822,nam_1822,,,,approved
+TIME_000062,Ngày 15 tháng 10 năm 1994,Time,,15/10/1994|1994-10-15,ngay_15_thang_10_nam_1994,,,,approved
+TIME_000063,Tháng 12 năm 1946,Time,,12/1946|1946-12,thang_12_nam_1946,,,,approved
+EVENT_000033,Cuộc họp Chính phủ tại Thành cổ Sơn Tây tháng 12/1946,Event,,,cuoc_hop_chinh_phu_tai_thanh_co_son_tay_thang_12_1946,,,,approved
+VALUE_000050,Khoảng 400 m,Value,,,khoang_400_m,400,m,length,approved
+VALUE_000051,Khoảng 5 m,Value,,,khoang_5_m,5,m,height,approved
+VALUE_000052,6 m,Value,,,6_m,6,m,width,approved
+VALUE_000053,4 m,Value,,,4_m,4,m,width,approved
+PLACE_000016,Đền Ngọc Sơn,Place,,Ngoc Son Temple,den_ngoc_son,,,,approved
+ADDRESS_000014,"Phố Đinh Tiên Hoàng, Hà Nội",Address,,,pho_dinh_tien_hoang_ha_noi,,,,approved
+LOCATION_000012,Đảo Ngọc trong Hồ Hoàn Kiếm,Location,,Đảo Ngọc Sơn|Đảo Ngọc,dao_ngoc_trong_ho_hoan_kiem,,,,approved
+LOCATION_000013,Phố Đinh Tiên Hoàng,Location,,,pho_dinh_tien_hoang,,,,approved
+ARCH_000131,Nghi môn ngoại Đền Ngọc Sơn,Architecture,,,nghi_mon_ngoai_den_ngoc_son,,,,approved
+ARCH_000132,Tháp Bút Đền Ngọc Sơn,Architecture,,Tháp Bút bên Hồ Gươm,thap_but_den_ngoc_son,,,,approved
+ARCH_000133,Nghi môn nội Đền Ngọc Sơn,Architecture,,,nghi_mon_noi_den_ngoc_son,,,,approved
+ARCH_000134,Đài Nghiên Đền Ngọc Sơn,Architecture,,,dai_nghien_den_ngoc_son,,,,approved
+ARCH_000135,Cầu Thê Húc Đền Ngọc Sơn,Architecture,,,cau_the_huc_den_ngoc_son,,,,approved
+ARCH_000136,Cổng Đắc Nguyệt Đền Ngọc Sơn,Architecture,,Đắc Nguyệt lâu Đền Ngọc Sơn,cong_dac_nguyet_den_ngoc_son,,,,approved
+ARCH_000137,Đình Trấn Ba Đền Ngọc Sơn,Architecture,,,dinh_tran_ba_den_ngoc_son,,,,approved
+ARCH_000138,Tiền tế Đền Ngọc Sơn,Architecture,,,tien_te_den_ngoc_son,,,,approved
+ARCH_000139,Trung đường Đền Ngọc Sơn,Architecture,,,trung_duong_den_ngoc_son,,,,approved
+ARCH_000140,Hậu cung Đền Ngọc Sơn,Architecture,,,hau_cung_den_ngoc_son,,,,approved
+ARCH_000141,Tả vu Đền Ngọc Sơn,Architecture,,,ta_vu_den_ngoc_son,,,,approved
+ARCH_000142,Hữu vu Đền Ngọc Sơn,Architecture,,,huu_vu_den_ngoc_son,,,,approved
+ARCH_000143,Nhà kính thư Đền Ngọc Sơn,Architecture,,,nha_kinh_thu_den_ngoc_son,,,,approved
+ARCH_000144,Nhà hậu Đền Ngọc Sơn,Architecture,,,nha_hau_den_ngoc_son,,,,approved
+PERSON_000039,Nguyễn Văn Siêu,Person,,Phương Đình|Thần Siêu,nguyen_van_sieu,,,,approved
+PERSON_000040,Trần Hưng Đạo,Person,,Trần Quốc Tuấn|Hưng Đạo Đại Vương,tran_hung_dao,,,,approved
+PERSON_000041,Vũ Tông Phan,Person,,,vu_tong_phan,,,,approved
+TIME_000064,Năm 1865,Time,,1865,nam_1865,,,,approved
+TIME_000065,Ngày 9 tháng 12 năm 2013,Time,,09/12/2013|2013-12-09,ngay_9_thang_12_nam_2013,,,,approved
+ORG_000009,Hội Hướng thiện,Organization,,Hội Hướng Thiện Đền Ngọc Sơn,hoi_huong_thien,,,,approved
+HOBJ_000040,Văn bia Bút Tháp chí trên Tháp Bút Đền Ngọc Sơn,HeritageObject,,,van_bia_but_thap_chi_tren_thap_but_den_ngoc_son,,,,approved
+HOBJ_000041,Nghiên mực bằng đá tại Đài Nghiên Đền Ngọc Sơn,HeritageObject,,,nghien_muc_bang_da_tai_dai_nghien_den_ngoc_son,,,,approved
+HOBJ_000042,Bài minh trên thành nghiên Đài Nghiên Đền Ngọc Sơn,HeritageObject,,,bai_minh_tren_thanh_nghien_dai_nghien_den_ngoc_son,,,,approved
+VALUE_000054,5 tầng,Value,,,5_tang,5,tầng,storey_count,approved
+VALUE_000055,15 nhịp,Value,,,15_nhip,15,nhịp,span_count,approved
+ACTIVITY_000019,"In sách thuốc, kinh và sách luận về tín ngưỡng",Activity,,,in_sach_thuoc_kinh_va_sach_luan_ve_tin_nguong,,,,approved
+PLACE_000017,Chùa Một Cột,Place,,Chùa Mật|One Pillar Pagoda,chua_mot_cot,,,,approved
+ADDRESS_000015,"Phố Chùa Một Cột, phường Ba Đình, Hà Nội",Address,,,pho_chua_mot_cot_phuong_ba_dinh_ha_noi,,,,approved
+LOCATION_000014,Phố Chùa Một Cột,Location,,,pho_chua_mot_cot,,,,approved
+LOCATION_000015,Hồ Linh Chiểu tại Chùa Một Cột,Location,,,ho_linh_chieu_tai_chua_mot_cot,,,,approved
+ARCH_000145,Liên Hoa Đài Chùa Một Cột,Architecture,,,lien_hoa_dai_chua_mot_cot,,,,approved
+ARCH_000146,Cột trụ đá Chùa Một Cột,Architecture,,,cot_tru_da_chua_mot_cot,,,,approved
+ARCH_000147,Bộ khung gỗ đỡ đài Chùa Một Cột,Architecture,,,bo_khung_go_do_dai_chua_mot_cot,,,,approved
+ARCH_000148,Hệ bốn mái cong Chùa Một Cột,Architecture,,,he_bon_mai_cong_chua_mot_cot,,,,approved
+ARCH_000149,Thang xây lên đài Chùa Một Cột,Architecture,,,thang_xay_len_dai_chua_mot_cot,,,,approved
+ARCH_000150,Lan can quanh hồ Chùa Một Cột,Architecture,,,lan_can_quanh_ho_chua_mot_cot,,,,approved
+ARCH_000151,Tam quan quần thể Diên Hựu Chùa Một Cột,Architecture,,,tam_quan_quan_the_dien_huu_chua_mot_cot,,,,approved
+ARCH_000152,Nhà Tam Bảo quần thể Diên Hựu Chùa Một Cột,Architecture,,,nha_tam_bao_quan_the_dien_huu_chua_mot_cot,,,,approved
+PERSON_000042,Lý Thái Tông,Person,,Lý Phật Mã|Lý Đức Chính,ly_thai_tong,,,,approved
+PERSON_000043,Nguyễn Bá Lăng,Person,,Kiến trúc sư Nguyễn Bá Lăng,nguyen_ba_lang,,,,approved
+HOBJ_000043,Tượng Bồ tát Quán Thế Âm tại Chùa Một Cột,HeritageObject,,,tuong_bo_tat_quan_the_am_tai_chua_mot_cot,,,,approved
+HOBJ_000044,Biển đề Liên Hoa Đài tại Chùa Một Cột,HeritageObject,,,bien_de_lien_hoa_dai_tai_chua_mot_cot,,,,approved
+HOBJ_000045,Khám thờ sơn son thếp vàng tại Chùa Một Cột,HeritageObject,,,kham_tho_son_son_thep_vang_tai_chua_mot_cot,,,,approved
+TIME_000066,Năm 1049,Time,,1049,nam_1049,,,,approved
+TIME_000067,Tháng 4 năm 1955,Time,,04/1955|1955-04,thang_4_nam_1955,,,,approved
+TIME_000068,Năm 1962,Time,,1962,nam_1962,,,,approved
+TIME_000069,Năm 1105,Time,,1105,nam_1105,,,,approved
+EVENT_000034,Khởi dựng quần thể Diên Hựu – Chùa Một Cột năm 1049,Event,,,khoi_dung_quan_the_dien_huu_chua_mot_cot_nam_1049,,,,approved
+EVENT_000035,Hoàn thành dựng lại Liên Hoa Đài năm 1955,Event,,,hoan_thanh_dung_lai_lien_hoa_dai_nam_1955,,,,approved
+EVENT_000036,Lý Nhân Tông tu bổ mở rộng quần thể Diên Hựu năm 1105,Event,,,ly_nhan_tong_tu_bo_mo_rong_quan_the_dien_huu_nam_1105,,,,approved
+VALUE_000056,"1,2 m",Value,,,1_2_m,1.2,m,diameter,approved
+VALUE_000057,2 khối đá,Value,,,2_khoi_da,2,khối,block_count,approved
+VALUE_000058,4 mái,Value,,,4_mai,4,mái,roof_count,approved
+MATERIAL_000010,Ngói ta,Material,,,ngoi_ta,,,,approved
+ACTIVITY_000020,Cầu bình an,Activity,,,cau_binh_an,,,,approved
+ASTYLE_000009,Kiến trúc hình hoa sen trên một cột,ArchitecturalStyle,,,kien_truc_hinh_hoa_sen_tren_mot_cot,,,,approved
+PLACE_000018,Chùa Trấn Quốc,Place,,Trấn Quốc Tự|Chùa Khai Quốc|Chùa An Quốc|Chùa Trấn Bắc,chua_tran_quoc,,,,approved
+ADDRESS_000016,"Số 30 đường Thanh Niên, phường Tây Hồ, Hà Nội",Address,,,so_30_duong_thanh_nien_phuong_tay_ho_ha_noi,,,,approved
+LOCATION_000016,Đường Thanh Niên,Location,,,duong_thanh_nien,,,,approved
+PLACE_000019,Hồ Tây,Place,,West Lake,ho_tay,,,,approved
+LOCATION_000017,Bán đảo Kim Ngư ở Hồ Tây,Location,,Đảo Cá Vàng Hồ Tây|Đảo Kim Ngưu Hồ Tây,ban_dao_kim_ngu_o_ho_tay,,,,approved
+ARCH_000153,Tiền đường Chùa Trấn Quốc,Architecture,,,tien_duong_chua_tran_quoc,,,,approved
+ARCH_000154,Nhà thiêu hương Chùa Trấn Quốc,Architecture,,,nha_thieu_huong_chua_tran_quoc,,,,approved
+ARCH_000155,Thượng điện Chùa Trấn Quốc,Architecture,,,thuong_dien_chua_tran_quoc,,,,approved
+ARCH_000156,Hành lang tả Chùa Trấn Quốc,Architecture,,,hanh_lang_ta_chua_tran_quoc,,,,approved
+ARCH_000157,Hành lang hữu Chùa Trấn Quốc,Architecture,,,hanh_lang_huu_chua_tran_quoc,,,,approved
+ARCH_000158,Gác chuông Chùa Trấn Quốc,Architecture,,,gac_chuong_chua_tran_quoc,,,,approved
+ARCH_000159,Nhà Tổ Chùa Trấn Quốc,Architecture,,,nha_to_chua_tran_quoc,,,,approved
+ARCH_000160,Nhà bia Chùa Trấn Quốc,Architecture,,,nha_bia_chua_tran_quoc,,,,approved
+ARCH_000161,Bảo tháp Lục Độ Đài Sen Chùa Trấn Quốc,Architecture,,,bao_thap_luc_do_dai_sen_chua_tran_quoc,,,,approved
+ARCH_000162,Vườn tháp Chùa Trấn Quốc,Architecture,,,vuon_thap_chua_tran_quoc,,,,approved
+ARCH_000163,Đài sen Cửu Phẩm Liên Hoa Chùa Trấn Quốc,Architecture,,,dai_sen_cuu_pham_lien_hoa_chua_tran_quoc,,,,approved
+HOBJ_000046,Tượng Thích Ca nhập Niết Bàn Chùa Trấn Quốc,HeritageObject,,,tuong_thich_ca_nhap_niet_ban_chua_tran_quoc,,,,approved
+HOBJ_000047,Bia năm 1639 Chùa Trấn Quốc,HeritageObject,,,bia_nam_1639_chua_tran_quoc,,,,approved
+HOBJ_000048,Bia năm 1815 Chùa Trấn Quốc,HeritageObject,,,bia_nam_1815_chua_tran_quoc,,,,approved
+HOBJ_000049,Nhóm 66 tượng A Di Đà tại Bảo tháp Chùa Trấn Quốc,HeritageObject,,,nhom_66_tuong_a_di_da_tai_bao_thap_chua_tran_quoc,,,,approved
+PERSON_000044,Nguyễn Xuân Chính,Person,,Nguyễn Xuân Chinh,nguyen_xuan_chinh,,,,approved
+PERSON_000045,Phạm Quý Thích,Person,,Phạm Lập Trai,pham_quy_thich,,,,approved
+TIME_000070,Thế kỷ VI,Time,,Thế kỷ 6,the_ky_vi,,,,approved
+TIME_000071,Năm 1615,Time,,1615,nam_1615,,,,approved
+TIME_000072,Năm 1815,Time,,1815,nam_1815,,,,approved
+TIME_000073,Năm 1998,Time,,1998,nam_1998,,,,approved
+EVENT_000037,Dời Chùa Trấn Quốc từ bờ sông Hồng vào Hồ Tây năm 1615,Event,,,doi_chua_tran_quoc_tu_bo_song_hong_vao_ho_tay_nam_1615,,,,approved
+VALUE_000059,11 tầng,Value,,,11_tang,11,tầng,storey_count,approved
+VALUE_000060,15 m,Value,,,15_m,15,m,height,approved
+VALUE_000061,9 tầng,Value,,,9_tang,9,tầng,tier_count,approved
+PLACE_000020,Đền Quán Thánh,Place,,Trấn Vũ Quán|Chân Vũ Quán|Đền Trấn Vũ|Đền Chân Vũ,den_quan_thanh,,,,approved
+ADDRESS_000017,"Số 194 phố Quán Thánh, phường Ba Đình, Hà Nội",Address,,,so_194_pho_quan_thanh_phuong_ba_dinh_ha_noi,,,,approved
+LOCATION_000018,Phố Quán Thánh,Location,,,pho_quan_thanh,,,,approved
+ARCH_000164,Tam quan Đền Quán Thánh,Architecture,,,tam_quan_den_quan_thanh,,,,approved
+ARCH_000165,Sân trước Đền Quán Thánh,Architecture,,,san_truoc_den_quan_thanh,,,,approved
+ARCH_000166,Tiền tế Đền Quán Thánh,Architecture,,,tien_te_den_quan_thanh,,,,approved
+ARCH_000167,Trung tế Đền Quán Thánh,Architecture,,,trung_te_den_quan_thanh,,,,approved
+ARCH_000168,Hậu cung Đền Quán Thánh,Architecture,,,hau_cung_den_quan_thanh,,,,approved
+ARCH_000169,Nghi môn tứ trụ Đền Quán Thánh,Architecture,,,nghi_mon_tu_tru_den_quan_thanh,,,,approved
+HOBJ_000050,Tượng Huyền Thiên Trấn Vũ Đền Quán Thánh,HeritageObject,,,tuong_huyen_thien_tran_vu_den_quan_thanh,,,,approved
+HOBJ_000051,Chuông đồng tại tam quan Đền Quán Thánh,HeritageObject,,,chuong_dong_tai_tam_quan_den_quan_thanh,,,,approved
+HOBJ_000052,Bia trùng tu quán Trấn Vũ năm 1857 Đền Quán Thánh,HeritageObject,,,bia_trung_tu_quan_tran_vu_nam_1857_den_quan_thanh,,,,approved
+HOBJ_000053,Bia quán Chân Vũ năm 1893 Đền Quán Thánh,HeritageObject,,,bia_quan_chan_vu_nam_1893_den_quan_thanh,,,,approved
+HOBJ_000054,Biển đồng Đề Chân Vũ quán năm 1842 Đền Quán Thánh,HeritageObject,,,bien_dong_de_chan_vu_quan_nam_1842_den_quan_thanh,,,,approved
+PERSON_000046,Thiệu Trị,Person,,Nguyễn Phúc Miên Tông,thieu_tri,,,,approved
+PERSON_000047,Lê Huy Vĩnh,Person,,Lê Huy Vinh,le_huy_vinh,,,,approved
+PERSON_000048,Hoàng Cao Khải,Person,,Thái Xuyên,hoang_cao_khai,,,,approved
+TIME_000074,Năm 1618,Time,,1618,nam_1618,,,,approved
+TIME_000075,Năm 1677,Time,,1677,nam_1677,,,,approved
+TIME_000076,Năm 1768,Time,,1768,nam_1768,,,,approved
+TIME_000077,Năm 1836,Time,,1836,nam_1836,,,,approved
+TIME_000078,Năm 1843,Time,,1843,nam_1843,,,,approved
+TIME_000079,Năm 1893,Time,,1893,nam_1893,,,,approved
+TIME_000080,Năm 1941,Time,,1941,nam_1941,,,,approved
+TIME_000081,Thế kỷ XI,Time,,Thế kỷ 11,the_ky_xi,,,,approved
+TIME_000082,Ngày 18 tháng 1 năm 2022,Time,,18/01/2022|2022-01-18,ngay_18_thang_1_nam_2022,,,,approved
+TIME_000083,Ngày 22 tháng 12 năm 2016,Time,,22/12/2016|2016-12-22,ngay_22_thang_12_nam_2016,,,,approved
+MATERIAL_000011,Đồng,Material,,,dong,,,,approved
+ACTIVITY_000021,Thờ Huyền Thiên Trấn Vũ,Activity,,,tho_huyen_thien_tran_vu,,,,approved
+ACTIVITY_000022,Lễ hội truyền thống Đền Quán Thánh,Activity,,Hội đền Quán Thánh,le_hoi_truyen_thong_den_quan_thanh,,,,approved
+PLACE_000021,Phủ Tây Hồ,Place,,,phu_tay_ho,,,,approved
+ADDRESS_000018,"Số 71 ngõ 50 Đặng Thai Mai, phường Tây Hồ, Hà Nội",Address,,,so_71_ngo_50_dang_thai_mai_phuong_tay_ho_ha_noi,,,,approved
+LOCATION_000019,Phố Đặng Thai Mai,Location,,Đường Đặng Thai Mai,pho_dang_thai_mai,,,,approved
+LOCATION_000020,Doi đất đặt Phủ Tây Hồ,Location,,Bán đảo Phủ Tây Hồ,doi_dat_dat_phu_tay_ho,,,,approved
+ADMIN_000008,Phường Tây Hồ,AdministrativeArea,ward,,phuong_tay_ho,,,,approved
+ARCH_000170,Phủ chính Phủ Tây Hồ,Architecture,,,phu_chinh_phu_tay_ho,,,,approved
+ARCH_000171,Tiền tế Phủ Tây Hồ,Architecture,,,tien_te_phu_tay_ho,,,,approved
+ARCH_000172,Trung tế Phủ Tây Hồ,Architecture,,,trung_te_phu_tay_ho,,,,approved
+ARCH_000173,Hậu cung Phủ Tây Hồ,Architecture,,,hau_cung_phu_tay_ho,,,,approved
+ARCH_000174,Điện Sơn Trang Phủ Tây Hồ,Architecture,,,dien_son_trang_phu_tay_ho,,,,approved
+ARCH_000175,Tam quan Phủ Tây Hồ,Architecture,,,tam_quan_phu_tay_ho,,,,approved
+ARCH_000176,Phương đình Phủ Tây Hồ,Architecture,,,phuong_dinh_phu_tay_ho,,,,approved
+ARCH_000177,Lầu Cô Phủ Tây Hồ,Architecture,,,lau_co_phu_tay_ho,,,,approved
+ARCH_000178,Lầu Cậu Phủ Tây Hồ,Architecture,,,lau_cau_phu_tay_ho,,,,approved
+HOBJ_000055,Nhóm bài vị Phủ Tây Hồ,HeritageObject,,,nhom_bai_vi_phu_tay_ho,,,,approved
+HOBJ_000056,Nhóm bát hương Phủ Tây Hồ,HeritageObject,,,nhom_bat_huong_phu_tay_ho,,,,approved
+HOBJ_000057,Nhóm chuông Phủ Tây Hồ,HeritageObject,,,nhom_chuong_phu_tay_ho,,,,approved
+HOBJ_000058,Kiệu bát cống Phủ Tây Hồ,HeritageObject,,,kieu_bat_cong_phu_tay_ho,,,,approved
+HOBJ_000059,Tượng Ngọc Hoàng Phủ Tây Hồ,HeritageObject,,,tuong_ngoc_hoang_phu_tay_ho,,,,approved
+HOBJ_000060,Tượng Nam Tào Phủ Tây Hồ,HeritageObject,,,tuong_nam_tao_phu_tay_ho,,,,approved
+HOBJ_000061,Tượng Bắc Đẩu Phủ Tây Hồ,HeritageObject,,,tuong_bac_dau_phu_tay_ho,,,,approved
+HOBJ_000062,Tượng Mẫu Thượng Ngàn Phủ Tây Hồ,HeritageObject,,,tuong_mau_thuong_ngan_phu_tay_ho,,,,approved
+TIME_000084,Ngày 13 tháng 2 năm 1996,Time,,13/02/1996|1996-02-13,ngay_13_thang_2_nam_1996,,,,approved
+TIME_000085,Năm 2006,Time,,2006,nam_2006,,,,approved
+MATERIAL_000012,Bê tông,Material,,,be_tong,,,,approved
+ASTYLE_000010,Bố cục chữ tam,ArchitecturalStyle,,,bo_cuc_chu_tam,,,,approved
+ACTIVITY_000023,Thờ Mẫu,Activity,,Thực hành tín ngưỡng thờ Mẫu,tho_mau,,,,approved
+ACTIVITY_000024,Lễ hội Phủ Tây Hồ,Activity,,,le_hoi_phu_tay_ho,,,,approved
+HOBJ_000063,Hoành phi Mẫu nghi thiên hạ Phủ Tây Hồ,HeritageObject,,,hoanh_phi_mau_nghi_thien_ha_phu_tay_ho,,,,approved
+HSTATUS_000006,Di tích nghệ thuật cấp quốc gia,HeritageStatus,,,di_tich_nghe_thuat_cap_quoc_gia,,,,approved
+PLACE_000022,Nhà Thờ Lớn Hà Nội,Place,,Nhà thờ Chính Tòa Thánh Giu-se|Nhà thờ Chính tòa Hà Nội|St. Joseph's Cathedral Hanoi|Nhà thờ Thánh Giuse Hà Nội,nha_tho_lon_ha_noi,,,,approved
+ADDRESS_000019,"Số 40 phố Nhà Chung, phường Hoàn Kiếm, Hà Nội",Address,,,so_40_pho_nha_chung_phuong_hoan_kiem_ha_noi,,,,approved
+LOCATION_000021,Phố Nhà Chung,Location,,,pho_nha_chung,,,,approved
+CATEGORY_000003,Công trình tôn giáo Công giáo,TourismCategory,,Nhà thờ Công giáo|Cơ sở Công giáo,cong_trinh_ton_giao_cong_giao,,,,approved
+ARCH_000179,Mặt đứng chính Nhà Thờ Lớn Hà Nội,Architecture,,,mat_dung_chinh_nha_tho_lon_ha_noi,,,,approved
+ARCH_000180,Lòng nhà thờ Nhà Thờ Lớn Hà Nội,Architecture,,,long_nha_tho_nha_tho_lon_ha_noi,,,,approved
+ARCH_000181,Cung thánh Nhà Thờ Lớn Hà Nội,Architecture,,,cung_thanh_nha_tho_lon_ha_noi,,,,approved
+ARCH_000182,Phòng thánh Nhà Thờ Lớn Hà Nội,Architecture,,,phong_thanh_nha_tho_lon_ha_noi,,,,approved
+ARCH_000183,Cặp tháp chuông Nhà Thờ Lớn Hà Nội,Architecture,,,cap_thap_chuong_nha_tho_lon_ha_noi,,,,approved
+ARCH_000184,Hệ mái vòm uốn cong Nhà Thờ Lớn Hà Nội,Architecture,,,he_mai_vom_uon_cong_nha_tho_lon_ha_noi,,,,approved
+ARCH_000185,Bàn thờ Đức Mẹ Nhà Thờ Lớn Hà Nội,Architecture,,,ban_tho_duc_me_nha_tho_lon_ha_noi,,,,approved
+ARCH_000186,Bàn thờ Trái Tim Nhà Thờ Lớn Hà Nội,Architecture,,,ban_tho_trai_tim_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000064,Bộ năm quả chuông Nhà Thờ Lớn Hà Nội,HeritageObject,,,bo_nam_qua_chuong_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000065,Đồng hồ ba mặt Nhà Thờ Lớn Hà Nội,HeritageObject,,,dong_ho_ba_mat_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000066,Nhóm tranh kính màu Nhà Thờ Lớn Hà Nội,HeritageObject,,,nhom_tranh_kinh_mau_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000067,Nhóm màn gỗ chạm Nhà Thờ Lớn Hà Nội,HeritageObject,,,nhom_man_go_cham_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000068,Đại phong cầm Nhà Thờ Lớn Hà Nội,HeritageObject,,,dai_phong_cam_nha_tho_lon_ha_noi,,,,approved
+PERSON_000049,Paul-François Puginier,Person,,Đức cha Puginier|Đức cha Puginier Phước,paul_francois_puginier,,,,approved
+ORG_000010,Tổng Giáo phận Hà Nội,Organization,,Tổng Giáo phận Công giáo Hà Nội|Archdiocese of Hanoi,tong_giao_phan_ha_noi,,,,approved
+TIME_000086,Giai đoạn 1882–1886,Time,,1882-1886,giai_doan_18821886,,,,approved
+TIME_000087,Ngày 24 tháng 12 năm 1886,Time,,24/12/1886|1886-12-24,ngay_24_thang_12_nam_1886,,,,approved
+TIME_000088,Ngày 23 tháng 12 năm 1887,Time,,23/12/1887|1887-12-23,ngay_23_thang_12_nam_1887,,,,approved
+TIME_000089,Ngày 3 tháng 12 năm 1924,Time,,03/12/1924|1924-12-03,ngay_3_thang_12_nam_1924,,,,approved
+TIME_000090,Năm 1999,Time,,1999,nam_1999,,,,approved
+TIME_000091,Giai đoạn 2013–2014,Time,,2013-2014,giai_doan_20132014,,,,approved
+TIME_000092,Năm 2018,Time,,2018,nam_2018,,,,approved
+TIME_000093,Năm 2022,Time,,2022,nam_2022,,,,approved
+EVENT_000038,Thánh lễ đầu tiên tại Nhà Thờ Lớn Hà Nội,Event,,,thanh_le_dau_tien_tai_nha_tho_lon_ha_noi,,,,approved
+EVENT_000039,Lễ khánh thành chính thức Nhà Thờ Lớn Hà Nội,Event,,,le_khanh_thanh_chinh_thuc_nha_tho_lon_ha_noi,,,,approved
+EVENT_000040,Nhà Thờ Lớn Hà Nội trở thành nhà thờ chính tòa,Event,,,nha_tho_lon_ha_noi_tro_thanh_nha_tho_chinh_toa,,,,approved
+ADDRESS_000020,"Xã Đông Anh, thành phố Hà Nội",Address,,"Đông Anh, Hà Nội",xa_dong_anh_thanh_pho_ha_noi,,,,approved
+ADDRESS_000021,"Số 28A đường Điện Biên Phủ, phường Ba Đình, Hà Nội",Address,,,so_28a_duong_dien_bien_phu_phuong_ba_dinh_ha_noi,,,,approved
+CATEGORY_000004,Công trình chính trị – văn hóa,TourismCategory,,Công trình chính trị và văn hóa,cong_trinh_chinh_tri_van_hoa,,,,approved

@@ -1,0 +1,41 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000027,SRC_000019,PLACE_000004,location,"Di tích có địa chỉ tại số 58 phố Quốc Tử Giám, phường Văn Miếu - Quốc Tử Giám, Hà Nội.",normalized_summary,approved
+EVD_000028,SRC_000019,PLACE_000004,location,Văn Miếu – Quốc Tử Giám nằm tại phường Văn Miếu - Quốc Tử Giám.,normalized_summary,approved
+EVD_000029,SRC_000019,PLACE_000004,location,Văn Miếu – Quốc Tử Giám nằm tại thành phố Hà Nội.,normalized_summary,approved
+EVD_000030,SRC_000025,PLACE_000004,classification,"Văn Miếu – Quốc Tử Giám là một di tích lịch sử, văn hóa được Nhà nước xếp hạng.",normalized_summary,approved
+EVD_000031,SRC_000019,PLACE_000004,component,Văn Miếu là bộ phận thờ tự trong quần thể di tích.,normalized_summary,approved
+EVD_000032,SRC_000019,PLACE_000004,component,Quốc Tử Giám là bộ phận giáo dục trong quần thể di tích.,normalized_summary,approved
+EVD_000033,SRC_000019,PLACE_000004,component,Hồ Văn thuộc tổng thể Văn Miếu – Quốc Tử Giám.,normalized_summary,approved
+EVD_000034,SRC_000019,PLACE_000004,component,Vườn Giám thuộc tổng thể Văn Miếu – Quốc Tử Giám.,normalized_summary,approved
+EVD_000035,SRC_000019,PLACE_000004,component,Nội tự của di tích có Khu Nhập Đạo.,normalized_summary,approved
+EVD_000036,SRC_000019,PLACE_000004,component,Nội tự của di tích có Khu Thành Đạt.,normalized_summary,approved
+EVD_000037,SRC_000019,PLACE_000004,component,Nội tự của di tích có Vườn bia Tiến sĩ.,normalized_summary,approved
+EVD_000038,SRC_000019,PLACE_000004,component,Nội tự của di tích có Khu Đại Thành.,normalized_summary,approved
+EVD_000039,SRC_000019,PLACE_000004,component,Nội tự của di tích có Khu Thái Học.,normalized_summary,approved
+EVD_000040,SRC_000020,PLACE_000004,component,Khuê Văn Các nằm trong lớp không gian Khu Thành Đạt.,normalized_summary,approved
+EVD_000041,SRC_000021,PLACE_000004,component,Giếng Thiên Quang nằm chính giữa Vườn bia Tiến sĩ.,normalized_summary,approved
+EVD_000042,SRC_000021,PLACE_000004,component,Hai phía đông và tây của giếng là các dãy bia Tiến sĩ.,normalized_summary,approved
+EVD_000043,SRC_000024,PLACE_000004,component,Điện Đại Thành là công trình thờ tự chính của Khu Đại Thành.,normalized_summary,approved
+EVD_000044,SRC_000022,PLACE_000004,component,Nhà Thái Học là công trình chính trong Khu Thái Học hiện nay.,normalized_summary,approved
+EVD_000045,SRC_000022,PLACE_000004,component,Nhà Thái Học gồm Nhà Tiền Đường.,normalized_summary,approved
+EVD_000046,SRC_000022,PLACE_000004,component,Nhà Thái Học gồm Nhà Hậu Đường.,normalized_summary,approved
+EVD_000047,SRC_000023,PLACE_000004,component,Nhà Chuông nằm một bên Khu Thái Học.,normalized_summary,approved
+EVD_000048,SRC_000023,PLACE_000004,component,Nhà Trống nằm đối xứng với Nhà Chuông trong Khu Thái Học.,normalized_summary,approved
+EVD_000049,SRC_000019,PLACE_000004,history,Văn Miếu được khởi dựng năm 1070.,normalized_summary,approved
+EVD_000050,SRC_000019,PLACE_000004,history,Vua Lý Thánh Tông cho khởi dựng Văn Miếu.,normalized_summary,approved
+EVD_000051,SRC_000019,PLACE_000004,worship,Văn Miếu được lập làm nơi thờ Khổng Tử.,normalized_summary,approved
+EVD_000052,SRC_000019,PLACE_000004,history,Quốc Tử Giám được xây dựng năm 1076.,normalized_summary,approved
+EVD_000053,SRC_000019,PLACE_000004,history,Vua Lý Nhân Tông cho xây dựng Quốc Tử Giám.,normalized_summary,approved
+EVD_000054,SRC_000020,PLACE_000004,history,Khuê Văn Các được xây dựng năm 1805.,normalized_summary,approved
+EVD_000055,SRC_000020,PLACE_000004,history,Tổng trấn Bắc Thành Nguyễn Văn Thành cho xây Khuê Văn Các.,normalized_summary,approved
+EVD_000056,SRC_000026,PLACE_000004,recognition,UNESCO ghi danh hệ thống bia vào Chương trình Ký ức Thế giới.,normalized_summary,approved
+EVD_000057,SRC_000026,PLACE_000004,recognition,Hệ thống 82 bia Tiến sĩ được UNESCO ghi nhận là di sản tư liệu.,normalized_summary,approved
+EVD_000058,SRC_000021,PLACE_000004,history,Lê Thánh Tông cho khởi dựng những bia Tiến sĩ đầu tiên năm 1484.,normalized_summary,approved
+EVD_000059,SRC_000024,PLACE_000004,worship,Điện Đại Thành là không gian thờ và tôn vinh Khổng Tử.,normalized_summary,approved
+EVD_000060,SRC_000022,PLACE_000004,worship,Tầng dưới Nhà Hậu Đường đặt tượng thờ Chu Văn An.,normalized_summary,approved
+EVD_000061,SRC_000022,PLACE_000004,worship,Tầng hai Nhà Hậu Đường thờ vua Lý Thánh Tông.,normalized_summary,approved
+EVD_000062,SRC_000022,PLACE_000004,worship,Tầng hai Nhà Hậu Đường thờ vua Lý Nhân Tông.,normalized_summary,approved
+EVD_000063,SRC_000022,PLACE_000004,worship,Tầng hai Nhà Hậu Đường thờ vua Lê Thánh Tông.,normalized_summary,approved
+EVD_000064,SRC_000022,PLACE_000004,history,Di tích lưu dấu Chu Văn An qua tượng thờ và nội dung trưng bày.,normalized_summary,approved
+EVD_000065,SRC_000025,PLACE_000004,history,Lý Thánh Tông gắn với việc xây dựng Văn Miếu năm 1070.,normalized_summary,approved
+EVD_000066,SRC_000025,PLACE_000004,history,Lý Nhân Tông gắn với việc thành lập Quốc Tử Giám năm 1076.,normalized_summary,approved

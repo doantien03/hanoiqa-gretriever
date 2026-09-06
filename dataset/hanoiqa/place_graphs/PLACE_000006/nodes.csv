@@ -1,0 +1,34 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000011,Dâng hương và rước kiệu tưởng niệm,Activity,,Dâng hoa dâng hương|Rước kiệu Quang Trung và Ngọc Hân,dang_huong_va_ruoc_kieu_tuong_niem,,,,approved
+ACTIVITY_000012,Biểu diễn võ thuật và múa rồng lửa,Activity,,Múa Rồng lửa Thăng Long|Biểu diễn côn quyền,bieu_dien_vo_thuat_va_mua_rong_lua,,,,approved
+ADDRESS_000004,"Số 4 Đặng Tiến Đông, phường Đống Đa, thành phố Hà Nội",Address,,4 Đặng Tiến Đông|No. 4 Dang Tien Dong,so_4_dang_tien_dong_phuong_dong_da_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000005,Phường Đống Đa,AdministrativeArea,ward,,phuong_dong_da,,,,approved
+ARCHSITE_000005,Gò Đống Đa lịch sử,ArchaeologicalSite,,Gò Đống Đa nguyên gốc|Gò Đống Đa,go_dong_da_lich_su,,,,approved
+ARCH_000044,Cụm cổng ra vào Gò Đống Đa,Architecture,,Cổng phố Tây Sơn|Cổng số 2 Đặng Tiến Đông|Cổng số 4 Đặng Tiến Đông,cum_cong_ra_vao_go_dong_da,,,,approved
+ARCH_000045,Nghi môn Gò Đống Đa,Architecture,,Nghi Môn,nghi_mon_go_dong_da,,,,approved
+ARCH_000046,Tượng đài Quang Trung,Architecture,,Tượng đài Hoàng đế Quang Trung,tuong_dai_quang_trung,,,,approved
+ARCH_000047,Đền thờ Hoàng đế Quang Trung,Architecture,,Điện thờ Hoàng đế Quang Trung,den_tho_hoang_de_quang_trung,,,,approved
+ARCH_000048,Nhà trưng bày Quang Trung và Chiến thắng Ngọc Hồi – Đống Đa,Architecture,,Nhà trưng bày Quang Trung,nha_trung_bay_quang_trung_va_chien_thang_ngoc_hoi_dong_da,,,,approved
+ARCH_000049,Cụm phù điêu Chiến thắng Ngọc Hồi – Đống Đa,Architecture,,Hai bức phù điêu sau tượng đài Quang Trung,cum_phu_dieu_chien_thang_ngoc_hoi_dong_da,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+DYNASTY_000007,Nhà Tây Sơn,Dynasty,,Triều Tây Sơn|Vương triều Tây Sơn,nha_tay_son,,,,approved
+DYNASTY_000008,Nhà Thanh,Dynasty,,Triều Thanh|Đại Thanh,nha_thanh,,,,approved
+EVENT_000010,Chiến thắng Ngọc Hồi – Đống Đa,Event,,Trận Ngọc Hồi – Đống Đa|Đại phá quân Thanh,chien_thang_ngoc_hoi_dong_da,,,,approved
+EVENT_000011,Lễ hội Gò Đống Đa,Event,,Giỗ trận Đống Đa|Hội Gò Đống Đa,le_hoi_go_dong_da,,,,approved
+EVENT_000012,Xếp hạng Gò Đống Đa là Di tích quốc gia đặc biệt,Event,,Quyết định 1820/QĐ-TTg,xep_hang_go_dong_da_la_di_tich_quoc_gia_dac_biet,,,,approved
+EVENT_000013,"Tu bổ, tôn tạo Gò Đống Đa năm 2010",Event,,Tôn tạo Gò Đống Đa dịp 1000 năm Thăng Long – Hà Nội,tu_bo_ton_tao_go_dong_da_nam_2010,,,,approved
+HOBJ_000011,Sa bàn trận chiến Ngọc Hồi – Đống Đa,HeritageObject,,Sa bàn Chiến thắng Ngọc Hồi – Đống Đa,sa_ban_tran_chien_ngoc_hoi_dong_da,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+ORG_000007,Ban Quản lý Công viên Văn hóa Đống Đa,Organization,,Ban Quản lý Di tích Gò Đống Đa,ban_quan_ly_cong_vien_van_hoa_dong_da,,,,approved
+PERSON_000019,Quang Trung – Nguyễn Huệ,Person,,Hoàng đế Quang Trung|Nguyễn Huệ|Nguyễn Quang Bình|Bắc Bình Vương,quang_trung_nguyen_hue,,,,approved
+PERSON_000020,Lê Ngọc Hân,Person,,Bắc cung Hoàng hậu Ngọc Hân|Ngọc Hân công chúa,le_ngoc_han,,,,approved
+PERSON_000021,Sầm Nghi Đống,Person,,Thái thú Điền Châu Sầm Nghi Đống,sam_nghi_dong,,,,approved
+PLACE_000006,Di tích Gò Đống Đa,Place,,Gò Đống Đa|Công viên Văn hóa Đống Đa|Di tích quốc gia đặc biệt Gò Đống Đa,di_tich_go_dong_da,,,,approved
+TIME_000023,Mùa xuân năm Kỷ Dậu 1789,Time,,Năm 1789|Xuân Kỷ Dậu,mua_xuan_nam_ky_dau_1789,,,,approved
+TIME_000024,Mùng 5 Tết Nguyên Đán,Time,,Ngày mùng 5 tháng Giêng âm lịch,mung_5_tet_nguyen_dan,,,,approved
+TIME_000025,Ngày 24 tháng 12 năm 2018,Time,,24/12/2018|24-12-2018,ngay_24_thang_12_nam_2018,,,,approved
+TIME_000026,Năm 2010,Time,,2010,nam_2010,,,,approved
+TIME_000027,Giai đoạn 2014–2015,Time,,Mùa xuân 2014 đến tháng Giêng 2015,giai_doan_2014_2015,,,,approved
+VALUE_000013,"22.120,8 m²",Value,,"Hơn 22120,8 m2",22120_8_m2,22120.8,m²,area,approved
+VALUE_000014,300 m²,Value,,300 m2,300_m2,300,m²,area,approved

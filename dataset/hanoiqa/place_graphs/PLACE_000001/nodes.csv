@@ -1,0 +1,80 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000001,Thiết triều,Activity,,Thiết đại triều,thiet_trieu,,,,approved
+ACTIVITY_000002,Cử hành nghi lễ quốc gia,Activity,,Nghi lễ triều đình,cu_hanh_nghi_le_quoc_gia,,,,approved
+ACTIVITY_000003,Đón tiếp sứ thần,Activity,,Tiếp sứ thần,don_tiep_su_than,,,,approved
+ACTIVITY_000004,Tham quan khảo cổ,Activity,,Tìm hiểu khảo cổ,tham_quan_khao_co,,,,approved
+ACTIVITY_000005,Xem trưng bày hiện vật,Activity,,Tham quan nhà trưng bày,xem_trung_bay_hien_vat,,,,approved
+ACTIVITY_000006,Tour đêm Giải mã Hoàng thành Thăng Long,Activity,,Tour đêm Giải mã Hoàng thành,tour_dem_giai_ma_hoang_thanh_thang_long,,,,approved
+ACTIVITY_000007,Dâng hương tưởng niệm các bậc tiên đế,Activity,,Dâng hương tại Điện Kính Thiên,dang_huong_tuong_niem_cac_bac_tien_de,,,,approved
+ACTIVITY_000008,Họp Bộ Chính trị và Quân ủy Trung ương,Activity,,Họp tại Nhà D67,hop_bo_chinh_tri_va_quan_uy_trung_uong,,,,approved
+ADDRESS_000001,"Số 19C Hoàng Diệu, phường Ba Đình, thành phố Hà Nội",Address,,,so_19c_hoang_dieu_phuong_ba_dinh_thanh_pho_ha_noi,,,,approved
+ADMIN_000001,Phường Ba Đình,AdministrativeArea,ward,,phuong_ba_dinh,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCHSITE_000001,Khu khảo cổ 18 Hoàng Diệu,ArchaeologicalSite,,Khu khảo cổ học 18 Hoàng Diệu|Di chỉ 18 Hoàng Diệu,khu_khao_co_18_hoang_dieu,,,,approved
+ARCH_000001,Đoan Môn,Architecture,,Cửa Đoan Môn,doan_mon,,,,approved
+ARCH_000002,Bắc Môn,Architecture,,Cửa Bắc|Cửa Bắc Môn,bac_mon,,,,approved
+ARCH_000003,Hậu Lâu,Architecture,,Lầu Công chúa|Tĩnh Bắc Lâu|Lầu Tĩnh Bắc,hau_lau,,,,approved
+ARCH_000004,Điện Kính Thiên,Architecture,,Nền điện Kính Thiên|Chính điện Kính Thiên,dien_kinh_thien,,,,approved
+ARCH_000005,Nhà D67,Architecture,,Phòng họp Bộ Chính trị và Quân ủy Trung ương,nha_d67,,,,approved
+ARCH_000006,Hầm D67,Architecture,,Hầm Quân ủy Trung ương,ham_d67,,,,approved
+ARCH_000007,Thềm Rồng Điện Kính Thiên,Architecture,,Thềm đá Điện Kính Thiên,them_rong_dien_kinh_thien,,,,approved
+ASTYLE_000001,Kiến trúc cung đình thời Lê,ArchitecturalStyle,,Kiến trúc Hoàng cung thời Lê,kien_truc_cung_dinh_thoi_le,,,,approved
+ASTYLE_000002,Kiến trúc thời Nguyễn,ArchitecturalStyle,,,kien_truc_thoi_nguyen,,,,approved
+ASTYLE_000003,Kiến trúc quân sự thời kháng chiến chống Mỹ,ArchitecturalStyle,,Kiến trúc quân sự Nhà D67,kien_truc_quan_su_thoi_khang_chien_chong_my,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+CATEGORY_000002,Di tích khảo cổ,TourismCategory,,Điểm khảo cổ,di_tich_khao_co,,,,approved
+DYNASTY_000001,Nhà Lý,Dynasty,,Triều Lý,nha_ly,,,,approved
+DYNASTY_000002,Nhà Trần,Dynasty,,Triều Trần,nha_tran,,,,approved
+DYNASTY_000003,Nhà Lê sơ,Dynasty,,Triều Lê sơ|Nhà Hậu Lê,nha_le_so,,,,approved
+DYNASTY_000004,Nhà Mạc,Dynasty,,Triều Mạc,nha_mac,,,,approved
+DYNASTY_000005,Nhà Lê Trung hưng,Dynasty,,Triều Lê Trung hưng,nha_le_trung_hung,,,,approved
+DYNASTY_000006,Nhà Nguyễn,Dynasty,,Triều Nguyễn,nha_nguyen,,,,approved
+EVENT_000001,Dời đô từ Hoa Lư ra thành Đại La năm 1010,Event,,Sự kiện dời đô năm 1010,doi_do_tu_hoa_lu_ra_thanh_dai_la_nam_1010,,,,approved
+EVENT_000002,Cuộc khai quật Hoàng thành tháng 12 năm 2002,Event,,Cuộc khai quật Hoàng thành năm 2002,cuoc_khai_quat_hoang_thanh_thang_12_nam_2002,,,,approved
+EVENT_000003,UNESCO ghi danh Hoàng thành Thăng Long năm 2010,Event,,Sự kiện công nhận di sản năm 2010,unesco_ghi_danh_hoang_thanh_thang_long_nam_2010,,,,approved
+HOBJ_000001,Rồng đá Điện Kính Thiên,HeritageObject,,Rồng đá Thềm Rồng,rong_da_dien_kinh_thien,,,,approved
+HOBJ_000002,Nhóm di vật thời Đại La tại 18 Hoàng Diệu,HeritageObject,,Di vật Tiền Thăng Long,nhom_di_vat_thoi_dai_la_18_hoang_dieu,,,,approved
+HOBJ_000003,Nhóm di vật thời Lý – Trần tại 18 Hoàng Diệu,HeritageObject,,Di vật Lý – Trần,nhom_di_vat_ly_tran_18_hoang_dieu,,,,approved
+HOBJ_000004,Nhóm di vật thời Lê tại 18 Hoàng Diệu,HeritageObject,,Di vật thời Lê,nhom_di_vat_thoi_le_18_hoang_dieu,,,,approved
+HPERIOD_000001,Thời Tiền Thăng Long – Đại La,HistoricalPeriod,,Thời Đại La|Thời An Nam đô hộ phủ,thoi_tien_thang_long_dai_la,,,,approved
+HPERIOD_000002,Thời kỳ kháng chiến chống Mỹ,HistoricalPeriod,,Kháng chiến chống Mỹ,thoi_ky_khang_chien_chong_my,,,,approved
+HSTATUS_000001,Di sản văn hóa thế giới,HeritageStatus,,Di sản Văn hóa Thế giới,di_san_van_hoa_the_gioi,,,,approved
+LOCATION_000001,Núi Nùng,Location,,Nùng Sơn,nui_nung,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000002,Đá,Material,,,da,,,,approved
+MATERIAL_000003,Gạch,Material,,,gach,,,,approved
+ORG_000001,UNESCO,Organization,,Tổ chức Giáo dục Khoa học và Văn hóa Liên Hợp Quốc,unesco,,,,approved
+ORG_000002,Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội,Organization,,Trung tâm Thăng Long,trung_tam_bao_ton_di_san_thang_long_ha_noi,,,,approved
+ORG_000003,Bộ Quốc phòng,Organization,,,bo_quoc_phong,,,,approved
+ORG_000004,Ủy ban nhân dân thành phố Hà Nội,Organization,,UBND thành phố Hà Nội,uy_ban_nhan_dan_thanh_pho_ha_noi,,,,approved
+PERSON_000001,Lý Thái Tổ,Person,,Lý Công Uẩn,ly_thai_to,,,,approved
+PERSON_000002,Lê Thái Tổ,Person,,Lê Lợi,le_thai_to,,,,approved
+PERSON_000003,Lê Thánh Tông,Person,,,le_thanh_tong,,,,approved
+PERSON_000004,Gia Long,Person,,Nguyễn Phúc Ánh,gia_long,,,,approved
+PERSON_000005,Minh Mạng,Person,,Nguyễn Phúc Đảm,minh_mang,,,,approved
+PERSON_000006,Võ Nguyên Giáp,Person,,Đại tướng Võ Nguyên Giáp,vo_nguyen_giap,,,,approved
+PERSON_000007,Văn Tiến Dũng,Person,,Đại tướng Văn Tiến Dũng,van_tien_dung,,,,approved
+PLACE_000001,Hoàng thành Thăng Long,Place,,Khu Trung tâm Hoàng thành Thăng Long – Hà Nội|Hoàng thành Thăng Long – Hà Nội,hoang_thanh_thang_long,,,,approved
+PLACE_000003,Cột cờ Hà Nội,Place,,Kỳ đài Hà Nội,cot_co_ha_noi,,,,approved
+ROLE_000001,Hoàng đế,Role,,Vua,hoang_de,,,,approved
+ROLE_000002,Đại tướng,Role,,,dai_tuong,,,,approved
+TIME_000001,Ngày 31 tháng 07 năm 2010,Time,,Ngày 01 tháng 08 năm 2010 theo giờ Việt Nam|31/07/2010,ngay_31_thang_07_nam_2010,,,,approved
+TIME_000002,Năm 1010,Time,,1010,nam_1010,,,,approved
+TIME_000004,Năm 1428,Time,,1428,nam_1428,,,,approved
+TIME_000005,Năm 1467,Time,,1467,nam_1467,,,,approved
+TIME_000006,Năm 1812,Time,,1812,nam_1812,,,,approved
+TIME_000007,Tháng 10 năm 1821,Time,,Năm 1821,thang_10_nam_1821,,,,approved
+TIME_000008,Năm 1967,Time,,1967,nam_1967,,,,approved
+TIME_000009,Tháng 12 năm 2002,Time,,Năm 2002,thang_12_nam_2002,,,,approved
+TIME_000010,Ngày 01 tháng 09 năm 2006,Time,,01/09/2006,ngay_01_thang_09_nam_2006,,,,approved
+TIME_000011,Thế kỷ XIX,Time,,Thế kỷ 19,the_ky_19,,,,approved
+VALUE_000002,"Khoảng 18,395 ha",Value,,,khoang_18_395_ha,18.395,ha,area,approved
+VALUE_000003,108 ha,Value,,,108_ha,108,ha,buffer_area,approved
+VALUE_000004,Khoảng 57 m,Value,,,khoang_57_m,57,m,length,approved
+VALUE_000005,"41,5 m",Value,,,41_5_m,41.5,m,width,approved
+VALUE_000006,"Khoảng 2,3 m",Value,,,khoang_2_3_m,2.3,m,height,approved
+VALUE_000007,10 bậc,Value,,,10_bac,10,bậc,step_count,approved
+VALUE_000008,"33,4 m",Value,,,33_4_m,33.4,m,height,approved
+VALUE_000009,9 m,Value,,,9_m,9,m,depth,approved
+VALUE_000010,"0,6 m",Value,,,0_6_m,0.6,m,wall_thickness,approved
+VISITOR_000001,Học sinh trung học cơ sở,VisitorGroup,,Học sinh THCS,hoc_sinh_trung_hoc_co_so,,,,approved

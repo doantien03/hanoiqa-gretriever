@@ -1,0 +1,41 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000798,PLACE_000021,HAS_ADDRESS,ADDRESS_000018,EVD_000345,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""address_precision"":""house_number_alley_street_ward_city"",""address_note"":""Dùng địa chỉ đầu trang, không dùng phường Quảng An/quận Tây Hồ cũ trong thân bài.""}",approved
+EDGE_000799,PLACE_000021,LOCATED_IN,LOCATION_000019,EVD_000345,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""location_scope"":""street_address_via_alley_50""}",approved
+EDGE_000800,PLACE_000021,LOCATED_IN,ADMIN_000008,EVD_000345,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000801,PLACE_000021,LOCATED_IN,ADMIN_000002,EVD_000345,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000802,PLACE_000021,LOCATED_IN,LOCATION_000020,EVD_000346,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000803,PLACE_000021,NEAR,PLACE_000019,EVD_000346,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""proximity_basis"":""source_says_lakeside"",""distance_not_measured"":true}",approved
+EDGE_000804,PLACE_000021,HAS_COMPONENT,ARCH_000170,EVD_000347,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000805,ARCH_000170,HAS_COMPONENT,ARCH_000171,EVD_000347,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000806,ARCH_000170,HAS_COMPONENT,ARCH_000172,EVD_000347,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000807,ARCH_000170,HAS_COMPONENT,ARCH_000173,EVD_000352,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000808,PLACE_000021,HAS_COMPONENT,ARCH_000174,EVD_000352,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000809,PLACE_000021,HAS_COMPONENT,ARCH_000175,EVD_000352,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000810,PLACE_000021,HAS_COMPONENT,ARCH_000176,EVD_000352,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000811,PLACE_000021,HAS_COMPONENT,ARCH_000177,EVD_000352,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000812,PLACE_000021,HAS_COMPONENT,ARCH_000178,EVD_000352,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000813,PLACE_000021,HAS_COMPONENT,HOBJ_000055,EVD_000349,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""object_scope"":""group_without_asserted_count""}",approved
+EDGE_000814,PLACE_000021,HAS_COMPONENT,HOBJ_000056,EVD_000349,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""object_scope"":""group_without_asserted_count""}",approved
+EDGE_000815,PLACE_000021,HAS_COMPONENT,HOBJ_000057,EVD_000349,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""object_scope"":""group_without_asserted_count""}",approved
+EDGE_000816,PLACE_000021,HAS_COMPONENT,HOBJ_000058,EVD_000349,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""object_scope"":""named_object""}",approved
+EDGE_000817,PLACE_000021,HAS_COMPONENT,HOBJ_000059,EVD_000349,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""object_scope"":""named_object""}",approved
+EDGE_000818,PLACE_000021,HAS_COMPONENT,HOBJ_000060,EVD_000349,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""object_scope"":""named_object""}",approved
+EDGE_000819,PLACE_000021,HAS_COMPONENT,HOBJ_000061,EVD_000349,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""object_scope"":""named_object""}",approved
+EDGE_000820,PLACE_000021,HAS_COMPONENT,HOBJ_000062,EVD_000349,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""object_scope"":""named_object""}",approved
+EDGE_000821,PLACE_000021,RECOGNIZED_AS,HSTATUS_000006,EVD_000350,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""decision_number"":""310/QĐ""}",approved
+EDGE_000822,PLACE_000021,RECOGNIZED_IN,TIME_000084,EVD_000350|EVD_000356,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""decision_number"":""310/QĐ""}",approved
+EDGE_000823,ARCH_000174,RENOVATED_IN,TIME_000085,EVD_000348,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""source_wording"":""xây dựng tu tạo""}",approved
+EDGE_000824,ARCH_000174,BUILT_WITH,MATERIAL_000012,EVD_000348,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000825,ARCH_000174,BUILT_WITH,MATERIAL_000001,EVD_000348,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""component_scope"":""upper_roof_structure""}",approved
+EDGE_000826,ARCH_000170,HAS_ARCHITECTURAL_STYLE,ASTYLE_000010,EVD_000347,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000827,PLACE_000021,HAS_ACTIVITY,ACTIVITY_000023,EVD_000351,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""worshipped_figure"":""Mẫu Liễu Hạnh""}",approved
+EDGE_000828,PLACE_000021,HAS_ACTIVITY,ACTIVITY_000024,EVD_000351,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""calendar"":""lunar"",""recurrence"":""annual"",""dates"":[{""month"":3,""day"":3},{""month"":8,""day"":13}]}",approved
+EDGE_000829,ARCH_000170,HAS_COMPONENT,HOBJ_000063,EVD_000354,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""placement"":""cửa cung""}",approved
+EDGE_000830,PLACE_000021,HAS_CATEGORY,CATEGORY_000001,EVD_000350,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""category_scope"":""broad_historical_heritage_category""}",approved
+EDGE_000831,ARCH_000170,BUILT_WITH,MATERIAL_000012,EVD_000347,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""finish"":""giả gỗ""}",approved
+EDGE_000832,ARCH_000170,USED_FOR,ACTIVITY_000023,EVD_000351,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000833,ARCH_000174,USED_FOR,ACTIVITY_000023,EVD_000348,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""worshipped_figure"":""Chúa Đệ Nhị Thượng Ngàn""}",approved
+EDGE_000834,HOBJ_000057,BUILT_WITH,MATERIAL_000011,EVD_000355,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""material_scope"":""documented_bronze_bell_not_all_inventory_items""}",approved
+EDGE_000835,PLACE_000021,HAS_ACTIVITY,ACTIVITY_000020,EVD_000353,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved
+EDGE_000836,ARCH_000174,NEAR,ARCH_000175,EVD_000352,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked"",""proximity_basis"":""source_says_ben_canh""}",approved
+EDGE_000837,ARCH_000170,HAS_COMPONENT,HOBJ_000059,EVD_000357,0.95,,,"{""source_datasets"":[""phu_tay_ho""],""verification"":""web_source_checked""}",approved

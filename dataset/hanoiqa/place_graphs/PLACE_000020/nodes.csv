@@ -1,0 +1,39 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000021,Thờ Huyền Thiên Trấn Vũ,Activity,,,tho_huyen_thien_tran_vu,,,,approved
+ACTIVITY_000022,Lễ hội truyền thống Đền Quán Thánh,Activity,,Hội đền Quán Thánh,le_hoi_truyen_thong_den_quan_thanh,,,,approved
+ADDRESS_000017,"Số 194 phố Quán Thánh, phường Ba Đình, Hà Nội",Address,,,so_194_pho_quan_thanh_phuong_ba_dinh_ha_noi,,,,approved
+ADMIN_000001,Phường Ba Đình,AdministrativeArea,ward,,phuong_ba_dinh,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000164,Tam quan Đền Quán Thánh,Architecture,,,tam_quan_den_quan_thanh,,,,approved
+ARCH_000165,Sân trước Đền Quán Thánh,Architecture,,,san_truoc_den_quan_thanh,,,,approved
+ARCH_000166,Tiền tế Đền Quán Thánh,Architecture,,,tien_te_den_quan_thanh,,,,approved
+ARCH_000167,Trung tế Đền Quán Thánh,Architecture,,,trung_te_den_quan_thanh,,,,approved
+ARCH_000168,Hậu cung Đền Quán Thánh,Architecture,,,hau_cung_den_quan_thanh,,,,approved
+ARCH_000169,Nghi môn tứ trụ Đền Quán Thánh,Architecture,,,nghi_mon_tu_tru_den_quan_thanh,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+HOBJ_000050,Tượng Huyền Thiên Trấn Vũ Đền Quán Thánh,HeritageObject,,,tuong_huyen_thien_tran_vu_den_quan_thanh,,,,approved
+HOBJ_000051,Chuông đồng tại tam quan Đền Quán Thánh,HeritageObject,,,chuong_dong_tai_tam_quan_den_quan_thanh,,,,approved
+HOBJ_000052,Bia trùng tu quán Trấn Vũ năm 1857 Đền Quán Thánh,HeritageObject,,,bia_trung_tu_quan_tran_vu_nam_1857_den_quan_thanh,,,,approved
+HOBJ_000053,Bia quán Chân Vũ năm 1893 Đền Quán Thánh,HeritageObject,,,bia_quan_chan_vu_nam_1893_den_quan_thanh,,,,approved
+HOBJ_000054,Biển đồng Đề Chân Vũ quán năm 1842 Đền Quán Thánh,HeritageObject,,,bien_dong_de_chan_vu_quan_nam_1842_den_quan_thanh,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+HSTATUS_000004,Bảo vật quốc gia,HeritageStatus,,Bảo vật Quốc gia,bao_vat_quoc_gia,,,,approved
+LOCATION_000018,Phố Quán Thánh,Location,,,pho_quan_thanh,,,,approved
+MATERIAL_000002,Đá,Material,,,da,,,,approved
+MATERIAL_000011,Đồng,Material,,,dong,,,,approved
+PERSON_000001,Lý Thái Tổ,Person,,Lý Công Uẩn,ly_thai_to,,,,approved
+PERSON_000046,Thiệu Trị,Person,,Nguyễn Phúc Miên Tông,thieu_tri,,,,approved
+PERSON_000047,Lê Huy Vĩnh,Person,,Lê Huy Vinh,le_huy_vinh,,,,approved
+PERSON_000048,Hoàng Cao Khải,Person,,Thái Xuyên,hoang_cao_khai,,,,approved
+PLACE_000019,Hồ Tây,Place,,West Lake,ho_tay,,,,approved
+PLACE_000020,Đền Quán Thánh,Place,,Trấn Vũ Quán|Chân Vũ Quán|Đền Trấn Vũ|Đền Chân Vũ,den_quan_thanh,,,,approved
+TIME_000074,Năm 1618,Time,,1618,nam_1618,,,,approved
+TIME_000075,Năm 1677,Time,,1677,nam_1677,,,,approved
+TIME_000076,Năm 1768,Time,,1768,nam_1768,,,,approved
+TIME_000077,Năm 1836,Time,,1836,nam_1836,,,,approved
+TIME_000078,Năm 1843,Time,,1843,nam_1843,,,,approved
+TIME_000079,Năm 1893,Time,,1893,nam_1893,,,,approved
+TIME_000080,Năm 1941,Time,,1941,nam_1941,,,,approved
+TIME_000081,Thế kỷ XI,Time,,Thế kỷ 11,the_ky_xi,,,,approved
+TIME_000082,Ngày 18 tháng 1 năm 2022,Time,,18/01/2022|2022-01-18,ngay_18_thang_1_nam_2022,,,,approved
+TIME_000083,Ngày 22 tháng 12 năm 2016,Time,,22/12/2016|2016-12-22,ngay_22_thang_12_nam_2016,,,,approved

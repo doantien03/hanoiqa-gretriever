@@ -1,0 +1,12 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000232,SRC_000073,PLACE_000011,location,Lăng Chủ tịch Hồ Chí Minh được dựng tại vị trí lễ đài cũ giữa Quảng trường Ba Đình; đây là nơi giữ gìn thi hài Hồ Chí Minh.,normalized_summary,approved
+EVD_000233,SRC_000075,PLACE_000011,address,"Quảng trường Ba Đình nằm trên đường Hùng Vương, phường Ba Đình, Hà Nội. Kết hợp vị trí Lăng tại quảng trường để chuẩn hóa địa chỉ, không thêm số nhà.",normalized_summary,approved
+EVD_000234,SRC_000073,PLACE_000011,architecture,"Lăng có bệ tam cấp, khối trung tâm và mái tam cấp; có phòng thi hài, hành lang, cầu thang, hàng cột đá và cửa gỗ. Hai phía Nam, Bắc có lễ đài, mỗi bên dài 65 m.",normalized_summary,approved
+EVD_000235,SRC_000073,PLACE_000011,measurement,"Lăng cao 21,6 m, rộng 41,2 m.",normalized_summary,approved
+EVD_000236,SRC_000073,PLACE_000011,inscription,Mặt chính Lăng có dòng chữ Chủ tịch Hồ Chí Minh; phòng thi hài có hai hình cờ Đảng và cờ Tổ quốc ghép đá.,normalized_summary,approved
+EVD_000237,SRC_000077,PLACE_000011,architecture,"Tiền sảnh dẫn tới phòng thi hài qua hành lang và cầu thang. Tường phòng thi hài và tường hai bên hành lang, cầu thang được ốp đá cẩm thạch; tường chính tiền sảnh ốp đá hoa cương đỏ hồng.",normalized_summary,approved
+EVD_000238,SRC_000073,PLACE_000011,material,Cột Lăng bằng đá hoa cương; các bộ cửa dùng gỗ quý.,normalized_summary,approved
+EVD_000239,SRC_000074,PLACE_000011,construction,Lăng khởi công ngày 2/9/1973; đổ mẻ bê tông móng đầu tiên ngày 27/10/1973; khánh thành ngày 29/8/1975.,normalized_summary,approved
+EVD_000240,SRC_000076,PLACE_000011,ceremony,Lễ chào cờ đầu tiên trước Lăng được tổ chức trên Quảng trường Ba Đình lúc 06:30 ngày 19/5/2001.,normalized_summary,approved
+EVD_000241,SRC_000077,PLACE_000011,activity,"Sau lễ khánh thành ngày 29/8/1975, đồng bào và khách quốc tế vào Lăng viếng Hồ Chí Minh.",normalized_summary,approved
+EVD_000375,SRC_000128,PLACE_000011,classification,"Thành ủy Hà Nội mô tả Lăng Chủ tịch Hồ Chí Minh là công trình có ý nghĩa chính trị và văn hóa đặc biệt quan trọng, mở cửa để đồng bào và khách quốc tế viếng Chủ tịch Hồ Chí Minh.",normalized_summary,approved

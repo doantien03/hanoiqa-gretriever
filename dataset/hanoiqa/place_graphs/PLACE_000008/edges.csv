@@ -1,0 +1,42 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000358,PLACE_000008,HAS_ADDRESS,ADDRESS_000006,EVD_000208,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""address_precision"":""islet_and_lake"",""normalization_note"":""Địa chỉ vị trí từ mô tả nguồn; không có số nhà, không gán địa chỉ đường ven hồ.""}",approved
+EDGE_000359,PLACE_000008,LOCATED_IN,LOCATION_000005,EVD_000208,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000360,PLACE_000008,LOCATED_IN,PLACE_000009,EVD_000209,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000361,PLACE_000008,LOCATED_IN,ADMIN_000002,EVD_000208,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000362,PLACE_000009,HAS_COMPONENT,PLACE_000008,EVD_000209,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000363,PLACE_000008,BUILT_IN,TIME_000034,EVD_000210,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""construction_phase"":""construction_interval"",""date_precision"":""approximate""}",approved
+EDGE_000364,PLACE_000008,HAS_COMPONENT,ARCH_000070,EVD_000213,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000365,PLACE_000008,HAS_COMPONENT,ARCH_000071,EVD_000213,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000366,PLACE_000008,HAS_COMPONENT,ARCH_000072,EVD_000213,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000367,PLACE_000008,HAS_COMPONENT,ARCH_000073,EVD_000213,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000368,PLACE_000008,HAS_COMPONENT,ARCH_000074,EVD_000213,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000369,PLACE_000008,HAS_COMPONENT,ARCH_000076,EVD_000213,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000370,PLACE_000008,HAS_COMPONENT,ARCH_000077,EVD_000213,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000371,ARCH_000072,HAS_COMPONENT,ARCH_000075,EVD_000212,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000372,ARCH_000072,HAS_COMPONENT,HOBJ_000014,EVD_000212,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000373,ARCH_000070,HAS_MEASUREMENT,VALUE_000033,EVD_000211,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""length"",""measurement_type"":""length""}",approved
+EDGE_000374,ARCH_000070,HAS_MEASUREMENT,VALUE_000034,EVD_000211,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""width"",""measurement_type"":""width""}",approved
+EDGE_000375,ARCH_000071,HAS_MEASUREMENT,VALUE_000035,EVD_000211,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""length"",""measurement_type"":""length""}",approved
+EDGE_000376,ARCH_000071,HAS_MEASUREMENT,VALUE_000036,EVD_000211,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""width"",""measurement_type"":""width""}",approved
+EDGE_000377,ARCH_000072,HAS_MEASUREMENT,VALUE_000037,EVD_000211,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""length"",""measurement_type"":""length""}",approved
+EDGE_000378,ARCH_000072,HAS_MEASUREMENT,VALUE_000038,EVD_000211,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""width"",""measurement_type"":""width""}",approved
+EDGE_000379,ARCH_000073,HAS_MEASUREMENT,VALUE_000040,EVD_000211,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""side_length"",""measurement_type"":""side_length""}",approved
+EDGE_000380,ARCH_000075,HAS_MEASUREMENT,VALUE_000039,EVD_000212,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""diameter"",""measurement_type"":""diameter""}",approved
+EDGE_000381,ARCH_000074,HAS_MEASUREMENT,VALUE_000031,EVD_000215,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height"",""value_reuse_note"":""0,8 m dùng lại node độ dài hiện hữu; đại lượng cụ thể nằm trên edge.""}",approved
+EDGE_000382,PLACE_000008,HAS_MEASUREMENT,VALUE_000041,EVD_000215,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height"",""reference_level"":""ground_of_islet""}",approved
+EDGE_000383,LOCATION_000005,HAS_MEASUREMENT,VALUE_000042,EVD_000216,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""area"",""measurement_type"":""area"",""approximate"":true}",approved
+EDGE_000384,ARCH_000070,HAS_MEASUREMENT,VALUE_000043,EVD_000217,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""exterior_opening_count"",""measurement_type"":""exterior_opening_count""}",approved
+EDGE_000385,ARCH_000070,HAS_MEASUREMENT,VALUE_000044,EVD_000217,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""total_opening_count"",""measurement_type"":""total_opening_count"",""includes"":""exterior_and_internal""}",approved
+EDGE_000386,ARCH_000071,HAS_MEASUREMENT,VALUE_000043,EVD_000217,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""exterior_opening_count"",""measurement_type"":""exterior_opening_count"",""derivation"":""Nguồn nói tầng hai có kết cấu như tầng một.""}",approved
+EDGE_000387,ARCH_000071,HAS_MEASUREMENT,VALUE_000044,EVD_000217,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""measurement_kind"":""total_opening_count"",""measurement_type"":""total_opening_count"",""includes"":""exterior_and_internal""}",approved
+EDGE_000388,PLACE_000008,HAS_ARCHITECTURAL_STYLE,ASTYLE_000005,EVD_000214,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000389,PLACE_000008,HAS_ARCHITECTURAL_STYLE,ASTYLE_000006,EVD_000214,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000390,ARCH_000070,HAS_ARCHITECTURAL_STYLE,ASTYLE_000005,EVD_000214,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000391,ARCH_000071,HAS_ARCHITECTURAL_STYLE,ASTYLE_000005,EVD_000214,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000392,ARCH_000076,HAS_ARCHITECTURAL_STYLE,ASTYLE_000006,EVD_000214,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000393,ARCH_000073,HAS_ARCHITECTURAL_STYLE,ASTYLE_000004,EVD_000213,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""style_scope"":""vong_lau_form""}",approved
+EDGE_000394,PLACE_000008,HAS_EVENT,EVENT_000016,EVD_000218,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked""}",approved
+EDGE_000395,EVENT_000016,OCCURRED_IN,TIME_000035,EVD_000218,0.95,,,"{""source_datasets"":[""thap_rua""],""verification"":""web_source_checked"",""start_date"":""2025-12-24"",""end_date"":""2026-01-04""}",approved
+EDGE_000396,PLACE_000009,LOCATED_IN,ADMIN_000002,EVD_000209,0.95,,,"{""source_datasets"": [""thap_rua""], ""verification"": ""web_source_checked"", ""scope"": ""supporting_place_seed""}",approved
+EDGE_000397,PLACE_000009,HAS_EVENT,EVENT_000016,EVD_000218,0.95,,,"{""source_datasets"": [""thap_rua""], ""verification"": ""web_source_checked"", ""scope"": ""supporting_place_seed""}",approved
+EDGE_000880,PLACE_000008,HAS_CATEGORY,CATEGORY_000001,EVD_000374,0.95,,,"{""source_datasets"":[""missing_address_category_patch""],""verification"":""web_source_checked"",""category_scope"":""component_of_Hoan_Kiem_lake_historical_and_scenic_monument_complex""}",approved

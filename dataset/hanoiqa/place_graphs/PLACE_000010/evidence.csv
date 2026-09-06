@@ -1,0 +1,14 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000219,SRC_000067,PLACE_000010,address,"Website Khu Di tích ghi địa chỉ: Số 1 Hoàng Hoa Thám (Cổng Đỏ), Ba Đình, Hà Nội.",normalized_summary,approved
+EVD_000220,SRC_000068,PLACE_000010,history,Nhà 54 thuộc Khu Di tích Phủ Chủ tịch; Hồ Chí Minh ở và làm việc tại đây từ tháng 12/1954 đến giữa tháng 5/1958.,normalized_summary,approved
+EVD_000221,SRC_000068,PLACE_000010,architecture,"Nhà 54 có phòng làm việc giáp ao, phòng ăn ở giữa và phòng ngủ.",normalized_summary,approved
+EVD_000222,SRC_000068,PLACE_000010,heritage_objects,Phòng ăn Nhà 54 trưng bày bộ đồ ăn hàng ngày của Hồ Chí Minh. Phòng ngủ có giường nhỏ và tủ quần áo của Người.,normalized_summary,approved
+EVD_000223,SRC_000070,PLACE_000010,history,"Nhà sàn thuộc Khu Di tích Phủ Chủ tịch, là nơi Hồ Chí Minh ở và làm việc từ tháng 5/1958 đến tháng 8/1969.",normalized_summary,approved
+EVD_000224,SRC_000070,PLACE_000010,construction,"Nhà sàn hoàn thành ngày 17/5/1958. Nguyễn Văn Ninh thiết kế; nhà dùng gỗ, theo kiểu nhà sàn của đồng bào dân tộc Việt Bắc.",normalized_summary,approved
+EVD_000225,SRC_000069,PLACE_000010,history,"Nhà 67 thuộc Khu Di tích Phủ Chủ tịch, được xây để phục vụ Hồ Chí Minh; khởi công ngày 1/5/1967.",normalized_summary,approved
+EVD_000226,SRC_000069,PLACE_000010,material,Tường và trần Nhà 67 được làm bằng bê tông cốt thép.,normalized_summary,approved
+EVD_000227,SRC_000069,PLACE_000010,historical_function,Hồ Chí Minh dùng Nhà 67 làm nơi họp Bộ Chính trị và làm việc với cán bộ Trung ương.,normalized_summary,approved
+EVD_000228,SRC_000069,PLACE_000010,heritage_objects,"Nhà 67 giữ chiếc đài ZENITH trên bàn làm việc của Hồ Chí Minh, hai bản đồ quân sự trên tường và đồng hồ cạnh giường.",normalized_summary,approved
+EVD_000229,SRC_000069,PLACE_000010,event,Hồ Chí Minh qua đời tại Nhà 67 lúc 9 giờ 47 phút ngày 2/9/1969.,normalized_summary,approved
+EVD_000230,SRC_000072,PLACE_000010,landscape,"Ao cá Bác Hồ trong Khu Di tích được cải tạo theo đề nghị của Hồ Chí Minh, diện tích khoảng 3.200 m².",normalized_summary,approved
+EVD_000231,SRC_000071,PLACE_000010,recognition,"Khu lưu niệm Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch, Hà Nội, được xếp hạng di tích quốc gia đặc biệt theo Quyết định 1272/QĐ-TTg ngày 12/8/2009, Điều 1 mục 8.",normalized_summary,approved

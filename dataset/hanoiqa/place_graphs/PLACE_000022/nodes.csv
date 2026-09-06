@@ -1,0 +1,38 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ADDRESS_000019,"Số 40 phố Nhà Chung, phường Hoàn Kiếm, Hà Nội",Address,,,so_40_pho_nha_chung_phuong_hoan_kiem_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000006,Phường Hoàn Kiếm,AdministrativeArea,ward,,phuong_hoan_kiem,,,,approved
+ARCH_000179,Mặt đứng chính Nhà Thờ Lớn Hà Nội,Architecture,,,mat_dung_chinh_nha_tho_lon_ha_noi,,,,approved
+ARCH_000180,Lòng nhà thờ Nhà Thờ Lớn Hà Nội,Architecture,,,long_nha_tho_nha_tho_lon_ha_noi,,,,approved
+ARCH_000181,Cung thánh Nhà Thờ Lớn Hà Nội,Architecture,,,cung_thanh_nha_tho_lon_ha_noi,,,,approved
+ARCH_000182,Phòng thánh Nhà Thờ Lớn Hà Nội,Architecture,,,phong_thanh_nha_tho_lon_ha_noi,,,,approved
+ARCH_000183,Cặp tháp chuông Nhà Thờ Lớn Hà Nội,Architecture,,,cap_thap_chuong_nha_tho_lon_ha_noi,,,,approved
+ARCH_000184,Hệ mái vòm uốn cong Nhà Thờ Lớn Hà Nội,Architecture,,,he_mai_vom_uon_cong_nha_tho_lon_ha_noi,,,,approved
+ARCH_000185,Bàn thờ Đức Mẹ Nhà Thờ Lớn Hà Nội,Architecture,,,ban_tho_duc_me_nha_tho_lon_ha_noi,,,,approved
+ARCH_000186,Bàn thờ Trái Tim Nhà Thờ Lớn Hà Nội,Architecture,,,ban_tho_trai_tim_nha_tho_lon_ha_noi,,,,approved
+ASTYLE_000005,Kiến trúc Gothic,ArchitecturalStyle,,Kiến trúc gô-tích|Gothic,kien_truc_gothic,,,,approved
+CATEGORY_000003,Công trình tôn giáo Công giáo,TourismCategory,,Nhà thờ Công giáo|Cơ sở Công giáo,cong_trinh_ton_giao_cong_giao,,,,approved
+EVENT_000038,Thánh lễ đầu tiên tại Nhà Thờ Lớn Hà Nội,Event,,,thanh_le_dau_tien_tai_nha_tho_lon_ha_noi,,,,approved
+EVENT_000039,Lễ khánh thành chính thức Nhà Thờ Lớn Hà Nội,Event,,,le_khanh_thanh_chinh_thuc_nha_tho_lon_ha_noi,,,,approved
+EVENT_000040,Nhà Thờ Lớn Hà Nội trở thành nhà thờ chính tòa,Event,,,nha_tho_lon_ha_noi_tro_thanh_nha_tho_chinh_toa,,,,approved
+HOBJ_000064,Bộ năm quả chuông Nhà Thờ Lớn Hà Nội,HeritageObject,,,bo_nam_qua_chuong_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000065,Đồng hồ ba mặt Nhà Thờ Lớn Hà Nội,HeritageObject,,,dong_ho_ba_mat_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000066,Nhóm tranh kính màu Nhà Thờ Lớn Hà Nội,HeritageObject,,,nhom_tranh_kinh_mau_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000067,Nhóm màn gỗ chạm Nhà Thờ Lớn Hà Nội,HeritageObject,,,nhom_man_go_cham_nha_tho_lon_ha_noi,,,,approved
+HOBJ_000068,Đại phong cầm Nhà Thờ Lớn Hà Nội,HeritageObject,,,dai_phong_cam_nha_tho_lon_ha_noi,,,,approved
+LOCATION_000021,Phố Nhà Chung,Location,,,pho_nha_chung,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000003,Gạch,Material,,,gach,,,,approved
+MATERIAL_000007,Đá cẩm thạch,Material,,Đá marble,da_cam_thach,,,,approved
+ORG_000010,Tổng Giáo phận Hà Nội,Organization,,Tổng Giáo phận Công giáo Hà Nội|Archdiocese of Hanoi,tong_giao_phan_ha_noi,,,,approved
+PERSON_000049,Paul-François Puginier,Person,,Đức cha Puginier|Đức cha Puginier Phước,paul_francois_puginier,,,,approved
+PLACE_000009,Hồ Hoàn Kiếm,Place,,Hồ Gươm|Hồ Tả Vọng|Hoan Kiem Lake,ho_hoan_kiem,,,,approved
+PLACE_000022,Nhà Thờ Lớn Hà Nội,Place,,Nhà thờ Chính Tòa Thánh Giu-se|Nhà thờ Chính tòa Hà Nội|St. Joseph's Cathedral Hanoi|Nhà thờ Thánh Giuse Hà Nội,nha_tho_lon_ha_noi,,,,approved
+TIME_000086,Giai đoạn 1882–1886,Time,,1882-1886,giai_doan_18821886,,,,approved
+TIME_000087,Ngày 24 tháng 12 năm 1886,Time,,24/12/1886|1886-12-24,ngay_24_thang_12_nam_1886,,,,approved
+TIME_000088,Ngày 23 tháng 12 năm 1887,Time,,23/12/1887|1887-12-23,ngay_23_thang_12_nam_1887,,,,approved
+TIME_000089,Ngày 3 tháng 12 năm 1924,Time,,03/12/1924|1924-12-03,ngay_3_thang_12_nam_1924,,,,approved
+TIME_000090,Năm 1999,Time,,1999,nam_1999,,,,approved
+TIME_000091,Giai đoạn 2013–2014,Time,,2013-2014,giai_doan_20132014,,,,approved
+TIME_000092,Năm 2018,Time,,2018,nam_2018,,,,approved
+TIME_000093,Năm 2022,Time,,2022,nam_2022,,,,approved

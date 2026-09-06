@@ -1,0 +1,23 @@
+﻿place_id,place_name,node_count,edge_count,evidence_count,source_count,disconnected_nodes,status
+PLACE_000001,Hoàng thành Thăng Long,79,117,26,18,0,ready
+PLACE_000002,Khu di tích Cổ Loa,35,41,41,12,0,ready
+PLACE_000003,Cột cờ Hà Nội,40,44,11,4,0,ready
+PLACE_000004,Văn Miếu – Quốc Tử Giám,34,40,40,8,0,ready
+PLACE_000005,Di tích Nhà tù Hỏa Lò,32,40,40,7,0,ready
+PLACE_000006,Di tích Gò Đống Đa,33,40,40,10,0,ready
+PLACE_000007,Ô Quan Chưởng,35,41,11,4,0,ready
+PLACE_000008,Tháp Rùa,34,41,12,5,0,ready
+PLACE_000009,Hồ Hoàn Kiếm,0,0,0,0,0,no_place_evidence
+PLACE_000010,Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch,34,40,13,6,0,ready
+PLACE_000011,Lăng Chủ tịch Hồ Chí Minh,35,41,11,6,0,ready
+PLACE_000012,Khu di tích K9 Đá Chông,34,40,14,6,0,ready
+PLACE_000013,Nhà số 48 Hàng Ngang,34,40,12,6,0,ready
+PLACE_000014,Di tích cách mạng 5D Hàm Long,33,40,12,5,0,ready
+PLACE_000015,Thành cổ Sơn Tây,37,40,13,4,0,ready
+PLACE_000016,Đền Ngọc Sơn,35,41,11,6,0,ready
+PLACE_000017,Chùa Một Cột,38,41,14,4,0,ready
+PLACE_000018,Chùa Trấn Quốc,36,40,13,4,0,ready
+PLACE_000019,Hồ Tây,0,0,0,0,0,no_place_evidence
+PLACE_000020,Đền Quán Thánh,38,40,12,5,0,ready
+PLACE_000021,Phủ Tây Hồ,36,40,13,4,0,ready
+PLACE_000022,Nhà Thờ Lớn Hà Nội,37,40,13,3,0,ready

@@ -1,0 +1,35 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ADDRESS_000002,"Số 58 phố Quốc Tử Giám, phường Văn Miếu - Quốc Tử Giám, thành phố Hà Nội",Address,,58 Quốc Tử Giám|No. 58 Quoc Tu Giam Street,so_58_pho_quoc_tu_giam_phuong_van_mieu_quoc_tu_giam_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000003,Phường Văn Miếu - Quốc Tử Giám,AdministrativeArea,ward,Phường Văn Miếu – Quốc Tử Giám,phuong_van_mieu_quoc_tu_giam,,,,approved
+ARCH_000008,Văn Miếu,Architecture,,Văn Miếu Hà Nội|Temple of Literature,van_mieu,,,,approved
+ARCH_000009,Quốc Tử Giám,Architecture,,Quốc học viện|Thái Học viện,quoc_tu_giam,,,,approved
+ARCH_000010,Hồ Văn,Architecture,,Hồ Giám|Minh Đường hồ,ho_van,,,,approved
+ARCH_000011,Vườn Giám,Architecture,,Giám viên,vuon_giam,,,,approved
+ARCH_000012,Khu Nhập Đạo,Architecture,,Nhập Đạo,khu_nhap_dao,,,,approved
+ARCH_000013,Khu Thành Đạt,Architecture,,Thành Đạt,khu_thanh_dat,,,,approved
+ARCH_000014,Vườn bia Tiến sĩ,Architecture,,Khu Vườn Bia Tiến Sĩ|Vườn bia,vuon_bia_tien_si,,,,approved
+ARCH_000015,Khu Đại Thành,Architecture,,Đại Thành,khu_dai_thanh,,,,approved
+ARCH_000016,Khu Thái Học,Architecture,,Khu Thái học|Thái Học,khu_thai_hoc,,,,approved
+ARCH_000017,Khuê Văn Các,Architecture,,Gác Khuê Văn|Khue Van Pavilion,khue_van_cac,,,,approved
+ARCH_000018,Điện Đại Thành,Architecture,,Đại Thành điện,dien_dai_thanh,,,,approved
+ARCH_000019,Nhà Thái Học,Architecture,,Nhà Thái học,nha_thai_hoc,,,,approved
+ARCH_000020,Nhà Tiền Đường,Architecture,,Tiền Đường,nha_tien_duong,,,,approved
+ARCH_000021,Nhà Hậu Đường,Architecture,,Hậu Đường|Hậu cung,nha_hau_duong,,,,approved
+ARCH_000022,Nhà Chuông,Architecture,,Lầu Chuông,nha_chuong,,,,approved
+ARCH_000023,Nhà Trống,Architecture,,Lầu Trống,nha_trong,,,,approved
+ARCH_000024,Giếng Thiên Quang,Architecture,,Thiên Quang Tỉnh|Giếng Thiên Quang Tỉnh,gieng_thien_quang,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+HOBJ_000005,82 bia Tiến sĩ,HeritageObject,,Bia Tiến sĩ triều Lê – Mạc|Doctoral Stelae,82_bia_tien_si,82,tấm bia,object_count,approved
+HSTATUS_000002,Di sản tư liệu thế giới,HeritageStatus,,Di sản Tư liệu Thế giới|Memory of the World,di_san_tu_lieu_the_gioi,,,,approved
+ORG_000001,UNESCO,Organization,,Tổ chức Giáo dục Khoa học và Văn hóa Liên Hợp Quốc,unesco,,,,approved
+PERSON_000003,Lê Thánh Tông,Person,,,le_thanh_tong,,,,approved
+PERSON_000008,Lý Thánh Tông,Person,,Vua Lý Thánh Tông,ly_thanh_tong,,,,approved
+PERSON_000009,Lý Nhân Tông,Person,,Vua Lý Nhân Tông|Càn Đức,ly_nhan_tong,,,,approved
+PERSON_000010,Chu Văn An,Person,,Danh sư Chu Văn An,chu_van_an,,,,approved
+PERSON_000011,Khổng Tử,Person,,Khổng Phu Tử|Confucius,khong_tu,,,,approved
+PERSON_000012,Nguyễn Văn Thành,Person,,Tổng trấn Bắc Thành Nguyễn Văn Thành,nguyen_van_thanh,,,,approved
+PLACE_000004,Văn Miếu – Quốc Tử Giám,Place,,Văn Miếu - Quốc Tử Giám|Văn Miếu Quốc Tử Giám|Temple of Literature,van_mieu_quoc_tu_giam,,,,approved
+TIME_000012,Năm 1070,Time,,1070,nam_1070,1070,năm,year,approved
+TIME_000013,Năm 1076,Time,,1076,nam_1076,1076,năm,year,approved
+TIME_000014,Năm 1805,Time,,1805,nam_1805,1805,năm,year,approved

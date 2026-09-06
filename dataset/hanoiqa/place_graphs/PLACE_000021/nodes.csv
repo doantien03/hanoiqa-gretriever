@@ -1,0 +1,37 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000020,Cầu bình an,Activity,,,cau_binh_an,,,,approved
+ACTIVITY_000023,Thờ Mẫu,Activity,,Thực hành tín ngưỡng thờ Mẫu,tho_mau,,,,approved
+ACTIVITY_000024,Lễ hội Phủ Tây Hồ,Activity,,,le_hoi_phu_tay_ho,,,,approved
+ADDRESS_000018,"Số 71 ngõ 50 Đặng Thai Mai, phường Tây Hồ, Hà Nội",Address,,,so_71_ngo_50_dang_thai_mai_phuong_tay_ho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000008,Phường Tây Hồ,AdministrativeArea,ward,,phuong_tay_ho,,,,approved
+ARCH_000170,Phủ chính Phủ Tây Hồ,Architecture,,,phu_chinh_phu_tay_ho,,,,approved
+ARCH_000171,Tiền tế Phủ Tây Hồ,Architecture,,,tien_te_phu_tay_ho,,,,approved
+ARCH_000172,Trung tế Phủ Tây Hồ,Architecture,,,trung_te_phu_tay_ho,,,,approved
+ARCH_000173,Hậu cung Phủ Tây Hồ,Architecture,,,hau_cung_phu_tay_ho,,,,approved
+ARCH_000174,Điện Sơn Trang Phủ Tây Hồ,Architecture,,,dien_son_trang_phu_tay_ho,,,,approved
+ARCH_000175,Tam quan Phủ Tây Hồ,Architecture,,,tam_quan_phu_tay_ho,,,,approved
+ARCH_000176,Phương đình Phủ Tây Hồ,Architecture,,,phuong_dinh_phu_tay_ho,,,,approved
+ARCH_000177,Lầu Cô Phủ Tây Hồ,Architecture,,,lau_co_phu_tay_ho,,,,approved
+ARCH_000178,Lầu Cậu Phủ Tây Hồ,Architecture,,,lau_cau_phu_tay_ho,,,,approved
+ASTYLE_000010,Bố cục chữ tam,ArchitecturalStyle,,,bo_cuc_chu_tam,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+HOBJ_000055,Nhóm bài vị Phủ Tây Hồ,HeritageObject,,,nhom_bai_vi_phu_tay_ho,,,,approved
+HOBJ_000056,Nhóm bát hương Phủ Tây Hồ,HeritageObject,,,nhom_bat_huong_phu_tay_ho,,,,approved
+HOBJ_000057,Nhóm chuông Phủ Tây Hồ,HeritageObject,,,nhom_chuong_phu_tay_ho,,,,approved
+HOBJ_000058,Kiệu bát cống Phủ Tây Hồ,HeritageObject,,,kieu_bat_cong_phu_tay_ho,,,,approved
+HOBJ_000059,Tượng Ngọc Hoàng Phủ Tây Hồ,HeritageObject,,,tuong_ngoc_hoang_phu_tay_ho,,,,approved
+HOBJ_000060,Tượng Nam Tào Phủ Tây Hồ,HeritageObject,,,tuong_nam_tao_phu_tay_ho,,,,approved
+HOBJ_000061,Tượng Bắc Đẩu Phủ Tây Hồ,HeritageObject,,,tuong_bac_dau_phu_tay_ho,,,,approved
+HOBJ_000062,Tượng Mẫu Thượng Ngàn Phủ Tây Hồ,HeritageObject,,,tuong_mau_thuong_ngan_phu_tay_ho,,,,approved
+HOBJ_000063,Hoành phi Mẫu nghi thiên hạ Phủ Tây Hồ,HeritageObject,,,hoanh_phi_mau_nghi_thien_ha_phu_tay_ho,,,,approved
+HSTATUS_000006,Di tích nghệ thuật cấp quốc gia,HeritageStatus,,,di_tich_nghe_thuat_cap_quoc_gia,,,,approved
+LOCATION_000019,Phố Đặng Thai Mai,Location,,Đường Đặng Thai Mai,pho_dang_thai_mai,,,,approved
+LOCATION_000020,Doi đất đặt Phủ Tây Hồ,Location,,Bán đảo Phủ Tây Hồ,doi_dat_dat_phu_tay_ho,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000011,Đồng,Material,,,dong,,,,approved
+MATERIAL_000012,Bê tông,Material,,,be_tong,,,,approved
+PLACE_000019,Hồ Tây,Place,,West Lake,ho_tay,,,,approved
+PLACE_000021,Phủ Tây Hồ,Place,,,phu_tay_ho,,,,approved
+TIME_000084,Ngày 13 tháng 2 năm 1996,Time,,13/02/1996|1996-02-13,ngay_13_thang_2_nam_1996,,,,approved
+TIME_000085,Năm 2006,Time,,2006,nam_2006,,,,approved

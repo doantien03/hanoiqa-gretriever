@@ -1,0 +1,13 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000208,SRC_000064,PLACE_000008,address,"Tháp Rùa tọa lạc trên gò Rùa giữa hồ Gươm, Hà Nội; địa chỉ vị trí chuẩn hóa: Gò Rùa, hồ Hoàn Kiếm, thành phố Hà Nội.",normalized_summary,approved
+EVD_000209,SRC_000066,PLACE_000008,location,Hồ Hoàn Kiếm ở trung tâm Hà Nội; giữa hồ có Tháp Rùa.,normalized_summary,approved
+EVD_000210,SRC_000064,PLACE_000008,construction,Tháp Rùa hiện nay được xây trong khoảng giữa năm 1884 đến tháng 4/1886.,normalized_summary,approved
+EVD_000211,SRC_000064,PLACE_000008,measurement,"Tầng một Tháp Rùa dài 6,28 m, rộng 4,54 m; tầng hai dài 4,8 m, rộng 3,64 m; tầng ba dài 2,97 m, rộng 1,9 m. Tầng đỉnh vuông, mỗi cạnh 2 m.",normalized_summary,approved
+EVD_000212,SRC_000064,PLACE_000008,architecture,"Tầng ba có cửa tròn phía đông đường kính 0,68 m; bên trên ghi Quy Sơn Tháp, nghĩa là Tháp Núi Rùa.",normalized_summary,approved
+EVD_000213,SRC_000063,PLACE_000008,architecture,"Tháp Rùa có ba tầng chính, một tầng đỉnh dạng vọng lâu, móng và mái cong. Lan can bao quanh đỉnh hai tầng dưới.",normalized_summary,approved
+EVD_000214,SRC_000063,PLACE_000008,architectural_style,Hai tầng dưới Tháp Rùa có cửa cuốn Gothic châu Âu; mái cong theo kiến trúc Việt Nam.,normalized_summary,approved
+EVD_000215,SRC_000063,PLACE_000008,measurement,"Móng Tháp Rùa cao 0,8 m; chiều cao từ đất gò tới đỉnh tháp là 8,8 m.",normalized_summary,approved
+EVD_000216,SRC_000063,PLACE_000008,measurement,Gò đất đặt Tháp Rùa rộng khoảng 350 m².,normalized_summary,approved
+EVD_000217,SRC_000063,PLACE_000008,measurement,"Tầng một Tháp Rùa có 10 cửa ngoài và 4 cửa ngăn, tổng 14 cửa. Tầng hai có kết cấu tương tự với 14 bộ cửa.",normalized_summary,approved
+EVD_000218,SRC_000065,PLACE_000008,event,"Không gian chiếu sáng nghệ thuật Hồ Gươm–Tháp Rùa diễn ra từ 24/12/2025 đến 04/01/2026, ra mắt tối 24/12/2025 tại khu vực hồ Hoàn Kiếm.",normalized_summary,approved
+EVD_000374,SRC_000127,PLACE_000008,classification,Cục Di sản văn hóa xếp Hồ Hoàn Kiếm và Đền Ngọc Sơn vào loại di tích lịch sử và danh lam thắng cảnh; bài hồ sơ xác nhận Tháp Rùa là công trình trên gò đất giữa hồ. Category của Tháp Rùa được kế thừa trong phạm vi cụm di tích.,normalized_summary,approved

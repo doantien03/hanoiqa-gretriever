@@ -1,0 +1,45 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000095,PLACE_000003,BUILT_IN,TIME_000006,EVD_000187,1.00,,,"{""source_relations"":[""built_in""],""source_datasets"":[""hoang_thanh_thang_long""],""construction_phase"":""completion""}",approved
+EDGE_000096,PLACE_000003,BUILT_BY,DYNASTY_000006,EVD_000187,0.95,,,"{""source_relations"":[""built_by""],""source_datasets"":[""hoang_thanh_thang_long""]}",approved
+EDGE_000097,PLACE_000003,ASSOCIATED_WITH_PERSON,PERSON_000004,EVD_000187,1.00,,,"{""source_relations"":[""associated_with_person""],""source_datasets"":[""hoang_thanh_thang_long""]}",approved
+EDGE_000098,PLACE_000003,ASSOCIATED_WITH_DYNASTY,DYNASTY_000006,EVD_000187,1.00,,,"{""source_relations"":[""associated_with_dynasty""],""source_datasets"":[""hoang_thanh_thang_long""]}",approved
+EDGE_000278,PLACE_000003,HAS_COMPONENT,ARCH_000050,EVD_000189,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000279,PLACE_000003,HAS_COMPONENT,ARCH_000051,EVD_000189,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000280,PLACE_000003,HAS_COMPONENT,ARCH_000052,EVD_000189,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000281,PLACE_000003,HAS_COMPONENT,ARCH_000053,EVD_000189,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000282,PLACE_000003,HAS_COMPONENT,ARCH_000054,EVD_000189,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000283,ARCH_000053,HAS_COMPONENT,ARCH_000055,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000284,ARCH_000053,HAS_COMPONENT,ARCH_000059,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000285,ARCH_000053,HAS_COMPONENT,ARCH_000060,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000286,ARCH_000054,HAS_COMPONENT,ARCH_000061,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000287,ARCH_000054,HAS_COMPONENT,ARCH_000062,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000288,PLACE_000003,HAS_COMPONENT,ARCH_000056,EVD_000193,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""placement_note"":""Nguồn khác nhau về tầng đặt cửa; chưa gán cửa vào tầng đế cụ thể.""}",approved
+EDGE_000289,PLACE_000003,HAS_COMPONENT,ARCH_000057,EVD_000193,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""placement_note"":""Nguồn khác nhau về tầng đặt cửa; chưa gán cửa vào tầng đế cụ thể.""}",approved
+EDGE_000290,PLACE_000003,HAS_COMPONENT,ARCH_000058,EVD_000193,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""placement_note"":""Nguồn khác nhau về tầng đặt cửa; chưa gán cửa vào tầng đế cụ thể.""}",approved
+EDGE_000291,ARCH_000050,HAS_MEASUREMENT,VALUE_000015,EVD_000190,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height""}",approved
+EDGE_000292,ARCH_000050,HAS_MEASUREMENT,VALUE_000016,EVD_000190,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""side_length"",""measurement_type"":""side_length""}",approved
+EDGE_000293,ARCH_000051,HAS_MEASUREMENT,VALUE_000017,EVD_000190,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height""}",approved
+EDGE_000294,ARCH_000051,HAS_MEASUREMENT,VALUE_000018,EVD_000190,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""side_length"",""measurement_type"":""side_length""}",approved
+EDGE_000295,ARCH_000052,HAS_MEASUREMENT,VALUE_000019,EVD_000190,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height""}",approved
+EDGE_000296,ARCH_000052,HAS_MEASUREMENT,VALUE_000020,EVD_000190,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""side_length"",""measurement_type"":""side_length""}",approved
+EDGE_000297,ARCH_000055,HAS_MEASUREMENT,VALUE_000021,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""step_count"",""measurement_type"":""step_count""}",approved
+EDGE_000298,ARCH_000059,HAS_MEASUREMENT,VALUE_000022,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""opening_count"",""measurement_type"":""opening_count""}",approved
+EDGE_000299,ARCH_000060,HAS_MEASUREMENT,VALUE_000023,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""opening_count"",""measurement_type"":""opening_count""}",approved
+EDGE_000300,ARCH_000061,HAS_MEASUREMENT,VALUE_000024,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""window_count"",""measurement_type"":""window_count""}",approved
+EDGE_000301,ARCH_000054,HAS_MEASUREMENT,VALUE_000025,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""height"",""measurement_type"":""height""}",approved
+EDGE_000302,ARCH_000062,HAS_MEASUREMENT,VALUE_000026,EVD_000192,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""measurement_kind"":""diameter"",""measurement_type"":""diameter""}",approved
+EDGE_000303,PLACE_000003,LOCATED_IN,LOCATION_000002,EVD_000188,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000304,PLACE_000003,LOCATED_IN,ADMIN_000002,EVD_000188,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000305,PLACE_000003,RECOGNIZED_AS,HSTATUS_000005,EVD_000194,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""designation"":""Di tích quốc gia""}",approved
+EDGE_000306,PLACE_000003,RECOGNIZED_IN,TIME_000028,EVD_000194,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""designation"":""Di tích quốc gia""}",approved
+EDGE_000307,PLACE_000003,HAS_EVENT,EVENT_000014,EVD_000195,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000308,EVENT_000014,OCCURRED_IN,TIME_000029,EVD_000195,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""time_of_day"":""15:00""}",approved
+EDGE_000309,PLACE_000003,USED_FOR,ACTIVITY_000013,EVD_000196,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""temporal_scope"":""historical""}",approved
+EDGE_000310,ARCH_000054,USED_FOR,ACTIVITY_000013,EVD_000196,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""temporal_scope"":""historical""}",approved
+EDGE_000311,PLACE_000003,BUILT_IN,TIME_000014,EVD_000187,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""construction_phase"":""start""}",approved
+EDGE_000312,PLACE_000003,BUILT_BY,PERSON_000004,EVD_000187,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked"",""agent_role"":""commissioned_by""}",approved
+EDGE_000313,ARCH_000050,BUILT_WITH,MATERIAL_000003,EVD_000191,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000314,ARCH_000051,BUILT_WITH,MATERIAL_000003,EVD_000191,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000315,ARCH_000052,BUILT_WITH,MATERIAL_000003,EVD_000191,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000316,PLACE_000003,HAS_CATEGORY,CATEGORY_000001,EVD_000194,0.95,,,"{""source_datasets"":[""cot_co_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000879,PLACE_000003,HAS_ADDRESS,ADDRESS_000021,EVD_000373,0.95,,,"{""source_datasets"":[""missing_address_category_patch""],""verification"":""web_source_checked"",""address_precision"":""house_number_street_ward_city""}",approved

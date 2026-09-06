@@ -1,0 +1,12 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000197,SRC_000061,PLACE_000007,address,"Ô Quan Chưởng ở ngã tư Hàng Chiếu – Thanh Hà – Đào Duy Từ – Ô Quan Chưởng, phường Hoàn Kiếm, Hà Nội.",normalized_summary,approved
+EVD_000198,SRC_000062,PLACE_000007,location,Ô Quan Chưởng nối phố Ô Quan Chưởng với đầu phố Hàng Chiếu.,normalized_summary,approved
+EVD_000199,SRC_000060,PLACE_000007,construction,Ô Quan Chưởng khởi dựng năm 1749 thời Lê; đại tu năm 1785 và xây dựng lại năm 1804.,normalized_summary,approved
+EVD_000200,SRC_000060,PLACE_000007,architecture,"Ô Quan Chưởng mang kiểu vọng lâu thời Nguyễn; tầng dưới có cửa chính và hai cửa phụ, tầng trên là vọng lâu bốn mái. Hai bên có bậc thang lên vọng lâu.",normalized_summary,approved
+EVD_000201,SRC_000059,PLACE_000007,architecture,Lan can bao quanh vọng lâu Ô Quan Chưởng có hoa văn hình học.,normalized_summary,approved
+EVD_000202,SRC_000060,PLACE_000007,measurement,"Cửa chính Ô Quan Chưởng cao 3 m; mỗi cửa phụ cao 2,5 m, rộng 1,65 m.",normalized_summary,approved
+EVD_000203,SRC_000059,PLACE_000007,material,"Cổng Ô Quan Chưởng dày 7 m, xây bằng gạch vồ và đá.",normalized_summary,approved
+EVD_000204,SRC_000059,PLACE_000007,inscription,Phía đông Ô Quan Chưởng có bảng chữ Đông Hà Môn đắp bằng mảnh sứ xanh.,normalized_summary,approved
+EVD_000205,SRC_000059,PLACE_000007,heritage_object,"Bia đá Thân cấm khư tệ ở Ô Quan Chưởng có kích thước 0,8 × 1 m. Bia lập năm 1881, ghi lệnh của Hoàng Diệu và Hoàng Văn Xứng chống sách nhiễu dân.",normalized_summary,approved
+EVD_000206,SRC_000062,PLACE_000007,historical_function,"Vọng lâu Ô Quan Chưởng phục vụ canh gác, kiểm soát an ninh khu phố buôn bán.",normalized_summary,approved
+EVD_000207,SRC_000059,PLACE_000007,recognition,Ô Quan Chưởng là di tích lịch sử được xếp hạng cấp quốc gia.,normalized_summary,approved

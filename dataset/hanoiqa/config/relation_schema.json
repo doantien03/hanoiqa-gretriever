@@ -1,0 +1,303 @@
+[
+  {
+    "relation": "HAS_COMPONENT",
+    "canonical_vi": "có hạng mục",
+    "vi_aliases": ["bao gồm", "gồm có", "có công trình", "có bộ phận"],
+    "description_vi": "Một địa danh hoặc công trình bao gồm một hạng mục cấu thành.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite"],
+    "target_types": ["Architecture", "ArchaeologicalSite", "HeritageObject", "Place"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "LOCATED_IN",
+    "canonical_vi": "nằm tại",
+    "vi_aliases": ["tọa lạc tại", "thuộc địa phận", "nằm trong", "ở tại"],
+    "description_vi": "Thực thể nằm trong một khu vực địa lý hoặc đơn vị hành chính.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "HeritageObject", "Organization"],
+    "target_types": ["AdministrativeArea", "Location", "Place"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "HAS_ADDRESS",
+    "canonical_vi": "có địa chỉ",
+    "vi_aliases": ["địa chỉ là", "nằm ở địa chỉ", "tọa lạc tại địa chỉ"],
+    "description_vi": "Địa danh hoặc tổ chức có một địa chỉ cụ thể.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "Organization"],
+    "target_types": ["Address"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "NEAR",
+    "canonical_vi": "nằm gần",
+    "vi_aliases": ["gần", "ở gần", "lân cận", "cách không xa"],
+    "description_vi": "Hai địa điểm ở gần nhau theo tiêu chí khoảng cách đã quy định.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "Location"],
+    "target_types": ["Place", "Architecture", "ArchaeologicalSite", "Location"],
+    "symmetric": true,
+    "evidence_required": true
+  },
+  {
+    "relation": "HAS_CATEGORY",
+    "canonical_vi": "thuộc loại",
+    "vi_aliases": ["được phân loại là", "là loại hình", "thuộc nhóm", "có loại hình"],
+    "description_vi": "Địa danh thuộc một loại hình du lịch hoặc di sản.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite"],
+    "target_types": ["TourismCategory"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "BUILT_IN",
+    "canonical_vi": "được xây dựng vào",
+    "vi_aliases": ["xây vào", "khởi dựng vào", "được dựng vào", "có niên đại xây dựng"],
+    "description_vi": "Công trình được xây dựng hoặc khởi dựng tại một mốc thời gian.",
+    "source_types": ["Place", "Architecture"],
+    "target_types": ["Time"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "BUILT_BY",
+    "canonical_vi": "được xây dựng bởi",
+    "vi_aliases": ["do xây dựng", "do khởi dựng", "được dựng bởi"],
+    "description_vi": "Công trình được xây dựng theo quyết định hoặc bởi một chủ thể.",
+    "source_types": ["Place", "Architecture"],
+    "target_types": ["Person", "Dynasty", "Organization"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "ESTABLISHED_IN",
+    "canonical_vi": "được thành lập vào",
+    "vi_aliases": ["thành lập năm", "ra đời vào", "được lập vào", "được thành lập năm"],
+    "description_vi": "Địa danh hoặc tổ chức được thành lập tại một mốc thời gian.",
+    "source_types": ["Place", "Organization"],
+    "target_types": ["Time"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "ESTABLISHED_BY",
+    "canonical_vi": "được thành lập bởi",
+    "vi_aliases": ["do thành lập", "do sáng lập", "được lập bởi"],
+    "description_vi": "Địa danh hoặc tổ chức được thành lập bởi một chủ thể.",
+    "source_types": ["Place", "Organization"],
+    "target_types": ["Person", "Dynasty", "Organization"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "RENOVATED_IN",
+    "canonical_vi": "được tu bổ vào",
+    "vi_aliases": ["được trùng tu vào", "được sửa chữa vào", "được phục dựng vào", "trùng tu năm"],
+    "description_vi": "Địa danh hoặc công trình được tu bổ tại một mốc thời gian.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite"],
+    "target_types": ["Time"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "RENOVATED_BY",
+    "canonical_vi": "được tu bổ bởi",
+    "vi_aliases": ["do trùng tu", "do tu sửa", "được phục dựng bởi"],
+    "description_vi": "Địa danh hoặc công trình được tu bổ bởi một chủ thể.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite"],
+    "target_types": ["Person", "Dynasty", "Organization"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "ASSOCIATED_WITH_PERSON",
+    "canonical_vi": "gắn với nhân vật",
+    "vi_aliases": ["liên quan đến nhân vật", "có liên hệ với", "gắn liền với"],
+    "description_vi": "Địa danh, công trình hoặc hiện vật có liên hệ lịch sử rõ ràng với một nhân vật.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "HeritageObject"],
+    "target_types": ["Person"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "ASSOCIATED_WITH_DYNASTY",
+    "canonical_vi": "gắn với triều đại",
+    "vi_aliases": ["thuộc thời", "liên quan đến triều đại", "có dấu ấn triều"],
+    "description_vi": "Thực thể có liên hệ lịch sử hoặc nguồn gốc với một triều đại.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "HeritageObject", "Person"],
+    "target_types": ["Dynasty"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "ASSOCIATED_WITH_PERIOD",
+    "canonical_vi": "gắn với thời kỳ",
+    "vi_aliases": ["thuộc giai đoạn", "liên quan đến thời kỳ", "có niên đại thuộc"],
+    "description_vi": "Thực thể có liên hệ với một thời kỳ lịch sử.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "HeritageObject", "Person", "Event"],
+    "target_types": ["HistoricalPeriod"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "HAS_CULTURAL_LAYER",
+    "canonical_vi": "có tầng văn hóa",
+    "vi_aliases": ["chứa tầng văn hóa", "phát hiện lớp văn hóa", "có lớp di tích thuộc"],
+    "description_vi": "Khu khảo cổ có tầng văn hóa thuộc một thời kỳ hoặc triều đại.",
+    "source_types": ["ArchaeologicalSite", "Place"],
+    "target_types": ["HistoricalPeriod", "Dynasty"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "HAS_EVENT",
+    "canonical_vi": "có sự kiện",
+    "vi_aliases": ["là nơi diễn ra", "tổ chức sự kiện", "gắn với sự kiện"],
+    "description_vi": "Địa danh là nơi diễn ra hoặc gắn trực tiếp với một sự kiện.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite"],
+    "target_types": ["Event"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "OCCURRED_IN",
+    "canonical_vi": "diễn ra vào",
+    "vi_aliases": ["xảy ra vào", "được tổ chức vào", "diễn ra trong", "có thời điểm"],
+    "description_vi": "Sự kiện diễn ra tại một mốc hoặc thời kỳ xác định.",
+    "source_types": ["Event"],
+    "target_types": ["Time", "HistoricalPeriod"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "INVOLVED_PERSON",
+    "canonical_vi": "có nhân vật tham gia",
+    "vi_aliases": ["liên quan đến nhân vật", "có sự tham gia của", "gắn với nhân vật"],
+    "description_vi": "Một sự kiện có sự tham gia hoặc liên quan trực tiếp của một nhân vật.",
+    "source_types": ["Event"],
+    "target_types": ["Person"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "HONORS",
+    "canonical_vi": "thờ hoặc tưởng niệm",
+    "vi_aliases": ["thờ", "tưởng niệm", "tôn vinh", "thờ phụng"],
+    "description_vi": "Địa danh hoặc công trình thờ, tưởng niệm hay tôn vinh một nhân vật.",
+    "source_types": ["Place", "Architecture"],
+    "target_types": ["Person"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "RECOGNIZED_AS",
+    "canonical_vi": "được công nhận là",
+    "vi_aliases": ["được xếp hạng là", "mang danh hiệu", "đạt danh hiệu"],
+    "description_vi": "Địa danh, công trình hoặc hiện vật được công nhận với một danh hiệu di sản.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "HeritageObject"],
+    "target_types": ["HeritageStatus"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "RECOGNIZED_IN",
+    "canonical_vi": "được công nhận vào",
+    "vi_aliases": ["được công nhận năm", "được xếp hạng vào", "nhận danh hiệu vào"],
+    "description_vi": "Việc công nhận hoặc xếp hạng diễn ra tại một mốc thời gian.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "HeritageObject"],
+    "target_types": ["Time"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "RECOGNIZED_BY",
+    "canonical_vi": "được công nhận bởi",
+    "vi_aliases": ["do công nhận", "do xếp hạng", "được ghi danh bởi"],
+    "description_vi": "Danh hiệu của thực thể được một tổ chức hoặc cơ quan công nhận.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "HeritageObject"],
+    "target_types": ["Organization"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "MANAGED_BY",
+    "canonical_vi": "được quản lý bởi",
+    "vi_aliases": ["do quản lý", "thuộc đơn vị quản lý", "được vận hành bởi"],
+    "description_vi": "Địa danh hoặc công trình do một tổ chức quản lý hoặc vận hành.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite"],
+    "target_types": ["Organization"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "HAS_ACTIVITY",
+    "canonical_vi": "có hoạt động",
+    "vi_aliases": ["cung cấp hoạt động", "có thể trải nghiệm", "tổ chức hoạt động", "phục vụ hoạt động"],
+    "description_vi": "Địa danh có hoạt động tham quan, văn hóa hoặc trải nghiệm được nguồn xác nhận.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite"],
+    "target_types": ["Activity"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "SUITABLE_FOR",
+    "canonical_vi": "phù hợp với",
+    "vi_aliases": ["thích hợp cho", "phù hợp cho", "được gợi ý cho"],
+    "description_vi": "Địa danh phù hợp với một nhóm khách theo tiêu chí và nguồn đánh giá đã quy định.",
+    "source_types": ["Place"],
+    "target_types": ["VisitorGroup"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "BUILT_WITH",
+    "canonical_vi": "được xây bằng",
+    "vi_aliases": ["làm từ", "sử dụng vật liệu", "được chế tác bằng", "xây dựng bằng"],
+    "description_vi": "Công trình hoặc hiện vật được xây dựng hay chế tác bằng một vật liệu.",
+    "source_types": ["Architecture", "HeritageObject"],
+    "target_types": ["Material"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "HAS_ARCHITECTURAL_STYLE",
+    "canonical_vi": "có phong cách kiến trúc",
+    "vi_aliases": ["mang phong cách", "được thiết kế theo", "có kiến trúc kiểu"],
+    "description_vi": "Địa danh hoặc công trình mang một phong cách kiến trúc xác định.",
+    "source_types": ["Place", "Architecture"],
+    "target_types": ["ArchitecturalStyle"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "USED_FOR",
+    "canonical_vi": "được sử dụng để",
+    "vi_aliases": ["có công năng", "dùng làm", "phục vụ việc", "có chức năng"],
+    "description_vi": "Công trình, hiện vật hoặc địa danh có một công năng hay hoạt động sử dụng xác định.",
+    "source_types": ["Place", "Architecture", "HeritageObject"],
+    "target_types": ["Activity", "Role"],
+    "symmetric": false,
+    "evidence_required": true
+  },
+  {
+    "relation": "HAS_MEASUREMENT",
+    "canonical_vi": "có số đo",
+    "vi_aliases": ["có chiều cao", "có diện tích", "có chiều dài", "có chiều rộng", "có kích thước"],
+    "description_vi": "Thực thể có một giá trị định lượng; loại số đo phải được ghi trong qualifier measurement_kind.",
+    "source_types": ["Place", "Architecture", "ArchaeologicalSite", "HeritageObject", "Location"],
+    "target_types": ["Value"],
+    "symmetric": false,
+    "evidence_required": true,
+    "required_qualifiers": ["measurement_kind"]
+  },
+  {
+    "relation": "HELD_ROLE",
+    "canonical_vi": "giữ vai trò",
+    "vi_aliases": ["giữ chức vụ", "đảm nhiệm vai trò", "từng làm", "được bổ nhiệm làm"],
+    "description_vi": "Một nhân vật giữ một chức vụ hoặc vai trò được xác định.",
+    "source_types": ["Person"],
+    "target_types": ["Role"],
+    "symmetric": false,
+    "evidence_required": true
+  }
+]

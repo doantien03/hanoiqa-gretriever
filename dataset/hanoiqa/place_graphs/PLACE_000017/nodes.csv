@@ -1,0 +1,39 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000020,Cầu bình an,Activity,,,cau_binh_an,,,,approved
+ADDRESS_000015,"Phố Chùa Một Cột, phường Ba Đình, Hà Nội",Address,,,pho_chua_mot_cot_phuong_ba_dinh_ha_noi,,,,approved
+ARCH_000145,Liên Hoa Đài Chùa Một Cột,Architecture,,,lien_hoa_dai_chua_mot_cot,,,,approved
+ARCH_000146,Cột trụ đá Chùa Một Cột,Architecture,,,cot_tru_da_chua_mot_cot,,,,approved
+ARCH_000147,Bộ khung gỗ đỡ đài Chùa Một Cột,Architecture,,,bo_khung_go_do_dai_chua_mot_cot,,,,approved
+ARCH_000148,Hệ bốn mái cong Chùa Một Cột,Architecture,,,he_bon_mai_cong_chua_mot_cot,,,,approved
+ARCH_000149,Thang xây lên đài Chùa Một Cột,Architecture,,,thang_xay_len_dai_chua_mot_cot,,,,approved
+ARCH_000150,Lan can quanh hồ Chùa Một Cột,Architecture,,,lan_can_quanh_ho_chua_mot_cot,,,,approved
+ARCH_000151,Tam quan quần thể Diên Hựu Chùa Một Cột,Architecture,,,tam_quan_quan_the_dien_huu_chua_mot_cot,,,,approved
+ARCH_000152,Nhà Tam Bảo quần thể Diên Hựu Chùa Một Cột,Architecture,,,nha_tam_bao_quan_the_dien_huu_chua_mot_cot,,,,approved
+ASTYLE_000009,Kiến trúc hình hoa sen trên một cột,ArchitecturalStyle,,,kien_truc_hinh_hoa_sen_tren_mot_cot,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+EVENT_000034,Khởi dựng quần thể Diên Hựu – Chùa Một Cột năm 1049,Event,,,khoi_dung_quan_the_dien_huu_chua_mot_cot_nam_1049,,,,approved
+EVENT_000035,Hoàn thành dựng lại Liên Hoa Đài năm 1955,Event,,,hoan_thanh_dung_lai_lien_hoa_dai_nam_1955,,,,approved
+EVENT_000036,Lý Nhân Tông tu bổ mở rộng quần thể Diên Hựu năm 1105,Event,,,ly_nhan_tong_tu_bo_mo_rong_quan_the_dien_huu_nam_1105,,,,approved
+HOBJ_000043,Tượng Bồ tát Quán Thế Âm tại Chùa Một Cột,HeritageObject,,,tuong_bo_tat_quan_the_am_tai_chua_mot_cot,,,,approved
+HOBJ_000044,Biển đề Liên Hoa Đài tại Chùa Một Cột,HeritageObject,,,bien_de_lien_hoa_dai_tai_chua_mot_cot,,,,approved
+HOBJ_000045,Khám thờ sơn son thếp vàng tại Chùa Một Cột,HeritageObject,,,kham_tho_son_son_thep_vang_tai_chua_mot_cot,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+LOCATION_000014,Phố Chùa Một Cột,Location,,,pho_chua_mot_cot,,,,approved
+LOCATION_000015,Hồ Linh Chiểu tại Chùa Một Cột,Location,,,ho_linh_chieu_tai_chua_mot_cot,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000002,Đá,Material,,,da,,,,approved
+MATERIAL_000003,Gạch,Material,,,gach,,,,approved
+MATERIAL_000010,Ngói ta,Material,,,ngoi_ta,,,,approved
+PERSON_000009,Lý Nhân Tông,Person,,Vua Lý Nhân Tông|Càn Đức,ly_nhan_tong,,,,approved
+PERSON_000042,Lý Thái Tông,Person,,Lý Phật Mã|Lý Đức Chính,ly_thai_tong,,,,approved
+PERSON_000043,Nguyễn Bá Lăng,Person,,Kiến trúc sư Nguyễn Bá Lăng,nguyen_ba_lang,,,,approved
+PLACE_000017,Chùa Một Cột,Place,,Chùa Mật|One Pillar Pagoda,chua_mot_cot,,,,approved
+TIME_000066,Năm 1049,Time,,1049,nam_1049,,,,approved
+TIME_000067,Tháng 4 năm 1955,Time,,04/1955|1955-04,thang_4_nam_1955,,,,approved
+TIME_000068,Năm 1962,Time,,1962,nam_1962,,,,approved
+TIME_000069,Năm 1105,Time,,1105,nam_1105,,,,approved
+VALUE_000027,3 m,Value,,,3_m,3,m,height,approved
+VALUE_000053,4 m,Value,,,4_m,4,m,width,approved
+VALUE_000056,"1,2 m",Value,,,1_2_m,1.2,m,diameter,approved
+VALUE_000057,2 khối đá,Value,,,2_khoi_da,2,khối,block_count,approved
+VALUE_000058,4 mái,Value,,,4_mai,4,mái,roof_count,approved

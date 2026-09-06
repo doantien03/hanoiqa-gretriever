@@ -1,0 +1,12 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000294,SRC_000099,PLACE_000016,address,"Cổng MyHanoi ghi địa chỉ Đền Ngọc Sơn tại phố Đinh Tiên Hoàng, Hà Nội. Chỉ chuẩn hóa phố và thành phố, không giữ tên phường/quận cũ làm địa chỉ hiện hành.",normalized_summary,approved
+EVD_000295,SRC_000100,PLACE_000016,location,Đền Ngọc Sơn tọa lạc trên đảo Ngọc trong hồ Hoàn Kiếm.,normalized_summary,approved
+EVD_000296,SRC_000100,PLACE_000016,architecture,"Các hạng mục gồm nghi môn, Tháp Bút, nghi môn nội, Đài Nghiên, cầu Thê Húc, cổng Đắc Nguyệt, đình Trấn Ba, tiền tế, trung đường, hậu cung, tả vu, hữu vu, nhà kính thư và nhà hậu.",normalized_summary,approved
+EVD_000297,SRC_000100,PLACE_000016,historical_function,"Đền từng là nơi sinh hoạt Hội Hướng thiện, gắn với Nguyễn Văn Siêu và Vũ Tông Phan; hội tổ chức in sách thuốc, kinh và sách luận về tín ngưỡng.",normalized_summary,approved
+EVD_000298,SRC_000037,PLACE_000016,recognition,"Hồ Hoàn Kiếm và Đền Ngọc Sơn cùng thuộc di tích lịch sử và danh lam thắng cảnh được xếp hạng quốc gia đặc biệt ngày 9/12/2013, Quyết định 2383/QĐ-TTg. Phạm vi pháp lý là cụm di tích, không phải chỉ riêng đền.",normalized_summary,approved
+EVD_000299,SRC_000101,PLACE_000016,restoration,"Năm 1865, Nguyễn Văn Siêu đứng ra trùng tu Đền Ngọc Sơn và xây Tháp Bút, Đài Nghiên.",normalized_summary,approved
+EVD_000300,SRC_000101,PLACE_000016,architecture,Tháp Bút gồm năm tầng; bài Bút Tháp chí của Nguyễn Văn Siêu được khắc trên tầng ba của tháp.,normalized_summary,approved
+EVD_000301,SRC_000101,PLACE_000016,heritage_objects,Đài Nghiên có nghiên mực bằng đá hình nửa quả đào; thành nghiên khắc bài minh do Nguyễn Văn Siêu soạn.,normalized_summary,approved
+EVD_000302,SRC_000102,PLACE_000016,construction,"Nguyễn Văn Siêu cho làm cầu Thê Húc năm 1865 khi tu sửa đền. Cầu được mô tả gồm 15 nhịp, mặt lát ván gỗ, sơn đỏ sẫm.",normalized_summary,approved
+EVD_000303,SRC_000102,PLACE_000016,material,"Cầu được xây lại sau lần sập năm 1952; thiết kế dùng dầm bê tông, mặt và thành cầu bằng gỗ. Không coi toàn kết cấu cầu hiện nay là gỗ nguyên gốc năm 1865.",normalized_summary,approved
+EVD_000304,SRC_000103,PLACE_000016,worship,"Đền Ngọc Sơn thờ Trần Hưng Đạo, vị anh hùng gắn với kháng chiến chống Nguyên Mông.",normalized_summary,approved

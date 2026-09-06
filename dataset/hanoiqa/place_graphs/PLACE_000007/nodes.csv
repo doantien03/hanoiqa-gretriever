@@ -1,0 +1,36 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000014,Canh gác và kiểm soát an ninh cửa ô,Activity,,,canh_gac_va_kiem_soat_an_ninh_cua_o,,,,approved
+ADDRESS_000005,"Ngã tư Hàng Chiếu – Đào Duy Từ – Thanh Hà – Ô Quan Chưởng, phường Hoàn Kiếm, thành phố Hà Nội",Address,,,nga_tu_hang_chieu_dao_duy_tu_thanh_ha_o_quan_chuong_phuong_hoan_kiem_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000006,Phường Hoàn Kiếm,AdministrativeArea,ward,,phuong_hoan_kiem,,,,approved
+ARCH_000063,Tầng dưới Ô Quan Chưởng,Architecture,,,tang_duoi_o_quan_chuong,,,,approved
+ARCH_000064,Cửa chính Ô Quan Chưởng,Architecture,,,cua_chinh_o_quan_chuong,,,,approved
+ARCH_000065,Cửa phụ bên trái Ô Quan Chưởng,Architecture,,,cua_phu_ben_trai_o_quan_chuong,,,,approved
+ARCH_000066,Cửa phụ bên phải Ô Quan Chưởng,Architecture,,,cua_phu_ben_phai_o_quan_chuong,,,,approved
+ARCH_000067,Vọng lâu Ô Quan Chưởng,Architecture,,,vong_lau_o_quan_chuong,,,,approved
+ARCH_000068,Hệ bậc thang lên vọng lâu Ô Quan Chưởng,Architecture,,,he_bac_thang_len_vong_lau_o_quan_chuong,,,,approved
+ARCH_000069,Lan can vọng lâu Ô Quan Chưởng,Architecture,,,lan_can_vong_lau_o_quan_chuong,,,,approved
+ASTYLE_000004,Kiến trúc vọng lâu,ArchitecturalStyle,,Kiểu vọng lâu,kien_truc_vong_lau,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+DYNASTY_000005,Nhà Lê Trung hưng,Dynasty,,Triều Lê Trung hưng,nha_le_trung_hung,,,,approved
+EVENT_000015,Lập bia Thân cấm khư tệ tại Ô Quan Chưởng năm 1881,Event,,,lap_bia_than_cam_khu_te_tai_o_quan_chuong_nam_1881,,,,approved
+HOBJ_000012,Bia Thân cấm khư tệ tại Ô Quan Chưởng,HeritageObject,,Bia Lệnh cấm trừ tệ Ô Quan Chưởng,bia_than_cam_khu_te_tai_o_quan_chuong,,,,approved
+HOBJ_000013,Bảng chữ Đông Hà Môn tại Ô Quan Chưởng,HeritageObject,,,bang_chu_dong_ha_mon_tai_o_quan_chuong,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+LOCATION_000003,Phố Ô Quan Chưởng,Location,,,pho_o_quan_chuong,,,,approved
+LOCATION_000004,Phố Hàng Chiếu,Location,,,pho_hang_chieu,,,,approved
+MATERIAL_000002,Đá,Material,,,da,,,,approved
+MATERIAL_000004,Gạch vồ,Material,,,gach_vo,,,,approved
+PERSON_000022,Hoàng Diệu,Person,,,hoang_dieu,,,,approved
+PERSON_000023,Hoàng Văn Xứng,Person,,,hoang_van_xung,,,,approved
+PLACE_000007,Ô Quan Chưởng,Place,,Ô Đông Hà|Đông Hà Môn|Đông Hà môn|Ô Thanh Hà|Ô Cửa Đông,o_quan_chuong,,,,approved
+TIME_000030,Năm 1749,Time,,1749,nam_1749,,,,approved
+TIME_000031,Năm 1785,Time,,1785,nam_1785,,,,approved
+TIME_000032,Năm 1804,Time,,1804,nam_1804,,,,approved
+TIME_000033,Năm 1881,Time,,1881,nam_1881,,,,approved
+VALUE_000027,3 m,Value,,,3_m,3,m,height,approved
+VALUE_000028,"2,5 m",Value,,,2_5_m,2.5,m,height,approved
+VALUE_000029,"1,65 m",Value,,,1_65_m,1.65,m,width,approved
+VALUE_000030,7 m,Value,,,7_m,7,m,thickness,approved
+VALUE_000031,"0,8 m",Value,,,0_8_m,0.8,m,dimension,approved
+VALUE_000032,1 m,Value,,,1_m,1,m,dimension,approved

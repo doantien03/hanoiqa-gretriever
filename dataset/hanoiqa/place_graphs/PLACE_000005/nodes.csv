@@ -1,0 +1,33 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000009,Giáo dục truyền thống yêu nước và cách mạng,Activity,,Giáo dục truyền thống cách mạng,giao_duc_truyen_thong_yeu_nuoc_va_cach_mang,,,,approved
+ACTIVITY_000010,"Tham quan, nghiên cứu và học tập",Activity,,Tham quan và nghiên cứu di tích,tham_quan_nghien_cuu_va_hoc_tap,,,,approved
+ADDRESS_000003,"Số 1 phố Hỏa Lò, phường Cửa Nam, thành phố Hà Nội",Address,,1 Hỏa Lò|No. 1 Hoa Lo Street,so_1_pho_hoa_lo_phuong_cua_nam_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000004,Phường Cửa Nam,AdministrativeArea,ward,,phuong_cua_nam,,,,approved
+ARCH_000037,Nhà canh gác Nhà tù Hỏa Lò,Architecture,,Nhà dùng cho việc canh gác,nha_canh_gac_nha_tu_hoa_lo,,,,approved
+ARCH_000038,Cụm bệnh xá Nhà tù Hỏa Lò,Architecture,,Hai nhà bệnh xá,cum_benh_xa_nha_tu_hoa_lo,,,,approved
+ARCH_000039,Khu giam bị can Nhà tù Hỏa Lò,Architecture,,Hai nhà giam bị can,khu_giam_bi_can_nha_tu_hoa_lo,,,,approved
+ARCH_000040,Phân xưởng Nhà tù Hỏa Lò,Architecture,,Nhà phân xưởng,phan_xuong_nha_tu_hoa_lo,,,,approved
+ARCH_000041,Khu giam tù nhân Nhà tù Hỏa Lò,Architecture,,Năm nhà giam tù nhân,khu_giam_tu_nhan_nha_tu_hoa_lo,,,,approved
+ARCH_000042,Đài tưởng niệm Nhà tù Hỏa Lò,Architecture,,Khu tưởng niệm,dai_tuong_niem_nha_tu_hoa_lo,,,,approved
+ARCH_000043,Phòng trưng bày cuộc sống tù binh phi công Mỹ,Architecture,,Phòng trưng bày phi công Mỹ|American pilots exhibition rooms,phong_trung_bay_cuoc_song_tu_binh_phi_cong_my,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+EVENT_000006,Xây dựng Nhà tù Hỏa Lò,Event,,Khởi công Nhà tù Trung ương,xay_dung_nha_tu_hoa_lo,,,,approved
+EVENT_000007,Tiếp quản Nhà tù Hỏa Lò năm 1954,Event,,Quân đội nhân dân Việt Nam tiếp quản Hỏa Lò,tiep_quan_nha_tu_hoa_lo_nam_1954,,,,approved
+EVENT_000008,Giam giữ phi công Mỹ tại Hỏa Lò,Event,,Thời kỳ Hilton Hà Nội,giam_giu_phi_cong_my_tai_hoa_lo,,,,approved
+EVENT_000009,Trao trả phi công Mỹ năm 1973,Event,,Trao trả tù binh phi công Mỹ,trao_tra_phi_cong_my_nam_1973,,,,approved
+HOBJ_000009,Máy chém Nhà tù Hỏa Lò,HeritageObject,,Chiếc máy chém Hỏa Lò,may_chem_nha_tu_hoa_lo,,,,approved
+HOBJ_000010,Mô hình tái tạo chiến sĩ cách mạng trong lao tù,HeritageObject,,Mô hình tù nhân Hỏa Lò,mo_hinh_tai_tao_chien_si_cach_mang_trong_laotu,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+ORG_000005,Ban Quản lý Di tích Nhà tù Hỏa Lò,Organization,,Ban quản lý Hỏa Lò,ban_quan_ly_di_tich_nha_tu_hoa_lo,,,,approved
+ORG_000006,Chính quyền thực dân Pháp,Organization,,Thực dân Pháp|French colonial administration,chinh_quyen_thuc_dan_phap,,,,approved
+PERSON_000017,John Sidney McCain,Person,,John McCain|John Sidney Mc.Cain,john_sidney_mccain,,,,approved
+PERSON_000018,Trần Trọng Duyệt,Person,,Đại tá Trần Trọng Duyệt,tran_trong_duyet,,,,approved
+PLACE_000005,Di tích Nhà tù Hỏa Lò,Place,,Nhà tù Hỏa Lò|Hỏa Lò Prison Relic|Maison Centrale,di_tich_nha_tu_hoa_lo,,,,approved
+TIME_000018,Năm 1896,Time,,1896,nam_1896,,,,approved
+TIME_000019,Năm 1954,Time,,1954,nam_1954,,,,approved
+TIME_000020,Giai đoạn 1964–1973,Time,,1964-1973,giai_doan_1964_1973,,,,approved
+TIME_000021,Ngày 18 tháng 6 năm 1997,Time,,18/6/1997|18-06-1997,ngay_18_thang_6_nam_1997,,,,approved
+TIME_000022,Ngày 14 tháng 3 năm 1973,Time,,14/3/1973|14-03-1973,ngay_14_thang_3_nam_1973,,,,approved
+VALUE_000011,12.908 m²,Value,,12908 m2,12908_m2,12908,m²,area,approved
+VALUE_000012,2.434 m²,Value,,2434 m2,2434_m2,2434,m²,area,approved

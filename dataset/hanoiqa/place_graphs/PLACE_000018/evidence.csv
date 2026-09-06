@@ -1,0 +1,14 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000319,SRC_000108,PLACE_000018,address,"Đầu trang Tây Hồ 360 ghi địa chỉ Chùa Trấn Quốc: số 30 đường Thanh Niên, phường Tây Hồ. Thành phố được chuẩn hóa là Hà Nội.",normalized_summary,approved
+EVD_000320,SRC_000109,PLACE_000018,location,"Chùa nằm trên bán đảo ở phía đông Hồ Tây, gần đường Thanh Niên, Hà Nội; đảo được nguồn gọi là Kim Ngưu, tức Cá Vàng.",normalized_summary,approved
+EVD_000321,SRC_000110,PLACE_000018,construction,"Chùa Trấn Quốc có từ thế kỷ VI, ban đầu ở gần sông Hồng và mang tên Khai Quốc.",normalized_summary,approved
+EVD_000322,SRC_000109,PLACE_000018,historical_event,"Năm 1615, do bãi sông bị lở, chùa được chuyển vào đảo ở Hồ Tây, tức địa điểm hiện nay.",normalized_summary,approved
+EVD_000323,SRC_000110,PLACE_000018,historical_event,Giáo hội Phật giáo Hà Nội cũng ghi chùa dời vào trong đê Yên Phụ năm 1615.,normalized_summary,approved
+EVD_000324,SRC_000110,PLACE_000018,architecture,"Chùa có tiền đường, thiêu hương, thượng điện, hai hành lang tả hữu, gác chuông, nhà Tổ và nhà bia; trong khuôn viên có vườn tháp.",normalized_summary,approved
+EVD_000325,SRC_000109,PLACE_000018,architecture,"Bảo tháp Lục Độ Đài Sen xây năm 1998, cao 15 m, có 11 tầng; đỉnh đặt Cửu Phẩm Liên Hoa chín tầng bằng đá quý.",normalized_summary,approved
+EVD_000326,SRC_000111,PLACE_000018,heritage_objects,"Bảo tháp có 66 tượng Phật A Di Đà bằng đá quý, bố trí sáu tượng mỗi tầng, tổng cộng 11 tầng.",normalized_summary,approved
+EVD_000327,SRC_000108,PLACE_000018,heritage_objects,Chùa lưu giữ tượng Thích Ca nhập Niết Bàn bằng gỗ thếp vàng.,normalized_summary,approved
+EVD_000328,SRC_000108,PLACE_000018,heritage_objects,"Bia năm 1639 do Nguyễn Xuân Chính soạn, ghi việc đại tu chùa. Bia năm 1815 có bài văn Phạm Quý Thích về lần tu sửa bắt đầu năm 1813 và kết thúc năm 1815.",normalized_summary,approved
+EVD_000329,SRC_000110,PLACE_000018,material,"Trong chùa còn bia đá, trong đó có văn bia Nguyễn Xuân Chính và Phạm Quý Thích.",normalized_summary,approved
+EVD_000330,SRC_000109,PLACE_000018,restoration,Diện mạo kiến trúc chùa gắn với lần trùng tu lớn năm 1815.,normalized_summary,approved
+EVD_000331,SRC_000108,PLACE_000018,recognition,Tây Hồ 360 ghi chùa được xếp hạng di tích kiến trúc nghệ thuật theo Quyết định 313-VH/VP ngày 28/4/1962.,normalized_summary,approved

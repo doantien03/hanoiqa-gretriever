@@ -1,0 +1,15 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000305,SRC_000104,PLACE_000017,address,"Mục liên hệ của trang Chùa Một Cột ghi Phố Chùa Một Cột, phường Ba Đình. Chuẩn hóa với thành phố Hà Nội; không dùng phường Đội Cấn/quận Ba Đình trong phần giới thiệu cũ.",normalized_summary,approved
+EVD_000306,SRC_000107,PLACE_000017,identity,Chùa Một Cột thường chỉ Liên Hoa Đài nằm trong quần thể Diên Hựu; đài ở giữa hồ Linh Chiểu hình vuông. Quần thể lịch sử không còn nguyên trạng thời Lý.,normalized_summary,approved
+EVD_000307,SRC_000104,PLACE_000017,architecture,"Quần thể điểm đến gồm Liên Hoa Đài giữa hồ Linh Chiểu, tam quan và nhà Tam Bảo bên cạnh.",normalized_summary,approved
+EVD_000308,SRC_000105,PLACE_000017,construction,"Chùa được khởi dựng năm 1049 dưới thời Lý Thái Tông. Câu chuyện vua mộng thấy Quan Âm là tích kể về nguồn gốc, không phải sự kiện được kiểm chứng độc lập.",normalized_summary,approved
+EVD_000309,SRC_000105,PLACE_000017,architecture,"Liên Hoa Đài có mặt bằng vuông cạnh 3 m, bốn mái cong lợp ngói ta. Trụ đá cao 4 m, không kể phần chìm dưới đất, đường kính 1,2 m, ghép từ hai khối đá.",normalized_summary,approved
+EVD_000310,SRC_000105,PLACE_000017,architecture,Bộ khung gỗ đỡ đài bên trên cột đá. Có thang xây lên chùa và lan can gạch quanh hồ.,normalized_summary,approved
+EVD_000311,SRC_000105,PLACE_000017,heritage_objects,Trong đài đặt tượng Bồ tát Quán Thế Âm; trên cửa có biển đề Liên Hoa Đài.,normalized_summary,approved
+EVD_000312,SRC_000104,PLACE_000017,heritage_objects,Tượng Quan Âm được đặt trong khám thờ sơn son thếp vàng ở gian chính Liên Hoa Đài.,normalized_summary,approved
+EVD_000313,SRC_000104,PLACE_000017,restoration,"Sau khi chùa bị phá năm 1954, công trình được dựng lại theo thiết kế Nguyễn Bá Lăng, hoàn thành tháng 4/1955.",normalized_summary,approved
+EVD_000314,SRC_000106,PLACE_000017,restoration,"Liên Hoa Đài hiện tại được Nguyễn Bá Lăng dựng lại năm 1955 theo kiến trúc để lại từ thời Nguyễn, không phải nguyên bản năm 1049.",normalized_summary,approved
+EVD_000315,SRC_000104,PLACE_000017,historical_event,"Năm 1105, Lý Nhân Tông cho tu bổ, mở rộng quần thể, đào hồ Linh Chiểu và hồ Bích Trì.",normalized_summary,approved
+EVD_000316,SRC_000105,PLACE_000017,recognition,"Năm 1962, Chùa Một Cột được xếp hạng di tích lịch sử kiến trúc nghệ thuật quốc gia.",normalized_summary,approved
+EVD_000317,SRC_000106,PLACE_000017,architecture,Liên Hoa Đài trên một trụ giữa hồ gợi hình tượng bông sen vươn khỏi nước; đây là đặc trưng kiến trúc của công trình.,normalized_summary,approved
+EVD_000318,SRC_000104,PLACE_000017,religious_activity,"Chùa là nơi người dân thực hành cầu bình an. Đây là hoạt động tín ngưỡng, không phải khẳng định hiệu quả siêu nhiên.",normalized_summary,approved

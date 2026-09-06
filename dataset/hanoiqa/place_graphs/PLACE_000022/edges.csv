@@ -1,0 +1,41 @@
+﻿edge_id,source_id,relation,target_id,evidence_ids,confidence,valid_from,valid_to,qualifiers_json,review_status
+EDGE_000838,PLACE_000022,HAS_ADDRESS,ADDRESS_000019,EVD_000358,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""address_precision"":""house_number_street_ward_city""}",approved
+EDGE_000839,PLACE_000022,LOCATED_IN,LOCATION_000021,EVD_000358,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""location_scope"":""address_street""}",approved
+EDGE_000840,PLACE_000022,LOCATED_IN,ADMIN_000006,EVD_000358,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000841,PLACE_000022,LOCATED_IN,ADMIN_000002,EVD_000358,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000842,PLACE_000022,HAS_CATEGORY,CATEGORY_000003,EVD_000359,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""category_basis"":""active_Catholic_cathedral""}",approved
+EDGE_000843,PLACE_000022,NEAR,PLACE_000009,EVD_000370,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""distance_description"":""khoảng 1 km"",""distance_not_geospatially_recomputed"":true}",approved
+EDGE_000844,PLACE_000022,HAS_COMPONENT,ARCH_000179,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000845,PLACE_000022,HAS_COMPONENT,ARCH_000180,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000846,PLACE_000022,HAS_COMPONENT,ARCH_000181,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000847,PLACE_000022,HAS_COMPONENT,ARCH_000182,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000848,PLACE_000022,HAS_COMPONENT,ARCH_000183,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000849,PLACE_000022,HAS_COMPONENT,ARCH_000184,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000850,PLACE_000022,HAS_COMPONENT,ARCH_000185,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000851,PLACE_000022,HAS_COMPONENT,ARCH_000186,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000852,ARCH_000183,HAS_COMPONENT,HOBJ_000064,EVD_000365,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000853,ARCH_000183,HAS_COMPONENT,HOBJ_000065,EVD_000365,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000854,PLACE_000022,HAS_COMPONENT,HOBJ_000066,EVD_000365,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000855,PLACE_000022,HAS_COMPONENT,HOBJ_000067,EVD_000365,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000856,PLACE_000022,HAS_COMPONENT,HOBJ_000068,EVD_000365,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000857,PLACE_000022,BUILT_IN,TIME_000086,EVD_000360,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""construction_scope"":""main_cathedral_building""}",approved
+EDGE_000858,PLACE_000022,BUILT_BY,PERSON_000049,EVD_000360,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""agent_role"":""commissioned_and_directed_construction""}",approved
+EDGE_000859,PLACE_000022,ASSOCIATED_WITH_PERSON,PERSON_000049,EVD_000360,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""association_scope"":""bishop_during_construction""}",approved
+EDGE_000860,PLACE_000022,MANAGED_BY,ORG_000010,EVD_000359,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""management_scope"":""cathedral_of_archdiocese""}",approved
+EDGE_000861,PLACE_000022,HAS_ARCHITECTURAL_STYLE,ASTYLE_000005,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""style_label_in_source"":""Gô-tích cổ Âu Châu""}",approved
+EDGE_000862,ARCH_000179,HAS_ARCHITECTURAL_STYLE,ASTYLE_000005,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000863,PLACE_000022,HAS_EVENT,EVENT_000038,EVD_000361,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000864,EVENT_000038,OCCURRED_IN,TIME_000087,EVD_000361,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000865,PLACE_000022,HAS_EVENT,EVENT_000039,EVD_000362,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000866,EVENT_000039,OCCURRED_IN,TIME_000088,EVD_000362,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000867,PLACE_000022,HAS_EVENT,EVENT_000040,EVD_000363,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000868,EVENT_000040,OCCURRED_IN,TIME_000089,EVD_000363,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked""}",approved
+EDGE_000869,PLACE_000022,RENOVATED_IN,TIME_000090,EVD_000367,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""renovation_scope"":""roof_wood_frame_side_doors""}",approved
+EDGE_000870,PLACE_000022,RENOVATED_IN,TIME_000091,EVD_000368,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""renovation_scope"":""marble_floor_and_wall_paint""}",approved
+EDGE_000871,ARCH_000181,RENOVATED_IN,TIME_000092,EVD_000369,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""renovation_scope"":""chancel_stone_and_basement""}",approved
+EDGE_000872,PLACE_000022,RENOVATED_IN,TIME_000093,EVD_000365,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""renovation_scope"":""installation_of_pipe_organ"",""source_wording"":""đại phong cầm được lắp đặt năm 2022""}",approved
+EDGE_000873,ARCH_000179,BUILT_WITH,MATERIAL_000003,EVD_000366,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""material_description"":""gạch đất nung""}",approved
+EDGE_000874,HOBJ_000067,BUILT_WITH,MATERIAL_000001,EVD_000366,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""object_scope"":""carved_wood_screens""}",approved
+EDGE_000875,ARCH_000181,BUILT_WITH,MATERIAL_000007,EVD_000369,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""temporal_scope"":""2018 renovation""}",approved
+EDGE_000876,ARCH_000185,BUILT_WITH,MATERIAL_000001,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""component_scope"":""carved_wood_decoration""}",approved
+EDGE_000877,ARCH_000186,BUILT_WITH,MATERIAL_000001,EVD_000364,0.95,,,"{""source_datasets"":[""nha_tho_lon_ha_noi""],""verification"":""web_source_checked"",""component_scope"":""carved_wood_decoration""}",approved

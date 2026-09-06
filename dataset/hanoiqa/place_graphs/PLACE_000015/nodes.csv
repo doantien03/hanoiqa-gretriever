@@ -1,0 +1,38 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000005,Xem trưng bày hiện vật,Activity,,Tham quan nhà trưng bày,xem_trung_bay_hien_vat,,,,approved
+ADDRESS_000013,"Cửa Tiền, phố Quang Trung, Sơn Tây, Hà Nội",Address,,,cua_tien_pho_quang_trung_son_tay_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000118,Cửa Tiền Thành cổ Sơn Tây,Architecture,,Cửa Nam Thành cổ Sơn Tây,cua_tien_thanh_co_son_tay,,,,approved
+ARCH_000119,Cửa Hậu Thành cổ Sơn Tây,Architecture,,Cửa Bắc Thành cổ Sơn Tây,cua_hau_thanh_co_son_tay,,,,approved
+ARCH_000120,Cửa Hữu Thành cổ Sơn Tây,Architecture,,Cửa Tây Thành cổ Sơn Tây,cua_huu_thanh_co_son_tay,,,,approved
+ARCH_000121,Cửa Tả Thành cổ Sơn Tây,Architecture,,Cửa Đông Thành cổ Sơn Tây,cua_ta_thanh_co_son_tay,,,,approved
+ARCH_000122,Tường thành Thành cổ Sơn Tây,Architecture,,,tuong_thanh_thanh_co_son_tay,,,,approved
+ARCH_000123,Hào nước Thành cổ Sơn Tây,Architecture,,,hao_nuoc_thanh_co_son_tay,,,,approved
+ARCH_000124,Kỳ đài Thành cổ Sơn Tây,Architecture,,Cột cờ Thành cổ Sơn Tây,ky_dai_thanh_co_son_tay,,,,approved
+ARCH_000125,Vọng cung Thành cổ Sơn Tây,Architecture,,,vong_cung_thanh_co_son_tay,,,,approved
+ARCH_000126,Đoan môn Thành cổ Sơn Tây,Architecture,,,doan_mon_thanh_co_son_tay,,,,approved
+ARCH_000127,Bình phong Thành cổ Sơn Tây,Architecture,,,binh_phong_thanh_co_son_tay,,,,approved
+ARCH_000128,Sân lát gạch trước điện Thành cổ Sơn Tây,Architecture,,,san_lat_gach_truoc_dien_thanh_co_son_tay,,,,approved
+ARCH_000129,Nhóm bốn giếng nước lịch sử Thành cổ Sơn Tây,Architecture,,,nhom_bon_gieng_nuoc_lich_su_thanh_co_son_tay,,,,approved
+ARCH_000130,Khu trưng bày máy bay Thành cổ Sơn Tây,Architecture,,,khu_trung_bay_may_bay_thanh_co_son_tay,,,,approved
+ASTYLE_000008,Kiến trúc Vauban,ArchitecturalStyle,,Kiến trúc Vô-băng,kien_truc_vauban,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+DYNASTY_000006,Nhà Nguyễn,Dynasty,,Triều Nguyễn,nha_nguyen,,,,approved
+EVENT_000033,Cuộc họp Chính phủ tại Thành cổ Sơn Tây tháng 12/1946,Event,,,cuoc_hop_chinh_phu_tai_thanh_co_son_tay_thang_12_1946,,,,approved
+HOBJ_000037,Nhóm hai súng thần công tại Thành cổ Sơn Tây,HeritageObject,,,nhom_hai_sung_than_cong_tai_thanh_co_son_tay,,,,approved
+HOBJ_000038,Nhóm hai máy bay MiG-21 tại Thành cổ Sơn Tây,HeritageObject,,,nhom_hai_may_bay_mig_21_tai_thanh_co_son_tay,,,,approved
+HOBJ_000039,Máy bay Mi-8 tại Thành cổ Sơn Tây,HeritageObject,,,may_bay_mi_8_tai_thanh_co_son_tay,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+LOCATION_000010,Phố Quang Trung (Sơn Tây),Location,,,pho_quang_trung_son_tay,,,,approved
+LOCATION_000011,Phố Lê Lợi (Sơn Tây),Location,,,pho_le_loi_son_tay,,,,approved
+MATERIAL_000003,Gạch,Material,,,gach,,,,approved
+MATERIAL_000009,Đá ong,Material,,,da_ong,,,,approved
+PERSON_000005,Minh Mạng,Person,,Nguyễn Phúc Đảm,minh_mang,,,,approved
+PLACE_000015,Thành cổ Sơn Tây,Place,,Thành Sơn Tây|Sơn Tây cổ thành,thanh_co_son_tay,,,,approved
+TIME_000061,Năm 1822,Time,,1822,nam_1822,,,,approved
+TIME_000062,Ngày 15 tháng 10 năm 1994,Time,,15/10/1994|1994-10-15,ngay_15_thang_10_nam_1994,,,,approved
+TIME_000063,Tháng 12 năm 1946,Time,,12/1946|1946-12,thang_12_nam_1946,,,,approved
+VALUE_000050,Khoảng 400 m,Value,,,khoang_400_m,400,m,length,approved
+VALUE_000051,Khoảng 5 m,Value,,,khoang_5_m,5,m,height,approved
+VALUE_000052,6 m,Value,,,6_m,6,m,width,approved
+VALUE_000053,4 m,Value,,,4_m,4,m,width,approved

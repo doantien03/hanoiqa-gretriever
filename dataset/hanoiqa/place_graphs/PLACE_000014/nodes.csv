@@ -1,0 +1,34 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ADDRESS_000012,"5D phố Hàm Long, phường Cửa Nam, thành phố Hà Nội",Address,,,5d_pho_ham_long_phuong_cua_nam_thanh_pho_ha_noi,,,,approved
+ADMIN_000004,Phường Cửa Nam,AdministrativeArea,ward,,phuong_cua_nam,,,,approved
+ARCH_000114,Gian ở lịch sử Nhà 5D Hàm Long,Architecture,,,gian_o_lich_su_nha_5d_ham_long,,,,approved
+ARCH_000115,Sân sau Nhà 5D Hàm Long,Architecture,,,san_sau_nha_5d_ham_long,,,,approved
+ARCH_000116,Bếp Nhà 5D Hàm Long,Architecture,,,bep_nha_5d_ham_long,,,,approved
+ARCH_000117,Nhà vệ sinh Nhà 5D Hàm Long,Architecture,,,nha_ve_sinh_nha_5d_ham_long,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+EVENT_000032,Thành lập Chi bộ Cộng sản đầu tiên tại 5D Hàm Long,Event,,,thanh_lap_chi_bo_cong_san_dau_tien_tai_5d_ham_long,,,,approved
+HOBJ_000031,Bộ tràng kỷ phục chế tại 5D Hàm Long,HeritageObject,,,bo_trang_ky_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000032,Bộ ấm tích phục chế tại 5D Hàm Long,HeritageObject,,,bo_am_tich_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000033,Nhóm bốn ghế đẩu phục chế tại 5D Hàm Long,HeritageObject,,,nhom_bon_ghe_dau_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000034,Giường gỗ phục chế tại 5D Hàm Long,HeritageObject,,,giuong_go_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000035,Nhóm hai hòm gỗ phục chế tại 5D Hàm Long,HeritageObject,,,nhom_hai_hom_go_phuc_che_tai_5d_ham_long,,,,approved
+HOBJ_000036,Nhóm nồi chảo và bát đĩa phục chế tại 5D Hàm Long,HeritageObject,,,nhom_noi_chao_va_bat_dia_phuc_che_tai_5d_ham_long,,,,approved
+HSTATUS_000005,Di tích lịch sử quốc gia,HeritageStatus,,Di tích cấp quốc gia|Di tích lịch sử Quốc gia,di_tich_lich_su_quoc_gia,,,,approved
+LOCATION_000009,Phố Hàm Long,Location,,,pho_ham_long,,,,approved
+ORG_000008,Chi bộ Cộng sản 5D Hàm Long,Organization,,Chi bộ Cộng sản đầu tiên ở Việt Nam|Chi bộ 5D Hàm Long,chi_bo_cong_san_5d_ham_long,,,,approved
+PERSON_000030,Ngô Gia Tự,Person,,,ngo_gia_tu,,,,approved
+PERSON_000031,Nguyễn Đức Cảnh,Person,,,nguyen_duc_canh,,,,approved
+PERSON_000032,Trần Văn Cung,Person,,Quốc Anh,tran_van_cung,,,,approved
+PERSON_000033,Trịnh Đình Cửu,Person,,,trinh_dinh_cuu,,,,approved
+PERSON_000034,Đỗ Ngọc Du,Person,,,do_ngoc_du,,,,approved
+PERSON_000035,Nguyễn Phong Sắc,Person,,,nguyen_phong_sac,,,,approved
+PERSON_000036,Dương Hạc Đính,Person,,,duong_hac_dinh,,,,approved
+PERSON_000037,Nguyễn Tuân (Chi bộ 5D Hàm Long),Person,,Nguyễn Tuân,nguyen_tuan_chi_bo_5d_ham_long,,,,approved
+PERSON_000038,Nguyễn Thị Liên,Person,,,nguyen_thi_lien,,,,approved
+PLACE_000014,Di tích cách mạng 5D Hàm Long,Place,,Nhà số 5D Hàm Long|Di tích nhà 5D phố Hàm Long,di_tich_cach_mang_5d_ham_long,,,,approved
+ROLE_000003,Bí thư Chi bộ Cộng sản 5D Hàm Long,Role,,,bi_thu_chi_bo_cong_san_5d_ham_long,,,,approved
+TIME_000057,Cuối tháng 3 năm 1929,Time,,Cuối tháng 03/1929,cuoi_thang_3_nam_1929,,,,approved
+TIME_000058,Ngày 25 tháng 11 năm 1959,Time,,25/11/1959|1959-11-25,ngay_25_thang_11_nam_1959,,,,approved
+TIME_000059,Ngày 13 tháng 1 năm 1964,Time,,13/01/1964|1964-01-13,ngay_13_thang_1_nam_1964,,,,approved
+TIME_000060,Năm 2000,Time,,2000,nam_2000,,,,approved
+VALUE_000049,24 m²,Value,,,24_m,24,m²,area,approved

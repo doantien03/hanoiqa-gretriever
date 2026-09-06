@@ -1,0 +1,35 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000015,Họp Bộ Chính trị,Activity,,,hop_bo_chinh_tri,,,,approved
+ADDRESS_000007,"Số 1 Hoàng Hoa Thám (Cổng Đỏ), Ba Đình, Hà Nội",Address,,"1 Hoàng Hoa Thám, Cổng Đỏ",so_1_hoang_hoa_tham_cong_do_ba_dinh_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ARCH_000078,Nhà 54 tại Khu Di tích Phủ Chủ tịch,Architecture,,Di tích Nhà 54,nha_54_tai_khu_di_tich_phu_chu_tich,,,,approved
+ARCH_000079,Nhà sàn Bác Hồ tại Phủ Chủ tịch,Architecture,,Nhà sàn Bác Hồ|Di tích Nhà sàn,nha_san_bac_ho_tai_phu_chu_tich,,,,approved
+ARCH_000080,Nhà 67 tại Khu Di tích Phủ Chủ tịch,Architecture,,Di tích Nhà 67|DK2,nha_67_tai_khu_di_tich_phu_chu_tich,,,,approved
+ARCH_000081,Phòng làm việc Nhà 54,Architecture,,,phong_lam_viec_nha_54,,,,approved
+ARCH_000082,Phòng ăn Nhà 54,Architecture,,,phong_an_nha_54,,,,approved
+ARCH_000083,Phòng ngủ Nhà 54,Architecture,,,phong_ngu_nha_54,,,,approved
+ARCH_000084,Ao cá Bác Hồ tại Khu Di tích Phủ Chủ tịch,Architecture,,Ao cá Bác Hồ,ao_ca_bac_ho_tai_khu_di_tich_phu_chu_tich,,,,approved
+ASTYLE_000007,Kiến trúc nhà sàn dân tộc Việt Bắc,ArchitecturalStyle,,,kien_truc_nha_san_dan_toc_viet_bac,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+EVENT_000017,Hồ Chí Minh ở và làm việc tại Nhà 54,Event,,,ho_chi_minh_o_va_lam_viec_tai_nha_54,,,,approved
+EVENT_000018,Hồ Chí Minh ở và làm việc tại Nhà sàn Phủ Chủ tịch,Event,,,ho_chi_minh_o_va_lam_viec_tai_nha_san_phu_chu_tich,,,,approved
+EVENT_000019,Chủ tịch Hồ Chí Minh qua đời tại Nhà 67,Event,,,chu_tich_ho_chi_minh_qua_doi_tai_nha_67,,,,approved
+HOBJ_000015,Bộ đồ ăn của Hồ Chí Minh tại Nhà 54,HeritageObject,,,bo_do_an_cua_ho_chi_minh_tai_nha_54,,,,approved
+HOBJ_000016,Giường ngủ của Hồ Chí Minh tại Nhà 54,HeritageObject,,,giuong_ngu_cua_ho_chi_minh_tai_nha_54,,,,approved
+HOBJ_000017,Tủ quần áo của Hồ Chí Minh tại Nhà 54,HeritageObject,,,tu_quan_ao_cua_ho_chi_minh_tai_nha_54,,,,approved
+HOBJ_000018,Đài ZENITH của Hồ Chí Minh tại Nhà 67,HeritageObject,,,dai_zenith_cua_ho_chi_minh_tai_nha_67,,,,approved
+HOBJ_000019,Đồng hồ cạnh giường tại Nhà 67,HeritageObject,,,dong_ho_canh_giuong_tai_nha_67,,,,approved
+HOBJ_000020,Hai bản đồ quân sự tại Nhà 67,HeritageObject,,,hai_ban_do_quan_su_tai_nha_67,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+MATERIAL_000001,Gỗ,Material,,,go,,,,approved
+MATERIAL_000005,Bê tông cốt thép,Material,,,be_tong_cot_thep,,,,approved
+PERSON_000024,Hồ Chí Minh,Person,,Chủ tịch Hồ Chí Minh|Bác Hồ|Nguyễn Ái Quốc|Nguyễn Tất Thành,ho_chi_minh,,,,approved
+PERSON_000025,Nguyễn Văn Ninh,Person,,Kiến trúc sư Nguyễn Văn Ninh,nguyen_van_ninh,,,,approved
+PLACE_000010,Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch,Place,,Khu Di tích Phủ Chủ tịch|Khu lưu niệm Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch,khu_di_tich_chu_tich_ho_chi_minh_tai_phu_chu_tich,,,,approved
+TIME_000036,Ngày 12 tháng 8 năm 2009,Time,,12/08/2009|2009-08-12,ngay_12_thang_8_nam_2009,,,,approved
+TIME_000037,Ngày 1 tháng 5 năm 1967,Time,,01/05/1967|1967-05-01,ngay_1_thang_5_nam_1967,,,,approved
+TIME_000038,Ngày 17 tháng 5 năm 1958,Time,,17/05/1958|1958-05-17,ngay_17_thang_5_nam_1958,,,,approved
+TIME_000039,Ngày 2 tháng 9 năm 1969,Time,,02/09/1969|1969-09-02,ngay_2_thang_9_nam_1969,,,,approved
+TIME_000040,Từ tháng 12 năm 1954 đến giữa tháng 5 năm 1958,Time,,12/1954–05/1958,tu_thang_12_nam_1954_den_giua_thang_5_nam_1958,,,,approved
+TIME_000041,Từ tháng 5 năm 1958 đến tháng 8 năm 1969,Time,,05/1958–08/1969,tu_thang_5_nam_1958_den_thang_8_nam_1969,,,,approved
+VALUE_000045,Khoảng 3.200 m²,Value,,,khoang_3_200_m,3200,m²,area,approved

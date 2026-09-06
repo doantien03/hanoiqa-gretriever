@@ -1,0 +1,15 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000242,SRC_000078,PLACE_000012,address,"Bài ngày 11/5/2026 của Bộ Tư lệnh Lăng xác định K9 Đá Chông thuộc xã Bất Bạt, thành phố Hà Nội. Địa chỉ chuẩn hóa ở cấp địa danh và xã, không có số nhà.",normalized_summary,approved
+EVD_000243,SRC_000079,PLACE_000012,identity,K9 Đá Chông là di tích lịch sử gắn với hoạt động và việc giữ gìn thi hài Chủ tịch Hồ Chí Minh.,normalized_summary,approved
+EVD_000244,SRC_000079,PLACE_000012,architecture,"Các hạng mục được lưu giữ tại K9 gồm nhà hai tầng, phòng làm việc, phòng họp, nhà phục vụ, nhà khách Trung ương và hệ thống tổng đài điện thoại.",normalized_summary,approved
+EVD_000245,SRC_000079,PLACE_000012,historical_function,"Ngôi nhà hai tầng tại K9 mang dáng dấp nhà sàn, từng là nơi Hồ Chí Minh làm việc và nghỉ ngơi.",normalized_summary,approved
+EVD_000246,SRC_000079,PLACE_000012,historical_event,"Tháng 5/1957, Hồ Chí Minh dừng chân nghỉ trưa tại Đá Chông khi kiểm tra bộ đội diễn tập.",normalized_summary,approved
+EVD_000247,SRC_000079,PLACE_000012,historical_event,"Ngày 23/2/1958, Hồ Chí Minh trở lại khảo sát Đá Chông và chọn nơi này để xây dựng căn cứ Trung ương.",normalized_summary,approved
+EVD_000248,SRC_000080,PLACE_000012,architecture,"Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9 có kiến trúc truyền thống, một tầng với mái thượng và mái hạ; là nơi tưởng niệm Người.",normalized_summary,approved
+EVD_000249,SRC_000080,PLACE_000012,construction,Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9 khởi công ngày 17/3/2014.,normalized_summary,approved
+EVD_000250,SRC_000080,PLACE_000012,historical_event,Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9 được khánh thành ngày 2/9/2015.,normalized_summary,approved
+EVD_000251,SRC_000081,PLACE_000012,heritage_objects,"K9 lưu giữ ba phương tiện lịch sử từng tham gia di chuyển thi hài Hồ Chí Minh: xe UAZ cứu thương FH-1468, xe ZIL 157 biển số 470-189 và xe PAP biển số 31-162.",normalized_summary,approved
+EVD_000252,SRC_000082,PLACE_000012,architecture,Nhà kính là một công trình của K9 gắn với nhiệm vụ giữ gìn thi hài Hồ Chí Minh trong chiến tranh.,normalized_summary,approved
+EVD_000253,SRC_000082,PLACE_000012,historical_event,"Ngày 13/3/1961, Hồ Chí Minh tiếp Đặng Dĩnh Siêu tại K9.",normalized_summary,approved
+EVD_000254,SRC_000082,PLACE_000012,historical_event,"Ngày 23/2/1962, Hồ Chí Minh tiếp Anh hùng vũ trụ Liên Xô Giéc man Ti tốp tại K9.",normalized_summary,approved
+EVD_000255,SRC_000083,PLACE_000012,construction,"Nhà hai tầng tại K9, còn gọi là Nhà sàn, hoàn thành ngày 15/3/1960; Hồ Chí Minh dự lễ khánh thành.",normalized_summary,approved

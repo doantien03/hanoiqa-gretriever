@@ -1,0 +1,376 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000001,SRC_000001,PLACE_000001,overview,"Di tích lịch sử Hoàng thành Thăng Long có địa chỉ tại số 19C Hoàng Diệu, phường Ba Đình, thành phố Hà Nội.",normalized_summary,approved
+EVD_000002,SRC_000002,PLACE_000001,overview,"Hoàng thành Thăng Long có diện tích khoảng 18,395 ha, bao gồm Đoan Môn, Cột cờ Hà Nội, Điện Kính Thiên, Hậu Lâu, Bắc Môn và khu khảo cổ 18 Hoàng Diệu.",normalized_summary,approved
+EVD_000003,SRC_000003,PLACE_000001,recognition,"Ngày 01 tháng 08 năm 2010 theo giờ Việt Nam, Hoàng thành Thăng Long chính thức được UNESCO công nhận là Di sản văn hóa thế giới.",normalized_summary,approved
+EVD_000004,SRC_000004,PLACE_000001,history,"Hoàng thành Thăng Long được khởi công xây dựng vào năm 1010 dưới thời vua Lý Thái Tổ, sau quyết định dời đô từ Hoa Lư ra thành Đại La và đổi tên thành Thăng Long.",normalized_summary,approved
+EVD_000005,SRC_000005,PLACE_000001,history,UNESCO xác định Hoàng thành được xây dựng vào thế kỷ XI bởi triều Lý trên dấu tích một thành lũy có từ thế kỷ VII và là trung tâm quyền lực chính trị trong gần 13 thế kỷ.,normalized_summary,approved
+EVD_000006,SRC_000005,PLACE_000001,recognition,"UNESCO ghi danh Khu trung tâm Hoàng thành Thăng Long ngày 31 tháng 7 năm 2010 theo các tiêu chí ii, iii và vi; vùng di sản rộng 18,395 ha và vùng đệm rộng 108 ha.",normalized_summary,approved
+EVD_000007,SRC_000005,PLACE_000001,management,"Năm 2006, Ủy ban nhân dân thành phố Hà Nội giao Trung tâm Bảo tồn di tích Cổ Loa và Thành cổ Hà Nội, nay là Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội, quản lý khu di sản.",normalized_summary,approved
+EVD_000008,SRC_000006,PLACE_000001,architecture,"Điện Kính Thiên nằm trên núi Nùng ở trung tâm Hoàng thành; đây từng là nơi thiết triều, cử hành nghi lễ quốc gia và đón tiếp sứ thần.",normalized_summary,approved
+EVD_000009,SRC_000006,PLACE_000001,history,"Năm 1428, vua Lê Thái Tổ cho xây Điện Kính Thiên trên nền cung điện thời Lý và Trần; công trình tiếp tục giữ vai trò trung tâm trong thời Lê sơ và Lê Trung hưng.",normalized_summary,approved
+EVD_000010,SRC_000006,PLACE_000001,activity,"Điện Kính Thiên được dùng cho lễ đăng quang, thiết đại triều, tiếp sứ thần, ban chiếu chỉ và bàn việc chính trị, quân sự, ngoại giao.",normalized_summary,approved
+EVD_000011,SRC_000006,PLACE_000001,architecture,"Điện Kính Thiên nguyên là kiến trúc gỗ cung đình thời Lê. Nền điện dài khoảng 57 m, rộng 41,5 m, cao khoảng 2,3 m; thềm phía nam có 10 bậc và các rồng đá được chạm năm 1467 dưới thời Lê Thánh Tông.",normalized_summary,approved
+EVD_000012,SRC_000007,PLACE_000001,architecture,Đoan Môn là cổng chính phía nam dẫn vào Cấm thành. Công trình hiện còn do nhà Lê xây dựng trong thế kỷ XV–XVIII và được sửa sang dưới thời Nguyễn vào thế kỷ XIX; cổng có vai trò trong nghi lễ Hoàng thành.,normalized_summary,approved
+EVD_000013,SRC_000008,PLACE_000001,architecture,"Lầu Tĩnh Bắc, còn gọi Hậu Lâu, được vua Minh Mạng dựng vào tháng 10 năm 1821; công trình xây bằng gạch, có ba gian, ba tầng và mang đặc trưng kiến trúc thời Nguyễn.",normalized_summary,approved
+EVD_000014,SRC_000009,PLACE_000001,archaeology,"Tầng dưới cùng tại khu khảo cổ 18 Hoàng Diệu thuộc thời Tiền Thăng Long hay Đại La; tại đây phát hiện móng kiến trúc, cống, giếng, gạch, ngói và đồ gốm sứ.",normalized_summary,approved
+EVD_000015,SRC_000010,PLACE_000001,archaeology,"Phía trên tầng Đại La là tầng văn hóa Lý–Trần từ thế kỷ XI đến XIV, có trụ móng sỏi, nền gạch, chân tảng đá, sân, cống, giếng và di vật trang trí kiến trúc.",normalized_summary,approved
+EVD_000016,SRC_000011,PLACE_000001,archaeology,"Tầng văn hóa thời Lê tại khu khảo cổ 18 Hoàng Diệu có niên đại từ thế kỷ XV đến XVIII, chứa dấu tích kiến trúc, giếng, ngói lưu ly, đồ sứ ngự dụng và đồ kim loại.",normalized_summary,approved
+EVD_000017,SRC_000012,PLACE_000001,revolutionary_history,Nhà D67 và Hầm D67 được xây dựng năm 1967 theo quyết định của Bộ Quốc phòng để phục vụ cơ quan Tổng hành dinh trong thời chiến; công trình mang đặc trưng kiến trúc quân sự.,normalized_summary,approved
+EVD_000018,SRC_000012,PLACE_000001,revolutionary_history,"Nhà D67 gắn với hoạt động của Bộ Chính trị, Quân ủy Trung ương và phòng làm việc của Đại tướng Võ Nguyên Giáp, Đại tướng Văn Tiến Dũng. Tường nhà dày 0,6 m; Hầm D67 sâu 9 m.",normalized_summary,approved
+EVD_000019,SRC_000013,PLACE_000001,management,"Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội trực thuộc Ủy ban nhân dân thành phố Hà Nội và có chức năng quản lý, bảo tồn, phát huy giá trị Khu trung tâm Hoàng thành Thăng Long.",normalized_summary,approved
+EVD_000020,SRC_000013,PLACE_000001,management,Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội được thành lập theo quyết định của Ủy ban nhân dân thành phố Hà Nội ngày 01 tháng 09 năm 2006.,normalized_summary,approved
+EVD_000021,SRC_000014,PLACE_000001,visitor,"Chương trình giáo dục di sản dành cho học sinh trung học cơ sở tổ chức tham quan Đoan Môn, Điện Kính Thiên, Hậu Lâu, khu trưng bày khảo cổ, Nhà D67 và Hầm D67.",normalized_summary,approved
+EVD_000022,SRC_000015,PLACE_000001,activity,"Tour đêm Giải mã Hoàng thành Thăng Long gồm các hoạt động tham quan Đoan Môn, xem biểu diễn và trưng bày, dâng hương tại Điện Kính Thiên, tham quan khảo cổ 18 Hoàng Diệu và giải mã hiện vật.",normalized_summary,approved
+EVD_000023,SRC_000016,PLACE_000001,architecture,"Cột cờ Hà Nội được xây dựng năm 1812 dưới triều Gia Long; công trình cao 33,4 m và gồm ba tầng đế, thân cột cùng vọng canh.",normalized_summary,approved
+EVD_000024,SRC_000017,PLACE_000001,architecture,Bắc Môn là cổng thành còn tương đối nguyên vẹn của Thành Hà Nội thời Nguyễn và là một di tích tiêu biểu thuộc Khu trung tâm Hoàng thành Thăng Long.,normalized_summary,approved
+EVD_000025,SRC_000018,PLACE_000001,archaeology,"Cuộc khai quật bắt đầu tháng 12 năm 2002 trên diện tích khoảng 19.000 m², làm phát lộ dấu tích và các tầng văn hóa kéo dài khoảng 13 thế kỷ.",normalized_summary,approved
+EVD_000026,SRC_000018,PLACE_000001,history,"Các dấu tích tại Hoàng thành phản ánh tiến trình từ thời Tiền Thăng Long qua các triều Lý, Trần, Lê, Mạc và Nguyễn.",normalized_summary,approved
+EVD_000027,SRC_000019,PLACE_000004,location,"Di tích có địa chỉ tại số 58 phố Quốc Tử Giám, phường Văn Miếu - Quốc Tử Giám, Hà Nội.",normalized_summary,approved
+EVD_000028,SRC_000019,PLACE_000004,location,Văn Miếu – Quốc Tử Giám nằm tại phường Văn Miếu - Quốc Tử Giám.,normalized_summary,approved
+EVD_000029,SRC_000019,PLACE_000004,location,Văn Miếu – Quốc Tử Giám nằm tại thành phố Hà Nội.,normalized_summary,approved
+EVD_000030,SRC_000025,PLACE_000004,classification,"Văn Miếu – Quốc Tử Giám là một di tích lịch sử, văn hóa được Nhà nước xếp hạng.",normalized_summary,approved
+EVD_000031,SRC_000019,PLACE_000004,component,Văn Miếu là bộ phận thờ tự trong quần thể di tích.,normalized_summary,approved
+EVD_000032,SRC_000019,PLACE_000004,component,Quốc Tử Giám là bộ phận giáo dục trong quần thể di tích.,normalized_summary,approved
+EVD_000033,SRC_000019,PLACE_000004,component,Hồ Văn thuộc tổng thể Văn Miếu – Quốc Tử Giám.,normalized_summary,approved
+EVD_000034,SRC_000019,PLACE_000004,component,Vườn Giám thuộc tổng thể Văn Miếu – Quốc Tử Giám.,normalized_summary,approved
+EVD_000035,SRC_000019,PLACE_000004,component,Nội tự của di tích có Khu Nhập Đạo.,normalized_summary,approved
+EVD_000036,SRC_000019,PLACE_000004,component,Nội tự của di tích có Khu Thành Đạt.,normalized_summary,approved
+EVD_000037,SRC_000019,PLACE_000004,component,Nội tự của di tích có Vườn bia Tiến sĩ.,normalized_summary,approved
+EVD_000038,SRC_000019,PLACE_000004,component,Nội tự của di tích có Khu Đại Thành.,normalized_summary,approved
+EVD_000039,SRC_000019,PLACE_000004,component,Nội tự của di tích có Khu Thái Học.,normalized_summary,approved
+EVD_000040,SRC_000020,PLACE_000004,component,Khuê Văn Các nằm trong lớp không gian Khu Thành Đạt.,normalized_summary,approved
+EVD_000041,SRC_000021,PLACE_000004,component,Giếng Thiên Quang nằm chính giữa Vườn bia Tiến sĩ.,normalized_summary,approved
+EVD_000042,SRC_000021,PLACE_000004,component,Hai phía đông và tây của giếng là các dãy bia Tiến sĩ.,normalized_summary,approved
+EVD_000043,SRC_000024,PLACE_000004,component,Điện Đại Thành là công trình thờ tự chính của Khu Đại Thành.,normalized_summary,approved
+EVD_000044,SRC_000022,PLACE_000004,component,Nhà Thái Học là công trình chính trong Khu Thái Học hiện nay.,normalized_summary,approved
+EVD_000045,SRC_000022,PLACE_000004,component,Nhà Thái Học gồm Nhà Tiền Đường.,normalized_summary,approved
+EVD_000046,SRC_000022,PLACE_000004,component,Nhà Thái Học gồm Nhà Hậu Đường.,normalized_summary,approved
+EVD_000047,SRC_000023,PLACE_000004,component,Nhà Chuông nằm một bên Khu Thái Học.,normalized_summary,approved
+EVD_000048,SRC_000023,PLACE_000004,component,Nhà Trống nằm đối xứng với Nhà Chuông trong Khu Thái Học.,normalized_summary,approved
+EVD_000049,SRC_000019,PLACE_000004,history,Văn Miếu được khởi dựng năm 1070.,normalized_summary,approved
+EVD_000050,SRC_000019,PLACE_000004,history,Vua Lý Thánh Tông cho khởi dựng Văn Miếu.,normalized_summary,approved
+EVD_000051,SRC_000019,PLACE_000004,worship,Văn Miếu được lập làm nơi thờ Khổng Tử.,normalized_summary,approved
+EVD_000052,SRC_000019,PLACE_000004,history,Quốc Tử Giám được xây dựng năm 1076.,normalized_summary,approved
+EVD_000053,SRC_000019,PLACE_000004,history,Vua Lý Nhân Tông cho xây dựng Quốc Tử Giám.,normalized_summary,approved
+EVD_000054,SRC_000020,PLACE_000004,history,Khuê Văn Các được xây dựng năm 1805.,normalized_summary,approved
+EVD_000055,SRC_000020,PLACE_000004,history,Tổng trấn Bắc Thành Nguyễn Văn Thành cho xây Khuê Văn Các.,normalized_summary,approved
+EVD_000056,SRC_000026,PLACE_000004,recognition,UNESCO ghi danh hệ thống bia vào Chương trình Ký ức Thế giới.,normalized_summary,approved
+EVD_000057,SRC_000026,PLACE_000004,recognition,Hệ thống 82 bia Tiến sĩ được UNESCO ghi nhận là di sản tư liệu.,normalized_summary,approved
+EVD_000058,SRC_000021,PLACE_000004,history,Lê Thánh Tông cho khởi dựng những bia Tiến sĩ đầu tiên năm 1484.,normalized_summary,approved
+EVD_000059,SRC_000024,PLACE_000004,worship,Điện Đại Thành là không gian thờ và tôn vinh Khổng Tử.,normalized_summary,approved
+EVD_000060,SRC_000022,PLACE_000004,worship,Tầng dưới Nhà Hậu Đường đặt tượng thờ Chu Văn An.,normalized_summary,approved
+EVD_000061,SRC_000022,PLACE_000004,worship,Tầng hai Nhà Hậu Đường thờ vua Lý Thánh Tông.,normalized_summary,approved
+EVD_000062,SRC_000022,PLACE_000004,worship,Tầng hai Nhà Hậu Đường thờ vua Lý Nhân Tông.,normalized_summary,approved
+EVD_000063,SRC_000022,PLACE_000004,worship,Tầng hai Nhà Hậu Đường thờ vua Lê Thánh Tông.,normalized_summary,approved
+EVD_000064,SRC_000022,PLACE_000004,history,Di tích lưu dấu Chu Văn An qua tượng thờ và nội dung trưng bày.,normalized_summary,approved
+EVD_000065,SRC_000025,PLACE_000004,history,Lý Thánh Tông gắn với việc xây dựng Văn Miếu năm 1070.,normalized_summary,approved
+EVD_000066,SRC_000025,PLACE_000004,history,Lý Nhân Tông gắn với việc thành lập Quốc Tử Giám năm 1076.,normalized_summary,approved
+EVD_000067,SRC_000027,PLACE_000002,location,Khu di tích Cổ Loa thuộc thành phố Hà Nội.,normalized_summary,approved
+EVD_000068,SRC_000027,PLACE_000002,classification,Cổ Loa là di tích lịch sử và kiến trúc nghệ thuật.,normalized_summary,approved
+EVD_000069,SRC_000027,PLACE_000002,classification,Cổ Loa chứa nhiều di chỉ và dấu tích khảo cổ học.,normalized_summary,approved
+EVD_000070,SRC_000037,PLACE_000002,recognition,Cổ Loa được xếp hạng là di tích quốc gia đặc biệt theo Quyết định 1419/QĐ-TTg ngày 27/9/2012.,normalized_summary,approved
+EVD_000071,SRC_000027,PLACE_000002,component,Thành Cổ Loa là hạng mục trung tâm của khu di tích.,normalized_summary,approved
+EVD_000072,SRC_000027,PLACE_000002,component,Thành Cổ Loa có vòng Thành Nội.,normalized_summary,approved
+EVD_000073,SRC_000027,PLACE_000002,component,Thành Cổ Loa có vòng Thành Trung.,normalized_summary,approved
+EVD_000074,SRC_000027,PLACE_000002,component,Thành Cổ Loa có vòng Thành Ngoại.,normalized_summary,approved
+EVD_000075,SRC_000027,PLACE_000002,component,Hệ thống hào nước bao quanh các vòng thành và thông với sông Hoàng.,normalized_summary,approved
+EVD_000076,SRC_000028,PLACE_000002,component,Khu di tích có Đền Thượng thờ An Dương Vương.,normalized_summary,approved
+EVD_000077,SRC_000028,PLACE_000002,component,Khu di tích có Đình Ngự Triều Di Quy.,normalized_summary,approved
+EVD_000078,SRC_000028,PLACE_000002,component,Khu di tích có am thờ công chúa Mỵ Châu.,normalized_summary,approved
+EVD_000079,SRC_000028,PLACE_000002,component,Giếng Ngọc nằm phía trước Đền Thượng.,normalized_summary,approved
+EVD_000080,SRC_000029,PLACE_000002,component,Đền Cao Lỗ là một điểm tham quan trong Khu di tích Cổ Loa.,normalized_summary,approved
+EVD_000081,SRC_000028,PLACE_000002,component,Chùa Bảo Sơn thuộc quần thể di tích Cổ Loa.,normalized_summary,approved
+EVD_000082,SRC_000029,PLACE_000002,component,Nhà trưng bày giới thiệu lịch sử và hiện vật của Khu di tích Cổ Loa.,normalized_summary,approved
+EVD_000083,SRC_000033,PLACE_000002,archaeology,Di chỉ Cầu Vực là nơi phát hiện kho mũi tên đồng Cổ Loa.,normalized_summary,approved
+EVD_000084,SRC_000034,PLACE_000002,archaeology,Di tích Mả Tre là nơi phát hiện trống đồng Cổ Loa.,normalized_summary,approved
+EVD_000085,SRC_000035,PLACE_000002,archaeology,Khu lò đúc mũi tên đồng được phát hiện trong Thành Nội Cổ Loa.,normalized_summary,approved
+EVD_000086,SRC_000027,PLACE_000002,history,An Dương Vương chọn Cổ Loa làm kinh đô nước Âu Lạc.,normalized_summary,approved
+EVD_000087,SRC_000028,PLACE_000002,legend,Cổ Loa gắn với truyền thuyết về công chúa Mỵ Châu.,normalized_summary,approved
+EVD_000088,SRC_000029,PLACE_000002,history,Cổ Loa lưu giữ đền thờ tướng Cao Lỗ.,normalized_summary,approved
+EVD_000089,SRC_000033,PLACE_000002,history,Cổ Loa từng trở thành kinh đô dưới thời Ngô Quyền.,normalized_summary,approved
+EVD_000090,SRC_000027,PLACE_000002,history,Thành Cổ Loa được xây dựng khoảng năm 208 trước Công nguyên.,normalized_summary,approved
+EVD_000091,SRC_000027,PLACE_000002,history,An Dương Vương cho xây Thành Cổ Loa làm kinh đô Âu Lạc.,normalized_summary,approved
+EVD_000092,SRC_000028,PLACE_000002,worship,Đền Thượng thờ An Dương Vương.,normalized_summary,approved
+EVD_000093,SRC_000032,PLACE_000002,worship,Hậu cung Am Mỵ Châu đặt ban thờ và tượng đá Mỵ Châu.,normalized_summary,approved
+EVD_000094,SRC_000031,PLACE_000002,history,Đình Ngự Triều Di Quy tương truyền dựng trên nền điện thiết triều của An Dương Vương.,normalized_summary,approved
+EVD_000095,SRC_000029,PLACE_000002,worship,Đền Cao Lỗ tưởng niệm vị tướng gắn với nỏ Liên Châu.,normalized_summary,approved
+EVD_000096,SRC_000033,PLACE_000002,archaeology,Kho mũi tên đồng Cổ Loa được phát hiện tại di chỉ Cầu Vực.,normalized_summary,approved
+EVD_000097,SRC_000034,PLACE_000002,archaeology,Trống đồng Cổ Loa được phát hiện tại khu Mả Tre.,normalized_summary,approved
+EVD_000098,SRC_000035,PLACE_000002,archaeology,Lò đúc lưu lại nhiều mảnh khuôn đá dùng đúc mũi tên đồng ba cạnh.,normalized_summary,approved
+EVD_000099,SRC_000033,PLACE_000002,event,Khu di tích gắn với sự kiện phát hiện kho mũi tên đồng Cầu Vực.,normalized_summary,approved
+EVD_000100,SRC_000033,PLACE_000002,event_time,Kho mũi tên đồng Cầu Vực được phát hiện năm 1959.,normalized_summary,approved
+EVD_000101,SRC_000034,PLACE_000002,event,Khu di tích gắn với sự kiện phát hiện trống đồng tại Mả Tre.,normalized_summary,approved
+EVD_000102,SRC_000034,PLACE_000002,event_time,Trống đồng Cổ Loa được phát hiện năm 1982.,normalized_summary,approved
+EVD_000103,SRC_000034,PLACE_000002,recognition,Trống đồng Cổ Loa được công nhận là Bảo vật quốc gia.,normalized_summary,approved
+EVD_000104,SRC_000036,PLACE_000002,recognition,Sưu tập khuôn đúc Cổ Loa được công nhận là Bảo vật quốc gia.,normalized_summary,approved
+EVD_000105,SRC_000036,PLACE_000002,history,Lò đúc và sưu tập khuôn đúc Cổ Loa gắn trực tiếp với thời kỳ An Dương Vương.,normalized_summary,approved
+EVD_000106,SRC_000013,PLACE_000002,management,Trung tâm Bảo tồn Di sản Thăng Long – Hà Nội có chức năng quản lý và phát huy giá trị Khu di tích Cổ Loa.,normalized_summary,approved
+EVD_000107,SRC_000038,PLACE_000005,location,"Di tích Nhà tù Hỏa Lò có địa chỉ tại số 1 phố Hỏa Lò, phường Cửa Nam, thành phố Hà Nội.",normalized_summary,approved
+EVD_000108,SRC_000038,PLACE_000005,location,Di tích Nhà tù Hỏa Lò nằm tại phường Cửa Nam.,normalized_summary,approved
+EVD_000109,SRC_000038,PLACE_000005,location,Di tích Nhà tù Hỏa Lò nằm tại thành phố Hà Nội.,normalized_summary,approved
+EVD_000110,SRC_000041,PLACE_000005,classification,Nhà tù Hỏa Lò được giới thiệu và xếp hạng theo loại hình di tích lịch sử.,normalized_summary,approved
+EVD_000111,SRC_000038,PLACE_000005,construction,Nhà tù Hỏa Lò được chính quyền thực dân Pháp xây dựng năm 1896.,normalized_summary,approved
+EVD_000112,SRC_000038,PLACE_000005,construction,Nhà tù Hỏa Lò do chính quyền thực dân Pháp xây dựng.,normalized_summary,approved
+EVD_000113,SRC_000041,PLACE_000005,recognition,Nhà tù Hỏa Lò được công nhận là di tích lịch sử quốc gia.,normalized_summary,approved
+EVD_000114,SRC_000041,PLACE_000005,recognition,Nhà tù Hỏa Lò được công nhận là di tích lịch sử ngày 18 tháng 6 năm 1997 theo Quyết định 1543-QĐ/VH.,normalized_summary,approved
+EVD_000115,SRC_000040,PLACE_000005,management,"Ban Quản lý Di tích Nhà tù Hỏa Lò là đơn vị trực tiếp quản lý, bảo quản và trưng bày tài liệu, hiện vật của di tích.",normalized_summary,approved
+EVD_000116,SRC_000038,PLACE_000005,measurement,Tổng diện tích Nhà tù Trung ương và các đường lân cận dẫn đến nhà tù là 12.908 m².,normalized_summary,approved
+EVD_000117,SRC_000042,PLACE_000005,measurement,Phần còn lại của Nhà tù Hỏa Lò được bảo tồn và xếp hạng có diện tích 2.434 m².,normalized_summary,approved
+EVD_000118,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có một nhà dùng cho việc canh gác.,normalized_summary,approved
+EVD_000119,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có hai nhà dùng làm bệnh xá.,normalized_summary,approved
+EVD_000120,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có hai nhà dùng để giam bị can.,normalized_summary,approved
+EVD_000121,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có một nhà dùng làm phân xưởng.,normalized_summary,approved
+EVD_000122,SRC_000039,PLACE_000005,architecture,Thiết kế Nhà tù Hỏa Lò có năm nhà dùng để giam tù nhân.,normalized_summary,approved
+EVD_000123,SRC_000041,PLACE_000005,architecture,Khu di tích có Đài tưởng niệm Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000124,SRC_000043,PLACE_000005,exhibition,Hai phòng trưng bày tại di tích giới thiệu cuộc sống của tù binh phi công Mỹ ở Hỏa Lò.,normalized_summary,approved
+EVD_000125,SRC_000041,PLACE_000005,heritage_object,Hệ thống trưng bày tại di tích có chiếc máy chém từng được thực dân Pháp sử dụng để hành quyết chiến sĩ cách mạng.,normalized_summary,approved
+EVD_000126,SRC_000041,PLACE_000005,heritage_object,Di tích có mô hình tái tạo hình ảnh các chiến sĩ cách mạng trong lao tù.,normalized_summary,approved
+EVD_000127,SRC_000039,PLACE_000005,architecture,Nhà canh gác là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000128,SRC_000039,PLACE_000005,architecture,Cụm bệnh xá là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000129,SRC_000039,PLACE_000005,architecture,Khu giam bị can là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000130,SRC_000039,PLACE_000005,architecture,Phân xưởng là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000131,SRC_000039,PLACE_000005,architecture,Khu giam tù nhân là một hạng mục trong thiết kế Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000132,SRC_000041,PLACE_000005,architecture,Đài tưởng niệm nằm trong khu Di tích Nhà tù Hỏa Lò.,normalized_summary,approved
+EVD_000133,SRC_000038,PLACE_000005,history,Di tích gắn với sự kiện xây dựng Nhà tù Hỏa Lò trong năm 1896.,normalized_summary,approved
+EVD_000134,SRC_000042,PLACE_000005,history,"Năm 1954, Quân đội nhân dân Việt Nam tiếp quản Nhà tù Hỏa Lò.",normalized_summary,approved
+EVD_000135,SRC_000042,PLACE_000005,history,"Trong giai đoạn 1964–1973, Nhà tù Hỏa Lò được dùng để giam phi công Mỹ bị bắt khi đánh phá miền Bắc Việt Nam.",normalized_summary,approved
+EVD_000136,SRC_000043,PLACE_000005,history,"Tháng 3 năm 1973, Chính phủ Việt Nam trao trả các phi công Mỹ bị bắt trong chiến tranh.",normalized_summary,approved
+EVD_000137,SRC_000038,PLACE_000005,history,Dự án Nhà tù Hỏa Lò được phê duyệt và công trình được tiến hành trong năm 1896.,normalized_summary,approved
+EVD_000138,SRC_000042,PLACE_000005,history,Sự kiện Quân đội nhân dân Việt Nam tiếp quản Nhà tù Hỏa Lò diễn ra năm 1954.,normalized_summary,approved
+EVD_000139,SRC_000042,PLACE_000005,history,Việc sử dụng Nhà tù Hỏa Lò để giam phi công Mỹ diễn ra trong giai đoạn 1964–1973.,normalized_summary,approved
+EVD_000140,SRC_000043,PLACE_000005,history,Một nhóm phi công Mỹ được trao trả tại sân bay Gia Lâm ngày 14 tháng 3 năm 1973.,normalized_summary,approved
+EVD_000141,SRC_000044,PLACE_000005,person,John Sidney McCain từng bị giam tại Hỏa Lò và nhiều lần trở lại thăm di tích.,normalized_summary,approved
+EVD_000142,SRC_000044,PLACE_000005,person,Đại tá Trần Trọng Duyệt từng là trại trưởng trại giam Hỏa Lò.,normalized_summary,approved
+EVD_000143,SRC_000043,PLACE_000005,exhibition,Phòng trưng bày về tù binh phi công Mỹ có tư liệu về John McCain sau khi ông bị bắt ngày 26 tháng 10 năm 1967.,normalized_summary,approved
+EVD_000144,SRC_000044,PLACE_000005,person,John Sidney McCain được trao trả về Hoa Kỳ ngày 14 tháng 3 năm 1973.,normalized_summary,approved
+EVD_000145,SRC_000041,PLACE_000005,activity,Di tích là địa chỉ đỏ phục vụ giáo dục truyền thống yêu nước và cách mạng.,normalized_summary,approved
+EVD_000146,SRC_000041,PLACE_000005,activity,"Di tích thu hút khách trong nước và quốc tế đến tham quan, nghiên cứu và học tập.",normalized_summary,approved
+EVD_000147,SRC_000048,PLACE_000006,location,"Di tích Gò Đống Đa có địa chỉ tại số 4 Đặng Tiến Đông, phường Đống Đa, thành phố Hà Nội.",normalized_summary,approved
+EVD_000148,SRC_000048,PLACE_000006,location,Di tích Gò Đống Đa thuộc phường Đống Đa.,normalized_summary,approved
+EVD_000149,SRC_000048,PLACE_000006,location,Di tích Gò Đống Đa nằm tại thành phố Hà Nội.,normalized_summary,approved
+EVD_000150,SRC_000046,PLACE_000006,classification,Gò Đống Đa là một di tích lịch sử gắn với chiến thắng Ngọc Hồi – Đống Đa.,normalized_summary,approved
+EVD_000151,SRC_000055,PLACE_000006,management,Ban Quản lý Công viên Văn hóa Đống Đa là đơn vị quản lý Di tích quốc gia đặc biệt Gò Đống Đa.,normalized_summary,approved
+EVD_000152,SRC_000050,PLACE_000006,recognition,Gò Đống Đa được xếp hạng là Di tích quốc gia đặc biệt.,normalized_summary,approved
+EVD_000153,SRC_000050,PLACE_000006,recognition,Thủ tướng Chính phủ xếp hạng Gò Đống Đa là Di tích quốc gia đặc biệt ngày 24 tháng 12 năm 2018.,normalized_summary,approved
+EVD_000154,SRC_000047,PLACE_000006,measurement,"Sau đợt tu bổ năm 2010, quần thể Gò Đống Đa có tổng diện tích hơn 22.120,8 m².",normalized_summary,approved
+EVD_000155,SRC_000046,PLACE_000006,person,Gò Đống Đa gắn với chiến thắng do Hoàng đế Quang Trung – Nguyễn Huệ chỉ huy mùa xuân năm 1789.,normalized_summary,approved
+EVD_000156,SRC_000053,PLACE_000006,person,Đền thờ trong quần thể Gò Đống Đa có ban thờ Bắc cung Hoàng hậu Lê Ngọc Hân.,normalized_summary,approved
+EVD_000157,SRC_000051,PLACE_000006,person,"Gò Đống Đa gắn với trận đánh tại Khương Thượng, nơi tướng Thanh Sầm Nghi Đống thất trận.",normalized_summary,approved
+EVD_000158,SRC_000046,PLACE_000006,history,Di tích Gò Đống Đa gắn với chiến thắng của nghĩa quân Tây Sơn.,normalized_summary,approved
+EVD_000159,SRC_000046,PLACE_000006,history,Di tích Gò Đống Đa ghi dấu cuộc đại phá quân Thanh năm 1789.,normalized_summary,approved
+EVD_000160,SRC_000046,PLACE_000006,history,Gò Đống Đa là một trong các bãi chiến trường của trận đại phá quân Thanh mùa xuân Kỷ Dậu 1789.,normalized_summary,approved
+EVD_000161,SRC_000052,PLACE_000006,festival,Lễ hội Gò Đống Đa được tổ chức hằng năm tại di tích để tưởng niệm chiến thắng và Hoàng đế Quang Trung.,normalized_summary,approved
+EVD_000162,SRC_000050,PLACE_000006,recognition,Di tích gắn với sự kiện được xếp hạng Di tích quốc gia đặc biệt theo quyết định của Thủ tướng Chính phủ.,normalized_summary,approved
+EVD_000163,SRC_000047,PLACE_000006,renovation,"Di tích Gò Đống Đa được tu bổ, tôn tạo và xây mới một số hạng mục nhân Đại lễ 1000 năm Thăng Long – Hà Nội.",normalized_summary,approved
+EVD_000164,SRC_000046,PLACE_000006,history,Chiến thắng Ngọc Hồi – Đống Đa diễn ra vào mùa xuân năm Kỷ Dậu 1789.,normalized_summary,approved
+EVD_000165,SRC_000052,PLACE_000006,festival,Lễ hội Gò Đống Đa được tổ chức vào mùng 5 Tết Nguyên Đán hằng năm.,normalized_summary,approved
+EVD_000166,SRC_000050,PLACE_000006,recognition,Sự kiện xếp hạng Di tích quốc gia đặc biệt diễn ra ngày 24 tháng 12 năm 2018.,normalized_summary,approved
+EVD_000167,SRC_000047,PLACE_000006,renovation,"Đợt tu bổ, tôn tạo di tích phục vụ Đại lễ 1000 năm Thăng Long – Hà Nội diễn ra năm 2010.",normalized_summary,approved
+EVD_000168,SRC_000049,PLACE_000006,architecture,Quần thể di tích bao gồm gò Đống Đa lịch sử.,normalized_summary,approved
+EVD_000169,SRC_000049,PLACE_000006,architecture,Di tích có ba cổng ra vào gồm cổng phố Tây Sơn và hai cổng trên phố Đặng Tiến Đông.,normalized_summary,approved
+EVD_000170,SRC_000049,PLACE_000006,architecture,Nghi môn là một hạng mục của Di tích Gò Đống Đa.,normalized_summary,approved
+EVD_000171,SRC_000049,PLACE_000006,architecture,Tượng đài Quang Trung là một hạng mục của Di tích Gò Đống Đa.,normalized_summary,approved
+EVD_000172,SRC_000049,PLACE_000006,architecture,Đền thờ Hoàng đế Quang Trung nằm trong quần thể Di tích Gò Đống Đa.,normalized_summary,approved
+EVD_000173,SRC_000049,PLACE_000006,exhibition,Nhà trưng bày Quang Trung và Chiến thắng Ngọc Hồi – Đống Đa nằm trong quần thể di tích.,normalized_summary,approved
+EVD_000174,SRC_000049,PLACE_000006,architecture,Hai bức phù điêu phía sau tượng đài Quang Trung là hạng mục của di tích.,normalized_summary,approved
+EVD_000175,SRC_000054,PLACE_000006,heritage_object,Nhà trưng bày tại di tích giới thiệu sa bàn trận chiến Ngọc Hồi – Đống Đa.,normalized_summary,approved
+EVD_000176,SRC_000053,PLACE_000006,measurement,Đền thờ Hoàng đế Quang Trung được xây dựng trên diện tích 300 m².,normalized_summary,approved
+EVD_000177,SRC_000053,PLACE_000006,construction,Đền thờ Hoàng đế Quang Trung được xây dựng mùa xuân năm 2014 và khánh thành tháng Giêng năm 2015.,normalized_summary,approved
+EVD_000178,SRC_000053,PLACE_000006,commemoration,Ban thờ chính trong hậu cung thờ Hoàng đế Quang Trung – Nguyễn Huệ.,normalized_summary,approved
+EVD_000179,SRC_000053,PLACE_000006,commemoration,Ban thờ bên tả trong hậu cung thờ Bắc cung Hoàng hậu Lê Ngọc Hân.,normalized_summary,approved
+EVD_000180,SRC_000046,PLACE_000006,person,Hoàng đế Quang Trung – Nguyễn Huệ chỉ huy nghĩa quân Tây Sơn trong chiến thắng Ngọc Hồi – Đống Đa.,normalized_summary,approved
+EVD_000181,SRC_000051,PLACE_000006,person,Sầm Nghi Đống là tướng phía quân Thanh tại đồn Khương Thượng trong trận Đống Đa.,normalized_summary,approved
+EVD_000182,SRC_000048,PLACE_000006,history,Quang Trung – Nguyễn Huệ là Hoàng đế thứ hai của Nhà Tây Sơn.,normalized_summary,approved
+EVD_000183,SRC_000051,PLACE_000006,history,Sầm Nghi Đống là tướng thuộc lực lượng quân Thanh trong trận Khương Thượng – Đống Đa.,normalized_summary,approved
+EVD_000184,SRC_000052,PLACE_000006,activity,"Lễ hội tại di tích có nghi thức rước kiệu Quang Trung và Ngọc Hân cùng lễ dâng hoa, dâng hương tưởng niệm.",normalized_summary,approved
+EVD_000185,SRC_000052,PLACE_000006,activity,Lễ hội Gò Đống Đa có biểu diễn võ thuật và múa rồng lửa tái hiện khí thế nghĩa quân Tây Sơn.,normalized_summary,approved
+EVD_000186,SRC_000054,PLACE_000006,exhibition,Sa bàn trận chiến Ngọc Hồi – Đống Đa được trưng bày trong Nhà trưng bày Quang Trung.,normalized_summary,approved
+EVD_000187,SRC_000056,PLACE_000003,construction,Gia Long cho xây Cột cờ Hà Nội từ 1805 đến 1812.,normalized_summary,approved
+EVD_000188,SRC_000056,PLACE_000003,location,"Cột cờ Hà Nội nằm trên đường Điện Biên Phủ, Hà Nội.",normalized_summary,approved
+EVD_000189,SRC_000057,PLACE_000003,architecture,Cột cờ gồm ba tầng đế và thân cột; trên đỉnh có lầu vọng canh.,normalized_summary,approved
+EVD_000190,SRC_000057,PLACE_000003,measurement,"Tầng đế thứ nhất cao 3,1 m, cạnh 42,5 m; tầng thứ hai cao 3,7 m, cạnh 27 m; tầng thứ ba cao 5,1 m, cạnh 12,8 m.",normalized_summary,approved
+EVD_000191,SRC_000057,PLACE_000003,material,Các tầng đế Cột cờ Hà Nội được ốp gạch.,normalized_summary,approved
+EVD_000192,SRC_000056,PLACE_000003,architecture,"Thân cột có cầu thang xoắn 54 bậc, nhóm 39 ô hoa thị và nhóm 6 ô rẻ quạt; lầu bát giác cao 3,3 m có 8 cửa sổ và trụ giữa đường kính 40 cm.",normalized_summary,approved
+EVD_000193,SRC_000057,PLACE_000003,doors,"Cột cờ có cửa Đông Nghênh Húc, cửa Tây Hồi Quang và cửa Nam Hướng Minh.",normalized_summary,approved
+EVD_000194,SRC_000058,PLACE_000003,recognition,Cột cờ Hà Nội được công nhận là Di tích quốc gia năm 1989.,normalized_summary,approved
+EVD_000195,SRC_000056,PLACE_000003,historical_event,Lễ thượng cờ tại Cột cờ Hà Nội diễn ra lúc 15 giờ ngày 10/10/1954.,normalized_summary,approved
+EVD_000196,SRC_000057,PLACE_000003,historical_function,"Cột cờ từng phục vụ quan sát quân sự; lầu vọng canh có các cửa sổ quan sát nội, ngoại thành.",normalized_summary,approved
+EVD_000197,SRC_000061,PLACE_000007,address,"Ô Quan Chưởng ở ngã tư Hàng Chiếu – Thanh Hà – Đào Duy Từ – Ô Quan Chưởng, phường Hoàn Kiếm, Hà Nội.",normalized_summary,approved
+EVD_000198,SRC_000062,PLACE_000007,location,Ô Quan Chưởng nối phố Ô Quan Chưởng với đầu phố Hàng Chiếu.,normalized_summary,approved
+EVD_000199,SRC_000060,PLACE_000007,construction,Ô Quan Chưởng khởi dựng năm 1749 thời Lê; đại tu năm 1785 và xây dựng lại năm 1804.,normalized_summary,approved
+EVD_000200,SRC_000060,PLACE_000007,architecture,"Ô Quan Chưởng mang kiểu vọng lâu thời Nguyễn; tầng dưới có cửa chính và hai cửa phụ, tầng trên là vọng lâu bốn mái. Hai bên có bậc thang lên vọng lâu.",normalized_summary,approved
+EVD_000201,SRC_000059,PLACE_000007,architecture,Lan can bao quanh vọng lâu Ô Quan Chưởng có hoa văn hình học.,normalized_summary,approved
+EVD_000202,SRC_000060,PLACE_000007,measurement,"Cửa chính Ô Quan Chưởng cao 3 m; mỗi cửa phụ cao 2,5 m, rộng 1,65 m.",normalized_summary,approved
+EVD_000203,SRC_000059,PLACE_000007,material,"Cổng Ô Quan Chưởng dày 7 m, xây bằng gạch vồ và đá.",normalized_summary,approved
+EVD_000204,SRC_000059,PLACE_000007,inscription,Phía đông Ô Quan Chưởng có bảng chữ Đông Hà Môn đắp bằng mảnh sứ xanh.,normalized_summary,approved
+EVD_000205,SRC_000059,PLACE_000007,heritage_object,"Bia đá Thân cấm khư tệ ở Ô Quan Chưởng có kích thước 0,8 × 1 m. Bia lập năm 1881, ghi lệnh của Hoàng Diệu và Hoàng Văn Xứng chống sách nhiễu dân.",normalized_summary,approved
+EVD_000206,SRC_000062,PLACE_000007,historical_function,"Vọng lâu Ô Quan Chưởng phục vụ canh gác, kiểm soát an ninh khu phố buôn bán.",normalized_summary,approved
+EVD_000207,SRC_000059,PLACE_000007,recognition,Ô Quan Chưởng là di tích lịch sử được xếp hạng cấp quốc gia.,normalized_summary,approved
+EVD_000208,SRC_000064,PLACE_000008,address,"Tháp Rùa tọa lạc trên gò Rùa giữa hồ Gươm, Hà Nội; địa chỉ vị trí chuẩn hóa: Gò Rùa, hồ Hoàn Kiếm, thành phố Hà Nội.",normalized_summary,approved
+EVD_000209,SRC_000066,PLACE_000008,location,Hồ Hoàn Kiếm ở trung tâm Hà Nội; giữa hồ có Tháp Rùa.,normalized_summary,approved
+EVD_000210,SRC_000064,PLACE_000008,construction,Tháp Rùa hiện nay được xây trong khoảng giữa năm 1884 đến tháng 4/1886.,normalized_summary,approved
+EVD_000211,SRC_000064,PLACE_000008,measurement,"Tầng một Tháp Rùa dài 6,28 m, rộng 4,54 m; tầng hai dài 4,8 m, rộng 3,64 m; tầng ba dài 2,97 m, rộng 1,9 m. Tầng đỉnh vuông, mỗi cạnh 2 m.",normalized_summary,approved
+EVD_000212,SRC_000064,PLACE_000008,architecture,"Tầng ba có cửa tròn phía đông đường kính 0,68 m; bên trên ghi Quy Sơn Tháp, nghĩa là Tháp Núi Rùa.",normalized_summary,approved
+EVD_000213,SRC_000063,PLACE_000008,architecture,"Tháp Rùa có ba tầng chính, một tầng đỉnh dạng vọng lâu, móng và mái cong. Lan can bao quanh đỉnh hai tầng dưới.",normalized_summary,approved
+EVD_000214,SRC_000063,PLACE_000008,architectural_style,Hai tầng dưới Tháp Rùa có cửa cuốn Gothic châu Âu; mái cong theo kiến trúc Việt Nam.,normalized_summary,approved
+EVD_000215,SRC_000063,PLACE_000008,measurement,"Móng Tháp Rùa cao 0,8 m; chiều cao từ đất gò tới đỉnh tháp là 8,8 m.",normalized_summary,approved
+EVD_000216,SRC_000063,PLACE_000008,measurement,Gò đất đặt Tháp Rùa rộng khoảng 350 m².,normalized_summary,approved
+EVD_000217,SRC_000063,PLACE_000008,measurement,"Tầng một Tháp Rùa có 10 cửa ngoài và 4 cửa ngăn, tổng 14 cửa. Tầng hai có kết cấu tương tự với 14 bộ cửa.",normalized_summary,approved
+EVD_000218,SRC_000065,PLACE_000008,event,"Không gian chiếu sáng nghệ thuật Hồ Gươm–Tháp Rùa diễn ra từ 24/12/2025 đến 04/01/2026, ra mắt tối 24/12/2025 tại khu vực hồ Hoàn Kiếm.",normalized_summary,approved
+EVD_000219,SRC_000067,PLACE_000010,address,"Website Khu Di tích ghi địa chỉ: Số 1 Hoàng Hoa Thám (Cổng Đỏ), Ba Đình, Hà Nội.",normalized_summary,approved
+EVD_000220,SRC_000068,PLACE_000010,history,Nhà 54 thuộc Khu Di tích Phủ Chủ tịch; Hồ Chí Minh ở và làm việc tại đây từ tháng 12/1954 đến giữa tháng 5/1958.,normalized_summary,approved
+EVD_000221,SRC_000068,PLACE_000010,architecture,"Nhà 54 có phòng làm việc giáp ao, phòng ăn ở giữa và phòng ngủ.",normalized_summary,approved
+EVD_000222,SRC_000068,PLACE_000010,heritage_objects,Phòng ăn Nhà 54 trưng bày bộ đồ ăn hàng ngày của Hồ Chí Minh. Phòng ngủ có giường nhỏ và tủ quần áo của Người.,normalized_summary,approved
+EVD_000223,SRC_000070,PLACE_000010,history,"Nhà sàn thuộc Khu Di tích Phủ Chủ tịch, là nơi Hồ Chí Minh ở và làm việc từ tháng 5/1958 đến tháng 8/1969.",normalized_summary,approved
+EVD_000224,SRC_000070,PLACE_000010,construction,"Nhà sàn hoàn thành ngày 17/5/1958. Nguyễn Văn Ninh thiết kế; nhà dùng gỗ, theo kiểu nhà sàn của đồng bào dân tộc Việt Bắc.",normalized_summary,approved
+EVD_000225,SRC_000069,PLACE_000010,history,"Nhà 67 thuộc Khu Di tích Phủ Chủ tịch, được xây để phục vụ Hồ Chí Minh; khởi công ngày 1/5/1967.",normalized_summary,approved
+EVD_000226,SRC_000069,PLACE_000010,material,Tường và trần Nhà 67 được làm bằng bê tông cốt thép.,normalized_summary,approved
+EVD_000227,SRC_000069,PLACE_000010,historical_function,Hồ Chí Minh dùng Nhà 67 làm nơi họp Bộ Chính trị và làm việc với cán bộ Trung ương.,normalized_summary,approved
+EVD_000228,SRC_000069,PLACE_000010,heritage_objects,"Nhà 67 giữ chiếc đài ZENITH trên bàn làm việc của Hồ Chí Minh, hai bản đồ quân sự trên tường và đồng hồ cạnh giường.",normalized_summary,approved
+EVD_000229,SRC_000069,PLACE_000010,event,Hồ Chí Minh qua đời tại Nhà 67 lúc 9 giờ 47 phút ngày 2/9/1969.,normalized_summary,approved
+EVD_000230,SRC_000072,PLACE_000010,landscape,"Ao cá Bác Hồ trong Khu Di tích được cải tạo theo đề nghị của Hồ Chí Minh, diện tích khoảng 3.200 m².",normalized_summary,approved
+EVD_000231,SRC_000071,PLACE_000010,recognition,"Khu lưu niệm Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch, Hà Nội, được xếp hạng di tích quốc gia đặc biệt theo Quyết định 1272/QĐ-TTg ngày 12/8/2009, Điều 1 mục 8.",normalized_summary,approved
+EVD_000232,SRC_000073,PLACE_000011,location,Lăng Chủ tịch Hồ Chí Minh được dựng tại vị trí lễ đài cũ giữa Quảng trường Ba Đình; đây là nơi giữ gìn thi hài Hồ Chí Minh.,normalized_summary,approved
+EVD_000233,SRC_000075,PLACE_000011,address,"Quảng trường Ba Đình nằm trên đường Hùng Vương, phường Ba Đình, Hà Nội. Kết hợp vị trí Lăng tại quảng trường để chuẩn hóa địa chỉ, không thêm số nhà.",normalized_summary,approved
+EVD_000234,SRC_000073,PLACE_000011,architecture,"Lăng có bệ tam cấp, khối trung tâm và mái tam cấp; có phòng thi hài, hành lang, cầu thang, hàng cột đá và cửa gỗ. Hai phía Nam, Bắc có lễ đài, mỗi bên dài 65 m.",normalized_summary,approved
+EVD_000235,SRC_000073,PLACE_000011,measurement,"Lăng cao 21,6 m, rộng 41,2 m.",normalized_summary,approved
+EVD_000236,SRC_000073,PLACE_000011,inscription,Mặt chính Lăng có dòng chữ Chủ tịch Hồ Chí Minh; phòng thi hài có hai hình cờ Đảng và cờ Tổ quốc ghép đá.,normalized_summary,approved
+EVD_000237,SRC_000077,PLACE_000011,architecture,"Tiền sảnh dẫn tới phòng thi hài qua hành lang và cầu thang. Tường phòng thi hài và tường hai bên hành lang, cầu thang được ốp đá cẩm thạch; tường chính tiền sảnh ốp đá hoa cương đỏ hồng.",normalized_summary,approved
+EVD_000238,SRC_000073,PLACE_000011,material,Cột Lăng bằng đá hoa cương; các bộ cửa dùng gỗ quý.,normalized_summary,approved
+EVD_000239,SRC_000074,PLACE_000011,construction,Lăng khởi công ngày 2/9/1973; đổ mẻ bê tông móng đầu tiên ngày 27/10/1973; khánh thành ngày 29/8/1975.,normalized_summary,approved
+EVD_000240,SRC_000076,PLACE_000011,ceremony,Lễ chào cờ đầu tiên trước Lăng được tổ chức trên Quảng trường Ba Đình lúc 06:30 ngày 19/5/2001.,normalized_summary,approved
+EVD_000241,SRC_000077,PLACE_000011,activity,"Sau lễ khánh thành ngày 29/8/1975, đồng bào và khách quốc tế vào Lăng viếng Hồ Chí Minh.",normalized_summary,approved
+EVD_000242,SRC_000078,PLACE_000012,address,"Bài ngày 11/5/2026 của Bộ Tư lệnh Lăng xác định K9 Đá Chông thuộc xã Bất Bạt, thành phố Hà Nội. Địa chỉ chuẩn hóa ở cấp địa danh và xã, không có số nhà.",normalized_summary,approved
+EVD_000243,SRC_000079,PLACE_000012,identity,K9 Đá Chông là di tích lịch sử gắn với hoạt động và việc giữ gìn thi hài Chủ tịch Hồ Chí Minh.,normalized_summary,approved
+EVD_000244,SRC_000079,PLACE_000012,architecture,"Các hạng mục được lưu giữ tại K9 gồm nhà hai tầng, phòng làm việc, phòng họp, nhà phục vụ, nhà khách Trung ương và hệ thống tổng đài điện thoại.",normalized_summary,approved
+EVD_000245,SRC_000079,PLACE_000012,historical_function,"Ngôi nhà hai tầng tại K9 mang dáng dấp nhà sàn, từng là nơi Hồ Chí Minh làm việc và nghỉ ngơi.",normalized_summary,approved
+EVD_000246,SRC_000079,PLACE_000012,historical_event,"Tháng 5/1957, Hồ Chí Minh dừng chân nghỉ trưa tại Đá Chông khi kiểm tra bộ đội diễn tập.",normalized_summary,approved
+EVD_000247,SRC_000079,PLACE_000012,historical_event,"Ngày 23/2/1958, Hồ Chí Minh trở lại khảo sát Đá Chông và chọn nơi này để xây dựng căn cứ Trung ương.",normalized_summary,approved
+EVD_000248,SRC_000080,PLACE_000012,architecture,"Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9 có kiến trúc truyền thống, một tầng với mái thượng và mái hạ; là nơi tưởng niệm Người.",normalized_summary,approved
+EVD_000249,SRC_000080,PLACE_000012,construction,Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9 khởi công ngày 17/3/2014.,normalized_summary,approved
+EVD_000250,SRC_000080,PLACE_000012,historical_event,Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại K9 được khánh thành ngày 2/9/2015.,normalized_summary,approved
+EVD_000251,SRC_000081,PLACE_000012,heritage_objects,"K9 lưu giữ ba phương tiện lịch sử từng tham gia di chuyển thi hài Hồ Chí Minh: xe UAZ cứu thương FH-1468, xe ZIL 157 biển số 470-189 và xe PAP biển số 31-162.",normalized_summary,approved
+EVD_000252,SRC_000082,PLACE_000012,architecture,Nhà kính là một công trình của K9 gắn với nhiệm vụ giữ gìn thi hài Hồ Chí Minh trong chiến tranh.,normalized_summary,approved
+EVD_000253,SRC_000082,PLACE_000012,historical_event,"Ngày 13/3/1961, Hồ Chí Minh tiếp Đặng Dĩnh Siêu tại K9.",normalized_summary,approved
+EVD_000254,SRC_000082,PLACE_000012,historical_event,"Ngày 23/2/1962, Hồ Chí Minh tiếp Anh hùng vũ trụ Liên Xô Giéc man Ti tốp tại K9.",normalized_summary,approved
+EVD_000255,SRC_000083,PLACE_000012,construction,"Nhà hai tầng tại K9, còn gọi là Nhà sàn, hoàn thành ngày 15/3/1960; Hồ Chí Minh dự lễ khánh thành.",normalized_summary,approved
+EVD_000256,SRC_000084,PLACE_000013,address,"Di tích nằm tại 48 Hàng Ngang, Hà Nội; có hai lối ra vào ở 48 phố Hàng Ngang và 35 phố Hàng Cân.",normalized_summary,approved
+EVD_000257,SRC_000085,PLACE_000013,historical_person,Ngôi nhà 48 Hàng Ngang thuộc sở hữu của vợ chồng Trịnh Văn Bô và Hoàng Thị Minh Hồ khi Hồ Chí Minh đến ở năm 1945.,normalized_summary,approved
+EVD_000258,SRC_000084,PLACE_000013,historical_event,"Hồ Chí Minh bắt đầu ở và làm việc tại nhà 48 Hàng Ngang ngày 25/8/1945, sau khi từ Việt Bắc về Hà Nội.",normalized_summary,approved
+EVD_000259,SRC_000089,PLACE_000013,historical_event,"Trong thời gian ở tại 48 Hàng Ngang từ 25/8 đến 2/9/1945, Hồ Chí Minh soạn thảo Tuyên ngôn Độc lập ở căn phòng tầng hai.",normalized_summary,approved
+EVD_000260,SRC_000086,PLACE_000013,historical_event,"Ngày 26/8/1945, Hồ Chí Minh chủ trì cuộc họp Thường vụ Trung ương tại nhà 48 Hàng Ngang, bàn mở rộng thành phần Chính phủ và việc ra mắt Chính phủ lâm thời ngày 2/9.",normalized_summary,approved
+EVD_000261,SRC_000087,PLACE_000013,architecture,"Nhà 48 Hàng Ngang có tầng một từng bán tơ lụa, tầng hai bố trí phòng khách và phòng ăn. Phòng ở tầng ba nhìn ra phố Hàng Ngang được bố trí làm nơi dâng hương tưởng niệm Hồ Chí Minh.",normalized_summary,approved
+EVD_000262,SRC_000086,PLACE_000013,architecture,"Tại tầng hai, phòng ăn của gia đình được dùng làm phòng họp. Qua hành lang có phòng của Hồ Chí Minh và phòng tiếp khách.",normalized_summary,approved
+EVD_000263,SRC_000085,PLACE_000013,architecture,"Cửa chính của nhà mở ra 48 Hàng Ngang, cửa hậu ra 35 Hàng Cân. Khoảng sân vuông nối giữa có một giếng nước.",normalized_summary,approved
+EVD_000264,SRC_000085,PLACE_000013,heritage_objects,"Di tích lưu giữ bàn nhỏ Hồ Chí Minh dùng làm việc, bàn chữ nhật của phòng họp, nhóm ghế tựa quanh bàn và chiếc giường Người từng nghỉ.",normalized_summary,approved
+EVD_000265,SRC_000084,PLACE_000013,recognition,Bộ Văn hóa Thông tin công nhận nhà 48 Hàng Ngang là Di tích Lịch sử văn hóa theo Quyết định 54 VH/QĐ ngày 29/4/1979.,normalized_summary,approved
+EVD_000266,SRC_000085,PLACE_000013,recognition,Bài năm 2018 xác định nhà 48 Hàng Ngang là di tích lịch sử cấp quốc gia.,normalized_summary,approved
+EVD_000267,SRC_000088,PLACE_000013,activity,"Ngày 18/5/2026, phường Hoàn Kiếm tổ chức dâng hương tưởng niệm Hồ Chí Minh tại di tích 48 Hàng Ngang.",normalized_summary,approved
+EVD_000268,SRC_000092,PLACE_000014,address,"Nguồn Sở Văn hóa và Thể thao Hà Nội ngày 26/3/2026 xác định di tích ở số 5D phố Hàm Long, phường Cửa Nam, thành phố Hà Nội.",normalized_summary,approved
+EVD_000269,SRC_000090,PLACE_000014,historical_event,"Cuối tháng 3/1929, Chi bộ Cộng sản đầu tiên ở Việt Nam ra đời tại nhà 5D Hàm Long.",normalized_summary,approved
+EVD_000270,SRC_000090,PLACE_000014,historical_person,"Chi bộ gồm Ngô Gia Tự, Nguyễn Đức Cảnh, Trần Văn Cung, Trịnh Đình Cửu, Đỗ Ngọc Du, Nguyễn Phong Sắc, Dương Hạc Đính và Nguyễn Tuân; Trần Văn Cung làm Bí thư.",normalized_summary,approved
+EVD_000271,SRC_000091,PLACE_000014,historical_event,"Bảy người dự cuộc họp thành lập. Nguyễn Phong Sắc vắng mặt vì công tác, tán thành nghị quyết và được công nhận là thành viên thứ tám.",normalized_summary,approved
+EVD_000272,SRC_000093,PLACE_000014,historical_person,"Cuối năm 1928, Trần Văn Cung và vợ Nguyễn Thị Liên được giao đến ở, trông nom nhà 5D Hàm Long, làm cơ sở hoạt động bí mật.",normalized_summary,approved
+EVD_000273,SRC_000093,PLACE_000014,architecture,"Nhà 5D Hàm Long xưa là nhà gạch một tầng, có một gian ở, phía sau là sân nhỏ và bếp.",normalized_summary,approved
+EVD_000274,SRC_000091,PLACE_000014,measurement,"Gian nhà 5D Hàm Long có diện tích 24 m²; phía sau có sân, bếp và nhà vệ sinh.",normalized_summary,approved
+EVD_000275,SRC_000091,PLACE_000014,heritage_objects,"Bộ tràng kỷ, bộ ấm tích, bốn ghế đẩu, giường gỗ, hai hòm gỗ và nhóm nồi chảo, bát đĩa tại di tích được nguồn xác định là hiện vật phục chế.",normalized_summary,approved
+EVD_000276,SRC_000091,PLACE_000014,restoration,"Ngày 25/11/1959, nhà 5D Hàm Long được khôi phục thành nhà lưu niệm.",normalized_summary,approved
+EVD_000277,SRC_000091,PLACE_000014,restoration,"Năm 2000, nhà 5D Hàm Long được tu bổ nhằm khôi phục diện mạo thời điểm thành lập chi bộ.",normalized_summary,approved
+EVD_000278,SRC_000090,PLACE_000014,recognition,Nhà 5D Hàm Long được xếp hạng di tích quốc gia theo Quyết định 29-VH/QĐ ngày 13/1/1964 của Bộ trưởng Bộ Văn hóa.,normalized_summary,approved
+EVD_000279,SRC_000094,PLACE_000014,historical_context,Bài Nhân Dân ngày 26/3/2026 xác nhận nhà 5D Hàm Long gắn với chi bộ tám thành viên thành lập cuối tháng 3/1929 và được xếp hạng quốc gia ngày 13/1/1964.,normalized_summary,approved
+EVD_000280,SRC_000096,PLACE_000015,address,"Thành cổ Sơn Tây nằm tại Sơn Tây, Hà Nội; Cửa Tiền nhìn ra phố Quang Trung, Cửa Hậu nhìn ra phố Lê Lợi. Địa chỉ được chuẩn hóa theo lối Cửa Tiền, không thêm số nhà.",normalized_summary,approved
+EVD_000281,SRC_000095,PLACE_000015,construction,"Thành cổ Sơn Tây được xây dựng năm 1822 dưới triều Minh Mạng, nhà Nguyễn, theo kiểu Vauban.",normalized_summary,approved
+EVD_000282,SRC_000098,PLACE_000015,architecture,"Thành có tường thành, hào nước và bốn cổng: Cửa Hậu hướng Bắc, Cửa Tiền hướng Nam, Cửa Hữu hướng Tây, Cửa Tả hướng Đông.",normalized_summary,approved
+EVD_000283,SRC_000097,PLACE_000015,measurement,"Theo mô tả thành cũ, mỗi cạnh dài khoảng 400 m; tường cao trung bình khoảng 5 m, chân rộng 6 m và mặt rộng 4 m. Nhiều đoạn tường đã sụp đổ.",normalized_summary,approved
+EVD_000284,SRC_000095,PLACE_000015,material,Tường thành Sơn Tây được xây bằng đá ong.,normalized_summary,approved
+EVD_000285,SRC_000095,PLACE_000015,architecture,"Trong thành có Vọng cung, Kỳ đài, Đoan môn, sân lát gạch và bình phong. Bốn góc thành xưa có bốn giếng nước hình vuông.",normalized_summary,approved
+EVD_000286,SRC_000095,PLACE_000015,material,Bệ Kỳ đài được xây bằng đá ong.,normalized_summary,approved
+EVD_000287,SRC_000095,PLACE_000015,material,"Bình phong xây gạch, có hình nổi Long vân khánh hội; sân trước điện được lát gạch.",normalized_summary,approved
+EVD_000288,SRC_000096,PLACE_000015,heritage_objects,Cửa Bắc Thành cổ Sơn Tây còn đặt hai khẩu súng thần công theo bài giới thiệu năm 2021.,normalized_summary,approved
+EVD_000289,SRC_000096,PLACE_000015,heritage_objects,"Năm 2014, khu trưng bày máy bay được xây dựng tại thành, gồm hai MiG-21 từ Trung đoàn Sao Đỏ và một Mi-8 từ Trung đoàn 916.",normalized_summary,approved
+EVD_000290,SRC_000096,PLACE_000015,recognition,Di tích được xếp hạng quốc gia theo Quyết định 2754/QĐ-BVHTT ngày 15/10/1994.,normalized_summary,approved
+EVD_000291,SRC_000095,PLACE_000015,historical_event,"Tháng 12/1946, một cuộc họp của Chính phủ Việt Nam Dân chủ Cộng hòa diễn ra tại Thành cổ Sơn Tây.",normalized_summary,approved
+EVD_000292,SRC_000096,PLACE_000015,historical_event,"Năm 1946, Hội đồng Chính phủ họp tại Vọng cung Thành cổ Sơn Tây.",normalized_summary,approved
+EVD_000293,SRC_000098,PLACE_000015,activity,Thành cổ Sơn Tây có hoạt động trưng bày tranh ảnh và hiện vật giới thiệu di tích trong chương trình kỷ niệm 200 năm xây dựng năm 2022; bài này thông báo kế hoạch tổ chức.,normalized_summary,approved
+EVD_000294,SRC_000099,PLACE_000016,address,"Cổng MyHanoi ghi địa chỉ Đền Ngọc Sơn tại phố Đinh Tiên Hoàng, Hà Nội. Chỉ chuẩn hóa phố và thành phố, không giữ tên phường/quận cũ làm địa chỉ hiện hành.",normalized_summary,approved
+EVD_000295,SRC_000100,PLACE_000016,location,Đền Ngọc Sơn tọa lạc trên đảo Ngọc trong hồ Hoàn Kiếm.,normalized_summary,approved
+EVD_000296,SRC_000100,PLACE_000016,architecture,"Các hạng mục gồm nghi môn, Tháp Bút, nghi môn nội, Đài Nghiên, cầu Thê Húc, cổng Đắc Nguyệt, đình Trấn Ba, tiền tế, trung đường, hậu cung, tả vu, hữu vu, nhà kính thư và nhà hậu.",normalized_summary,approved
+EVD_000297,SRC_000100,PLACE_000016,historical_function,"Đền từng là nơi sinh hoạt Hội Hướng thiện, gắn với Nguyễn Văn Siêu và Vũ Tông Phan; hội tổ chức in sách thuốc, kinh và sách luận về tín ngưỡng.",normalized_summary,approved
+EVD_000298,SRC_000037,PLACE_000016,recognition,"Hồ Hoàn Kiếm và Đền Ngọc Sơn cùng thuộc di tích lịch sử và danh lam thắng cảnh được xếp hạng quốc gia đặc biệt ngày 9/12/2013, Quyết định 2383/QĐ-TTg. Phạm vi pháp lý là cụm di tích, không phải chỉ riêng đền.",normalized_summary,approved
+EVD_000299,SRC_000101,PLACE_000016,restoration,"Năm 1865, Nguyễn Văn Siêu đứng ra trùng tu Đền Ngọc Sơn và xây Tháp Bút, Đài Nghiên.",normalized_summary,approved
+EVD_000300,SRC_000101,PLACE_000016,architecture,Tháp Bút gồm năm tầng; bài Bút Tháp chí của Nguyễn Văn Siêu được khắc trên tầng ba của tháp.,normalized_summary,approved
+EVD_000301,SRC_000101,PLACE_000016,heritage_objects,Đài Nghiên có nghiên mực bằng đá hình nửa quả đào; thành nghiên khắc bài minh do Nguyễn Văn Siêu soạn.,normalized_summary,approved
+EVD_000302,SRC_000102,PLACE_000016,construction,"Nguyễn Văn Siêu cho làm cầu Thê Húc năm 1865 khi tu sửa đền. Cầu được mô tả gồm 15 nhịp, mặt lát ván gỗ, sơn đỏ sẫm.",normalized_summary,approved
+EVD_000303,SRC_000102,PLACE_000016,material,"Cầu được xây lại sau lần sập năm 1952; thiết kế dùng dầm bê tông, mặt và thành cầu bằng gỗ. Không coi toàn kết cấu cầu hiện nay là gỗ nguyên gốc năm 1865.",normalized_summary,approved
+EVD_000304,SRC_000103,PLACE_000016,worship,"Đền Ngọc Sơn thờ Trần Hưng Đạo, vị anh hùng gắn với kháng chiến chống Nguyên Mông.",normalized_summary,approved
+EVD_000305,SRC_000104,PLACE_000017,address,"Mục liên hệ của trang Chùa Một Cột ghi Phố Chùa Một Cột, phường Ba Đình. Chuẩn hóa với thành phố Hà Nội; không dùng phường Đội Cấn/quận Ba Đình trong phần giới thiệu cũ.",normalized_summary,approved
+EVD_000306,SRC_000107,PLACE_000017,identity,Chùa Một Cột thường chỉ Liên Hoa Đài nằm trong quần thể Diên Hựu; đài ở giữa hồ Linh Chiểu hình vuông. Quần thể lịch sử không còn nguyên trạng thời Lý.,normalized_summary,approved
+EVD_000307,SRC_000104,PLACE_000017,architecture,"Quần thể điểm đến gồm Liên Hoa Đài giữa hồ Linh Chiểu, tam quan và nhà Tam Bảo bên cạnh.",normalized_summary,approved
+EVD_000308,SRC_000105,PLACE_000017,construction,"Chùa được khởi dựng năm 1049 dưới thời Lý Thái Tông. Câu chuyện vua mộng thấy Quan Âm là tích kể về nguồn gốc, không phải sự kiện được kiểm chứng độc lập.",normalized_summary,approved
+EVD_000309,SRC_000105,PLACE_000017,architecture,"Liên Hoa Đài có mặt bằng vuông cạnh 3 m, bốn mái cong lợp ngói ta. Trụ đá cao 4 m, không kể phần chìm dưới đất, đường kính 1,2 m, ghép từ hai khối đá.",normalized_summary,approved
+EVD_000310,SRC_000105,PLACE_000017,architecture,Bộ khung gỗ đỡ đài bên trên cột đá. Có thang xây lên chùa và lan can gạch quanh hồ.,normalized_summary,approved
+EVD_000311,SRC_000105,PLACE_000017,heritage_objects,Trong đài đặt tượng Bồ tát Quán Thế Âm; trên cửa có biển đề Liên Hoa Đài.,normalized_summary,approved
+EVD_000312,SRC_000104,PLACE_000017,heritage_objects,Tượng Quan Âm được đặt trong khám thờ sơn son thếp vàng ở gian chính Liên Hoa Đài.,normalized_summary,approved
+EVD_000313,SRC_000104,PLACE_000017,restoration,"Sau khi chùa bị phá năm 1954, công trình được dựng lại theo thiết kế Nguyễn Bá Lăng, hoàn thành tháng 4/1955.",normalized_summary,approved
+EVD_000314,SRC_000106,PLACE_000017,restoration,"Liên Hoa Đài hiện tại được Nguyễn Bá Lăng dựng lại năm 1955 theo kiến trúc để lại từ thời Nguyễn, không phải nguyên bản năm 1049.",normalized_summary,approved
+EVD_000315,SRC_000104,PLACE_000017,historical_event,"Năm 1105, Lý Nhân Tông cho tu bổ, mở rộng quần thể, đào hồ Linh Chiểu và hồ Bích Trì.",normalized_summary,approved
+EVD_000316,SRC_000105,PLACE_000017,recognition,"Năm 1962, Chùa Một Cột được xếp hạng di tích lịch sử kiến trúc nghệ thuật quốc gia.",normalized_summary,approved
+EVD_000317,SRC_000106,PLACE_000017,architecture,Liên Hoa Đài trên một trụ giữa hồ gợi hình tượng bông sen vươn khỏi nước; đây là đặc trưng kiến trúc của công trình.,normalized_summary,approved
+EVD_000318,SRC_000104,PLACE_000017,religious_activity,"Chùa là nơi người dân thực hành cầu bình an. Đây là hoạt động tín ngưỡng, không phải khẳng định hiệu quả siêu nhiên.",normalized_summary,approved
+EVD_000319,SRC_000108,PLACE_000018,address,"Đầu trang Tây Hồ 360 ghi địa chỉ Chùa Trấn Quốc: số 30 đường Thanh Niên, phường Tây Hồ. Thành phố được chuẩn hóa là Hà Nội.",normalized_summary,approved
+EVD_000320,SRC_000109,PLACE_000018,location,"Chùa nằm trên bán đảo ở phía đông Hồ Tây, gần đường Thanh Niên, Hà Nội; đảo được nguồn gọi là Kim Ngưu, tức Cá Vàng.",normalized_summary,approved
+EVD_000321,SRC_000110,PLACE_000018,construction,"Chùa Trấn Quốc có từ thế kỷ VI, ban đầu ở gần sông Hồng và mang tên Khai Quốc.",normalized_summary,approved
+EVD_000322,SRC_000109,PLACE_000018,historical_event,"Năm 1615, do bãi sông bị lở, chùa được chuyển vào đảo ở Hồ Tây, tức địa điểm hiện nay.",normalized_summary,approved
+EVD_000323,SRC_000110,PLACE_000018,historical_event,Giáo hội Phật giáo Hà Nội cũng ghi chùa dời vào trong đê Yên Phụ năm 1615.,normalized_summary,approved
+EVD_000324,SRC_000110,PLACE_000018,architecture,"Chùa có tiền đường, thiêu hương, thượng điện, hai hành lang tả hữu, gác chuông, nhà Tổ và nhà bia; trong khuôn viên có vườn tháp.",normalized_summary,approved
+EVD_000325,SRC_000109,PLACE_000018,architecture,"Bảo tháp Lục Độ Đài Sen xây năm 1998, cao 15 m, có 11 tầng; đỉnh đặt Cửu Phẩm Liên Hoa chín tầng bằng đá quý.",normalized_summary,approved
+EVD_000326,SRC_000111,PLACE_000018,heritage_objects,"Bảo tháp có 66 tượng Phật A Di Đà bằng đá quý, bố trí sáu tượng mỗi tầng, tổng cộng 11 tầng.",normalized_summary,approved
+EVD_000327,SRC_000108,PLACE_000018,heritage_objects,Chùa lưu giữ tượng Thích Ca nhập Niết Bàn bằng gỗ thếp vàng.,normalized_summary,approved
+EVD_000328,SRC_000108,PLACE_000018,heritage_objects,"Bia năm 1639 do Nguyễn Xuân Chính soạn, ghi việc đại tu chùa. Bia năm 1815 có bài văn Phạm Quý Thích về lần tu sửa bắt đầu năm 1813 và kết thúc năm 1815.",normalized_summary,approved
+EVD_000329,SRC_000110,PLACE_000018,material,"Trong chùa còn bia đá, trong đó có văn bia Nguyễn Xuân Chính và Phạm Quý Thích.",normalized_summary,approved
+EVD_000330,SRC_000109,PLACE_000018,restoration,Diện mạo kiến trúc chùa gắn với lần trùng tu lớn năm 1815.,normalized_summary,approved
+EVD_000331,SRC_000108,PLACE_000018,recognition,Tây Hồ 360 ghi chùa được xếp hạng di tích kiến trúc nghệ thuật theo Quyết định 313-VH/VP ngày 28/4/1962.,normalized_summary,approved
+EVD_000332,SRC_000112,PLACE_000020,address,"Mục liên hệ di tích ghi số 194 Quán Thánh, phường Ba Đình; phần giới thiệu ghi số 190. Địa chỉ thuộc Hà Nội; hai số nhà chưa thống nhất trong cùng nguồn.",normalized_summary,approved
+EVD_000333,SRC_000112,PLACE_000020,construction,"Đền khởi dựng đầu thế kỷ XI, thời Lý Thái Tổ.",normalized_summary,approved
+EVD_000334,SRC_000112,PLACE_000020,restoration,"Các lần trùng tu được ghi nhận: 1618, 1677, 1768, 1836, 1843, 1893, 1941.",normalized_summary,approved
+EVD_000335,SRC_000112,PLACE_000020,architecture,"Đền có tam quan, sân trước, tiền tế, trung tế, hậu cung.",normalized_summary,approved
+EVD_000336,SRC_000112,PLACE_000020,religious_activity,Đền thờ Huyền Thiên Trấn Vũ; lễ hội truyền thống tổ chức ngày 3 tháng 3 âm lịch hằng năm.,normalized_summary,approved
+EVD_000337,SRC_000112,PLACE_000020,location,Đền Quán Thánh nằm cạnh Hồ Tây và là di tích lịch sử của Hà Nội.,normalized_summary,approved
+EVD_000338,SRC_000114,PLACE_000020,architecture,Nghi môn tứ trụ là cổng ngoài của đền; chuông đồng được treo trên gác tam quan.,normalized_summary,approved
+EVD_000339,SRC_000113,PLACE_000020,heritage_objects,"Trang 48: biển đồng Đề Chân Vũ quán do Thiệu Trị ngự đề, đúc năm 1842.",normalized_summary,approved
+EVD_000340,SRC_000113,PLACE_000020,heritage_objects,Trang 48–49: bia ký bằng đá; bia trùng tu quán Trấn Vũ năm 1857 do Lê Huy Vĩnh soạn; bia quán Chân Vũ năm 1893 do Hoàng Cao Khải soạn.,normalized_summary,approved
+EVD_000341,SRC_000113,PLACE_000020,material,Trang 48: đền lưu giữ pho tượng Trấn Vũ bằng đồng.,normalized_summary,approved
+EVD_000342,SRC_000113,PLACE_000020,source_discrepancy,Trang 49: tư liệu văn khắc không thống nhất niên đại đúc tượng Trấn Vũ; bài nghiên cứu không xác nhận riêng năm 1677.,normalized_summary,approved
+EVD_000343,SRC_000115,PLACE_000020,recognition,"Quyết định 93/QĐ-TTg ngày 18/01/2022 xếp hạng Thăng Long tứ trấn, gồm Đền Quán Thánh, là di tích quốc gia đặc biệt.",normalized_summary,approved
+EVD_000344,SRC_000116,PLACE_000020,recognition,Tượng Trấn Vũ đền Quán Thánh được công nhận bảo vật quốc gia theo Quyết định 2496/QĐ-TTg ngày 22/12/2016. Nguồn ghi niên đại khoảng cuối thế kỷ XVII – đầu thế kỷ XVIII.,normalized_summary,approved
+EVD_000345,SRC_000117,PLACE_000021,address,"Đầu trang ghi số 71 ngõ 50 Đặng Thai Mai, phường Tây Hồ. Thành phố chuẩn hóa: Hà Nội.",normalized_summary,approved
+EVD_000346,SRC_000117,PLACE_000021,location,Phủ nằm trên doi đất ven Hồ Tây.,normalized_summary,approved
+EVD_000347,SRC_000117,PLACE_000021,architecture,"Phủ chính chia ba phần kiểu chữ tam, có tiền tế và trung tế; kiến trúc dùng bê tông giả gỗ.",normalized_summary,approved
+EVD_000348,SRC_000117,PLACE_000021,restoration_material,"Điện Sơn Trang tu tạo năm 2006; kết cấu bê tông, mái trên bằng gỗ; thờ chúa Đệ Nhị Thượng Ngàn.",normalized_summary,approved
+EVD_000349,SRC_000117,PLACE_000021,heritage_objects,"Danh mục hiện vật có bài vị, bát hương, chuông, kiệu bát cống, tượng Ngọc Hoàng, Nam Tào, Bắc Đẩu, Mẫu Thượng Ngàn.",normalized_summary,approved
+EVD_000350,SRC_000117,PLACE_000021,recognition,Quyết định 310/QĐ ngày 13/02/1996 công nhận phủ là di tích nghệ thuật cấp quốc gia.,normalized_summary,approved
+EVD_000351,SRC_000118,PLACE_000021,religious_activity,Phủ thờ Mẫu Liễu Hạnh. Hằng năm tổ chức tế lễ vào mồng 3 tháng 3 và ngày 13 tháng 8 âm lịch.,normalized_summary,approved
+EVD_000352,SRC_000119,PLACE_000021,architecture,"Quần thể có tam quan, phủ chính, phương đình, tiền tế, hậu cung, điện Sơn Trang, lầu Cô, lầu Cậu; điện Sơn Trang ở cạnh tam quan.",normalized_summary,approved
+EVD_000353,SRC_000119,PLACE_000021,activity,"Người dân đến phủ cúng lễ, cầu may mắn và an bình vào các dịp lễ.",normalized_summary,approved
+EVD_000354,SRC_000120,PLACE_000021,heritage_objects,Phủ lưu giữ hoành phi Mẫu nghi thiên hạ ở cửa cung.,normalized_summary,approved
+EVD_000355,SRC_000120,PLACE_000021,material,Phóng sự ảnh giới thiệu chuông đồng trong Phủ Tây Hồ.,normalized_summary,approved
+EVD_000356,SRC_000120,PLACE_000021,recognition,Bài báo ghi Phủ Tây Hồ được xếp hạng di tích nghệ thuật ngày 13/02/1996.,normalized_summary,approved
+EVD_000357,SRC_000117,PLACE_000021,worship_layout,Phủ chính có trung tế thờ tượng Ngọc Hoàng và Tam tòa Thánh Mẫu.,normalized_summary,approved
+EVD_000358,SRC_000121,PLACE_000022,address,"Tổng Giáo phận Hà Nội ghi địa chỉ Giáo xứ Chính Tòa: số 40 Nhà Chung, phường Hoàn Kiếm, thành phố Hà Nội.",normalized_summary,approved
+EVD_000359,SRC_000121,PLACE_000022,identity,Nhà thờ Chính Tòa Thánh Giu-se còn được gọi là Nhà thờ Lớn; công trình là nhà thờ chính tòa của Tổng Giáo phận Hà Nội.,normalized_summary,approved
+EVD_000360,SRC_000121,PLACE_000022,construction,"Nhà thờ được xây dựng dưới thời Giám mục Paul-François Puginier, hoàn tất sau giai đoạn 1882–1886.",normalized_summary,approved
+EVD_000361,SRC_000121,PLACE_000022,historical_event,Ngày 24/12/1886 diễn ra thánh lễ đầu tiên tại nhà thờ.,normalized_summary,approved
+EVD_000362,SRC_000121,PLACE_000022,historical_event,Nguồn ghi lễ khánh thành chính thức ngày 23/12/1887.,normalized_summary,approved
+EVD_000363,SRC_000121,PLACE_000022,institutional_history,"Ngày 03/12/1924, Giáo phận Tây Đàng Ngoài đổi thành Giáo phận Hà Nội và Nhà thờ Lớn trở thành nhà thờ chính tòa.",normalized_summary,approved
+EVD_000364,SRC_000124,PLACE_000022,architecture,"Công trình mang phong cách Gothic cổ châu Âu; có lòng nhà thờ, phòng thánh, hai gian tháp chuông và các mái vòm uốn cong.",normalized_summary,approved
+EVD_000365,SRC_000124,PLACE_000022,heritage_objects,"Nội thất có màn gỗ chạm, tranh kính màu; tháp chuông có năm quả chuông và đồng hồ ba mặt; đại phong cầm được lắp năm 2022.",normalized_summary,approved
+EVD_000366,SRC_000124,PLACE_000022,material,"Nguồn chính thức ghi vật liệu xây dựng gồm gạch đất nung, vôi vữa và giấy bồi; cung thánh và bàn thờ có trang trí gỗ chạm.",normalized_summary,approved
+EVD_000367,SRC_000124,PLACE_000022,restoration,"Năm 1999, nhà thờ được lợp lại ngói, gia cố khung gỗ và mở hai cửa hông.",normalized_summary,approved
+EVD_000368,SRC_000124,PLACE_000022,restoration,"Giai đoạn 2013–2014, nhà thờ được lát nền đá cẩm thạch và sơn lại tường.",normalized_summary,approved
+EVD_000369,SRC_000124,PLACE_000022,restoration,"Năm 2018, cung thánh được lát đá, đặt bàn thờ đá cẩm thạch và làm mới tầng hầm.",normalized_summary,approved
+EVD_000370,SRC_000122,PLACE_000022,location,"Tạp chí Du lịch Việt Nam ghi nhà thờ ở khu trung tâm, cách Hồ Hoàn Kiếm khoảng 1 km.",normalized_summary,approved
+EVD_000371,SRC_000122,PLACE_000022,source_discrepancy,Các phần của nguồn chính thức và bài du lịch ghi kích thước khác nhau; bản dữ liệu không tạo số đo khi chưa xác định bộ số liệu ưu tiên.,normalized_summary,approved
+EVD_000372,SRC_000125,PLACE_000002,address,"Cổng trưng bày của Khu di tích Cổ Loa ghi vùng đất Cổ Loa nằm trên địa bàn xã Đông Anh, thành phố Hà Nội. Địa chỉ được chuẩn hóa ở cấp xã, không suy đoán số nhà.",normalized_summary,approved
+EVD_000373,SRC_000126,PLACE_000003,address,"Cổng du lịch phường Ba Đình ghi Cột cờ Hà Nội tại số 28A đường Điện Biên Phủ, phường Ba Đình, Hà Nội.",normalized_summary,approved
+EVD_000374,SRC_000127,PLACE_000008,classification,Cục Di sản văn hóa xếp Hồ Hoàn Kiếm và Đền Ngọc Sơn vào loại di tích lịch sử và danh lam thắng cảnh; bài hồ sơ xác nhận Tháp Rùa là công trình trên gò đất giữa hồ. Category của Tháp Rùa được kế thừa trong phạm vi cụm di tích.,normalized_summary,approved
+EVD_000375,SRC_000128,PLACE_000011,classification,"Thành ủy Hà Nội mô tả Lăng Chủ tịch Hồ Chí Minh là công trình có ý nghĩa chính trị và văn hóa đặc biệt quan trọng, mở cửa để đồng bào và khách quốc tế viếng Chủ tịch Hồ Chí Minh.",normalized_summary,approved

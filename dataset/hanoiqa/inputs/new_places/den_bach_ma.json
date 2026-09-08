@@ -1,0 +1,468 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_sovhtt_tutran",
+      "title": "Thăng Long tứ trấn được xếp hạng Di tích quốc gia đặc biệt",
+      "url": "https://sovhtt.hanoi.gov.vn/thang-long-tu-tran-duoc-xep-hang-di-tich-quoc-gia-dac-biet/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_award",
+      "title": "Đền Bạch Mã đón bằng Di tích quốc gia đặc biệt Thăng Long tứ trấn",
+      "url": "https://sovhtt.hanoi.gov.vn/den-bach-ma-don-bang-di-tich-quoc-gia-dac-biet-thang-long-tu-tran/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_values",
+      "title": "Đền Bạch Mã: Giá trị đặc biệt của một trong tứ trấn Thăng Long",
+      "url": "https://sovhtt.hanoi.gov.vn/den-bach-ma-gia-tri-dac-biet-cua-mot-trong-tu-tran-thang-long/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vietnamtourism_festival",
+      "title": "Lễ hội đền Bạch Mã",
+      "url": "https://vietnamtourism.vn/index.php/tourism/items/875/26",
+      "source_type": "national_tourism_portal",
+      "retrieved_at": "2026-09-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vietnamplus_heritage",
+      "title": "Bảo tồn và phát huy giá trị của Di tích Quốc gia Đặc biệt Đền Bạch Mã",
+      "url": "https://www.vietnamplus.vn/bao-ton-va-phat-huy-gia-tri-cua-di-tich-quoc-gia-dac-biet-den-bach-ma-post1101101.vnp",
+      "source_type": "national_news_agency",
+      "retrieved_at": "2026-09-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_daibieunhandan",
+      "title": "Bạch Mã - ngôi đền cổ nhất Hà Nội",
+      "url": "https://daibieunhandan.vn/bach-ma-ngoi-den-co-nhat-ha-noi-10251582.html",
+      "source_type": "national_assembly_newspaper",
+      "retrieved_at": "2026-09-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_history_museum",
+      "title": "Ly kỳ cuộc đấu phép giữa Cao Biền và thần Long Đỗ",
+      "url": "https://baotanglichsu.vn/vi/Articles/3098/13340/ly-ky-cuoc-djau-phep-giua-cao-bien-va-than-long-djo.html",
+      "source_type": "national_history_museum",
+      "retrieved_at": "2026-09-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Đền Bạch Mã",
+      "aliases": ["Bạch Mã từ", "Đền Long Đỗ"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 76 phố Hàng Buồm, phường Hoàn Kiếm, thành phố Hà Nội",
+      "aliases": ["76 Hàng Buồm, phường Hoàn Kiếm, Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "ward_hoan_kiem",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Hoàn Kiếm",
+      "match": "existing",
+      "existing_id": "ADMIN_000006"
+    },
+    {
+      "key": "old_quarter",
+      "type": "Location",
+      "canonical_name": "Khu phố cổ Hà Nội",
+      "aliases": ["Phố cổ Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "east_thang_long",
+      "type": "Location",
+      "canonical_name": "Phía Đông kinh thành Thăng Long",
+      "aliases": ["Trấn Đông thành Thăng Long", "Đông trấn Thăng Long"],
+      "match": "new"
+    },
+    {
+      "key": "category_history",
+      "type": "TourismCategory",
+      "canonical_name": "Di tích lịch sử",
+      "match": "existing",
+      "existing_id": "CATEGORY_000001"
+    },
+    {
+      "key": "category_spiritual",
+      "type": "TourismCategory",
+      "canonical_name": "Điểm tham quan văn hóa - tín ngưỡng",
+      "aliases": ["Điểm du lịch văn hóa tâm linh", "Công trình tín ngưỡng dân gian"],
+      "match": "new"
+    },
+    {
+      "key": "nghi_mon",
+      "type": "Architecture",
+      "canonical_name": "Nghi môn Đền Bạch Mã",
+      "match": "new"
+    },
+    {
+      "key": "phuong_dinh",
+      "type": "Architecture",
+      "canonical_name": "Phương đình tám mái Đền Bạch Mã",
+      "aliases": ["Phương đình 8 mái Đền Bạch Mã"],
+      "match": "new"
+    },
+    {
+      "key": "tien_te",
+      "type": "Architecture",
+      "canonical_name": "Tiền tế Đền Bạch Mã",
+      "match": "new"
+    },
+    {
+      "key": "hau_cung",
+      "type": "Architecture",
+      "canonical_name": "Hậu cung Đền Bạch Mã",
+      "match": "new"
+    },
+    {
+      "key": "mai_vo_cua",
+      "type": "Architecture",
+      "canonical_name": "Hệ thống mái hình vỏ cua Đền Bạch Mã",
+      "aliases": ["Hệ mái hình mai cua Đền Bạch Mã"],
+      "match": "new"
+    },
+    {
+      "key": "gieng_co",
+      "type": "Architecture",
+      "canonical_name": "Giếng cổ phía sau Đền Bạch Mã",
+      "match": "new"
+    },
+    {
+      "key": "statue_long_do",
+      "type": "HeritageObject",
+      "canonical_name": "Tượng thần Long Đỗ thế kỷ XVII tại Đền Bạch Mã",
+      "match": "new"
+    },
+    {
+      "key": "stone_steles",
+      "type": "HeritageObject",
+      "canonical_name": "Bộ 18 bia đá cổ Đền Bạch Mã",
+      "aliases": ["18 bia đá cổ Đền Bạch Mã"],
+      "match": "new"
+    },
+    {
+      "key": "royal_decrees",
+      "type": "HeritageObject",
+      "canonical_name": "Bộ 17 đạo sắc phong thời Nguyễn tại Đền Bạch Mã",
+      "aliases": ["17 sắc phong triều Nguyễn tại Đền Bạch Mã"],
+      "match": "new"
+    },
+    {
+      "key": "white_horse_statue",
+      "type": "HeritageObject",
+      "canonical_name": "Tượng ngựa trắng bằng gỗ tại Đền Bạch Mã",
+      "aliases": ["Tượng Bạch Mã bằng gỗ"],
+      "match": "new"
+    },
+    {
+      "key": "long_do",
+      "type": "Person",
+      "canonical_name": "Thần Long Đỗ",
+      "aliases": ["Long Đỗ thần", "Thành hoàng Thăng Long", "Thần Bạch Mã"],
+      "match": "new"
+    },
+    {
+      "key": "cao_bien",
+      "type": "Person",
+      "canonical_name": "Cao Biền",
+      "match": "new"
+    },
+    {
+      "key": "ly_thai_to",
+      "type": "Person",
+      "canonical_name": "Lý Thái Tổ",
+      "match": "existing",
+      "existing_id": "PERSON_000001"
+    },
+    {
+      "key": "tang_dynasty",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Đường",
+      "aliases": ["Triều Đường"],
+      "match": "new"
+    },
+    {
+      "key": "time_866",
+      "type": "Time",
+      "canonical_name": "Năm 866",
+      "aliases": ["866"],
+      "match": "new"
+    },
+    {
+      "key": "time_1010",
+      "type": "Time",
+      "canonical_name": "Năm 1010",
+      "match": "existing",
+      "existing_id": "TIME_000002"
+    },
+    {
+      "key": "time_1687",
+      "type": "Time",
+      "canonical_name": "Năm Chính Hòa thứ 8 (1687)",
+      "aliases": ["Năm 1687", "Chính Hòa 8"],
+      "match": "new"
+    },
+    {
+      "key": "time_2019_2020",
+      "type": "Time",
+      "canonical_name": "Giai đoạn tháng 6 năm 2019 đến tháng 10 năm 2020",
+      "aliases": ["06/2019-10/2020", "Giai đoạn 2019-2020"],
+      "match": "new"
+    },
+    {
+      "key": "time_recognized_2022",
+      "type": "Time",
+      "canonical_name": "Ngày 18 tháng 1 năm 2022",
+      "match": "existing",
+      "existing_id": "TIME_000082"
+    },
+    {
+      "key": "festival_time",
+      "type": "Time",
+      "canonical_name": "Ngày 12 và 13 tháng Hai âm lịch hằng năm",
+      "aliases": ["12-13 tháng 2 âm lịch"],
+      "match": "new"
+    },
+    {
+      "key": "event_foundation_866",
+      "type": "Event",
+      "canonical_name": "Khởi dựng Đền Bạch Mã năm 866",
+      "match": "new"
+    },
+    {
+      "key": "event_rebuild_1010",
+      "type": "Event",
+      "canonical_name": "Xây dựng lại Đền Bạch Mã năm 1010",
+      "match": "new"
+    },
+    {
+      "key": "event_renovation_1687",
+      "type": "Event",
+      "canonical_name": "Tu bổ Đền Bạch Mã năm Chính Hòa thứ 8",
+      "match": "new"
+    },
+    {
+      "key": "event_renovation_2019",
+      "type": "Event",
+      "canonical_name": "Tu bổ tổng thể Đền Bạch Mã giai đoạn 2019-2020",
+      "match": "new"
+    },
+    {
+      "key": "festival",
+      "type": "Event",
+      "canonical_name": "Lễ hội truyền thống Đền Bạch Mã",
+      "aliases": ["Lễ hội Đền Bạch Mã", "Lễ hội Nghênh Xuân Đền Bạch Mã"],
+      "match": "new"
+    },
+    {
+      "key": "ubnd_hoan_kiem_district",
+      "type": "Organization",
+      "canonical_name": "Ủy ban nhân dân quận Hoàn Kiếm",
+      "aliases": ["UBND quận Hoàn Kiếm"],
+      "match": "new"
+    },
+    {
+      "key": "prime_minister",
+      "type": "Organization",
+      "canonical_name": "Thủ tướng Chính phủ Việt Nam",
+      "aliases": ["Thủ tướng Chính phủ"],
+      "match": "new"
+    },
+    {
+      "key": "national_special_status",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích quốc gia đặc biệt",
+      "match": "existing",
+      "existing_id": "HSTATUS_000003"
+    },
+    {
+      "key": "nguyen_style",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc thời Nguyễn",
+      "match": "existing",
+      "existing_id": "ASTYLE_000002"
+    },
+    {
+      "key": "tam_layout",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Bố cục chữ tam",
+      "match": "existing",
+      "existing_id": "ASTYLE_000010"
+    },
+    {
+      "key": "festival_activity",
+      "type": "Activity",
+      "canonical_name": "Dâng hương và rước kiệu tại lễ hội Đền Bạch Mã",
+      "aliases": ["Rước kiệu lễ hội Đền Bạch Mã", "Dâng hương lễ hội Đền Bạch Mã"],
+      "match": "new"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_vietnamplus_heritage",
+      "topic": "address",
+      "normalized_text": "Đền Bạch Mã hiện tọa lạc duy nhất tại số 76 phố Hàng Buồm, phường Hoàn Kiếm, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_location_category",
+      "source": "src_vietnamplus_heritage",
+      "topic": "location_and_category",
+      "normalized_text": "Đền Bạch Mã nằm trong khu phố cổ Hà Nội, là không gian văn hóa - tín ngưỡng và giữ vị trí trấn Đông trong hệ thống Thăng Long Tứ trấn.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_foundation_866",
+      "source": "src_sovhtt_values",
+      "topic": "foundation",
+      "normalized_text": "Tài liệu lịch sử được giới thiệu tại tọa đàm khoa học cho biết Đền Bạch Mã được khởi dựng dưới thời nhà Đường, khi Cao Biền xây La Thành vào năm 866.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_founder_cao_bien",
+      "source": "src_history_museum",
+      "topic": "foundation_legend",
+      "normalized_text": "Theo ghi chép và truyền thuyết được Bảo tàng Lịch sử Quốc gia giới thiệu, sau sự kiện trấn yểm không thành, Cao Biền đã lập đền thờ thần Long Đỗ tại khu vực thành Đại La.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_rebuild_1010",
+      "source": "src_sovhtt_values",
+      "topic": "reconstruction",
+      "normalized_text": "Sau khi Lý Công Uẩn dời đô từ Hoa Lư ra xây thành Thăng Long năm 1010, Đền Bạch Mã được xây dựng lại.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_architecture",
+      "source": "src_daibieunhandan",
+      "topic": "architecture",
+      "normalized_text": "Đợt tu bổ tổng thể Đền Bạch Mã gồm Nghi môn, Phương đình, Tiền tế và Hậu cung; kiến trúc hiện nay mang dấu ấn thế kỷ XIX thời Nguyễn, có bố cục chữ tam, phương đình tám mái và hệ mái hình vỏ cua liên kết các hạng mục.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_objects",
+      "source": "src_sovhtt_award",
+      "topic": "heritage_objects",
+      "normalized_text": "Đền Bạch Mã lưu giữ tượng thần Long Đỗ có niên đại thế kỷ XVII, 18 bia đá cổ, 17 đạo sắc phong thời Nguyễn và tượng ngựa trắng bằng gỗ tượng trưng cho thần Bạch Mã.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_ancient_well",
+      "source": "src_vietnamplus_heritage",
+      "topic": "architecture",
+      "normalized_text": "Phía sau Đền Bạch Mã có một giếng cổ, được giới thiệu là một trong số ít giếng cổ còn lại trong khu phố cổ Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_1687",
+      "source": "src_sovhtt_tutran",
+      "topic": "renovation",
+      "normalized_text": "Nhiều hiện vật mang phong cách nghệ thuật cuối thế kỷ XVII tại Đền Bạch Mã được cho là đã được bổ sung trong đợt tu bổ năm Chính Hòa thứ 8, tức năm 1687.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_2019",
+      "source": "src_daibieunhandan",
+      "topic": "renovation",
+      "normalized_text": "Ủy ban nhân dân quận Hoàn Kiếm quyết định đầu tư tu bổ, tôn tạo tổng thể Đền Bạch Mã từ tháng 6 năm 2019; công trình cơ bản hoàn thành vào dịp kỷ niệm 1010 năm Thăng Long - Hà Nội tháng 10 năm 2020.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognition_2022",
+      "source": "src_sovhtt_award",
+      "topic": "recognition",
+      "normalized_text": "Ngày 18 tháng 1 năm 2022, Thủ tướng Chính phủ ký Quyết định số 93/QĐ-TTg xếp hạng Di tích lịch sử và kiến trúc nghệ thuật Thăng Long Tứ trấn, trong đó có Đền Bạch Mã, là Di tích quốc gia đặc biệt.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_festival_time",
+      "source": "src_vietnamtourism_festival",
+      "topic": "festival",
+      "normalized_text": "Lễ hội Đền Bạch Mã diễn ra hằng năm vào ngày 12 và 13 tháng Hai âm lịch để tưởng nhớ công ơn của thần Long Đỗ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_festival_activity",
+      "source": "src_vietnamtourism_festival",
+      "topic": "activity",
+      "normalized_text": "Hoạt động của lễ hội Đền Bạch Mã có tế lễ, dâng hương, rước kiệu, múa rồng, tiến Xuân Ngưu và biểu diễn nghệ thuật dân tộc.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_long_do",
+      "source": "src_sovhtt_award",
+      "topic": "worship",
+      "normalized_text": "Đền Bạch Mã thờ thần Long Đỗ, vị thần được coi là Thành hoàng Thăng Long và trấn giữ phía Đông kinh thành.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "ward_hoan_kiem", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "old_quarter", "evidence": ["ev_location_category"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "east_thang_long", "evidence": ["ev_location_category"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_history", "evidence": ["ev_recognition_2022"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_spiritual", "evidence": ["ev_location_category"], "confidence": 0.95},
+
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "nghi_mon", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "phuong_dinh", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "tien_te", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "hau_cung", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "mai_vo_cua", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "gieng_co", "evidence": ["ev_ancient_well"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "statue_long_do", "evidence": ["ev_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "stone_steles", "evidence": ["ev_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "royal_decrees", "evidence": ["ev_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "white_horse_statue", "evidence": ["ev_objects"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "nguyen_style", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "tam_layout", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HONORS", "target": "long_do", "evidence": ["ev_long_do"], "confidence": 1.0},
+    {"source": "place", "relation": "ESTABLISHED_BY", "target": "cao_bien", "evidence": ["ev_founder_cao_bien"], "confidence": 0.9, "qualifiers": {"claim_kind": "historical_tradition"}},
+    {"source": "place", "relation": "ESTABLISHED_IN", "target": "time_866", "evidence": ["ev_foundation_866"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_DYNASTY", "target": "tang_dynasty", "evidence": ["ev_foundation_866"], "confidence": 1.0},
+    {"source": "place", "relation": "RENOVATED_BY", "target": "ly_thai_to", "evidence": ["ev_rebuild_1010"], "confidence": 0.95},
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_1010", "evidence": ["ev_rebuild_1010"], "confidence": 1.0},
+
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "national_special_status", "evidence": ["ev_recognition_2022"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_IN", "target": "time_recognized_2022", "evidence": ["ev_recognition_2022"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "prime_minister", "evidence": ["ev_recognition_2022"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_foundation_866", "evidence": ["ev_foundation_866"], "confidence": 1.0},
+    {"source": "event_foundation_866", "relation": "OCCURRED_IN", "target": "time_866", "evidence": ["ev_foundation_866"], "confidence": 1.0},
+    {"source": "event_foundation_866", "relation": "INVOLVED_PERSON", "target": "cao_bien", "evidence": ["ev_founder_cao_bien"], "confidence": 0.9, "qualifiers": {"claim_kind": "historical_tradition"}},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_rebuild_1010", "evidence": ["ev_rebuild_1010"], "confidence": 1.0},
+    {"source": "event_rebuild_1010", "relation": "OCCURRED_IN", "target": "time_1010", "evidence": ["ev_rebuild_1010"], "confidence": 1.0},
+    {"source": "event_rebuild_1010", "relation": "INVOLVED_PERSON", "target": "ly_thai_to", "evidence": ["ev_rebuild_1010"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_renovation_1687", "evidence": ["ev_renovation_1687"], "confidence": 0.9},
+    {"source": "event_renovation_1687", "relation": "OCCURRED_IN", "target": "time_1687", "evidence": ["ev_renovation_1687"], "confidence": 0.9},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_renovation_2019", "evidence": ["ev_renovation_2019"], "confidence": 1.0},
+    {"source": "event_renovation_2019", "relation": "OCCURRED_IN", "target": "time_2019_2020", "evidence": ["ev_renovation_2019"], "confidence": 1.0},
+    {"source": "place", "relation": "RENOVATED_BY", "target": "ubnd_hoan_kiem_district", "evidence": ["ev_renovation_2019"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "festival", "evidence": ["ev_festival_time", "ev_festival_activity"], "confidence": 1.0},
+    {"source": "festival", "relation": "OCCURRED_IN", "target": "festival_time", "evidence": ["ev_festival_time"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "festival_activity", "evidence": ["ev_festival_activity"], "confidence": 1.0}
+  ]
+}

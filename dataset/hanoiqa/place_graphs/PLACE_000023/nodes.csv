@@ -1,0 +1,39 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000025,Dâng hương và rước kiệu tại lễ hội Đền Bạch Mã,Activity,,Rước kiệu lễ hội Đền Bạch Mã|Dâng hương lễ hội Đền Bạch Mã,dang_huong_va_ruoc_kieu_tai_le_hoi_den_bach_ma,,,,approved
+ADDRESS_000022,"Số 76 phố Hàng Buồm, phường Hoàn Kiếm, thành phố Hà Nội",Address,,"76 Hàng Buồm, phường Hoàn Kiếm, Hà Nội",so_76_pho_hang_buom_phuong_hoan_kiem_thanh_pho_ha_noi,,,,approved
+ADMIN_000006,Phường Hoàn Kiếm,AdministrativeArea,ward,,phuong_hoan_kiem,,,,approved
+ARCH_000187,Nghi môn Đền Bạch Mã,Architecture,,,nghi_mon_den_bach_ma,,,,approved
+ARCH_000188,Phương đình tám mái Đền Bạch Mã,Architecture,,Phương đình 8 mái Đền Bạch Mã,phuong_dinh_tam_mai_den_bach_ma,,,,approved
+ARCH_000189,Tiền tế Đền Bạch Mã,Architecture,,,tien_te_den_bach_ma,,,,approved
+ARCH_000190,Hậu cung Đền Bạch Mã,Architecture,,,hau_cung_den_bach_ma,,,,approved
+ARCH_000191,Hệ thống mái hình vỏ cua Đền Bạch Mã,Architecture,,Hệ mái hình mai cua Đền Bạch Mã,he_thong_mai_hinh_vo_cua_den_bach_ma,,,,approved
+ARCH_000192,Giếng cổ phía sau Đền Bạch Mã,Architecture,,,gieng_co_phia_sau_den_bach_ma,,,,approved
+ASTYLE_000002,Kiến trúc thời Nguyễn,ArchitecturalStyle,,,kien_truc_thoi_nguyen,,,,approved
+ASTYLE_000010,Bố cục chữ tam,ArchitecturalStyle,,,bo_cuc_chu_tam,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+CATEGORY_000005,Điểm tham quan văn hóa - tín ngưỡng,TourismCategory,,Điểm du lịch văn hóa tâm linh|Công trình tín ngưỡng dân gian,diem_tham_quan_van_hoa_tin_nguong,,,,approved
+DYNASTY_000009,Nhà Đường,Dynasty,,Triều Đường,nha_duong,,,,approved
+EVENT_000041,Khởi dựng Đền Bạch Mã năm 866,Event,,,khoi_dung_den_bach_ma_nam_866,,,,approved
+EVENT_000042,Xây dựng lại Đền Bạch Mã năm 1010,Event,,,xay_dung_lai_den_bach_ma_nam_1010,,,,approved
+EVENT_000043,Tu bổ Đền Bạch Mã năm Chính Hòa thứ 8,Event,,,tu_bo_den_bach_ma_nam_chinh_hoa_thu_8,,,,approved
+EVENT_000044,Tu bổ tổng thể Đền Bạch Mã giai đoạn 2019-2020,Event,,,tu_bo_tong_the_den_bach_ma_giai_doan_2019_2020,,,,approved
+EVENT_000045,Lễ hội truyền thống Đền Bạch Mã,Event,,Lễ hội Đền Bạch Mã|Lễ hội Nghênh Xuân Đền Bạch Mã,le_hoi_truyen_thong_den_bach_ma,,,,approved
+HOBJ_000069,Tượng thần Long Đỗ thế kỷ XVII tại Đền Bạch Mã,HeritageObject,,,tuong_than_long_do_the_ky_xvii_tai_den_bach_ma,,,,approved
+HOBJ_000070,Bộ 18 bia đá cổ Đền Bạch Mã,HeritageObject,,18 bia đá cổ Đền Bạch Mã,bo_18_bia_da_co_den_bach_ma,,,,approved
+HOBJ_000071,Bộ 17 đạo sắc phong thời Nguyễn tại Đền Bạch Mã,HeritageObject,,17 sắc phong triều Nguyễn tại Đền Bạch Mã,bo_17_dao_sac_phong_thoi_nguyen_tai_den_bach_ma,,,,approved
+HOBJ_000072,Tượng ngựa trắng bằng gỗ tại Đền Bạch Mã,HeritageObject,,Tượng Bạch Mã bằng gỗ,tuong_ngua_trang_bang_go_tai_den_bach_ma,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+LOCATION_000022,Khu phố cổ Hà Nội,Location,,Phố cổ Hà Nội,khu_pho_co_ha_noi,,,,approved
+LOCATION_000023,Phía Đông kinh thành Thăng Long,Location,,Trấn Đông thành Thăng Long|Đông trấn Thăng Long,phia_dong_kinh_thanh_thang_long,,,,approved
+ORG_000011,Ủy ban nhân dân quận Hoàn Kiếm,Organization,,UBND quận Hoàn Kiếm,uy_ban_nhan_dan_quan_hoan_kiem,,,,approved
+ORG_000012,Thủ tướng Chính phủ Việt Nam,Organization,,Thủ tướng Chính phủ,thu_tuong_chinh_phu_viet_nam,,,,approved
+PERSON_000001,Lý Thái Tổ,Person,,Lý Công Uẩn,ly_thai_to,,,,approved
+PERSON_000050,Thần Long Đỗ,Person,,Long Đỗ thần|Thành hoàng Thăng Long|Thần Bạch Mã,than_long_do,,,,approved
+PERSON_000051,Cao Biền,Person,,,cao_bien,,,,approved
+PLACE_000023,Đền Bạch Mã,Place,,Bạch Mã từ|Đền Long Đỗ,den_bach_ma,,,,approved
+TIME_000002,Năm 1010,Time,,1010,nam_1010,,,,approved
+TIME_000082,Ngày 18 tháng 1 năm 2022,Time,,18/01/2022|2022-01-18,ngay_18_thang_1_nam_2022,,,,approved
+TIME_000094,Năm 866,Time,,866,nam_866,,,,approved
+TIME_000095,Năm Chính Hòa thứ 8 (1687),Time,,Năm 1687|Chính Hòa 8,nam_chinh_hoa_thu_8_1687,,,,approved
+TIME_000096,Giai đoạn tháng 6 năm 2019 đến tháng 10 năm 2020,Time,,06/2019-10/2020|Giai đoạn 2019-2020,giai_doan_thang_6_nam_2019_den_thang_10_nam_2020,,,,approved
+TIME_000097,Ngày 12 và 13 tháng Hai âm lịch hằng năm,Time,,12-13 tháng 2 âm lịch,ngay_12_va_13_thang_hai_am_lich_hang_nam,,,,approved

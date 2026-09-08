@@ -1,0 +1,42 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000026,Rước kiệu tại lễ hội Đền Voi Phục,Activity,,Rước Đức Thánh Linh Lang,ruoc_kieu_tai_le_hoi_den_voi_phuc,,,,approved
+ACTIVITY_000027,Trò chơi dân gian tại lễ hội Đền Voi Phục,Activity,,,tro_choi_dan_gian_tai_le_hoi_den_voi_phuc,,,,approved
+ACTIVITY_000028,Hát quan họ tại lễ hội Đền Voi Phục,Activity,,,hat_quan_ho_tai_le_hoi_den_voi_phuc,,,,approved
+ACTIVITY_000029,Ca múa nhạc chào mừng tại lễ hội Đền Voi Phục,Activity,,,ca_mua_nhac_chao_mung_tai_le_hoi_den_voi_phuc,,,,approved
+ADDRESS_000023,"Số 306B phố Kim Mã, phường Giảng Võ, thành phố Hà Nội",Address,,"306B Kim Mã, Giảng Võ, Hà Nội|306B Kim Mã, Ngọc Khánh, Ba Đình, Hà Nội",so_306b_pho_kim_ma_phuong_giang_vo_thanh_pho_ha_noi,,,,approved
+ADMIN_000009,Phường Giảng Võ,AdministrativeArea,,,phuong_giang_vo,,,,approved
+ARCH_000193,Nghi môn tứ trụ Đền Voi Phục,Architecture,,,nghi_mon_tu_tru_den_voi_phuc,,,,approved
+ARCH_000194,Ba lối lên sân Đền Voi Phục,Architecture,,,ba_loi_len_san_den_voi_phuc,,,,approved
+ARCH_000195,Giếng vuông phía trước lối giữa Đền Voi Phục,Architecture,,Giếng vuông tụ thủy tụ phúc,gieng_vuong_phia_truoc_loi_giua_den_voi_phuc,,,,approved
+ARCH_000196,Đền chính Đền Voi Phục,Architecture,,,den_chinh_den_voi_phuc,,,,approved
+ARCH_000197,Tiền tế năm gian Đền Voi Phục,Architecture,,,tien_te_nam_gian_den_voi_phuc,,,,approved
+ARCH_000198,Trung đường Đền Voi Phục,Architecture,,,trung_duong_den_voi_phuc,,,,approved
+ARCH_000199,Hậu cung năm gian Đền Voi Phục,Architecture,,,hau_cung_nam_gian_den_voi_phuc,,,,approved
+ASTYLE_000011,Bố cục chữ Công,ArchitecturalStyle,,Kiến trúc chữ Công,bo_cuc_chu_cong,,,,approved
+ASTYLE_000012,Kết cấu vì chồng rường,ArchitecturalStyle,,Vì chồng rường,ket_cau_vi_chong_ruong,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+CATEGORY_000005,Điểm tham quan văn hóa - tín ngưỡng,TourismCategory,,Điểm du lịch văn hóa tâm linh|Công trình tín ngưỡng dân gian,diem_tham_quan_van_hoa_tin_nguong,,,,approved
+DYNASTY_000001,Nhà Lý,Dynasty,,Triều Lý,nha_ly,,,,approved
+EVENT_000046,Lập Đền Voi Phục năm 1065,Event,,Khởi dựng Đền Voi Phục năm 1065,lap_den_voi_phuc_nam_1065,,,,approved
+EVENT_000047,Lễ hội tưởng niệm Ngày hóa Đức Thánh Linh Lang Đại Vương,Event,,Lễ hội Đền Voi Phục|Lễ hội Ngày hóa Đức Thánh Linh Lang,le_hoi_tuong_niem_ngay_hoa_duc_thanh_linh_lang_dai_vuong,,,,approved
+HOBJ_000073,Bia hạ mã Đền Voi Phục,HeritageObject,,,bia_ha_ma_den_voi_phuc,,,,approved
+HOBJ_000074,Đôi voi chầu phục tại Đền Voi Phục,HeritageObject,,Hai tượng voi quỳ phục|Đôi voi phục,doi_voi_chau_phuc_tai_den_voi_phuc,,,,approved
+HOBJ_000075,Đôi rồng mây chạm tròn bằng đá tại Đền Voi Phục,HeritageObject,,Đôi rồng mây đá,doi_rong_may_cham_tron_bang_da_tai_den_voi_phuc,,,,approved
+HOBJ_000076,Ngai lớn chạm rồng và hoa lá tại Đền Voi Phục,HeritageObject,,,ngai_lon_cham_rong_va_hoa_la_tai_den_voi_phuc,,,,approved
+HOBJ_000077,Tượng hai vị tùy tướng quỳ chầu tại Đền Voi Phục,HeritageObject,,,tuong_hai_vi_tuy_tuong_quy_chau_tai_den_voi_phuc,,,,approved
+HOBJ_000078,Tượng Đức Linh Lang Đại Vương tại hậu cung Đền Voi Phục,HeritageObject,,Pho tượng Linh Lang Đại Vương,tuong_duc_linh_lang_dai_vuong_tai_hau_cung_den_voi_phuc,,,,approved
+HOBJ_000079,Hòn đá có vết lõm tại hậu cung Đền Voi Phục,HeritageObject,,Hòn đá tương truyền là gối của thần Linh Lang,hon_da_co_vet_lom_tai_hau_cung_den_voi_phuc,,,,approved
+HOBJ_000080,Tượng hai vị phụ tá đứng chầu tại Đền Voi Phục,HeritageObject,,,tuong_hai_vi_phu_ta_dung_chau_tai_den_voi_phuc,,,,approved
+HOBJ_000081,Nhóm đồ thờ sơn son thếp vàng tại Đền Voi Phục,HeritageObject,,"Hoành phi, câu đối, nhang án, long ngai, cửa võng bát bửu và đồ tế khí",nhom_do_tho_son_son_thep_vang_tai_den_voi_phuc,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+LOCATION_000024,Khu vực Thủ Lệ,Location,,Làng Thủ Lệ|Trại Thủ Lệ,khu_vuc_thu_le,,,,approved
+LOCATION_000025,Gò Long Thủ,Location,,Gò đầu rồng,go_long_thu,,,,approved
+LOCATION_000026,Phía Tây kinh thành Thăng Long,Location,,Trấn Tây thành Thăng Long|Tây trấn Thăng Long,phia_tay_kinh_thanh_thang_long,,,,approved
+ORG_000012,Thủ tướng Chính phủ Việt Nam,Organization,,Thủ tướng Chính phủ,thu_tuong_chinh_phu_viet_nam,,,,approved
+PERSON_000008,Lý Thánh Tông,Person,,Vua Lý Thánh Tông,ly_thanh_tong,,,,approved
+PERSON_000052,Linh Lang Đại Vương,Person,,Đức Thánh Linh Lang|Thần Linh Lang|Linh Lang Đại vương thượng đẳng phúc thần,linh_lang_dai_vuong,,,,approved
+PLACE_000024,Đền Voi Phục,Place,,Đền Thủ Lệ|Đền Linh Lang|Linh Lang từ|Tây trấn Thăng Long,den_voi_phuc,,,,approved
+TIME_000082,Ngày 18 tháng 1 năm 2022,Time,,18/01/2022|2022-01-18,ngay_18_thang_1_nam_2022,,,,approved
+TIME_000098,Năm Chương Thánh Gia Khánh thứ 7 (1065),Time,,Năm 1065|1065,nam_chuong_thanh_gia_khanh_thu_7_1065,,,,approved
+TIME_000099,Ngày 10 tháng Hai âm lịch hằng năm,Time,,Mùng 10 tháng 2 âm lịch|Ngày 10/2 âm lịch,ngay_10_thang_hai_am_lich_hang_nam,,,,approved
+VALUE_000062,12 bậc đá,Value,,,12_bac_da,12,bậc,step_count,approved

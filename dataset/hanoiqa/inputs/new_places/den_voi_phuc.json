@@ -1,0 +1,476 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_hanoi_tutran",
+      "title": "Thăng Long tứ trấn - Dấu ấn lịch sử ngàn năm",
+      "url": "https://hanoi.gov.vn/van-hien-thang-long/thang-long-tu-tran-dau-an-lich-su-ngan-nam-42733112.htm",
+      "source_type": "government_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_architecture",
+      "title": "Thăng Long tứ trấn được xếp hạng Di tích quốc gia đặc biệt",
+      "url": "https://sovhtt.hanoi.gov.vn/thang-long-tu-tran-duoc-xep-hang-di-tich-quoc-gia-dac-biet/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_festival",
+      "title": "Quận Ba Đình tổ chức lễ hội Ngày hóa của Đức Thánh Linh Lang Đại Vương",
+      "url": "https://sovhtt.hanoi.gov.vn/quan-ba-dinh-to-chuc-le-hoi-ngay-hoa-cua-duc-thanh-linh-lang-dai-vuong/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_history_museum",
+      "title": "Thăng Long tứ trấn: Đền Linh Lang",
+      "url": "https://baotanglichsu.vn/VI/Articles/3096/11352/thang-long-tu-tran-djen-linh-lang.html",
+      "source_type": "national_history_museum",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vietnam_airlines_address",
+      "title": "Khám phá đền Voi Phục - Vị thần hộ mệnh phía Tây của Thăng Long",
+      "url": "https://www.vietnamairlines.com/kh/vi/plan-book/travel/travel-guide/voi-phuc-temple",
+      "source_type": "state_airline_travel_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_giangvo_current",
+      "title": "Phường Giảng Võ tổ chức điểm trông giữ xe miễn phí phục vụ nhân dân và du khách tại Đền Voi Phục",
+      "url": "https://giangvo.hanoi.gov.vn/thong-tin-cong-khai/to-chuc-diem-trong-giu-xe-mien-phi-phuc-vu-nhan-dan-va-du-khach-thap-phuong-tai-di-tich-den-voi-phuc-dip-tet-nguyen-dan-2808260216100853279.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_dsvh_decision",
+      "title": "Quyết định xếp hạng di tích quốc gia đặc biệt (đợt 12)",
+      "url": "https://dsvh.gov.vn/quyet-dinh-xep-hang-di-tich-quoc-gia-dac-biet-dot-12-3450",
+      "source_type": "official_heritage_authority",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Đền Voi Phục",
+      "aliases": ["Đền Thủ Lệ", "Đền Linh Lang", "Linh Lang từ", "Tây trấn Thăng Long"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 306B phố Kim Mã, phường Giảng Võ, thành phố Hà Nội",
+      "aliases": ["306B Kim Mã, Giảng Võ, Hà Nội", "306B Kim Mã, Ngọc Khánh, Ba Đình, Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "ward_giang_vo",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Giảng Võ",
+      "match": "new"
+    },
+    {
+      "key": "thu_le",
+      "type": "Location",
+      "canonical_name": "Khu vực Thủ Lệ",
+      "aliases": ["Làng Thủ Lệ", "Trại Thủ Lệ"],
+      "match": "new"
+    },
+    {
+      "key": "long_thu_hill",
+      "type": "Location",
+      "canonical_name": "Gò Long Thủ",
+      "aliases": ["Gò đầu rồng"],
+      "match": "new"
+    },
+    {
+      "key": "west_thang_long",
+      "type": "Location",
+      "canonical_name": "Phía Tây kinh thành Thăng Long",
+      "aliases": ["Trấn Tây thành Thăng Long", "Tây trấn Thăng Long"],
+      "match": "new"
+    },
+    {
+      "key": "category_history",
+      "type": "TourismCategory",
+      "canonical_name": "Di tích lịch sử",
+      "match": "existing",
+      "existing_id": "CATEGORY_000001"
+    },
+    {
+      "key": "category_belief",
+      "type": "TourismCategory",
+      "canonical_name": "Điểm tham quan văn hóa - tín ngưỡng",
+      "aliases": ["Điểm tham quan văn hóa và tín ngưỡng", "Đền thờ truyền thống"],
+      "match": "existing",
+      "existing_id": "CATEGORY_000005"
+    },
+    {
+      "key": "nghi_mon",
+      "type": "Architecture",
+      "canonical_name": "Nghi môn tứ trụ Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "ha_ma_stele",
+      "type": "HeritageObject",
+      "canonical_name": "Bia hạ mã Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "kneeling_elephants",
+      "type": "HeritageObject",
+      "canonical_name": "Đôi voi chầu phục tại Đền Voi Phục",
+      "aliases": ["Hai tượng voi quỳ phục", "Đôi voi phục"],
+      "match": "new"
+    },
+    {
+      "key": "three_paths",
+      "type": "Architecture",
+      "canonical_name": "Ba lối lên sân Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "value_twelve_steps",
+      "type": "Value",
+      "canonical_name": "12 bậc đá",
+      "numeric_value": 12,
+      "unit": "bậc",
+      "value_kind": "step_count",
+      "match": "new"
+    },
+    {
+      "key": "square_well",
+      "type": "Architecture",
+      "canonical_name": "Giếng vuông phía trước lối giữa Đền Voi Phục",
+      "aliases": ["Giếng vuông tụ thủy tụ phúc"],
+      "match": "new"
+    },
+    {
+      "key": "stone_dragons",
+      "type": "HeritageObject",
+      "canonical_name": "Đôi rồng mây chạm tròn bằng đá tại Đền Voi Phục",
+      "aliases": ["Đôi rồng mây đá"],
+      "match": "new"
+    },
+    {
+      "key": "main_temple",
+      "type": "Architecture",
+      "canonical_name": "Đền chính Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "tien_te",
+      "type": "Architecture",
+      "canonical_name": "Tiền tế năm gian Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "trung_duong",
+      "type": "Architecture",
+      "canonical_name": "Trung đường Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "hau_cung",
+      "type": "Architecture",
+      "canonical_name": "Hậu cung năm gian Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "large_throne",
+      "type": "HeritageObject",
+      "canonical_name": "Ngai lớn chạm rồng và hoa lá tại Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "kneeling_attendants",
+      "type": "HeritageObject",
+      "canonical_name": "Tượng hai vị tùy tướng quỳ chầu tại Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "linh_lang_statue",
+      "type": "HeritageObject",
+      "canonical_name": "Tượng Đức Linh Lang Đại Vương tại hậu cung Đền Voi Phục",
+      "aliases": ["Pho tượng Linh Lang Đại Vương"],
+      "match": "new"
+    },
+    {
+      "key": "sacred_stone",
+      "type": "HeritageObject",
+      "canonical_name": "Hòn đá có vết lõm tại hậu cung Đền Voi Phục",
+      "aliases": ["Hòn đá tương truyền là gối của thần Linh Lang"],
+      "match": "new"
+    },
+    {
+      "key": "standing_assistants",
+      "type": "HeritageObject",
+      "canonical_name": "Tượng hai vị phụ tá đứng chầu tại Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "worship_objects",
+      "type": "HeritageObject",
+      "canonical_name": "Nhóm đồ thờ sơn son thếp vàng tại Đền Voi Phục",
+      "aliases": ["Hoành phi, câu đối, nhang án, long ngai, cửa võng bát bửu và đồ tế khí"],
+      "match": "new"
+    },
+    {
+      "key": "linh_lang",
+      "type": "Person",
+      "canonical_name": "Linh Lang Đại Vương",
+      "aliases": ["Đức Thánh Linh Lang", "Thần Linh Lang", "Linh Lang Đại vương thượng đẳng phúc thần"],
+      "match": "new"
+    },
+    {
+      "key": "ly_thanh_tong",
+      "type": "Person",
+      "canonical_name": "Lý Thánh Tông",
+      "match": "existing",
+      "existing_id": "PERSON_000008"
+    },
+    {
+      "key": "ly_dynasty",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Lý",
+      "match": "existing",
+      "existing_id": "DYNASTY_000001"
+    },
+    {
+      "key": "time_1065",
+      "type": "Time",
+      "canonical_name": "Năm Chương Thánh Gia Khánh thứ 7 (1065)",
+      "aliases": ["Năm 1065", "1065"],
+      "match": "new"
+    },
+    {
+      "key": "time_recognized_2022",
+      "type": "Time",
+      "canonical_name": "Ngày 18 tháng 1 năm 2022",
+      "match": "existing",
+      "existing_id": "TIME_000082"
+    },
+    {
+      "key": "festival_time",
+      "type": "Time",
+      "canonical_name": "Ngày 10 tháng Hai âm lịch hằng năm",
+      "aliases": ["Mùng 10 tháng 2 âm lịch", "Ngày 10/2 âm lịch"],
+      "match": "new"
+    },
+    {
+      "key": "foundation_event",
+      "type": "Event",
+      "canonical_name": "Lập Đền Voi Phục năm 1065",
+      "aliases": ["Khởi dựng Đền Voi Phục năm 1065"],
+      "match": "new"
+    },
+    {
+      "key": "festival_event",
+      "type": "Event",
+      "canonical_name": "Lễ hội tưởng niệm Ngày hóa Đức Thánh Linh Lang Đại Vương",
+      "aliases": ["Lễ hội Đền Voi Phục", "Lễ hội Ngày hóa Đức Thánh Linh Lang"],
+      "match": "new"
+    },
+    {
+      "key": "national_special_status",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích quốc gia đặc biệt",
+      "match": "existing",
+      "existing_id": "HSTATUS_000003"
+    },
+    {
+      "key": "prime_minister",
+      "type": "Organization",
+      "canonical_name": "Thủ tướng Chính phủ Việt Nam",
+      "aliases": ["Thủ tướng Chính phủ"],
+      "match": "existing",
+      "existing_id": "ORG_000012"
+    },
+    {
+      "key": "procession_activity",
+      "type": "Activity",
+      "canonical_name": "Rước kiệu tại lễ hội Đền Voi Phục",
+      "aliases": ["Rước Đức Thánh Linh Lang"],
+      "match": "new"
+    },
+    {
+      "key": "folk_games",
+      "type": "Activity",
+      "canonical_name": "Trò chơi dân gian tại lễ hội Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "quan_ho",
+      "type": "Activity",
+      "canonical_name": "Hát quan họ tại lễ hội Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "music_dance",
+      "type": "Activity",
+      "canonical_name": "Ca múa nhạc chào mừng tại lễ hội Đền Voi Phục",
+      "match": "new"
+    },
+    {
+      "key": "cong_layout",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Bố cục chữ Công",
+      "aliases": ["Kiến trúc chữ Công"],
+      "match": "new"
+    },
+    {
+      "key": "chong_ruong_style",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kết cấu vì chồng rường",
+      "aliases": ["Vì chồng rường"],
+      "match": "new"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_street_address",
+      "source": "src_vietnam_airlines_address",
+      "topic": "address",
+      "normalized_text": "Nguồn du lịch của Vietnam Airlines ghi Đền Voi Phục tại số 306B phố Kim Mã; đây là địa chỉ đường phố chi tiết duy nhất được dùng cho địa danh trong bộ dữ liệu.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_current_ward",
+      "source": "src_giangvo_current",
+      "topic": "current_administrative_area",
+      "normalized_text": "Cổng thông tin chính quyền phường Giảng Võ xác nhận Di tích Đền Voi Phục hiện thuộc địa bàn phường Giảng Võ, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_names_location",
+      "source": "src_history_museum",
+      "topic": "names_and_location",
+      "normalized_text": "Bảo tàng Lịch sử Quốc gia giới thiệu Đền Voi Phục còn gọi là Đền Linh Lang, nằm tại khu vực Công viên Thủ Lệ và là ngôi đền trấn giữ phía Tây kinh thành Thăng Long.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_foundation",
+      "source": "src_hanoi_tutran",
+      "topic": "foundation",
+      "normalized_text": "Cổng thông tin thành phố Hà Nội cho biết Đền Voi Phục, còn gọi Đền Thủ Lệ hoặc Đền Linh Lang, được xây dựng năm Chương Thánh Gia Khánh thứ 7 (1065), đời vua Lý Thánh Tông.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_worship",
+      "source": "src_sovhtt_festival",
+      "topic": "worship_and_category",
+      "normalized_text": "Đền Voi Phục là cơ sở tín ngưỡng thuộc Thăng Long tứ trấn, được vua Lý Thánh Tông cho xây trên gò Long Thủ để thờ Đức Thánh Linh Lang Đại Vương, người được tưởng niệm vì công đánh giặc và bảo vệ đất nước.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_entrance_architecture",
+      "source": "src_sovhtt_architecture",
+      "topic": "entrance_architecture",
+      "normalized_text": "Nghi môn Đền Voi Phục có dạng tứ trụ; hai bên có bia hạ mã và đôi voi chầu phục. Đường lên sân gồm ba lối, trong đó lối giữa có 12 bậc đá rộng và dành để rước kiệu trong ngày lễ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_well_dragons",
+      "source": "src_sovhtt_architecture",
+      "topic": "well_and_stone_carving",
+      "normalized_text": "Phía trước lối đi giữa có giếng vuông xưa dùng lấy nước cúng; gần đó là đôi rồng mây chạm tròn bằng đá có niên đại khoảng giữa thế kỷ XIX.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_main_architecture",
+      "source": "src_sovhtt_architecture",
+      "topic": "main_architecture",
+      "normalized_text": "Đền chính có dạng chữ Công; tiền tế gồm năm gian, kết cấu vì chồng rường và lợp ngói mũi hài cổ; trung đường là một gian chạy dọc nối vào hậu cung năm gian.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_interior_objects",
+      "source": "src_sovhtt_architecture",
+      "topic": "interior_objects",
+      "normalized_text": "Trong đền có ngai lớn chạm rồng và hoa lá, tượng hai vị tùy tướng quỳ chầu, tượng Đức Linh Lang Đại Vương, hòn đá có vết lõm đặt trong hộp kính, tượng hai vị phụ tá đứng chầu cùng nhóm hoành phi, câu đối, nhang án, long ngai, cửa võng bát bửu và đồ tế khí sơn son thếp vàng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_festival_time",
+      "source": "src_sovhtt_festival",
+      "topic": "festival_time",
+      "normalized_text": "Hằng năm vào ngày 10 tháng Hai âm lịch, người dân tổ chức lễ hội truyền thống kỷ niệm Ngày hóa Đức Thánh Linh Lang Đại Vương tại Đền Voi Phục.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_festival_activities",
+      "source": "src_sovhtt_festival",
+      "topic": "festival_activities",
+      "normalized_text": "Lễ hội Đền Voi Phục có rước kiệu; phần hội tổ chức trò chơi dân gian, hát quan họ và ca múa nhạc chào mừng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognition",
+      "source": "src_dsvh_decision",
+      "topic": "recognition",
+      "normalized_text": "Ngày 18 tháng 1 năm 2022, Thủ tướng Chính phủ ký Quyết định số 93/QĐ-TTg xếp hạng Di tích lịch sử và kiến trúc nghệ thuật Thăng Long tứ trấn, gồm Đền Voi Phục, là Di tích quốc gia đặc biệt.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_street_address", "ev_current_ward"], "confidence": 0.98},
+    {"source": "place", "relation": "LOCATED_IN", "target": "ward_giang_vo", "evidence": ["ev_current_ward"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "thu_le", "evidence": ["ev_names_location", "ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "long_thu_hill", "evidence": ["ev_worship"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "west_thang_long", "evidence": ["ev_names_location"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_history", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_belief", "evidence": ["ev_worship"], "confidence": 0.98},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "nghi_mon", "evidence": ["ev_entrance_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "three_paths", "evidence": ["ev_entrance_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "square_well", "evidence": ["ev_well_dragons"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "stone_dragons", "evidence": ["ev_well_dragons"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "main_temple", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "large_throne", "evidence": ["ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "kneeling_attendants", "evidence": ["ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "linh_lang_statue", "evidence": ["ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "sacred_stone", "evidence": ["ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "standing_assistants", "evidence": ["ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "worship_objects", "evidence": ["ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HONORS", "target": "linh_lang", "evidence": ["ev_worship", "ev_names_location"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "linh_lang", "evidence": ["ev_worship"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "ly_thanh_tong", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_DYNASTY", "target": "ly_dynasty", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_IN", "target": "time_1065", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_BY", "target": "ly_thanh_tong", "evidence": ["ev_foundation", "ev_worship"], "confidence": 0.98},
+    {"source": "place", "relation": "HAS_EVENT", "target": "foundation_event", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "festival_event", "evidence": ["ev_festival_time"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "national_special_status", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_IN", "target": "time_recognized_2022", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "prime_minister", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "procession_activity", "evidence": ["ev_festival_activities", "ev_entrance_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "folk_games", "evidence": ["ev_festival_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "quan_ho", "evidence": ["ev_festival_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "music_dance", "evidence": ["ev_festival_activities"], "confidence": 1.0},
+    {"source": "festival_event", "relation": "OCCURRED_IN", "target": "festival_time", "evidence": ["ev_festival_time"], "confidence": 1.0},
+    {"source": "festival_event", "relation": "INVOLVED_PERSON", "target": "linh_lang", "evidence": ["ev_festival_time"], "confidence": 1.0},
+    {"source": "foundation_event", "relation": "OCCURRED_IN", "target": "time_1065", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "foundation_event", "relation": "INVOLVED_PERSON", "target": "ly_thanh_tong", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "main_temple", "relation": "HAS_COMPONENT", "target": "tien_te", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "main_temple", "relation": "HAS_COMPONENT", "target": "trung_duong", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "main_temple", "relation": "HAS_COMPONENT", "target": "hau_cung", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "nghi_mon", "relation": "HAS_COMPONENT", "target": "kneeling_elephants", "evidence": ["ev_entrance_architecture"], "confidence": 1.0},
+    {"source": "nghi_mon", "relation": "HAS_COMPONENT", "target": "ha_ma_stele", "evidence": ["ev_entrance_architecture"], "confidence": 1.0},
+    {"source": "three_paths", "relation": "HAS_MEASUREMENT", "target": "value_twelve_steps", "evidence": ["ev_entrance_architecture"], "confidence": 1.0, "qualifiers": {"measurement_kind": "số bậc đá của lối giữa"}},
+    {"source": "main_temple", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "cong_layout", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "tien_te", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "chong_ruong_style", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "three_paths", "relation": "USED_FOR", "target": "procession_activity", "evidence": ["ev_entrance_architecture"], "confidence": 1.0}
+  ]
+}

@@ -1,0 +1,48 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000030,Rước kiệu tại lễ hội Đền Kim Liên,Activity,,,ruoc_kieu_tai_le_hoi_den_kim_lien,,,,approved
+ACTIVITY_000031,Tế lễ tại Đền Kim Liên,Activity,,Nghi lễ tế thần Cao Sơn,te_le_tai_den_kim_lien,,,,approved
+ACTIVITY_000032,Dâng hương tưởng niệm Đức thần Cao Sơn,Activity,,,dang_huong_tuong_niem_duc_than_cao_son,,,,approved
+ADDRESS_000024,"Số 148 phố Kim Hoa, phường Văn Miếu - Quốc Tử Giám, thành phố Hà Nội",Address,,"148 Kim Hoa, phường Văn Miếu - Quốc Tử Giám, Hà Nội|148 phố Kim Hoa, phường Phương Liên, quận Đống Đa, Hà Nội",so_148_pho_kim_hoa_phuong_van_mieu_quoc_tu_giam_thanh_pho_ha_noi,,,,approved
+ADMIN_000003,Phường Văn Miếu - Quốc Tử Giám,AdministrativeArea,ward,Phường Văn Miếu – Quốc Tử Giám,phuong_van_mieu_quoc_tu_giam,,,,approved
+ARCH_000200,Nghi môn Ngoại Đền Kim Liên,Architecture,,,nghi_mon_ngoai_den_kim_lien,,,,approved
+ARCH_000201,Hai dãy Tả vu - Hữu vu Đền Kim Liên,Architecture,,Tả vu và Hữu vu Đền Kim Liên,hai_day_ta_vu_huu_vu_den_kim_lien,,,,approved
+ARCH_000202,Sân Đền Kim Liên,Architecture,,,san_den_kim_lien,,,,approved
+ARCH_000203,Hồ bán nguyệt Đền Kim Liên,Architecture,,,ho_ban_nguyet_den_kim_lien,,,,approved
+ARCH_000204,Giếng ngọc Đền Kim Liên,Architecture,,,gieng_ngoc_den_kim_lien,,,,approved
+ARCH_000205,Nghi môn Nội Đền Kim Liên,Architecture,,,nghi_mon_noi_den_kim_lien,,,,approved
+ARCH_000206,Đại bái Đền Kim Liên,Architecture,,Nhà Đại bái năm gian Đền Kim Liên,dai_bai_den_kim_lien,,,,approved
+ARCH_000207,Hậu cung Đền Kim Liên,Architecture,,Cung cấm Đền Kim Liên|Hậu cung ba gian dọc,hau_cung_den_kim_lien,,,,approved
+ARCH_000208,Nhà Mẫu Đền Kim Liên,Architecture,,,nha_mau_den_kim_lien,,,,approved
+ARCH_000209,Khu bia thần tích Đền Kim Liên,Architecture,,,khu_bia_than_tich_den_kim_lien,,,,approved
+ARCH_000210,Chín bậc gạch nối hai khu kiến trúc Đền Kim Liên,Architecture,,Chín bậc gạch lên khu kiến trúc cổ,chin_bac_gach_noi_hai_khu_kien_truc_den_kim_lien,,,,approved
+ASTYLE_000002,Kiến trúc thời Nguyễn,ArchitecturalStyle,,,kien_truc_thoi_nguyen,,,,approved
+ASTYLE_000006,Kiến trúc truyền thống Việt Nam,ArchitecturalStyle,,,kien_truc_truyen_thong_viet_nam,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+CATEGORY_000005,Điểm tham quan văn hóa - tín ngưỡng,TourismCategory,,Điểm du lịch văn hóa tâm linh|Công trình tín ngưỡng dân gian,diem_tham_quan_van_hoa_tin_nguong,,,,approved
+DYNASTY_000003,Nhà Lê sơ,Dynasty,,Triều Lê sơ|Nhà Hậu Lê,nha_le_so,,,,approved
+EVENT_000048,Xây dựng lại Đền Kim Liên năm 1509,Event,,Tôn tạo Đền Kim Liên dưới thời Lê Tương Dực,xay_dung_lai_den_kim_lien_nam_1509,,,,approved
+EVENT_000049,Soạn bia Cao Sơn Đại Vương năm 1510,Event,,Sự kiện soạn bia Đền Kim Liên năm Hồng Thuận thứ 3,soan_bia_cao_son_dai_vuong_nam_1510,,,,approved
+EVENT_000050,Tu bổ Đền Kim Liên giai đoạn 2008-2010,Event,,Tôn tạo Đền Kim Liên dịp 1000 năm Thăng Long - Hà Nội,tu_bo_den_kim_lien_giai_doan_2008_2010,,,,approved
+EVENT_000051,Lễ hội truyền thống Đền Kim Liên,Event,,Lễ hội ngày sinh Đức thần Cao Sơn,le_hoi_truyen_thong_den_kim_lien,,,,approved
+EVENT_000052,Lễ tế ngày hóa Đức thần Cao Sơn tại Đền Kim Liên,Event,,,le_te_ngay_hoa_duc_than_cao_son_tai_den_kim_lien,,,,approved
+HOBJ_000082,Bia Cao Sơn Đại Vương thần từ bi minh tịnh tự,HeritageObject,,Bia thần tích Cao Sơn Đại Vương|Bia đá Đền Kim Liên năm 1510,bia_cao_son_dai_vuong_than_tu_bi_minh_tinh_tu,,,,approved
+HOBJ_000083,Hệ thống 33 đạo sắc phong tại Đền Kim Liên,HeritageObject,,33 sắc phong Đền Kim Liên|Bộ sưu tập sắc phong thần Cao Sơn,he_thong_33_dao_sac_phong_tai_den_kim_lien,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+LOCATION_000027,Phía Nam kinh thành Thăng Long,Location,,Trấn Nam thành Thăng Long|Nam trấn Thăng Long,phia_nam_kinh_thanh_thang_long,,,,approved
+LOCATION_000028,Gò đất cao phía Đông đầm Kim Liên,Location,,Gò đất xây Đền Kim Liên,go_dat_cao_phia_dong_dam_kim_lien,,,,approved
+MATERIAL_000004,Gạch vồ,Material,,,gach_vo,,,,approved
+ORG_000012,Thủ tướng Chính phủ Việt Nam,Organization,,Thủ tướng Chính phủ,thu_tuong_chinh_phu_viet_nam,,,,approved
+PERSON_000053,Cao Sơn Đại Vương,Person,,Thần Cao Sơn|Đức thần Cao Sơn,cao_son_dai_vuong,,,,approved
+PERSON_000054,Lê Tương Dực,Person,,Vua Lê Tương Dực,le_tuong_duc,,,,approved
+PERSON_000055,Lê Tung,Person,,Sử thần Lê Tung,le_tung,,,,approved
+PERSON_000056,Thủy Tinh công chúa,Person,,Thủy Tinh phu nhân|Tôn nữ Đông Hồ Trưng Vương,thuy_tinh_cong_chua,,,,approved
+PERSON_000057,Huệ Minh phu nhân,Person,,Huệ Minh hựu dưu phu nhân,hue_minh_phu_nhan,,,,approved
+PLACE_000025,Đền Kim Liên,Place,,Đình Kim Liên|Đền Cao Sơn|Cao Sơn Đại Vương thần từ|Trấn Nam Thăng Long,den_kim_lien,,,,approved
+ROLE_000004,Trung tâm sinh hoạt cộng đồng của làng Kim Liên,Role,,,trung_tam_sinh_hoat_cong_dong_cua_lang_kim_lien,,,,approved
+TIME_000082,Ngày 18 tháng 1 năm 2022,Time,,18/01/2022|2022-01-18,ngay_18_thang_1_nam_2022,,,,approved
+TIME_000100,Năm 1509,Time,,1509,nam_1509,,,,approved
+TIME_000101,"Năm Canh Ngọ, Hồng Thuận thứ 3 (1510)",Time,,Năm 1510|Hồng Thuận 3,nam_canh_ngo_hong_thuan_thu_3_1510,,,,approved
+TIME_000102,Giai đoạn 2008-2010,Time,,Từ năm 2008 đến năm 2010|2008–2010,giai_doan_2008_2010,,,,approved
+TIME_000103,Ngày 16 tháng Ba âm lịch hằng năm,Time,,16/3 âm lịch|Ngày sinh Đức thần Cao Sơn,ngay_16_thang_ba_am_lich_hang_nam,,,,approved
+TIME_000104,Ngày 12 tháng Tám âm lịch hằng năm,Time,,12/8 âm lịch|Ngày hóa Đức thần Cao Sơn,ngay_12_thang_tam_am_lich_hang_nam,,,,approved
+VALUE_000063,9 bậc gạch,Value,,,9_bac_gach,9,bậc,step_count,approved

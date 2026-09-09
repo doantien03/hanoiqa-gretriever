@@ -1,0 +1,533 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_local_intro_2026",
+      "title": "Giới thiệu về Thăng Long Tứ Trấn - Đền (Đình) Kim Liên",
+      "url": "https://vanmieuquoctugiam.hanoi.gov.vn/di-tich-lich-su-va-le-hoi-truyen-thong/gioi-thieu-ve-thang-long-tu-tran-den-dinh-kim-lien-2813260225092339263.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_local_festival_2026",
+      "title": "Lễ hội truyền thống Quốc gia đặc biệt Thăng Long tứ trấn - Đền Kim Liên",
+      "url": "https://vanmieuquoctugiam.hanoi.gov.vn/di-tich-lich-su-va-le-hoi-truyen-thong/le-hoi-truyen-thong-quoc-gia-dac-biet-thang-long-tu-tran-den-kim-lien-2813260428150319453.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_architecture",
+      "title": "Thăng Long tứ trấn được xếp hạng Di tích quốc gia đặc biệt",
+      "url": "https://sovhtt.hanoi.gov.vn/thang-long-tu-tran-duoc-xep-hang-di-tich-quoc-gia-dac-biet/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_government_festival",
+      "title": "Khai hội đền Kim Liên và đón Bằng xếp hạng Di tích quốc gia đặc biệt",
+      "url": "https://thanglong.chinhphu.vn/khai-hoi-den-kim-lien-va-don-bang-xep-hang-di-tich-quoc-gia-dac-biet-103220416124220116.htm",
+      "source_type": "government_news_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_dsvh_decision",
+      "title": "Quyết định xếp hạng di tích quốc gia đặc biệt (đợt 12)",
+      "url": "https://dsvh.gov.vn/quyet-dinh-xep-hang-di-tich-quoc-gia-dac-biet-dot-12-3450",
+      "source_type": "official_heritage_authority",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Đền Kim Liên",
+      "aliases": ["Đình Kim Liên", "Đền Cao Sơn", "Cao Sơn Đại Vương thần từ", "Trấn Nam Thăng Long"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 148 phố Kim Hoa, phường Văn Miếu - Quốc Tử Giám, thành phố Hà Nội",
+      "aliases": ["148 Kim Hoa, phường Văn Miếu - Quốc Tử Giám, Hà Nội", "148 phố Kim Hoa, phường Phương Liên, quận Đống Đa, Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "ward_vmqg",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Văn Miếu - Quốc Tử Giám",
+      "match": "existing",
+      "existing_id": "ADMIN_000003"
+    },
+    {
+      "key": "south_thang_long",
+      "type": "Location",
+      "canonical_name": "Phía Nam kinh thành Thăng Long",
+      "aliases": ["Trấn Nam thành Thăng Long", "Nam trấn Thăng Long"],
+      "match": "new"
+    },
+    {
+      "key": "high_hill",
+      "type": "Location",
+      "canonical_name": "Gò đất cao phía Đông đầm Kim Liên",
+      "aliases": ["Gò đất xây Đền Kim Liên"],
+      "match": "new"
+    },
+    {
+      "key": "category_history",
+      "type": "TourismCategory",
+      "canonical_name": "Di tích lịch sử",
+      "match": "existing",
+      "existing_id": "CATEGORY_000001"
+    },
+    {
+      "key": "category_belief",
+      "type": "TourismCategory",
+      "canonical_name": "Điểm tham quan văn hóa - tín ngưỡng",
+      "aliases": ["Điểm tham quan văn hóa và tín ngưỡng", "Đền thờ truyền thống"],
+      "match": "existing",
+      "existing_id": "CATEGORY_000005"
+    },
+    {
+      "key": "outer_gate",
+      "type": "Architecture",
+      "canonical_name": "Nghi môn Ngoại Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "side_houses",
+      "type": "Architecture",
+      "canonical_name": "Hai dãy Tả vu - Hữu vu Đền Kim Liên",
+      "aliases": ["Tả vu và Hữu vu Đền Kim Liên"],
+      "match": "new"
+    },
+    {
+      "key": "courtyard",
+      "type": "Architecture",
+      "canonical_name": "Sân Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "semicircular_pond",
+      "type": "Architecture",
+      "canonical_name": "Hồ bán nguyệt Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "jade_well",
+      "type": "Architecture",
+      "canonical_name": "Giếng ngọc Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "inner_gate",
+      "type": "Architecture",
+      "canonical_name": "Nghi môn Nội Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "dai_bai",
+      "type": "Architecture",
+      "canonical_name": "Đại bái Đền Kim Liên",
+      "aliases": ["Nhà Đại bái năm gian Đền Kim Liên"],
+      "match": "new"
+    },
+    {
+      "key": "hau_cung",
+      "type": "Architecture",
+      "canonical_name": "Hậu cung Đền Kim Liên",
+      "aliases": ["Cung cấm Đền Kim Liên", "Hậu cung ba gian dọc"],
+      "match": "new"
+    },
+    {
+      "key": "mother_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà Mẫu Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "legend_stele_area",
+      "type": "Architecture",
+      "canonical_name": "Khu bia thần tích Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "nine_steps",
+      "type": "Architecture",
+      "canonical_name": "Chín bậc gạch nối hai khu kiến trúc Đền Kim Liên",
+      "aliases": ["Chín bậc gạch lên khu kiến trúc cổ"],
+      "match": "new"
+    },
+    {
+      "key": "value_nine_steps",
+      "type": "Value",
+      "canonical_name": "9 bậc gạch",
+      "numeric_value": 9,
+      "unit": "bậc",
+      "value_kind": "step_count",
+      "match": "new"
+    },
+    {
+      "key": "later_le_brick",
+      "type": "Material",
+      "canonical_name": "Gạch vồ",
+      "match": "existing",
+      "existing_id": "MATERIAL_000004"
+    },
+    {
+      "key": "nguyen_style",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc thời Nguyễn",
+      "match": "existing",
+      "existing_id": "ASTYLE_000002"
+    },
+    {
+      "key": "traditional_style",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc truyền thống Việt Nam",
+      "match": "existing",
+      "existing_id": "ASTYLE_000006"
+    },
+    {
+      "key": "main_stele",
+      "type": "HeritageObject",
+      "canonical_name": "Bia Cao Sơn Đại Vương thần từ bi minh tịnh tự",
+      "aliases": ["Bia thần tích Cao Sơn Đại Vương", "Bia đá Đền Kim Liên năm 1510"],
+      "match": "new"
+    },
+    {
+      "key": "royal_decrees",
+      "type": "HeritageObject",
+      "canonical_name": "Hệ thống 33 đạo sắc phong tại Đền Kim Liên",
+      "aliases": ["33 sắc phong Đền Kim Liên", "Bộ sưu tập sắc phong thần Cao Sơn"],
+      "match": "new"
+    },
+    {
+      "key": "cao_son",
+      "type": "Person",
+      "canonical_name": "Cao Sơn Đại Vương",
+      "aliases": ["Thần Cao Sơn", "Đức thần Cao Sơn"],
+      "match": "new"
+    },
+    {
+      "key": "le_tuong_duc",
+      "type": "Person",
+      "canonical_name": "Lê Tương Dực",
+      "aliases": ["Vua Lê Tương Dực"],
+      "match": "new"
+    },
+    {
+      "key": "le_tung",
+      "type": "Person",
+      "canonical_name": "Lê Tung",
+      "aliases": ["Sử thần Lê Tung"],
+      "match": "new"
+    },
+    {
+      "key": "thuy_tinh_princess",
+      "type": "Person",
+      "canonical_name": "Thủy Tinh công chúa",
+      "aliases": ["Thủy Tinh phu nhân", "Tôn nữ Đông Hồ Trưng Vương"],
+      "match": "new"
+    },
+    {
+      "key": "hue_minh",
+      "type": "Person",
+      "canonical_name": "Huệ Minh phu nhân",
+      "aliases": ["Huệ Minh hựu dưu phu nhân"],
+      "match": "new"
+    },
+    {
+      "key": "le_so_dynasty",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Lê sơ",
+      "match": "existing",
+      "existing_id": "DYNASTY_000003"
+    },
+    {
+      "key": "time_1509",
+      "type": "Time",
+      "canonical_name": "Năm 1509",
+      "aliases": ["1509"],
+      "match": "new"
+    },
+    {
+      "key": "time_1510",
+      "type": "Time",
+      "canonical_name": "Năm Canh Ngọ, Hồng Thuận thứ 3 (1510)",
+      "aliases": ["Năm 1510", "Hồng Thuận 3"],
+      "match": "new"
+    },
+    {
+      "key": "time_2008_2010",
+      "type": "Time",
+      "canonical_name": "Giai đoạn 2008-2010",
+      "aliases": ["Từ năm 2008 đến năm 2010", "2008–2010"],
+      "match": "new"
+    },
+    {
+      "key": "festival_time",
+      "type": "Time",
+      "canonical_name": "Ngày 16 tháng Ba âm lịch hằng năm",
+      "aliases": ["16/3 âm lịch", "Ngày sinh Đức thần Cao Sơn"],
+      "match": "new"
+    },
+    {
+      "key": "death_anniversary_time",
+      "type": "Time",
+      "canonical_name": "Ngày 12 tháng Tám âm lịch hằng năm",
+      "aliases": ["12/8 âm lịch", "Ngày hóa Đức thần Cao Sơn"],
+      "match": "new"
+    },
+    {
+      "key": "time_recognized_2022",
+      "type": "Time",
+      "canonical_name": "Ngày 18 tháng 1 năm 2022",
+      "match": "existing",
+      "existing_id": "TIME_000082"
+    },
+    {
+      "key": "rebuild_event",
+      "type": "Event",
+      "canonical_name": "Xây dựng lại Đền Kim Liên năm 1509",
+      "aliases": ["Tôn tạo Đền Kim Liên dưới thời Lê Tương Dực"],
+      "match": "new"
+    },
+    {
+      "key": "stele_composition_event",
+      "type": "Event",
+      "canonical_name": "Soạn bia Cao Sơn Đại Vương năm 1510",
+      "aliases": ["Sự kiện soạn bia Đền Kim Liên năm Hồng Thuận thứ 3"],
+      "match": "new"
+    },
+    {
+      "key": "renovation_event",
+      "type": "Event",
+      "canonical_name": "Tu bổ Đền Kim Liên giai đoạn 2008-2010",
+      "aliases": ["Tôn tạo Đền Kim Liên dịp 1000 năm Thăng Long - Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "festival_event",
+      "type": "Event",
+      "canonical_name": "Lễ hội truyền thống Đền Kim Liên",
+      "aliases": ["Lễ hội ngày sinh Đức thần Cao Sơn"],
+      "match": "new"
+    },
+    {
+      "key": "death_ritual_event",
+      "type": "Event",
+      "canonical_name": "Lễ tế ngày hóa Đức thần Cao Sơn tại Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "national_special_status",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích quốc gia đặc biệt",
+      "match": "existing",
+      "existing_id": "HSTATUS_000003"
+    },
+    {
+      "key": "prime_minister",
+      "type": "Organization",
+      "canonical_name": "Thủ tướng Chính phủ Việt Nam",
+      "aliases": ["Thủ tướng Chính phủ"],
+      "match": "existing",
+      "existing_id": "ORG_000012"
+    },
+    {
+      "key": "procession_activity",
+      "type": "Activity",
+      "canonical_name": "Rước kiệu tại lễ hội Đền Kim Liên",
+      "match": "new"
+    },
+    {
+      "key": "ritual_activity",
+      "type": "Activity",
+      "canonical_name": "Tế lễ tại Đền Kim Liên",
+      "aliases": ["Nghi lễ tế thần Cao Sơn"],
+      "match": "new"
+    },
+    {
+      "key": "incense_activity",
+      "type": "Activity",
+      "canonical_name": "Dâng hương tưởng niệm Đức thần Cao Sơn",
+      "match": "new"
+    },
+    {
+      "key": "community_role",
+      "type": "Role",
+      "canonical_name": "Trung tâm sinh hoạt cộng đồng của làng Kim Liên",
+      "match": "new"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_local_festival_2026",
+      "topic": "address",
+      "normalized_text": "Cổng thông tin phường Văn Miếu - Quốc Tử Giám ghi địa chỉ hiện hành duy nhất của Đền Kim Liên là số 148 phố Kim Hoa, phường Văn Miếu - Quốc Tử Giám, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_identity_category",
+      "source": "src_local_intro_2026",
+      "topic": "identity_and_category",
+      "normalized_text": "Đền Kim Liên, còn gọi là Đình Kim Liên hoặc Đền Cao Sơn, là di tích lịch sử - văn hóa và cơ sở thờ thần Cao Sơn Đại Vương, giữ vai trò trấn phía Nam kinh thành Thăng Long.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_location_landscape",
+      "source": "src_local_intro_2026",
+      "topic": "location_and_landscape",
+      "normalized_text": "Đền Kim Liên được xây trên gò đất cao, cách La Thành khoảng 100 m về phía Đông đầm Kim Liên xưa; cổng và chính điện hướng về phía Tây.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_foundation_1509",
+      "source": "src_government_festival",
+      "topic": "foundation",
+      "normalized_text": "Năm 1509, vua Lê Tương Dực cho xây dựng Đền Kim Liên để thờ thần Cao Sơn Đại Vương; di tích trở thành trấn phía Nam của kinh thành Thăng Long.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_architecture_parts",
+      "source": "src_local_intro_2026",
+      "topic": "architecture_components",
+      "normalized_text": "Khu phía trước có Nghi môn Ngoại, hai dãy Tả - Hữu vu, sân, hồ bán nguyệt và giếng ngọc; khu kiến trúc cổ trên gò gồm Nghi môn Nội, Đại bái, Hậu cung, nhà Mẫu, bia thần tích và sân vườn.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_steps_material",
+      "source": "src_local_intro_2026",
+      "topic": "steps_and_material",
+      "normalized_text": "Hai khu kiến trúc được nối bằng chín bậc cao xây bằng gạch vồ thời Lê Trung Hưng, loại gạch đất nung có kích thước lớn và dày.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_architecture_style",
+      "source": "src_sovhtt_architecture",
+      "topic": "architectural_style",
+      "normalized_text": "Kiến trúc Đền Kim Liên mang dấu ấn rõ nét của nghệ thuật thời Nguyễn; Nghi môn xây kiểu tường hồi bít đốc, còn Đại bái được tôn tạo theo kiểu dáng kiến trúc truyền thống.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_worship_persons",
+      "source": "src_local_intro_2026",
+      "topic": "worship",
+      "normalized_text": "Đền chính thờ Cao Sơn Đại Vương và phối thờ Thủy Tinh công chúa cùng Huệ Minh phu nhân.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_stele",
+      "source": "src_local_intro_2026",
+      "topic": "stele",
+      "normalized_text": "Bia đá Cao Sơn Đại Vương thần từ bi minh tịnh tự do sử thần Lê Tung soạn năm Canh Ngọ, niên hiệu Hồng Thuận thứ 3 (1510), ghi công thần Cao Sơn và lịch sử của di tích.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_decrees",
+      "source": "src_local_intro_2026",
+      "topic": "royal_decrees",
+      "normalized_text": "Theo hồ sơ giới thiệu năm 2026, Đền Kim Liên hiện lưu giữ 33 đạo sắc phong cho thần Cao Sơn, gồm 22 sắc thời Lê và 11 sắc thời Nguyễn, cùng 5 bản sao sắc phong.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation",
+      "source": "src_local_intro_2026",
+      "topic": "renovation",
+      "normalized_text": "Đền Kim Liên được tu bổ, tôn tạo quy mô trong giai đoạn 2008-2010 để chuẩn bị kỷ niệm 1000 năm Thăng Long - Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_festival",
+      "source": "src_government_festival",
+      "topic": "festival",
+      "normalized_text": "Lễ hội Đền Kim Liên được tổ chức hằng năm vào ngày 16 tháng Ba âm lịch, ngày sinh Đức thần Cao Sơn, với nghi lễ, rước kiệu và các trò chơi dân gian truyền thống.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_death_anniversary",
+      "source": "src_local_intro_2026",
+      "topic": "death_anniversary",
+      "normalized_text": "Hằng năm vào ngày 12 tháng Tám âm lịch, ngày hóa của Đức thần Cao Sơn, Đền Kim Liên tổ chức tế lễ và dâng hương tưởng niệm.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognition",
+      "source": "src_dsvh_decision",
+      "topic": "recognition",
+      "normalized_text": "Ngày 18 tháng 1 năm 2022, Thủ tướng Chính phủ ký Quyết định số 93/QĐ-TTg xếp hạng Di tích lịch sử và kiến trúc nghệ thuật Thăng Long tứ trấn, gồm Đền Kim Liên, là Di tích quốc gia đặc biệt.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_community_role",
+      "source": "src_local_intro_2026",
+      "topic": "community_role",
+      "normalized_text": "Trong lịch sử, Đền Kim Liên được dùng làm trung tâm giải quyết và tổ chức những việc lớn của làng, vì vậy mang thêm chức năng của một ngôi đình và được gọi là Đình Kim Liên.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "ward_vmqg", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "south_thang_long", "evidence": ["ev_identity_category", "ev_foundation_1509"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "high_hill", "evidence": ["ev_location_landscape"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_history", "evidence": ["ev_identity_category", "ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_belief", "evidence": ["ev_identity_category", "ev_worship_persons"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "outer_gate", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "side_houses", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "courtyard", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "semicircular_pond", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "jade_well", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "inner_gate", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "dai_bai", "evidence": ["ev_architecture_parts", "ev_architecture_style"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "hau_cung", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "mother_house", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "legend_stele_area", "evidence": ["ev_architecture_parts"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "nine_steps", "evidence": ["ev_steps_material"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "main_stele", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "royal_decrees", "evidence": ["ev_decrees"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "nguyen_style", "evidence": ["ev_architecture_style"], "confidence": 1.0},
+    {"source": "dai_bai", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "traditional_style", "evidence": ["ev_architecture_style"], "confidence": 1.0},
+    {"source": "nine_steps", "relation": "BUILT_WITH", "target": "later_le_brick", "evidence": ["ev_steps_material"], "confidence": 1.0},
+    {"source": "nine_steps", "relation": "HAS_MEASUREMENT", "target": "value_nine_steps", "evidence": ["ev_steps_material"], "confidence": 1.0, "qualifiers": {"measurement_kind": "số bậc gạch nối hai khu kiến trúc"}},
+    {"source": "place", "relation": "HONORS", "target": "cao_son", "evidence": ["ev_identity_category", "ev_worship_persons"], "confidence": 1.0},
+    {"source": "place", "relation": "HONORS", "target": "thuy_tinh_princess", "evidence": ["ev_worship_persons"], "confidence": 1.0},
+    {"source": "place", "relation": "HONORS", "target": "hue_minh", "evidence": ["ev_worship_persons"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_IN", "target": "time_1509", "evidence": ["ev_foundation_1509"], "confidence": 0.95},
+    {"source": "place", "relation": "BUILT_BY", "target": "le_tuong_duc", "evidence": ["ev_foundation_1509"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "le_tuong_duc", "evidence": ["ev_foundation_1509"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_DYNASTY", "target": "le_so_dynasty", "evidence": ["ev_foundation_1509", "ev_stele"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "rebuild_event", "evidence": ["ev_foundation_1509"], "confidence": 1.0},
+    {"source": "rebuild_event", "relation": "OCCURRED_IN", "target": "time_1509", "evidence": ["ev_foundation_1509"], "confidence": 1.0},
+    {"source": "rebuild_event", "relation": "INVOLVED_PERSON", "target": "le_tuong_duc", "evidence": ["ev_foundation_1509"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "renovation_event", "evidence": ["ev_renovation"], "confidence": 1.0},
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_2008_2010", "evidence": ["ev_renovation"], "confidence": 1.0},
+    {"source": "renovation_event", "relation": "OCCURRED_IN", "target": "time_2008_2010", "evidence": ["ev_renovation"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "festival_event", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "festival_event", "relation": "OCCURRED_IN", "target": "festival_time", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "festival_event", "relation": "INVOLVED_PERSON", "target": "cao_son", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "death_ritual_event", "evidence": ["ev_death_anniversary"], "confidence": 1.0},
+    {"source": "death_ritual_event", "relation": "OCCURRED_IN", "target": "death_anniversary_time", "evidence": ["ev_death_anniversary"], "confidence": 1.0},
+    {"source": "death_ritual_event", "relation": "INVOLVED_PERSON", "target": "cao_son", "evidence": ["ev_death_anniversary"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "procession_activity", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "ritual_activity", "evidence": ["ev_festival", "ev_death_anniversary"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "incense_activity", "evidence": ["ev_death_anniversary"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "national_special_status", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_IN", "target": "time_recognized_2022", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "prime_minister", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "main_stele", "relation": "ASSOCIATED_WITH_PERSON", "target": "le_tung", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "stele_composition_event", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "stele_composition_event", "relation": "OCCURRED_IN", "target": "time_1510", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "stele_composition_event", "relation": "INVOLVED_PERSON", "target": "le_tung", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "place", "relation": "USED_FOR", "target": "community_role", "evidence": ["ev_community_role"], "confidence": 1.0}
+  ]
+}

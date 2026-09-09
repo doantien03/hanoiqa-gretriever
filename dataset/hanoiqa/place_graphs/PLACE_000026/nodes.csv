@@ -1,0 +1,37 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000033,Lễ rước nước Đền Hai Bà Trưng,Activity,,Rước nước từ sông Hồng về Đền Đồng Nhân,le_ruoc_nuoc_den_hai_ba_trung,,,,approved
+ACTIVITY_000034,Lễ Mộc dục tượng Hai Bà Trưng,Activity,,Lễ tắm tượng Hai Bà,le_moc_duc_tuong_hai_ba_trung,,,,approved
+ACTIVITY_000035,Biểu diễn tái hiện Hai Bà Trưng cưỡi voi đánh giặc,Activity,,,bieu_dien_tai_hien_hai_ba_trung_cuoi_voi_danh_giac,,,,approved
+ACTIVITY_000036,Trò chơi dân gian tại lễ hội Đền Hai Bà Trưng,Activity,,"Đấu vật, múa roi và múa sư tử",tro_choi_dan_gian_tai_le_hoi_den_hai_ba_trung,,,,approved
+ADDRESS_000025,"Số 12 phố Hương Viên, phường Hai Bà Trưng, thành phố Hà Nội",Address,,"12 Hương Viên, phường Hai Bà Trưng, Hà Nội|12 phố Hương Viên, phường Đồng Nhân, quận Hai Bà Trưng, Hà Nội",so_12_pho_huong_vien_phuong_hai_ba_trung_thanh_pho_ha_noi,,,,approved
+ADMIN_000010,Phường Hai Bà Trưng,AdministrativeArea,,,phuong_hai_ba_trung,,,,approved
+ARCH_000211,Nghi môn bốn trụ Đền Hai Bà Trưng,Architecture,,,nghi_mon_bon_tru_den_hai_ba_trung,,,,approved
+ARCH_000212,Tiền tế bảy gian Đền Hai Bà Trưng,Architecture,,Nhà tiền tế 7 gian Đền Đồng Nhân,tien_te_bay_gian_den_hai_ba_trung,,,,approved
+ARCH_000213,Tòa thiêu hương Đền Hai Bà Trưng,Architecture,,,toa_thieu_huong_den_hai_ba_trung,,,,approved
+ARCH_000214,Hậu cung Đền Hai Bà Trưng,Architecture,,,hau_cung_den_hai_ba_trung,,,,approved
+ASTYLE_000013,Kiến trúc nội Công ngoại Quốc,ArchitecturalStyle,,Nội công ngoại quốc,kien_truc_noi_cong_ngoai_quoc,,,,approved
+CATEGORY_000001,Di tích lịch sử,TourismCategory,,Di tích lịch sử – văn hóa,di_tich_lich_su,,,,approved
+CATEGORY_000005,Điểm tham quan văn hóa - tín ngưỡng,TourismCategory,,Điểm du lịch văn hóa tâm linh|Công trình tín ngưỡng dân gian,diem_tham_quan_van_hoa_tin_nguong,,,,approved
+DYNASTY_000001,Nhà Lý,Dynasty,,Triều Lý,nha_ly,,,,approved
+EVENT_000053,Lập Đền Hai Bà Trưng tại bãi Đồng Nhân năm 1142,Event,,,lap_den_hai_ba_trung_tai_bai_dong_nhan_nam_1142,,,,approved
+EVENT_000054,Di dời Đền Hai Bà Trưng tới Hương Viên năm 1819,Event,,,di_doi_den_hai_ba_trung_toi_huong_vien_nam_1819,,,,approved
+EVENT_000055,Soạn bia Trưng Vương sự tích bi ký năm 1840,Event,,,soan_bia_trung_vuong_su_tich_bi_ky_nam_1840,,,,approved
+EVENT_000056,Lễ hội truyền thống Đền Hai Bà Trưng tại Đồng Nhân,Event,,Hội Đền Đồng Nhân|Lễ hội Hai Bà Trưng tại Hương Viên,le_hoi_truyen_thong_den_hai_ba_trung_tai_dong_nhan,,,,approved
+HOBJ_000084,Đôi tượng voi gỗ sơn đen tại Đền Hai Bà Trưng,HeritageObject,,Hai tượng voi gỗ gắn ngà thật,doi_tuong_voi_go_son_den_tai_den_hai_ba_trung,,,,approved
+HOBJ_000085,Tượng Trưng Trắc và Trưng Nhị tại hậu cung,HeritageObject,,Hai pho tượng Hai Bà Trưng,tuong_trung_trac_va_trung_nhi_tai_hau_cung,,,,approved
+HOBJ_000086,Nhóm tượng các nữ tướng của Hai Bà Trưng,HeritageObject,,Tượng các nữ tướng khởi nghĩa Hai Bà Trưng,nhom_tuong_cac_nu_tuong_cua_hai_ba_trung,,,,approved
+HOBJ_000087,Bia Trưng Vương sự tích bi ký,HeritageObject,,Bia đá Đền Đồng Nhân năm 1840,bia_trung_vuong_su_tich_bi_ky,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+LOCATION_000029,Thôn Hương Viên xưa,Location,,Hương Viên|Khu Hương Viên,thon_huong_vien_xua,,,,approved
+ORG_000012,Thủ tướng Chính phủ Việt Nam,Organization,,Thủ tướng Chính phủ,thu_tuong_chinh_phu_viet_nam,,,,approved
+PERSON_000041,Vũ Tông Phan,Person,,,vu_tong_phan,,,,approved
+PERSON_000058,Trưng Trắc,Person,,Trưng Vương|Bà Trưng Trắc,trung_trac,,,,approved
+PERSON_000059,Trưng Nhị,Person,,Bà Trưng Nhị,trung_nhi,,,,approved
+PERSON_000060,Lý Anh Tông,Person,,Vua Lý Anh Tông,ly_anh_tong,,,,approved
+PLACE_000026,Đền Hai Bà Trưng (Đồng Nhân),Place,,Đền Hai Bà Trưng|Đền Đồng Nhân|Đền thờ Hai Bà Trưng tại Hương Viên,den_hai_ba_trung_dong_nhan,,,,approved
+TIME_000105,Năm Đại Định thứ 3 (1142),Time,,Năm 1142|1142,nam_dai_dinh_thu_3_1142,,,,approved
+TIME_000106,Năm Gia Long thứ 18 (1819),Time,,Năm 1819|1819,nam_gia_long_thu_18_1819,,,,approved
+TIME_000107,Năm Minh Mệnh thứ 21 (1840),Time,,Năm 1840|1840,nam_minh_menh_thu_21_1840,,,,approved
+TIME_000108,Ngày 31 tháng 12 năm 2019,Time,,31/12/2019|2019-12-31,ngay_31_thang_12_nam_2019,,,,approved
+TIME_000109,Từ ngày 4 đến ngày 7 tháng Hai âm lịch hằng năm,Time,,Mùng 4-7 tháng 2 âm lịch|Chính hội ngày 5-6 tháng Hai âm lịch,tu_ngay_4_den_ngay_7_thang_hai_am_lich_hang_nam,,,,approved
+VALUE_000064,4.000 m²,Value,,,4_000_m,4000,m²,area,approved

@@ -1,0 +1,437 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_ward_address_2026",
+      "title": "Lễ kỷ niệm 1986 năm cuộc khởi nghĩa Hai Bà Trưng (40-2026)",
+      "url": "https://haibatrung.hanoi.gov.vn/trang-chu/le-ky-niem-1986-cuoc-khoi-nghia-hai-ba-trung-40-2026-2814260319090427315.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_overview",
+      "title": "Đền Đồng Nhân",
+      "url": "https://sovhtt.hanoi.gov.vn/den-dong-nhan/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_history_architecture",
+      "title": "Di tích Lịch sử - Văn hóa Đền Đồng Nhân",
+      "url": "https://sovhtt.hanoi.gov.vn/di-tich-lich-su-van-hoa-den-dong-nhan/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_tourism",
+      "title": "Điểm du lịch di tích Quốc gia đặc biệt Đền - Chùa - Đình Hai Bà Trưng",
+      "url": "https://sovhtt.hanoi.gov.vn/diem-du-lich-di-tich-quoc-gia-dac-biet-den-chua-dinh-hai-ba-trung/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_dsvh_recognition",
+      "title": "Thủ tướng Chính phủ ký Quyết định xếp hạng di tích quốc gia đặc biệt năm 2019",
+      "url": "https://dsvh.gov.vn/thu-tuong-chinh-phu-ky-quyet-dinh-xep-hang-di-tich-quoc-gia-dac-biet-nam-2019-3119",
+      "source_type": "official_heritage_authority",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_hanoi_tourism_decision",
+      "title": "Công nhận điểm du lịch Di tích quốc gia đặc biệt Đền, Chùa, Đình Hai Bà Trưng",
+      "url": "https://hanoi.gov.vn/chi-dao-cua-ubnd-thanh-pho-ha-noi/cong-nhan-diem-du-lich-di-tich-quoc-gia-dac-biet-den-chua-dinh-hai-ba-trung-424122410433673.htm",
+      "source_type": "government_portal",
+      "retrieved_at": "2026-09-08",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Đền Hai Bà Trưng (Đồng Nhân)",
+      "aliases": ["Đền Hai Bà Trưng", "Đền Đồng Nhân", "Đền thờ Hai Bà Trưng tại Hương Viên"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 12 phố Hương Viên, phường Hai Bà Trưng, thành phố Hà Nội",
+      "aliases": ["12 Hương Viên, phường Hai Bà Trưng, Hà Nội", "12 phố Hương Viên, phường Đồng Nhân, quận Hai Bà Trưng, Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "ward_hai_ba_trung",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Hai Bà Trưng",
+      "match": "new"
+    },
+    {
+      "key": "huong_vien",
+      "type": "Location",
+      "canonical_name": "Thôn Hương Viên xưa",
+      "aliases": ["Hương Viên", "Khu Hương Viên"],
+      "match": "new"
+    },
+    {
+      "key": "category_history",
+      "type": "TourismCategory",
+      "canonical_name": "Di tích lịch sử",
+      "match": "existing",
+      "existing_id": "CATEGORY_000001"
+    },
+    {
+      "key": "category_belief",
+      "type": "TourismCategory",
+      "canonical_name": "Điểm tham quan văn hóa - tín ngưỡng",
+      "aliases": ["Điểm tham quan văn hóa và tín ngưỡng", "Đền thờ anh hùng dân tộc"],
+      "match": "existing",
+      "existing_id": "CATEGORY_000005"
+    },
+    {
+      "key": "nghi_mon",
+      "type": "Architecture",
+      "canonical_name": "Nghi môn bốn trụ Đền Hai Bà Trưng",
+      "match": "new"
+    },
+    {
+      "key": "tien_te",
+      "type": "Architecture",
+      "canonical_name": "Tiền tế bảy gian Đền Hai Bà Trưng",
+      "aliases": ["Nhà tiền tế 7 gian Đền Đồng Nhân"],
+      "match": "new"
+    },
+    {
+      "key": "thieu_huong",
+      "type": "Architecture",
+      "canonical_name": "Tòa thiêu hương Đền Hai Bà Trưng",
+      "match": "new"
+    },
+    {
+      "key": "hau_cung",
+      "type": "Architecture",
+      "canonical_name": "Hậu cung Đền Hai Bà Trưng",
+      "match": "new"
+    },
+    {
+      "key": "wooden_elephants",
+      "type": "HeritageObject",
+      "canonical_name": "Đôi tượng voi gỗ sơn đen tại Đền Hai Bà Trưng",
+      "aliases": ["Hai tượng voi gỗ gắn ngà thật"],
+      "match": "new"
+    },
+    {
+      "key": "two_queens_statues",
+      "type": "HeritageObject",
+      "canonical_name": "Tượng Trưng Trắc và Trưng Nhị tại hậu cung",
+      "aliases": ["Hai pho tượng Hai Bà Trưng"],
+      "match": "new"
+    },
+    {
+      "key": "female_generals_statues",
+      "type": "HeritageObject",
+      "canonical_name": "Nhóm tượng các nữ tướng của Hai Bà Trưng",
+      "aliases": ["Tượng các nữ tướng khởi nghĩa Hai Bà Trưng"],
+      "match": "new"
+    },
+    {
+      "key": "historical_stele",
+      "type": "HeritageObject",
+      "canonical_name": "Bia Trưng Vương sự tích bi ký",
+      "aliases": ["Bia đá Đền Đồng Nhân năm 1840"],
+      "match": "new"
+    },
+    {
+      "key": "trung_trac",
+      "type": "Person",
+      "canonical_name": "Trưng Trắc",
+      "aliases": ["Trưng Vương", "Bà Trưng Trắc"],
+      "match": "new"
+    },
+    {
+      "key": "trung_nhi",
+      "type": "Person",
+      "canonical_name": "Trưng Nhị",
+      "aliases": ["Bà Trưng Nhị"],
+      "match": "new"
+    },
+    {
+      "key": "ly_anh_tong",
+      "type": "Person",
+      "canonical_name": "Lý Anh Tông",
+      "aliases": ["Vua Lý Anh Tông"],
+      "match": "new"
+    },
+    {
+      "key": "vu_tong_phan",
+      "type": "Person",
+      "canonical_name": "Vũ Tông Phan",
+      "aliases": ["Tiến sĩ Vũ Tông Phan"],
+      "match": "existing",
+      "existing_id": "PERSON_000041"
+    },
+    {
+      "key": "ly_dynasty",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Lý",
+      "match": "existing",
+      "existing_id": "DYNASTY_000001"
+    },
+    {
+      "key": "time_1142",
+      "type": "Time",
+      "canonical_name": "Năm Đại Định thứ 3 (1142)",
+      "aliases": ["Năm 1142", "1142"],
+      "match": "new"
+    },
+    {
+      "key": "time_1819",
+      "type": "Time",
+      "canonical_name": "Năm Gia Long thứ 18 (1819)",
+      "aliases": ["Năm 1819", "1819"],
+      "match": "new"
+    },
+    {
+      "key": "time_1840",
+      "type": "Time",
+      "canonical_name": "Năm Minh Mệnh thứ 21 (1840)",
+      "aliases": ["Năm 1840", "1840"],
+      "match": "new"
+    },
+    {
+      "key": "time_2019",
+      "type": "Time",
+      "canonical_name": "Ngày 31 tháng 12 năm 2019",
+      "aliases": ["31/12/2019", "2019-12-31"],
+      "match": "new"
+    },
+    {
+      "key": "festival_time",
+      "type": "Time",
+      "canonical_name": "Từ ngày 4 đến ngày 7 tháng Hai âm lịch hằng năm",
+      "aliases": ["Mùng 4-7 tháng 2 âm lịch", "Chính hội ngày 5-6 tháng Hai âm lịch"],
+      "match": "new"
+    },
+    {
+      "key": "foundation_event",
+      "type": "Event",
+      "canonical_name": "Lập Đền Hai Bà Trưng tại bãi Đồng Nhân năm 1142",
+      "match": "new"
+    },
+    {
+      "key": "relocation_event",
+      "type": "Event",
+      "canonical_name": "Di dời Đền Hai Bà Trưng tới Hương Viên năm 1819",
+      "match": "new"
+    },
+    {
+      "key": "stele_event",
+      "type": "Event",
+      "canonical_name": "Soạn bia Trưng Vương sự tích bi ký năm 1840",
+      "match": "new"
+    },
+    {
+      "key": "festival_event",
+      "type": "Event",
+      "canonical_name": "Lễ hội truyền thống Đền Hai Bà Trưng tại Đồng Nhân",
+      "aliases": ["Hội Đền Đồng Nhân", "Lễ hội Hai Bà Trưng tại Hương Viên"],
+      "match": "new"
+    },
+    {
+      "key": "national_special_status",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích quốc gia đặc biệt",
+      "match": "existing",
+      "existing_id": "HSTATUS_000003"
+    },
+    {
+      "key": "prime_minister",
+      "type": "Organization",
+      "canonical_name": "Thủ tướng Chính phủ Việt Nam",
+      "aliases": ["Thủ tướng Chính phủ"],
+      "match": "existing",
+      "existing_id": "ORG_000012"    
+    },
+    {
+      "key": "water_procession",
+      "type": "Activity",
+      "canonical_name": "Lễ rước nước Đền Hai Bà Trưng",
+      "aliases": ["Rước nước từ sông Hồng về Đền Đồng Nhân"],
+      "match": "new"
+    },
+    {
+      "key": "statue_bathing",
+      "type": "Activity",
+      "canonical_name": "Lễ Mộc dục tượng Hai Bà Trưng",
+      "aliases": ["Lễ tắm tượng Hai Bà"],
+      "match": "new"
+    },
+    {
+      "key": "historical_performance",
+      "type": "Activity",
+      "canonical_name": "Biểu diễn tái hiện Hai Bà Trưng cưỡi voi đánh giặc",
+      "match": "new"
+    },
+    {
+      "key": "folk_games",
+      "type": "Activity",
+      "canonical_name": "Trò chơi dân gian tại lễ hội Đền Hai Bà Trưng",
+      "aliases": ["Đấu vật, múa roi và múa sư tử"],
+      "match": "new"
+    },
+    {
+      "key": "inner_outer_style",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc nội Công ngoại Quốc",
+      "aliases": ["Nội công ngoại quốc"],
+      "match": "new"
+    },
+    {
+      "key": "area_value",
+      "type": "Value",
+      "canonical_name": "4.000 m²",
+      "numeric_value": 4000,
+      "unit": "m²",
+      "value_kind": "area",
+      "match": "new"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_ward_address_2026",
+      "topic": "address",
+      "normalized_text": "Cổng thông tin phường Hai Bà Trưng ghi địa chỉ hiện hành duy nhất của Di tích Đền - Chùa - Đình Hai Bà Trưng là số 12 phố Hương Viên, phường Hai Bà Trưng, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_identity_category",
+      "source": "src_sovhtt_overview",
+      "topic": "identity_and_category",
+      "normalized_text": "Đền Đồng Nhân là tên gọi khác của Đền Hai Bà Trưng, một di tích lịch sử, kiến trúc và cơ sở tín ngưỡng thờ Trưng Trắc, Trưng Nhị tại phố Hương Viên.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_foundation",
+      "source": "src_sovhtt_overview",
+      "topic": "foundation",
+      "normalized_text": "Theo sử liệu, năm Đại Định thứ 3 (1142), vua Lý Anh Tông truyền lập Đền Hai Bà Trưng tại bãi sông của làng Đồng Nhân.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_relocation",
+      "source": "src_sovhtt_history_architecture",
+      "topic": "relocation",
+      "normalized_text": "Năm Gia Long thứ 18 (1819), do bãi Đồng Nhân bị xói lở, dân làng di dời đền tới khu Cựu Võ Sở của triều Lê ở thôn Hương Viên, là vị trí hiện nay.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_architecture",
+      "source": "src_sovhtt_overview",
+      "topic": "architecture",
+      "normalized_text": "Đền có diện tích khoảng 4.000 m², mang kiến trúc nội Công ngoại Quốc; phía trước có hồ bán nguyệt, nghi môn bốn trụ, phương đình hai tầng tám mái, tiền tế bảy gian, tòa thiêu hương và hậu cung.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_interior_objects",
+      "source": "src_sovhtt_overview",
+      "topic": "interior_objects",
+      "normalized_text": "Tiền tế đặt đôi tượng voi gỗ sơn đen gắn ngà; tòa thiêu hương có ngai thờ và bức khảm Hai Bà cưỡi voi; hậu cung đặt tượng Trưng Trắc, Trưng Nhị cùng tượng các nữ tướng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_heritage_objects",
+      "source": "src_sovhtt_tourism",
+      "topic": "heritage_objects",
+      "normalized_text": "Đền lưu giữ bộ sắc phong của các triều Lê và Nguyễn, hai pho tượng thờ Hai Bà, hai bia đá cổ, hai bộ kiệu thời Nguyễn cùng nhiều đồ thờ sơn son thếp vàng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_stele",
+      "source": "src_sovhtt_history_architecture",
+      "topic": "stele",
+      "normalized_text": "Bia Trưng Vương sự tích bi ký đặt trước bái đường, do tiến sĩ Vũ Tông Phan soạn năm Minh Mệnh thứ 21 (1840), ca ngợi công trạng và khí tiết của Hai Bà Trưng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_festival",
+      "source": "src_sovhtt_history_architecture",
+      "topic": "festival",
+      "normalized_text": "Hội Đền Đồng Nhân diễn ra từ chiều mùng 4 đến hết ngày 7 tháng Hai âm lịch, chính hội ngày 5 và 6; các hoạt động gồm rước nước, tế lễ, biểu diễn tái hiện Hai Bà cưỡi voi, đấu vật, múa roi và múa sư tử.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_water_ritual",
+      "source": "src_sovhtt_history_architecture",
+      "topic": "water_ritual",
+      "normalized_text": "Trong lễ hội, nước được rước từ sông Hồng về nấu với trầm hương để thực hiện lễ Mộc dục, tức lễ tắm tượng Hai Bà Trưng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognition",
+      "source": "src_dsvh_recognition",
+      "topic": "recognition",
+      "normalized_text": "Ngày 31 tháng 12 năm 2019, Thủ tướng Chính phủ ký Quyết định số 1954/QĐ-TTg xếp hạng Di tích kiến trúc nghệ thuật Đền - Chùa - Đình Hai Bà Trưng là Di tích quốc gia đặc biệt.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_tourism_point",
+      "source": "src_hanoi_tourism_decision",
+      "topic": "tourism_point",
+      "normalized_text": "Ủy ban nhân dân thành phố Hà Nội công nhận Di tích quốc gia đặc biệt Đền, Chùa, Đình Hai Bà Trưng tại số 12 phố Hương Viên là điểm du lịch của thành phố.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "ward_hai_ba_trung", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "huong_vien", "evidence": ["ev_address", "ev_relocation"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_history", "evidence": ["ev_identity_category", "ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_belief", "evidence": ["ev_identity_category", "ev_tourism_point"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "nghi_mon", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "tien_te", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "thieu_huong", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "hau_cung", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "wooden_elephants", "evidence": ["ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "two_queens_statues", "evidence": ["ev_interior_objects", "ev_heritage_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "female_generals_statues", "evidence": ["ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "historical_stele", "evidence": ["ev_stele", "ev_heritage_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "inner_outer_style", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "area_value", "evidence": ["ev_architecture"], "confidence": 1.0, "qualifiers": {"measurement_kind": "diện tích khuôn viên"}},
+    {"source": "place", "relation": "HONORS", "target": "trung_trac", "evidence": ["ev_identity_category", "ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "HONORS", "target": "trung_nhi", "evidence": ["ev_identity_category", "ev_interior_objects"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_IN", "target": "time_1142", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_BY", "target": "ly_anh_tong", "evidence": ["ev_foundation"], "confidence": 0.95},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "ly_anh_tong", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_DYNASTY", "target": "ly_dynasty", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "foundation_event", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "foundation_event", "relation": "OCCURRED_IN", "target": "time_1142", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "foundation_event", "relation": "INVOLVED_PERSON", "target": "ly_anh_tong", "evidence": ["ev_foundation"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "relocation_event", "evidence": ["ev_relocation"], "confidence": 1.0},
+    {"source": "relocation_event", "relation": "OCCURRED_IN", "target": "time_1819", "evidence": ["ev_relocation"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "stele_event", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "stele_event", "relation": "OCCURRED_IN", "target": "time_1840", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "stele_event", "relation": "INVOLVED_PERSON", "target": "vu_tong_phan", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "historical_stele", "relation": "ASSOCIATED_WITH_PERSON", "target": "vu_tong_phan", "evidence": ["ev_stele"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "festival_event", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "festival_event", "relation": "OCCURRED_IN", "target": "festival_time", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "festival_event", "relation": "INVOLVED_PERSON", "target": "trung_trac", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "festival_event", "relation": "INVOLVED_PERSON", "target": "trung_nhi", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "water_procession", "evidence": ["ev_festival", "ev_water_ritual"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "statue_bathing", "evidence": ["ev_water_ritual"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "historical_performance", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "folk_games", "evidence": ["ev_festival"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "national_special_status", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_IN", "target": "time_2019", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "prime_minister", "evidence": ["ev_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "USED_FOR", "target": "water_procession", "evidence": ["ev_water_ritual"], "confidence": 0.95},
+    {"source": "place", "relation": "USED_FOR", "target": "statue_bathing", "evidence": ["ev_water_ritual"], "confidence": 0.95}
+  ]
+}

@@ -782,3 +782,37 @@ ACTIVITY_000035,Biểu diễn tái hiện Hai Bà Trưng cưỡi voi đánh gi�
 ACTIVITY_000036,Trò chơi dân gian tại lễ hội Đền Hai Bà Trưng,Activity,,"Đấu vật, múa roi và múa sư tử",tro_choi_dan_gian_tai_le_hoi_den_hai_ba_trung,,,,approved
 ASTYLE_000013,Kiến trúc nội Công ngoại Quốc,ArchitecturalStyle,,Nội công ngoại quốc,kien_truc_noi_cong_ngoai_quoc,,,,approved
 VALUE_000064,4.000 m²,Value,,,4_000_m,4000,m²,area,approved
+PLACE_000027,Chùa Thầy,Place,,Chùa Sài|Chùa Cả|Thiên Phúc tự|Thiên Phúc Tự,chua_thay,,,,approved
+ADDRESS_000026,"Thôn Thụy Khuê, xã Quốc Oai, thành phố Hà Nội",Address,,"Thụy Khuê, Quốc Oai, Hà Nội",thon_thuy_khue_xa_quoc_oai_thanh_pho_ha_noi,,,,approved
+ADMIN_000011,Xã Quốc Oai,AdministrativeArea,,,xa_quoc_oai,,,,approved
+LOCATION_000030,Núi Sài Sơn,Location,,Núi Thầy|Núi Phật Tích,nui_sai_son,,,,approved
+LOCATION_000031,Hồ Long Trì,Location,,Hồ Long Chiểu,ho_long_tri,,,,approved
+CATEGORY_000006,Cơ sở tôn giáo,TourismCategory,,Chùa Phật giáo,co_so_ton_giao,,,,approved
+CATEGORY_000007,Danh lam thắng cảnh,TourismCategory,,,danh_lam_thang_canh,,,,approved
+ARCH_000215,Thủy đình Chùa Thầy,Architecture,,Nhà thủy đình trên hồ Long Trì,thuy_dinh_chua_thay,,,,approved
+ARCH_000216,Cầu Nhật Tiên,Architecture,,Nhật Tiên kiều,cau_nhat_tien,,,,approved
+ARCH_000217,Cầu Nguyệt Tiên,Architecture,,Nguyệt Tiên kiều,cau_nguyet_tien,,,,approved
+ARCH_000218,Đền Tam Phủ trên hồ Long Trì,Architecture,,Đền Tam Phủ Chùa Thầy,den_tam_phu_tren_ho_long_tri,,,,approved
+ARCH_000219,Tiền Đường Chùa Thầy,Architecture,,Chùa Hạ|Nhà tiền tế,tien_duong_chua_thay,,,,approved
+ARCH_000220,Chánh Điện Chùa Thầy,Architecture,,Điện Phật|Chùa Trung,chanh_dien_chua_thay,,,,approved
+ARCH_000221,Điện Thánh Chùa Thầy,Architecture,,Chùa Thượng|Nhà Thánh|Đại hùng Bảo điện,dien_thanh_chua_thay,,,,approved
+ARCH_000222,Hai dãy hành lang Chùa Thầy,Architecture,,,hai_day_hanh_lang_chua_thay,,,,approved
+ARCH_000223,Gác chuông và gác trống Chùa Thầy,Architecture,,,gac_chuong_va_gac_trong_chua_thay,,,,approved
+ARCH_000224,Chùa Cao,Architecture,,Đỉnh Sơn Tự|Hiển Thụy Am,chua_cao,,,,approved
+PLACE_000028,Hang Cắc Cớ,Place,,Thần Quang động,hang_cac_co,,,,approved
+HOBJ_000088,Bộ 36 pho tượng cổ Chùa Thầy,HeritageObject,,36 pho tượng cổ từ thời Lý đến thời Nguyễn,bo_36_pho_tuong_co_chua_thay,,,,approved
+HOBJ_000089,Bộ 7 bia đá Chùa Thầy,HeritageObject,,Bảy tấm bia đá Chùa Thầy,bo_7_bia_da_chua_thay,,,,approved
+HOBJ_000090,Bộ 26 đạo sắc phong Chùa Thầy,HeritageObject,,26 sắc phong từ thế kỷ XVII đến thế kỷ XX,bo_26_dao_sac_phong_chua_thay,,,,approved
+HOBJ_000091,Lưng ngai gỗ thời Trần tại Chùa Thầy,HeritageObject,,,lung_ngai_go_thoi_tran_tai_chua_thay,,,,approved
+PERSON_000061,Thiền sư Từ Đạo Hạnh,Person,,Đức Thánh Từ Đạo Hạnh,thien_su_tu_dao_hanh,,,,approved
+PERSON_000062,Lý Thần Tông,Person,,Vua Lý Thần Tông,ly_than_tong,,,,approved
+PERSON_000063,Phùng Khắc Khoan,Person,,Trạng Bùng,phung_khac_khoan,,,,approved
+TIME_000110,Thời vua Lý Nhân Tông (1072–1127),Time,,1072–1127,thoi_vua_ly_nhan_tong_1072_1127,,,,approved
+TIME_000111,Năm 1602,Time,,1602,nam_1602,,,,approved
+TIME_000112,Ngày 31 tháng 12 năm 2014,Time,,31/12/2014|2014-12-31,ngay_31_thang_12_nam_2014,,,,approved
+TIME_000113,Từ mùng 3 đến mùng 7 tháng Ba âm lịch hằng năm,Time,,Mùng 3–7 tháng 3 âm lịch,tu_mung_3_den_mung_7_thang_ba_am_lich_hang_nam,,,,approved
+EVENT_000057,Lễ hội Chùa Thầy,Event,,Hội Chùa Thầy,le_hoi_chua_thay,,,,approved
+ACTIVITY_000037,Biểu diễn múa rối nước,Activity,,Múa rối nước tại thủy đình,bieu_dien_mua_roi_nuoc,,,,approved
+ACTIVITY_000038,Thực hành nghi lễ Phật giáo,Activity,,"Lễ tắm tượng, cúng Phật và chạy đàn",thuc_hanh_nghi_le_phat_giao,,,,approved
+ASTYLE_000014,Kiến trúc tiền Phật hậu Thánh,ArchitecturalStyle,,,kien_truc_tien_phat_hau_thanh,,,,approved
+ORG_000013,Ủy ban nhân dân huyện Quốc Oai (trước tháng 7/2025),Organization,,UBND huyện Quốc Oai,uy_ban_nhan_dan_huyen_quoc_oai_truoc_thang_7_2025,,,,approved

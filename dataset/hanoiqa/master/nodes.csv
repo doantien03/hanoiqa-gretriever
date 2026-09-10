@@ -816,3 +816,33 @@ ACTIVITY_000037,Biểu diễn múa rối nước,Activity,,Múa rối nước t�
 ACTIVITY_000038,Thực hành nghi lễ Phật giáo,Activity,,"Lễ tắm tượng, cúng Phật và chạy đàn",thuc_hanh_nghi_le_phat_giao,,,,approved
 ASTYLE_000014,Kiến trúc tiền Phật hậu Thánh,ArchitecturalStyle,,,kien_truc_tien_phat_hau_thanh,,,,approved
 ORG_000013,Ủy ban nhân dân huyện Quốc Oai (trước tháng 7/2025),Organization,,UBND huyện Quốc Oai,uy_ban_nhan_dan_huyen_quoc_oai_truoc_thang_7_2025,,,,approved
+PLACE_000029,Chùa Tây Phương,Place,,Sùng Phúc tự|Sùng Phúc Tự|Chùa Tây,chua_tay_phuong,,,,approved
+ADDRESS_000027,"Thôn Yên, xã Tây Phương, thành phố Hà Nội",Address,,"Thôn Yên, Tây Phương, Hà Nội",thon_yen_xa_tay_phuong_thanh_pho_ha_noi,,,,approved
+ADMIN_000012,Xã Tây Phương,AdministrativeArea,,,xa_tay_phuong,,,,approved
+LOCATION_000032,Núi Câu Lậu,Location,,Núi Câu Lâu|Núi Tây Phương,nui_cau_lau,,,,approved
+CATEGORY_000008,Di tích kiến trúc nghệ thuật,TourismCategory,,Di tích lịch sử - kiến trúc nghệ thuật,di_tich_kien_truc_nghe_thuat,,,,approved
+ARCH_000225,Tam quan hạ Chùa Tây Phương,Architecture,,,tam_quan_ha_chua_tay_phuong,,,,approved
+ARCH_000226,Tam quan thượng Chùa Tây Phương,Architecture,,,tam_quan_thuong_chua_tay_phuong,,,,approved
+ARCH_000227,Đường bậc đá ong lên Chùa Tây Phương,Architecture,,Bậc đá ong Chùa Tây Phương,duong_bac_da_ong_len_chua_tay_phuong,,,,approved
+ARCH_000228,Miếu Sơn thần Chùa Tây Phương,Architecture,,Đền Đức Ông Chùa Tây Phương,mieu_son_than_chua_tay_phuong,,,,approved
+ARCH_000229,Tiền đường Chùa Tây Phương,Architecture,,,tien_duong_chua_tay_phuong,,,,approved
+ARCH_000230,Trung đường Chùa Tây Phương,Architecture,,,trung_duong_chua_tay_phuong,,,,approved
+ARCH_000231,Thượng điện Chùa Tây Phương,Architecture,,Chùa Thượng Tây Phương,thuong_dien_chua_tay_phuong,,,,approved
+ARCH_000232,Nhà Tổ - Nhà Mẫu Chùa Tây Phương,Architecture,,,nha_to_nha_mau_chua_tay_phuong,,,,approved
+ARCH_000233,Nhà khách Chùa Tây Phương,Architecture,,,nha_khach_chua_tay_phuong,,,,approved
+HOBJ_000092,Bộ 34 pho tượng Phật giáo Chùa Tây Phương thời Tây Sơn,HeritageObject,,34 pho tượng Chùa Tây Phương|Bộ tượng Phật Chùa Tây Phương thời Tây Sơn,bo_34_pho_tuong_phat_giao_chua_tay_phuong_thoi_tay_son,,,,approved
+HOBJ_000093,Bộ tượng 18 vị La Hán Chùa Tây Phương,HeritageObject,,Thập bát vị La Hán Chùa Tây Phương,bo_tuong_18_vi_la_han_chua_tay_phuong,,,,approved
+HOBJ_000094,Bộ tượng Bát Bộ Kim Cương Chùa Tây Phương,HeritageObject,,Tám pho tượng Kim Cương,bo_tuong_bat_bo_kim_cuong_chua_tay_phuong,,,,approved
+HOBJ_000095,Bộ tượng Tam Thế Phật Chùa Tây Phương,HeritageObject,,,bo_tuong_tam_the_phat_chua_tay_phuong,,,,approved
+HOBJ_000096,Tượng Tuyết Sơn Chùa Tây Phương,HeritageObject,,,tuong_tuyet_son_chua_tay_phuong,,,,approved
+PERSON_000064,Mạc Phúc Nguyên,Person,,Vua Mạc Phúc Nguyên,mac_phuc_nguyen,,,,approved
+PERSON_000065,Trịnh Tạc,Person,,Chúa Tây Vương Trịnh Tạc,trinh_tac,,,,approved
+TIME_000114,Năm 1554,Time,,Năm Giáp Dần 1554|Quang Bảo nguyên niên,nam_1554,,,,approved
+TIME_000115,Năm 1660,Time,,Năm Canh Tý 1660,nam_1660,,,,approved
+HPERIOD_000003,Cuối thế kỷ XVIII,HistoricalPeriod,,Cuối thế kỷ 18,cuoi_the_ky_xviii,,,,approved
+TIME_000116,Năm 2015,Time,,2015,nam_2015,,,,approved
+TIME_000117,Ngày mùng 6 tháng Ba âm lịch hằng năm,Time,,Mùng 6 tháng 3 âm lịch,ngay_mung_6_thang_ba_am_lich_hang_nam,,,,approved
+EVENT_000058,Lễ hội Chùa Tây Phương,Event,,Hội Chùa Tây Phương,le_hoi_chua_tay_phuong,,,,approved
+ACTIVITY_000039,Tham gia trò chơi và diễn xướng dân gian,Activity,,"Kéo co, đánh cờ, vật, chọi gà, rối nước và hát xứ Đoài",tham_gia_tro_choi_va_dien_xuong_dan_gian,,,,approved
+MATERIAL_000013,Gỗ mít,Material,,,go_mit,,,,approved
+ASTYLE_000015,Kiến trúc chồng diêm hai tầng tám mái,ArchitecturalStyle,,Chồng diêm hai tầng tám mái|Tàu đao lá mái,kien_truc_chong_diem_hai_tang_tam_mai,,,,approved

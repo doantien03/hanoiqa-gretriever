@@ -907,3 +907,30 @@ EVENT_000061,Phát hiện dòng chữ sau bệ tượng Đức Ông năm 1962,Ev
 ACTIVITY_000043,Tham quan và chiêm bái Chùa Bộc,Activity,,Dâng hương tại Chùa Bộc,tham_quan_va_chiem_bai_chua_boc,,,,approved
 ACTIVITY_000044,Cầu siêu cho người tử trận,Activity,,Cầu siêu vong linh quân Thanh,cau_sieu_cho_nguoi_tu_tran,,,,approved
 ORG_000015,Bộ Văn hóa năm 1964,Organization,,Bộ Văn hóa,bo_van_hoa_nam_1964,,,,approved
+PLACE_000037,Chùa Láng,Place,,,chua_lang,,,,approved
+ADDRESS_000030,"Số 116 phố Chùa Láng, phường Láng, thành phố Hà Nội",Address,,"116 Chùa Láng, phường Láng, Hà Nội",so_116_pho_chua_lang_phuong_lang_thanh_pho_ha_noi,,,,approved
+ADMIN_000015,Phường Láng,AdministrativeArea,,,phuong_lang,,,,approved
+VALUE_000065,17.917 m²,Value,,17917 m2|Diện tích khuôn viên 17.917 m²,17_917_m,17917,m²,area,approved
+TIME_000127,Thời vua Lý Anh Tông (1138–1175),Time,,1138–1175,thoi_vua_ly_anh_tong_1138_1175,,,,approved
+TIME_000128,Năm 1656,Time,,Thịnh Đức thứ tư|1656,nam_1656,,,,approved
+TIME_000129,Ngày 28 tháng 4 năm 1962,Time,,28/4/1962|1962-04-28,ngay_28_thang_4_nam_1962,,,,approved
+TIME_000130,Mùng 7 tháng Ba âm lịch hằng năm,Time,,Ngày chính hội Chùa Láng,mung_7_thang_ba_am_lich_hang_nam,,,,approved
+ARCH_000253,Tam Quan Ngoại Chùa Láng,Architecture,,Nghi môn Chùa Láng,tam_quan_ngoai_chua_lang,,,,approved
+ARCH_000254,Tam Quan Nội Chùa Láng,Architecture,,,tam_quan_noi_chua_lang,,,,approved
+ARCH_000255,Hai dãy Dải Vũ Chùa Láng,Architecture,,,hai_day_dai_vu_chua_lang,,,,approved
+ARCH_000256,Nhà Bát Giác Chùa Láng,Architecture,,Nhà Bảo Cái,nha_bat_giac_chua_lang,,,,approved
+ARCH_000257,Tiền Đường Chùa Láng,Architecture,,,tien_duong_chua_lang,,,,approved
+ARCH_000258,Trung Đường Chùa Láng,Architecture,,,trung_duong_chua_lang,,,,approved
+ARCH_000259,Thượng Điện Chùa Láng,Architecture,,,thuong_dien_chua_lang,,,,approved
+ARCH_000260,Hai dãy Hành Lang Chùa Láng,Architecture,,,hai_day_hanh_lang_chua_lang,,,,approved
+ARCH_000261,Nhà Chuông và Nhà Khánh Chùa Láng,Architecture,,,nha_chuong_va_nha_khanh_chua_lang,,,,approved
+ARCH_000262,Khu Nhà Tổ và Nhà Mẫu Chùa Láng,Architecture,,,khu_nha_to_va_nha_mau_chua_lang,,,,approved
+HOBJ_000102,Tượng Thiền sư Từ Đạo Hạnh bằng mây phủ sơn,HeritageObject,,Tượng Đức Thánh Láng bằng mây cuộn,tuong_thien_su_tu_dao_hanh_bang_may_phu_son,,,,approved
+HOBJ_000103,Tượng vua Lý Thần Tông bằng gỗ mít,HeritageObject,,,tuong_vua_ly_than_tong_bang_go_mit,,,,approved
+HOBJ_000104,Án Văn chạm rồng thế kỷ XVII,HeritageObject,,,an_van_cham_rong_the_ky_xvii,,,,approved
+HOBJ_000105,Hai cỗ kiệu rước chạm rồng thế kỷ XVIII,HeritageObject,,,hai_co_kieu_ruoc_cham_rong_the_ky_xviii,,,,approved
+HOBJ_000106,Bộ sưu tập 198 pho tượng Chùa Láng,HeritageObject,,198 pho tượng Phật lớn nhỏ,bo_suu_tap_198_pho_tuong_chua_lang,,,,approved
+HOBJ_000107,Bộ sắc phong cho Từ Đạo Hạnh và Lý Thần Tông,HeritageObject,,"Các đạo sắc phong thời Lê, Tây Sơn và Nguyễn",bo_sac_phong_cho_tu_dao_hanh_va_ly_than_tong,,,,approved
+HOBJ_000108,Bia Chiêu Thiền tự tạo lệ bi,HeritageObject,,Chiêu Thiền Tự Tạo Lệ Bi,bia_chieu_thien_tu_tao_le_bi,,,,approved
+EVENT_000062,Lễ hội truyền thống Chùa Láng,Event,,Hội Chùa Láng|Hội Láng,le_hoi_truyen_thong_chua_lang,,,,approved
+ACTIVITY_000045,Trò chơi dân gian Hội Chùa Láng,Activity,,"Đấu võ, chọi gà, cờ người, đập niêu và thổi cơm thi",tro_choi_dan_gian_hoi_chua_lang,,,,approved

@@ -505,3 +505,19 @@ EVD_000503,SRC_000181,PLACE_000037,current_festival_practice,"Lễ hội năm 20
 EVD_000504,SRC_000182,PLACE_000037,festival_opening_2026,"Ngày chính hội năm 2026 khai mạc sáng 23/4, tức mùng 7 tháng Ba âm lịch, với sự tham dự của người dân địa phương và du khách.",normalized_summary,approved
 EVD_000505,SRC_000183,PLACE_000037,saint_memorial,Lễ kỵ Đức Thánh Láng được duy trì hằng năm để tưởng niệm ngày hóa và tri ân công đức của Thiền sư Từ Đạo Hạnh.,normalized_summary,approved
 EVD_000506,SRC_000178,PLACE_000037,visitor_and_research_value,"Chùa là nơi nghiên cứu lịch sử Phật giáo, kiến trúc, điêu khắc và mỹ thuật, đồng thời thể hiện sự dung hòa giữa tín ngưỡng bản địa với Phật giáo.",normalized_summary,approved
+EVD_000507,SRC_000184,PLACE_000038,current_address,"Địa chỉ được công bố là số 88 phố Chùa Hà; địa danh hiện thuộc phường Cầu Giấy, thành phố Hà Nội.",normalized_summary,approved
+EVD_000508,SRC_000184,PLACE_000038,classification,Chùa Hà là một ngôi chùa cổ; hồ sơ phân loại di tích gồm di tích nghệ thuật và di tích cách mạng kháng chiến.,normalized_summary,approved
+EVD_000509,SRC_000184,PLACE_000038,heritage_recognition,"Di tích được xếp hạng ở cấp Bộ Văn hóa và Thông tin, ghi năm xếp hạng 1996 và Quyết định số 310/QĐ-BT ngày 13/02/1995.",normalized_summary,approved
+EVD_000510,SRC_000185,PLACE_000038,name_and_complex,Chùa có tên tự là Thánh Đức Tự và cùng Đình Bối Hà tạo thành cụm di tích Đình – Chùa Hà.,normalized_summary,approved
+EVD_000511,SRC_000185,PLACE_000038,visitor_activity,"Người dân và du khách đến hành lễ, đặc biệt đông vào dịp đầu xuân và Rằm tháng Giêng; địa điểm nổi tiếng với tập tục cầu tình duyên.",normalized_summary,approved
+EVD_000512,SRC_000186,PLACE_000038,management,"Tiểu ban quản lý di tích thực hiện chỉnh trang cảnh quan, vệ sinh khuôn viên và các khu vực hành lễ; di tích được giới thiệu bằng mã QR.",normalized_summary,approved
+EVD_000513,SRC_000187,PLACE_000038,ly_dynasty_tradition,"Theo truyền thuyết, Lý Thánh Tông ghé chùa và ban tiền trùng tu sau việc cầu tự dẫn tới sự ra đời của Thái tử Càn Đức, sau là Lý Nhân Tông; tên Thánh Đức tự gắn với câu chuyện này.",normalized_summary,approved
+EVD_000514,SRC_000187,PLACE_000038,le_dynasty_tradition,Một truyền thuyết khác gắn việc dựng chùa với Lê Thánh Tông và sự kiện nhà vua lên ngôi năm 1460.,normalized_summary,approved
+EVD_000515,SRC_000187,PLACE_000038,renovation,"Dưới đời Lê Hy Tông, hai gia đình quê Thổ Hà cùng dân trong xóm góp tiền xây dựng lại chùa quy mô lớn bằng gạch và ngói vào năm Chính Hòa 1680.",normalized_summary,approved
+EVD_000516,SRC_000187,PLACE_000038,tam_quan_architecture,Tam quan được xây hai tầng; tầng trên theo kiểu chồng diêm và treo chuông đồng Thánh Đức tự chung.,normalized_summary,approved
+EVD_000517,SRC_000187,PLACE_000038,bell,"Chuông đồng Thánh Đức tự chung mang niên hiệu Cảnh Thịnh thứ 7, tương ứng năm 1799, là di vật thời Tây Sơn còn được bảo quản.",normalized_summary,approved
+EVD_000518,SRC_000187,PLACE_000038,steles,"Bên hồ có bia đá bốn mặt Thánh Đức tự bi tạo năm Chính Hòa thứ 16, tức năm 1695; phía trước chùa có nhóm bia hậu tạo vào cuối thời Nguyễn.",normalized_summary,approved
+EVD_000519,SRC_000187,PLACE_000038,rear_stele_count,"Nhóm bia hậu ở bên phải phía trước cửa chùa gồm chính xác 18 tấm, ghi việc tu sửa và gửi hậu tại chùa.",normalized_summary,approved
+EVD_000520,SRC_000188,PLACE_000038,main_architecture,"Chùa chính kết cấu kiểu chữ Đinh, gồm Tiền đường và Thượng điện; Tam bảo có năm gian rộng.",normalized_summary,approved
+EVD_000521,SRC_000188,PLACE_000038,mother_goddess_hall,Phía sau chính điện là Điện Mẫu; tại đây người đi lễ Mẫu cầu mong nhân duyên tốt đẹp.,normalized_summary,approved
+EVD_000522,SRC_000187,PLACE_000038,revolutionary_status,"Năm 1982, chùa được gắn biển Di tích cách mạng; tháng 12 năm 1996, chùa được xếp hạng bảo tồn.",normalized_summary,approved

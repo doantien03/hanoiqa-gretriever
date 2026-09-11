@@ -846,3 +846,34 @@ EVENT_000058,Lễ hội Chùa Tây Phương,Event,,Hội Chùa Tây Phương,le_
 ACTIVITY_000039,Tham gia trò chơi và diễn xướng dân gian,Activity,,"Kéo co, đánh cờ, vật, chọi gà, rối nước và hát xứ Đoài",tham_gia_tro_choi_va_dien_xuong_dan_gian,,,,approved
 MATERIAL_000013,Gỗ mít,Material,,,go_mit,,,,approved
 ASTYLE_000015,Kiến trúc chồng diêm hai tầng tám mái,ArchitecturalStyle,,Chồng diêm hai tầng tám mái|Tàu đao lá mái,kien_truc_chong_diem_hai_tang_tam_mai,,,,approved
+PLACE_000030,Chùa Hương,Place,,Quần thể Hương Sơn|Quần thể danh thắng Hương Sơn|Quần thể Chùa Hương|Di tích lịch sử và danh lam thắng cảnh Quần thể Hương Sơn,chua_huong,,,,approved
+ADDRESS_000028,"Quần thể Hương Sơn tại các thôn Yến Vỹ, Đục Khê, Hội Xá và Phú Yên, xã Hương Sơn, thành phố Hà Nội",Address,,"Khu di tích Chùa Hương, xã Hương Sơn, Hà Nội",quan_the_huong_son_tai_cac_thon_yen_vy_duc_khe_hoi_xa_va_phu_yen_xa_huong_son_thanh_pho_ha_noi,,,,approved
+ADMIN_000013,Xã Hương Sơn,AdministrativeArea,,,xa_huong_son,,,,approved
+LOCATION_000033,Núi Hương Sơn,Location,,Vùng núi đá vôi Hương Sơn,nui_huong_son,,,,approved
+LOCATION_000034,Suối Yến,Location,,Dòng suối Yến,suoi_yen,,,,approved
+ARCH_000234,Đền Trình Ngũ Nhạc,Architecture,,Đền Trình|Đền Ngũ Nhạc,den_trinh_ngu_nhac,,,,approved
+ARCH_000235,Chùa Thiên Trù,Architecture,,Thiên Trù tự|Chùa Ngoài,chua_thien_tru,,,,approved
+PLACE_000031,Động Tiên Sơn,Place,,,dong_tien_son,,,,approved
+ARCH_000236,Chùa Giải Oan,Architecture,,,chua_giai_oan,,,,approved
+ARCH_000237,Đền Cửa Võng,Architecture,,Chấn Song linh từ,den_cua_vong,,,,approved
+PLACE_000032,Động Hương Tích,Place,,Chùa Trong,dong_huong_tich,,,,approved
+PLACE_000033,Động Hinh Bồng,Place,,,dong_hinh_bong,,,,approved
+ARCH_000238,Chùa Long Vân,Architecture,,,chua_long_van,,,,approved
+PLACE_000034,Động Long Vân,Place,,,dong_long_van,,,,approved
+ARCH_000239,Chùa Bảo Đài,Architecture,,,chua_bao_dai,,,,approved
+PLACE_000035,Động Ngọc Long,Place,,,dong_ngoc_long,,,,approved
+ARCH_000240,Chùa Ngư Trì,Architecture,,,chua_ngu_tri,,,,approved
+ARCH_000241,Đền Trình Phú Yên,Architecture,,,den_trinh_phu_yen,,,,approved
+PERSON_000066,Bồ Tát Quán Thế Âm,Person,,Phật Bà Quan Âm|Bà Chúa Ba|Công chúa Diệu Thiện,bo_tat_quan_the_am,,,,approved
+PERSON_000067,Hòa thượng Trần Đạo Viên Quang,Person,,Viên Quang Chân nhân,hoa_thuong_tran_dao_vien_quang,,,,approved
+TIME_000118,Thời vua Lê Thánh Tông (1442–1497),Time,,1442–1497,thoi_vua_le_thanh_tong_1442_1497,,,,approved
+TIME_000119,Nửa cuối thế kỷ XVII,Time,,,nua_cuoi_the_ky_xvii,,,,approved
+TIME_000120,Ngày 25 tháng 12 năm 2017,Time,,25/12/2017|2017-12-25,ngay_25_thang_12_nam_2017,,,,approved
+TIME_000121,Ngày 19 tháng 5 năm 1958,Time,,19/5/1958|1958-05-19,ngay_19_thang_5_nam_1958,,,,approved
+EVENT_000059,Lễ hội Du lịch Chùa Hương năm 2026,Event,,,le_hoi_du_lich_chua_huong_nam_2026,,,,approved
+TIME_000122,Từ ngày 18 tháng 2 đến ngày 11 tháng 5 năm 2026,Time,,Từ mùng 2 tháng Giêng đến 25 tháng Ba năm Bính Ngọ,tu_ngay_18_thang_2_den_ngay_11_thang_5_nam_2026,,,,approved
+EVENT_000060,Chủ tịch Hồ Chí Minh thăm thắng cảnh Hương Sơn năm 1958,Event,,Bác Hồ thăm Chùa Hương,chu_tich_ho_chi_minh_tham_thang_canh_huong_son_nam_1958,,,,approved
+ACTIVITY_000040,Đi đò trên Suối Yến,Activity,,"Vận chuyển khách bằng đò, thuyền trên Suối Yến",di_do_tren_suoi_yen,,,,approved
+ACTIVITY_000041,Hành hương và chiêm bái,Activity,,Trẩy hội Chùa Hương,hanh_huong_va_chiem_bai,,,,approved
+ACTIVITY_000042,Tham quan hang động và cảnh quan Hương Sơn,Activity,,Vãn cảnh Chùa Hương,tham_quan_hang_dong_va_canh_quan_huong_son,,,,approved
+ORG_000014,Ban Quản lý Khu di tích và thắng cảnh Hương Sơn,Organization,,Ban Quản lý di tích và thắng cảnh Hương Sơn,ban_quan_ly_khu_di_tich_va_thang_canh_huong_son,,,,approved

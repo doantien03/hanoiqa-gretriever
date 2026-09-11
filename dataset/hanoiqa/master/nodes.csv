@@ -877,3 +877,33 @@ ACTIVITY_000040,Đi đò trên Suối Yến,Activity,,"Vận chuyển khách b�
 ACTIVITY_000041,Hành hương và chiêm bái,Activity,,Trẩy hội Chùa Hương,hanh_huong_va_chiem_bai,,,,approved
 ACTIVITY_000042,Tham quan hang động và cảnh quan Hương Sơn,Activity,,Vãn cảnh Chùa Hương,tham_quan_hang_dong_va_canh_quan_huong_son,,,,approved
 ORG_000014,Ban Quản lý Khu di tích và thắng cảnh Hương Sơn,Organization,,Ban Quản lý di tích và thắng cảnh Hương Sơn,ban_quan_ly_khu_di_tich_va_thang_canh_huong_son,,,,approved
+PLACE_000036,Chùa Bộc,Place,,,chua_boc,,,,approved
+ADDRESS_000029,"Số 25 phố Chùa Bộc, phường Kim Liên, thành phố Hà Nội",Address,,"25 Chùa Bộc, Kim Liên, Hà Nội",so_25_pho_chua_boc_phuong_kim_lien_thanh_pho_ha_noi,,,,approved
+ADMIN_000014,Phường Kim Liên,AdministrativeArea,,,phuong_kim_lien,,,,approved
+ARCH_000242,Tam Quan Ngoại Chùa Bộc,Architecture,,,tam_quan_ngoai_chua_boc,,,,approved
+LOCATION_000035,Hồ Tắm Tượng,Location,,Hồ Tắm Voi,ho_tam_tuong,,,,approved
+ARCH_000243,Tam Quan Nội Chùa Bộc,Architecture,,,tam_quan_noi_chua_boc,,,,approved
+ARCH_000244,Tiền Đường Chùa Bộc,Architecture,,,tien_duong_chua_boc,,,,approved
+ARCH_000245,Thượng Điện Chùa Bộc,Architecture,,,thuong_dien_chua_boc,,,,approved
+ARCH_000246,Hai dãy Hành Lang Chùa Bộc,Architecture,,Nhà Khách Chùa Bộc,hai_day_hanh_lang_chua_boc,,,,approved
+ARCH_000247,Nhà Tổ Chùa Bộc,Architecture,,,nha_to_chua_boc,,,,approved
+ARCH_000248,Tiền Tế Nhà Tổ Chùa Bộc,Architecture,,,tien_te_nha_to_chua_boc,,,,approved
+ARCH_000249,Hậu Cung Nhà Tổ Chùa Bộc,Architecture,,,hau_cung_nha_to_chua_boc,,,,approved
+ARCH_000250,Thanh Miếu Chùa Bộc,Architecture,,Miếu thờ vong hồn quân Thanh,thanh_mieu_chua_boc,,,,approved
+ARCH_000251,Vườn Tháp Chùa Bộc,Architecture,,Khu năm tháp mộ Chùa Bộc,vuon_thap_chua_boc,,,,approved
+ARCH_000252,Nhà trưng bày Chiến thắng Đống Đa tại Chùa Bộc,Architecture,,,nha_trung_bay_chien_thang_dong_da_tai_chua_boc,,,,approved
+HOBJ_000097,Tượng Đức Ông - Quang Trung tại Chùa Bộc,HeritageObject,,Tượng Đức Ông Chùa Bộc|Tượng vua Quang Trung Chùa Bộc,tuong_duc_ong_quang_trung_tai_chua_boc,,,,approved
+HOBJ_000098,Bộ tượng Tam Thế Phật Chùa Bộc,HeritageObject,,Ba pho tượng Tam Thế Phật bằng gỗ mít,bo_tuong_tam_the_phat_chua_boc,,,,approved
+HOBJ_000099,Chuông đồng Chùa Bộc,HeritageObject,,,chuong_dong_chua_boc,,,,approved
+HOBJ_000100,Bia Trùng tu Sùng Phúc tự năm 1676,HeritageObject,,Bia Trùng tu Sùng Phúc tự,bia_trung_tu_sung_phuc_tu_nam_1676,,,,approved
+HOBJ_000101,"Bia Tái tạo Sùng Phúc tự, Phật tượng các tòa bi ký năm 1792",HeritageObject,,Bia tái tạo Sùng Phúc tự năm Quang Trung thứ tư,bia_tai_tao_sung_phuc_tu_phat_tuong_cac_toa_bi_ky_nam_1792,,,,approved
+PERSON_000068,Tăng thống Lê Đình Lượng,Person,,Thiền sư Lê Đình Lượng|Đức Trường,tang_thong_le_dinh_luong,,,,approved
+PERSON_000069,Vũ Viết Hoa,Person,,Sắc mục Vũ Viết Hoa,vu_viet_hoa,,,,approved
+TIME_000123,Năm 1676,Time,,Vĩnh Trị nguyên niên|1676,nam_1676,,,,approved
+TIME_000124,Năm 1792,Time,,Quang Trung thứ tư|Nhâm Tý 1792,nam_1792,,,,approved
+TIME_000125,Ngày 22 tháng 4 năm 1962,Time,,22/4/1962|1962-04-22,ngay_22_thang_4_nam_1962,,,,approved
+TIME_000126,Giai đoạn 1997–1998,Time,,1997-1998,giai_doan_1997_1998,,,,approved
+EVENT_000061,Phát hiện dòng chữ sau bệ tượng Đức Ông năm 1962,Event,,,phat_hien_dong_chu_sau_be_tuong_duc_ong_nam_1962,,,,approved
+ACTIVITY_000043,Tham quan và chiêm bái Chùa Bộc,Activity,,Dâng hương tại Chùa Bộc,tham_quan_va_chiem_bai_chua_boc,,,,approved
+ACTIVITY_000044,Cầu siêu cho người tử trận,Activity,,Cầu siêu vong linh quân Thanh,cau_sieu_cho_nguoi_tu_tran,,,,approved
+ORG_000015,Bộ Văn hóa năm 1964,Organization,,Bộ Văn hóa,bo_van_hoa_nam_1964,,,,approved

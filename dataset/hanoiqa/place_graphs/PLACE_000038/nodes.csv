@@ -1,0 +1,37 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000046,Hành lễ,Activity,,Đi lễ|Dâng lễ,hanh_le,,,,approved
+ACTIVITY_000047,Cầu duyên,Activity,,Cầu tình duyên,cau_duyen,,,,approved
+ADDRESS_000031,"Số 88 phố Chùa Hà, phường Cầu Giấy, thành phố Hà Nội",Address,,"88 phố Chùa Hà, Cầu Giấy, Hà Nội",so_88_pho_chua_ha_phuong_cau_giay_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000016,Phường Cầu Giấy,AdministrativeArea,ward,,phuong_cau_giay,,,,approved
+ARCH_000263,Tam quan Chùa Hà,Architecture,,Cổng tam quan Chùa Hà,tam_quan_chua_ha,,,,approved
+ARCH_000264,Chùa chính Chùa Hà,Architecture,,Chính điện Chùa Hà,chua_chinh_chua_ha,,,,approved
+ARCH_000265,Tiền đường Chùa Hà,Architecture,,,tien_duong_chua_ha,,,,approved
+ARCH_000266,Thượng điện Chùa Hà,Architecture,,,thuong_dien_chua_ha,,,,approved
+ARCH_000267,Tam bảo Chùa Hà,Architecture,,,tam_bao_chua_ha,,,,approved
+ARCH_000268,Điện Mẫu Chùa Hà,Architecture,,,dien_mau_chua_ha,,,,approved
+ASTYLE_000016,Mặt bằng kiểu chữ Đinh,ArchitecturalStyle,,Kết cấu kiểu chữ Đinh,mat_bang_kieu_chu_dinh,,,,approved
+ASTYLE_000017,Kiến trúc chồng diêm,ArchitecturalStyle,,Kiểu chồng diêm,kien_truc_chong_diem,,,,approved
+CATEGORY_000006,Cơ sở tôn giáo,TourismCategory,,Chùa Phật giáo,co_so_ton_giao,,,,approved
+DYNASTY_000006,Nhà Nguyễn,Dynasty,,Triều Nguyễn,nha_nguyen,,,,approved
+DYNASTY_000007,Nhà Tây Sơn,Dynasty,,Triều Tây Sơn|Vương triều Tây Sơn,nha_tay_son,,,,approved
+HOBJ_000109,Chuông Thánh Đức tự chung,HeritageObject,,Chuông đồng Thánh Đức tự chung,chuong_thanh_duc_tu_chung,,,,approved
+HOBJ_000110,Bia bốn mặt Thánh Đức tự bi,HeritageObject,,Thánh Đức tự bi,bia_bon_mat_thanh_duc_tu_bi,,,,approved
+HOBJ_000111,Nhóm bia hậu Chùa Hà,HeritageObject,,18 tấm bia hậu Chùa Hà,nhom_bia_hau_chua_ha,,,,approved
+HSTATUS_000007,Di tích nghệ thuật,HeritageStatus,,,di_tich_nghe_thuat,,,,approved
+HSTATUS_000008,Di tích cách mạng kháng chiến,HeritageStatus,,Di tích cách mạng,di_tich_cach_mang_khang_chien,,,,approved
+MATERIAL_000003,Gạch,Material,,,gach,,,,approved
+MATERIAL_000011,Đồng,Material,,,dong,,,,approved
+MATERIAL_000014,Ngói,Material,,Gạch ngói,ngoi,,,,approved
+ORG_000016,Bộ Văn hóa và Thông tin,Organization,,Bộ Văn hoá - Thông tin,bo_van_hoa_va_thong_tin,,,,approved
+ORG_000017,Tiểu ban quản lý di tích Đình – Chùa Hà,Organization,,Ban quản lý Chùa Hà|Tiểu BQL di tích Chùa Hà,tieu_ban_quan_ly_di_tich_dinh_chua_ha,,,,approved
+PERSON_000003,Lê Thánh Tông,Person,,,le_thanh_tong,,,,approved
+PERSON_000008,Lý Thánh Tông,Person,,Vua Lý Thánh Tông,ly_thanh_tong,,,,approved
+PERSON_000009,Lý Nhân Tông,Person,,Vua Lý Nhân Tông|Càn Đức,ly_nhan_tong,,,,approved
+PERSON_000070,Lê Hy Tông,Person,,Vua Lê Hy Tông,le_hy_tong,,,,approved
+PLACE_000038,Chùa Hà,Place,,Thánh Đức tự|Thánh Đức Tự,chua_ha,,,,approved
+PLACE_000039,Cụm di tích Đình – Chùa Hà,Place,,Đình - Chùa Hà,cum_di_tich_dinh_chua_ha,,,,approved
+PLACE_000040,Đình Bối Hà,Place,,Đình Hà,dinh_boi_ha,,,,approved
+TIME_000131,Năm 1680,Time,,Năm Chính Hòa 1680,nam_1680,,,,approved
+TIME_000132,Năm 1996,Time,,Tháng 12 năm 1996,nam_1996,,,,approved
+VALUE_000066,18 tấm bia,Value,,Số lượng bia hậu: 18,18_tam_bia,18,tấm bia,count,approved

@@ -1,0 +1,458 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_caugiay_profile",
+      "title": "Chùa Hà",
+      "url": "https://caugiay.hanoi.gov.vn/di-tich-lich-su-le-hoi/chua-ha-280525062617424818.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-11",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_2025",
+      "title": "Thảnh thơi đi lễ ngày Rằm tại Đình – Chùa Hà",
+      "url": "https://sovhtt.hanoi.gov.vn/thanh-thoi-di-le-ngay-ram-tai-dinh-chua-ha/",
+      "source_type": "provincial_culture_portal",
+      "retrieved_at": "2026-09-11",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_sovhtt_2024",
+      "title": "Nhiều điểm mới trong công tác quản lý và tổ chức lễ hội tại các địa phương",
+      "url": "https://sovhtt.hanoi.gov.vn/nhieu-diem-moi-trong-cong-tac-quan-ly-va-to-chuc-le-hoi-tai-cac-dia-phuong/",
+      "source_type": "provincial_culture_portal",
+      "retrieved_at": "2026-09-11",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_world_heritage",
+      "title": "Chùa Hà",
+      "url": "https://thegioidisan.vn/vi/chua-ha.html",
+      "source_type": "heritage_journal",
+      "retrieved_at": "2026-09-11",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_ldtd_2020",
+      "title": "Đầu xuân đi lễ Chùa Hà",
+      "url": "https://laodongthudo.vn/dau-xuan-di-le-chua-ha-103378.html",
+      "source_type": "press",
+      "retrieved_at": "2026-09-11",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Chùa Hà",
+      "aliases": ["Thánh Đức tự", "Thánh Đức Tự"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 88 phố Chùa Hà, phường Cầu Giấy, thành phố Hà Nội",
+      "aliases": ["88 phố Chùa Hà, Cầu Giấy, Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "ward_cau_giay",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Cầu Giấy",
+      "admin_level": "ward",
+      "match": "new"
+    },
+    {
+      "key": "city_hanoi",
+      "type": "AdministrativeArea",
+      "canonical_name": "Thành phố Hà Nội",
+      "match": "existing",
+      "existing_id": "ADMIN_000002"
+    },
+    {
+      "key": "complex",
+      "type": "Place",
+      "canonical_name": "Cụm di tích Đình – Chùa Hà",
+      "aliases": ["Đình - Chùa Hà"],
+      "match": "new"
+    },
+    {
+      "key": "dinh_boi_ha",
+      "type": "Place",
+      "canonical_name": "Đình Bối Hà",
+      "aliases": ["Đình Hà"],
+      "match": "new"
+    },
+    {
+      "key": "category_buddhist_temple",
+      "type": "TourismCategory",
+      "canonical_name": "Cơ sở tôn giáo",
+      "aliases": ["Chùa Phật giáo"],
+      "match": "existing",
+      "existing_id": "CATEGORY_000006"
+    },
+    {
+      "key": "tam_quan",
+      "type": "Architecture",
+      "canonical_name": "Tam quan Chùa Hà",
+      "aliases": ["Cổng tam quan Chùa Hà"],
+      "match": "new"
+    },
+    {
+      "key": "main_pagoda",
+      "type": "Architecture",
+      "canonical_name": "Chùa chính Chùa Hà",
+      "aliases": ["Chính điện Chùa Hà"],
+      "match": "new"
+    },
+    {
+      "key": "tien_duong",
+      "type": "Architecture",
+      "canonical_name": "Tiền đường Chùa Hà",
+      "match": "new"
+    },
+    {
+      "key": "thuong_dien",
+      "type": "Architecture",
+      "canonical_name": "Thượng điện Chùa Hà",
+      "match": "new"
+    },
+    {
+      "key": "tam_bao",
+      "type": "Architecture",
+      "canonical_name": "Tam bảo Chùa Hà",
+      "match": "new"
+    },
+    {
+      "key": "dien_mau",
+      "type": "Architecture",
+      "canonical_name": "Điện Mẫu Chùa Hà",
+      "match": "new"
+    },
+    {
+      "key": "bell",
+      "type": "HeritageObject",
+      "canonical_name": "Chuông Thánh Đức tự chung",
+      "aliases": ["Chuông đồng Thánh Đức tự chung"],
+      "match": "new"
+    },
+    {
+      "key": "stele_thanh_duc",
+      "type": "HeritageObject",
+      "canonical_name": "Bia bốn mặt Thánh Đức tự bi",
+      "aliases": ["Thánh Đức tự bi"],
+      "match": "new"
+    },
+    {
+      "key": "rear_steles",
+      "type": "HeritageObject",
+      "canonical_name": "Nhóm bia hậu Chùa Hà",
+      "aliases": ["18 tấm bia hậu Chùa Hà"],
+      "match": "new"
+    },
+    {
+      "key": "bronze",
+      "type": "Material",
+      "canonical_name": "Đồng",
+      "match": "existing",
+      "existing_id": "MATERIAL_000011"
+    },
+    {
+      "key": "brick",
+      "type": "Material",
+      "canonical_name": "Gạch",
+      "match": "existing",
+      "existing_id": "MATERIAL_000003"
+    },
+    {
+      "key": "roof_tile",
+      "type": "Material",
+      "canonical_name": "Ngói",
+      "aliases": ["Gạch ngói"],
+      "match": "new"
+    },
+    {
+      "key": "style_dinh_plan",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Mặt bằng kiểu chữ Đinh",
+      "aliases": ["Kết cấu kiểu chữ Đinh"],
+      "match": "new"
+    },
+    {
+      "key": "style_chong_diem",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc chồng diêm",
+      "aliases": ["Kiểu chồng diêm"],
+      "match": "new"
+    },
+    {
+      "key": "time_1680",
+      "type": "Time",
+      "canonical_name": "Năm 1680",
+      "aliases": ["Năm Chính Hòa 1680"],
+      "match": "new"
+    },
+    {
+      "key": "time_1996",
+      "type": "Time",
+      "canonical_name": "Năm 1996",
+      "aliases": ["Tháng 12 năm 1996"],
+      "match": "new"
+    },
+    {
+      "key": "ly_thanh_tong",
+      "type": "Person",
+      "canonical_name": "Lý Thánh Tông",
+      "match": "existing",
+      "existing_id": "PERSON_000008"
+    },
+    {
+      "key": "ly_nhan_tong",
+      "type": "Person",
+      "canonical_name": "Lý Nhân Tông",
+      "match": "existing",
+      "existing_id": "PERSON_000009"
+    },
+    {
+      "key": "le_thanh_tong",
+      "type": "Person",
+      "canonical_name": "Lê Thánh Tông",
+      "match": "existing",
+      "existing_id": "PERSON_000003"
+    },
+    {
+      "key": "tay_son_dynasty",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Tây Sơn",
+      "match": "existing",
+      "existing_id": "DYNASTY_000007"
+    },
+    {
+      "key": "nguyen_dynasty",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Nguyễn",
+      "match": "existing",
+      "existing_id": "DYNASTY_000006"
+    },
+    {
+      "key": "le_hy_tong",
+      "type": "Person",
+      "canonical_name": "Lê Hy Tông",
+      "aliases": ["Vua Lê Hy Tông"],
+      "match": "new"
+    },
+    {
+      "key": "ministry_culture_information",
+      "type": "Organization",
+      "canonical_name": "Bộ Văn hóa và Thông tin",
+      "aliases": ["Bộ Văn hoá - Thông tin"],
+      "match": "new"
+    },
+    {
+      "key": "status_art_relic",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích nghệ thuật",
+      "match": "new"
+    },
+    {
+      "key": "status_revolutionary_relic",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích cách mạng kháng chiến",
+      "aliases": ["Di tích cách mạng"],
+      "match": "new"
+    },
+    {
+      "key": "management_board",
+      "type": "Organization",
+      "canonical_name": "Tiểu ban quản lý di tích Đình – Chùa Hà",
+      "aliases": ["Ban quản lý Chùa Hà", "Tiểu BQL di tích Chùa Hà"],
+      "match": "new"
+    },
+    {
+      "key": "activity_worship",
+      "type": "Activity",
+      "canonical_name": "Hành lễ",
+      "aliases": ["Đi lễ", "Dâng lễ"],
+      "match": "new"
+    },
+    {
+      "key": "activity_matchmaking_prayer",
+      "type": "Activity",
+      "canonical_name": "Cầu duyên",
+      "aliases": ["Cầu tình duyên"],
+      "match": "new"
+    },
+    {
+      "key": "rear_stele_count",
+      "type": "Value",
+      "canonical_name": "18 tấm bia",
+      "aliases": ["Số lượng bia hậu: 18"],
+      "numeric_value": 18,
+      "unit": "tấm bia",
+      "value_kind": "count",
+      "match": "new"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address_current",
+      "source": "src_caugiay_profile",
+      "topic": "current_address",
+      "normalized_text": "Địa chỉ được công bố là số 88 phố Chùa Hà; địa danh hiện thuộc phường Cầu Giấy, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_category_status",
+      "source": "src_caugiay_profile",
+      "topic": "classification",
+      "normalized_text": "Chùa Hà là một ngôi chùa cổ; hồ sơ phân loại di tích gồm di tích nghệ thuật và di tích cách mạng kháng chiến.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_official_recognition",
+      "source": "src_caugiay_profile",
+      "topic": "heritage_recognition",
+      "normalized_text": "Di tích được xếp hạng ở cấp Bộ Văn hóa và Thông tin, ghi năm xếp hạng 1996 và Quyết định số 310/QĐ-BT ngày 13/02/1995.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_name_complex",
+      "source": "src_sovhtt_2025",
+      "topic": "name_and_complex",
+      "normalized_text": "Chùa có tên tự là Thánh Đức Tự và cùng Đình Bối Hà tạo thành cụm di tích Đình – Chùa Hà.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_activity",
+      "source": "src_sovhtt_2025",
+      "topic": "visitor_activity",
+      "normalized_text": "Người dân và du khách đến hành lễ, đặc biệt đông vào dịp đầu xuân và Rằm tháng Giêng; địa điểm nổi tiếng với tập tục cầu tình duyên.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_management",
+      "source": "src_sovhtt_2024",
+      "topic": "management",
+      "normalized_text": "Tiểu ban quản lý di tích thực hiện chỉnh trang cảnh quan, vệ sinh khuôn viên và các khu vực hành lễ; di tích được giới thiệu bằng mã QR.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_legend_ly",
+      "source": "src_world_heritage",
+      "topic": "ly_dynasty_tradition",
+      "normalized_text": "Theo truyền thuyết, Lý Thánh Tông ghé chùa và ban tiền trùng tu sau việc cầu tự dẫn tới sự ra đời của Thái tử Càn Đức, sau là Lý Nhân Tông; tên Thánh Đức tự gắn với câu chuyện này.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_legend_le",
+      "source": "src_world_heritage",
+      "topic": "le_dynasty_tradition",
+      "normalized_text": "Một truyền thuyết khác gắn việc dựng chùa với Lê Thánh Tông và sự kiện nhà vua lên ngôi năm 1460.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_1680",
+      "source": "src_world_heritage",
+      "topic": "renovation",
+      "normalized_text": "Dưới đời Lê Hy Tông, hai gia đình quê Thổ Hà cùng dân trong xóm góp tiền xây dựng lại chùa quy mô lớn bằng gạch và ngói vào năm Chính Hòa 1680.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_tam_quan",
+      "source": "src_world_heritage",
+      "topic": "tam_quan_architecture",
+      "normalized_text": "Tam quan được xây hai tầng; tầng trên theo kiểu chồng diêm và treo chuông đồng Thánh Đức tự chung.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_bell",
+      "source": "src_world_heritage",
+      "topic": "bell",
+      "normalized_text": "Chuông đồng Thánh Đức tự chung mang niên hiệu Cảnh Thịnh thứ 7, tương ứng năm 1799, là di vật thời Tây Sơn còn được bảo quản.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_steles",
+      "source": "src_world_heritage",
+      "topic": "steles",
+      "normalized_text": "Bên hồ có bia đá bốn mặt Thánh Đức tự bi tạo năm Chính Hòa thứ 16, tức năm 1695; phía trước chùa có nhóm bia hậu tạo vào cuối thời Nguyễn.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_stele_count",
+      "source": "src_world_heritage",
+      "topic": "rear_stele_count",
+      "normalized_text": "Nhóm bia hậu ở bên phải phía trước cửa chùa gồm chính xác 18 tấm, ghi việc tu sửa và gửi hậu tại chùa.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_main_architecture",
+      "source": "src_ldtd_2020",
+      "topic": "main_architecture",
+      "normalized_text": "Chùa chính kết cấu kiểu chữ Đinh, gồm Tiền đường và Thượng điện; Tam bảo có năm gian rộng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_mother_palace",
+      "source": "src_ldtd_2020",
+      "topic": "mother_goddess_hall",
+      "normalized_text": "Phía sau chính điện là Điện Mẫu; tại đây người đi lễ Mẫu cầu mong nhân duyên tốt đẹp.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_revolutionary_status",
+      "source": "src_world_heritage",
+      "topic": "revolutionary_status",
+      "normalized_text": "Năm 1982, chùa được gắn biển Di tích cách mạng; tháng 12 năm 1996, chùa được xếp hạng bảo tồn.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address_current"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "ward_cau_giay", "evidence": ["ev_address_current"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "city_hanoi", "evidence": ["ev_address_current"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "complex", "evidence": ["ev_name_complex"], "confidence": 1.0},
+    {"source": "complex", "relation": "HAS_COMPONENT", "target": "place", "evidence": ["ev_name_complex"], "confidence": 1.0},
+    {"source": "complex", "relation": "HAS_COMPONENT", "target": "dinh_boi_ha", "evidence": ["ev_name_complex"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_buddhist_temple", "evidence": ["ev_category_status", "ev_name_complex"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "tam_quan", "evidence": ["ev_tam_quan"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "main_pagoda", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "dien_mau", "evidence": ["ev_mother_palace"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "stele_thanh_duc", "evidence": ["ev_steles"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "rear_steles", "evidence": ["ev_steles", "ev_stele_count"], "confidence": 1.0},
+    {"source": "tam_quan", "relation": "HAS_COMPONENT", "target": "bell", "evidence": ["ev_tam_quan", "ev_bell"], "confidence": 1.0},
+    {"source": "main_pagoda", "relation": "HAS_COMPONENT", "target": "tien_duong", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "main_pagoda", "relation": "HAS_COMPONENT", "target": "thuong_dien", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "main_pagoda", "relation": "HAS_COMPONENT", "target": "tam_bao", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "main_pagoda", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "style_dinh_plan", "evidence": ["ev_main_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "style_dinh_plan", "evidence": ["ev_main_architecture"], "confidence": 0.98},
+    {"source": "tam_quan", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "style_chong_diem", "evidence": ["ev_tam_quan"], "confidence": 1.0},
+    {"source": "main_pagoda", "relation": "BUILT_WITH", "target": "brick", "evidence": ["ev_renovation_1680"], "confidence": 0.95},
+    {"source": "main_pagoda", "relation": "BUILT_WITH", "target": "roof_tile", "evidence": ["ev_renovation_1680"], "confidence": 0.95},
+    {"source": "bell", "relation": "BUILT_WITH", "target": "bronze", "evidence": ["ev_bell"], "confidence": 1.0},
+    {"source": "bell", "relation": "ASSOCIATED_WITH_DYNASTY", "target": "tay_son_dynasty", "evidence": ["ev_bell"], "confidence": 1.0},
+    {"source": "rear_steles", "relation": "ASSOCIATED_WITH_DYNASTY", "target": "nguyen_dynasty", "evidence": ["ev_steles"], "confidence": 1.0},
+    {"source": "rear_steles", "relation": "HAS_MEASUREMENT", "target": "rear_stele_count", "evidence": ["ev_stele_count"], "confidence": 1.0, "qualifiers": {"measurement_kind": "count"}},
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_1680", "evidence": ["ev_renovation_1680"], "confidence": 1.0},
+    {"source": "main_pagoda", "relation": "RENOVATED_IN", "target": "time_1680", "evidence": ["ev_renovation_1680"], "confidence": 0.95},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "le_hy_tong", "evidence": ["ev_renovation_1680"], "confidence": 0.95},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "ly_thanh_tong", "evidence": ["ev_legend_ly"], "confidence": 0.8, "qualifiers": {"basis": "truyền thuyết"}},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "ly_nhan_tong", "evidence": ["ev_legend_ly"], "confidence": 0.8, "qualifiers": {"basis": "truyền thuyết"}},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "le_thanh_tong", "evidence": ["ev_legend_le"], "confidence": 0.75, "qualifiers": {"basis": "truyền thuyết"}},
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "status_art_relic", "evidence": ["ev_category_status", "ev_official_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "status_revolutionary_relic", "evidence": ["ev_category_status", "ev_revolutionary_status"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_IN", "target": "time_1996", "evidence": ["ev_official_recognition", "ev_revolutionary_status"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "ministry_culture_information", "evidence": ["ev_official_recognition"], "confidence": 1.0},
+    {"source": "place", "relation": "MANAGED_BY", "target": "management_board", "evidence": ["ev_management"], "confidence": 1.0},
+    {"source": "complex", "relation": "MANAGED_BY", "target": "management_board", "evidence": ["ev_management"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_worship", "evidence": ["ev_activity"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_matchmaking_prayer", "evidence": ["ev_activity"], "confidence": 1.0},
+    {"source": "place", "relation": "USED_FOR", "target": "activity_worship", "evidence": ["ev_activity"], "confidence": 1.0},
+    {"source": "dien_mau", "relation": "USED_FOR", "target": "activity_matchmaking_prayer", "evidence": ["ev_mother_palace"], "confidence": 0.95},
+    {"source": "place", "relation": "NEAR", "target": "dinh_boi_ha", "evidence": ["ev_name_complex"], "confidence": 1.0}
+  ]
+}

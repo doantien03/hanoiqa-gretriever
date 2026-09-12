@@ -1,18 +1,21 @@
 {
   "list_relations": {
-    "HAS_COMPONENT": "Theo dữ liệu HanoiQA, {subject} có những hạng mục nào?",
-    "HAS_ACTIVITY": "Theo dữ liệu HanoiQA, những hoạt động nào được ghi nhận tại {subject}?",
-    "HAS_CATEGORY": "Theo dữ liệu HanoiQA, {subject} thuộc những loại hình nào?",
-    "ASSOCIATED_WITH_PERSON": "Những nhân vật nào được ghi nhận là có liên hệ với {subject}?",
-    "ASSOCIATED_WITH_DYNASTY": "{subject} được ghi nhận là gắn với những triều đại nào?",
+    "HAS_COMPONENT": "{subject} có những hạng mục công trình kiến trúc nào?",
+    "HAS_ACTIVITY": "Những hoạt động tham quan, văn hóa, tín ngưỡng hoặc lễ hội nào được ghi nhận tại {subject}?",
+    "HAS_CATEGORY": "{subject} được phân loại theo những loại hình địa danh hoặc di tích nào?",
+    "ASSOCIATED_WITH_PERSON": "Những nhân vật lịch sử nào có mối liên hệ với {subject}?",
+    "ASSOCIATED_WITH_DYNASTY": "{subject} có mối liên hệ lịch sử với những triều đại nào?",
     "ASSOCIATED_WITH_PERIOD": "{subject} được ghi nhận là gắn với những thời kỳ lịch sử nào?",
-    "BUILT_WITH": "{subject} được ghi nhận là được xây dựng bằng những vật liệu nào?",
-    "USED_FOR": "{subject} được ghi nhận là được sử dụng cho những mục đích nào?",
-    "HONORS": "{subject} thờ hoặc tưởng niệm những nhân vật nào?",
-    "SUITABLE_FOR": "Theo dữ liệu HanoiQA, {subject} phù hợp với những nhóm khách nào?",
-    "HAS_CULTURAL_LAYER": "Những lớp văn hóa nào được ghi nhận tại {subject}?",
-    "HAS_EVENT": "Những sự kiện nào được ghi nhận là gắn với {subject}?",
-    "INVOLVED_PERSON": "Những nhân vật nào được ghi nhận là tham gia {subject}?"
+    "BUILT_WITH": "Những vật liệu nào được sử dụng để xây dựng hoặc chế tác {subject}?",
+    "USED_FOR": "{subject} có những công năng hoặc mục đích sử dụng nào?",
+    "HONORS": "{subject} thờ, tưởng niệm hoặc tôn vinh những nhân vật nào?",
+    "SUITABLE_FOR": "{subject} phù hợp với những nhóm khách tham quan nào?",
+    "HAS_CULTURAL_LAYER": "Những tầng văn hóa hoặc dấu tích khảo cổ nào đã được phát hiện tại {subject}?",
+    "HAS_EVENT": "Những sự kiện lịch sử, văn hóa hoặc lễ hội nào gắn với {subject} hằng năm?",
+    "INVOLVED_PERSON": "Những nhân vật nào liên quan trực tiếp đến {subject}?",
+    "MANAGED_BY": "Những cơ quan hoặc tổ chức nào chịu trách nhiệm quản lý {subject}?",
+    "RECOGNIZED_AS": "{subject} đã được công nhận với những danh hiệu hoặc di sản nào?"
+    
   },
   "two_hop": [
     {"template_id":"T_2H_COMPONENT_BUILT_IN","path":["HAS_COMPONENT","BUILT_IN"],"question":"Hạng mục nào của {root} được xây dựng vào {clue}?","answer_position":"middle","answer_type":"Architecture"},
@@ -20,9 +23,11 @@
     {"template_id":"T_2H_COMPONENT_BUILT_WITH","path":["HAS_COMPONENT","BUILT_WITH"],"question":"Hạng mục nào của {root} được xây dựng bằng {clue}?","answer_position":"middle","answer_type":"Architecture"},
     {"template_id":"T_2H_COMPONENT_STYLE","path":["HAS_COMPONENT","HAS_ARCHITECTURAL_STYLE"],"question":"Hạng mục nào của {root} mang phong cách {clue}?","answer_position":"middle","answer_type":"Architecture"},
     {"template_id":"T_2H_COMPONENT_USED_FOR","path":["HAS_COMPONENT","USED_FOR"],"question":"Hạng mục nào của {root} từng được sử dụng để {clue}?","answer_position":"middle","answer_type":"Architecture"},
-    {"template_id":"T_2H_EVENT_PERSON","path":["HAS_EVENT","INVOLVED_PERSON"],"question":"Những nhân vật nào tham gia các sự kiện được ghi nhận là gắn với {root}?","answer_position":"target","answer_type":"Person"},
-    {"template_id":"T_2H_EVENT_LOCATION","path":["HAS_EVENT","OCCURRED_IN"],"question":"Các sự kiện gắn với {root} được ghi nhận là diễn ra tại những đâu?","answer_position":"target","answer_type":"Location"},
+    {"template_id":"T_2H_EVENT_PERSON","path":["HAS_EVENT","INVOLVED_PERSON"],"question":"Những nhân vật nào tham gia hoặc có liên hệ với các sự kiện gắn với {root}?","answer_position":"target","answer_type":"Person"},
+    {"template_id":"T_2H_EVENT_TIME","path":["HAS_EVENT","OCCURRED_IN"],"question":"Những mốc thời gian nào được ghi nhận là gắn với các sự kiện hoặc lễ hội tại {root}?","answer_position":"target","answer_type":"Time"},
     {"template_id":"T_2H_PERSON_ROLE","path":["ASSOCIATED_WITH_PERSON","HELD_ROLE"],"question":"Nhân vật nào gắn với {root} và giữ vai trò {clue}?","answer_position":"middle","answer_type":"Person"},
-    {"template_id":"T_2H_STATUS_ORG","path":["RECOGNIZED_AS","RECOGNIZED_BY"],"question":"Tổ chức nào công nhận danh hiệu được ghi nhận đối với {root}?","answer_position":"target","answer_type":"Organization"}
+    {"template_id":"T_2H_STATUS_ORG","path":["RECOGNIZED_AS","RECOGNIZED_BY"],"question":"Cơ quan hoặc tổ chức nào công nhận danh hiệu được ghi nhận đối với {root}?","answer_position":"target","answer_type":"Organization"},
+    {"template_id": "T_2H_COMPONENT_RECOGNIZED_AS","path": ["HAS_COMPONENT", "RECOGNIZED_AS"],"question": "Hạng mục nào của {root} được công nhận là {clue}?","answer_position": "middle","answer_type": "Architecture"},
+    {"template_id": "T_2H_COMPONENT_MANAGED_BY","path": ["HAS_COMPONENT", "MANAGED_BY"],"question": "Hạng mục nào của {root} do {clue} quản lý?","answer_position": "middle","answer_type": "Architecture"}
   ]
 }

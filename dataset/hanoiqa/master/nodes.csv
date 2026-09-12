@@ -961,3 +961,37 @@ ORG_000017,Tiểu ban quản lý di tích Đình – Chùa Hà,Organization,,Ban
 ACTIVITY_000046,Hành lễ,Activity,,Đi lễ|Dâng lễ,hanh_le,,,,approved
 ACTIVITY_000047,Cầu duyên,Activity,,Cầu tình duyên,cau_duyen,,,,approved
 VALUE_000066,18 tấm bia,Value,,Số lượng bia hậu: 18,18_tam_bia,18,tấm bia,count,approved
+PLACE_000041,Bảo tàng Dân tộc học Việt Nam,Place,,Bảo tàng DTHVN|Vietnam Museum of Ethnology|VME,bao_tang_dan_toc_hoc_viet_nam,,,,approved
+ADDRESS_000032,"Đường Nguyễn Văn Huyên, phường Nghĩa Đô, thành phố Hà Nội",Address,,"Nguyễn Văn Huyên, Nghĩa Đô, Hà Nội",duong_nguyen_van_huyen_phuong_nghia_do_thanh_pho_ha_noi,,,,approved
+ADMIN_000017,Phường Nghĩa Đô,AdministrativeArea,ward,Nghĩa Đô,phuong_nghia_do,,,,approved
+CATEGORY_000009,Bảo tàng dân tộc học,TourismCategory,,Bảo tàng văn hóa các dân tộc,bao_tang_dan_toc_hoc,,,,approved
+ORG_000018,Viện Hàn lâm Khoa học xã hội Việt Nam,Organization,,VASS|Viện Hàn lâm KHXH Việt Nam,vien_han_lam_khoa_hoc_xa_hoi_viet_nam,,,,approved
+ARCH_000269,Tòa Trống đồng,Architecture,,Tòa nhà Trống đồng|Khu trưng bày Trống đồng,toa_trong_dong,,,,approved
+PLACE_000042,Vườn Kiến trúc,Place,,Vườn Kiến trúc dân gian|Khu trưng bày ngoài trời,vuon_kien_truc,,,,approved
+ARCH_000270,Tòa Cánh diều,Architecture,,Tòa nhà Cánh diều|Khu trưng bày Đông Nam Á,toa_canh_dieu,,,,approved
+ARCH_000271,Khuôn viên nhà người Chăm,Architecture,,Nhà sàn thấp của người Chăm,khuon_vien_nha_nguoi_cham,,,,approved
+ARCH_000272,Nhà người Việt,Architecture,,Nhà ngói của người Việt,nha_nguoi_viet,,,,approved
+ARCH_000273,Nhà rông Ba-na,Architecture,,Nhà rông của người Ba-na,nha_rong_ba_na,,,,approved
+ARCH_000274,Nhà dài Ê-đê,Architecture,,Nhà sàn dài của người Ê-đê,nha_dai_e_de,,,,approved
+ARCH_000275,Nhà mồ Gia-rai,Architecture,,Nhà mồ tập thể của người Gia-rai,nha_mo_gia_rai,,,,approved
+ARCH_000276,Nhà mồ Cơ-tu,Architecture,,Nhà mồ cá nhân của người Cơ-tu,nha_mo_co_tu,,,,approved
+ARCH_000277,Nhà sàn Tày,Architecture,,Nhà sàn của người Tày,nha_san_tay,,,,approved
+ARCH_000278,Nhà người Dao,Architecture,,Nhà nửa sàn nửa trệt người Dao|Nhà nửa sàn nửa đất của người Dao,nha_nguoi_dao,,,,approved
+ARCH_000279,Nhà trệt Hmông,Architecture,,Nhà trệt lợp ván pơmu của người Hmông,nha_tret_hmong,,,,approved
+ARCH_000280,Nhà trình tường Hà Nhì,Architecture,,Nhà trình tường của người Hà Nhì,nha_trinh_tuong_ha_nhi,,,,approved
+ARCH_000281,Thủy đình Vườn Kiến trúc,Architecture,,Hồ thủy đình|Sân khấu rối nước,thuy_dinh_vuon_kien_truc,,,,approved
+PERSON_000071,Hà Đức Lịnh,Person,,Kiến trúc sư Hà Đức Lịnh,ha_duc_linh,,,,approved
+PERSON_000072,Véronique Dollfus,Person,,Kiến trúc sư Véronique Dollfus,veronique_dollfus,,,,approved
+TIME_000133,Năm 1995,Time,,1995,nam_1995,,,,approved
+TIME_000134,Ngày 12 tháng 11 năm 1997,Time,,12/11/1997,ngay_12_thang_11_nam_1997,,,,approved
+TIME_000135,Ngày 13 tháng 11 năm 1997,Time,,13/11/1997,ngay_13_thang_11_nam_1997,,,,approved
+TIME_000136,Cuối năm 2013,Time,,Năm 2013,cuoi_nam_2013,,,,approved
+EVENT_000063,Lễ khánh thành Bảo tàng Dân tộc học Việt Nam,Event,,Khánh thành Bảo tàng DTHVN,le_khanh_thanh_bao_tang_dan_toc_hoc_viet_nam,,,,approved
+EVENT_000064,Tòa Trống đồng mở cửa phục vụ công chúng,Event,,Mở cửa Bảo tàng DTHVN,toa_trong_dong_mo_cua_phuc_vu_cong_chung,,,,approved
+EVENT_000065,Khai trương trưng bày đầu tiên tại Tòa Cánh diều,Event,,Khai trương Tòa Cánh diều,khai_truong_trung_bay_dau_tien_tai_toa_canh_dieu,,,,approved
+VALUE_000067,4 ha,Value,,Khuôn viên rộng 4 ha|40.000 m²,4_ha,4,ha,area,approved
+VALUE_000068,Khoảng 2 ha,Value,,Vườn Kiến trúc rộng khoảng 2 ha|Khoảng 20.000 m²,khoang_2_ha,2,ha,area,approved
+VALUE_000069,10 công trình,Value,,10 công trình kiến trúc dân gian,10_cong_trinh,10,công trình,count,approved
+VALUE_000070,54 dân tộc,Value,,54 dân tộc Việt Nam,54_dan_toc,54,dân tộc,count,approved
+ACTIVITY_000048,Giáo dục trải nghiệm,Activity,,Hoạt động giáo dục|Khám phá dành cho trẻ em,giao_duc_trai_nghiem,,,,approved
+ACTIVITY_000049,Nghiên cứu dân tộc học,Activity,,Nghiên cứu khoa học|Nghiên cứu nhân học,nghien_cuu_dan_toc_hoc,,,,approved

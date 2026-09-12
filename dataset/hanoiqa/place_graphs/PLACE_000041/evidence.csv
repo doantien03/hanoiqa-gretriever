@@ -1,0 +1,16 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000523,SRC_000189,PLACE_000041,current_address,"Địa chỉ liên hệ hiện hành là đường Nguyễn Văn Huyên, phường Nghĩa Đô, thành phố Hà Nội; đây là địa chỉ duy nhất dùng trong hồ sơ.",normalized_summary,approved
+EVD_000524,SRC_000195,PLACE_000041,category_and_management,"Đây là bảo tàng chuyên nghiên cứu, sưu tầm, bảo quản, trưng bày, giáo dục và giới thiệu văn hóa các dân tộc; đơn vị trực thuộc Viện Hàn lâm Khoa học xã hội Việt Nam.",normalized_summary,approved
+EVD_000525,SRC_000190,PLACE_000041,establishment,"Bảo tàng được thành lập năm 1995 và từng bước phát triển các không gian giới thiệu văn hóa Việt Nam, Đông Nam Á cùng nhiều khu vực trên thế giới.",normalized_summary,approved
+EVD_000526,SRC_000190,PLACE_000041,inauguration,Lễ khánh thành diễn ra ngày 12 tháng 11 năm 1997; Tòa Trống đồng bắt đầu mở cửa phục vụ công chúng từ ngày 13 tháng 11 năm 1997.,normalized_summary,approved
+EVD_000527,SRC_000194,PLACE_000041,main_spaces,"Bảo tàng gồm ba khu vực trưng bày chính: Tòa Trống đồng, khu trưng bày ngoài trời và khu trưng bày Đông Nam Á.",normalized_summary,approved
+EVD_000528,SRC_000194,PLACE_000041,site_area,"Khuôn viên bảo tàng rộng 4 ha và nằm trên đường Nguyễn Văn Huyên, Hà Nội.",normalized_summary,approved
+EVD_000529,SRC_000194,PLACE_000041,architects,"Công trình được thiết kế bởi kiến trúc sư Hà Đức Lịnh, người Tày, và kiến trúc sư Véronique Dollfus, người Pháp.",normalized_summary,approved
+EVD_000530,SRC_000191,PLACE_000041,trong_dong_building,Tòa Trống đồng do Hà Đức Lịnh thiết kế theo hình chiếc trống đồng Đông Sơn; phần lớn diện tích dành cho trưng bày thường xuyên về 54 dân tộc Việt Nam.,normalized_summary,approved
+EVD_000531,SRC_000190,PLACE_000041,architecture_garden,"Vườn Kiến trúc rộng khoảng 2 ha, được xây dựng trong giai đoạn 1998–2006 và giới thiệu 10 công trình kiến trúc dân gian của 10 dân tộc Việt Nam.",normalized_summary,approved
+EVD_000532,SRC_000191,PLACE_000041,garden_components,"Mười công trình trong vườn gồm khuôn viên nhà người Chăm, nhà người Việt, nhà rông Ba-na, nhà dài Ê-đê, nhà mồ Gia-rai, nhà mồ Cơ-tu, nhà sàn Tày, nhà người Dao, nhà trệt Hmông và nhà trình tường Hà Nhì.",normalized_summary,approved
+EVD_000533,SRC_000192,PLACE_000041,water_puppetry,Trong Vườn Kiến trúc có hồ thủy đình; hoạt động biểu diễn rối nước được tổ chức trước nhà người Việt vào thứ Bảy và Chủ nhật.,normalized_summary,approved
+EVD_000534,SRC_000190,PLACE_000041,kite_building,"Tòa Cánh diều là tòa nhà bốn tầng dành cho trưng bày về cư dân ngoài Việt Nam, trước hết là Đông Nam Á; trưng bày đầu tiên khai trương vào cuối năm 2013.",normalized_summary,approved
+EVD_000535,SRC_000192,PLACE_000041,exhibition_activity,"Các không gian trưng bày sử dụng hiện vật, ảnh và phim tư liệu để giới thiệu văn hóa vật thể, phi vật thể, đời sống và sự sáng tạo của các tộc người.",normalized_summary,approved
+EVD_000536,SRC_000195,PLACE_000041,education_and_research,"Các chức năng thường xuyên gồm nghiên cứu khoa học, sưu tầm, bảo quản, tổ chức trưng bày và hoạt động giáo dục nhằm bảo tồn sự đa dạng văn hóa.",normalized_summary,approved
+EVD_000537,SRC_000193,PLACE_000041,folk_architecture_count,Vườn Kiến trúc hiện trưng bày 10 công trình kiến trúc dân gian đặc sắc của các dân tộc ở Việt Nam.,normalized_summary,approved

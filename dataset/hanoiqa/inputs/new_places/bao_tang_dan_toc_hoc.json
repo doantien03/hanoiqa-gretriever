@@ -1,0 +1,492 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_vme_address",
+      "title": "Địa chỉ",
+      "url": "https://www.vme.org.vn/vi/p/dia-chi-95665.html",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vme_history",
+      "title": "Lịch sử bảo tàng",
+      "url": "https://www.vme.org.vn/vi/c/category-43/lich-su-bao-tang-p1.html",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vme_spaces",
+      "title": "Các không gian",
+      "url": "https://www.vme.org.vn/vi/c/category-44/cac-khong-gian-p1.html",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vme_exhibitions",
+      "title": "Trưng bày thường xuyên",
+      "url": "https://www.vme.org.vn/vi/c/category-64/trung-bay-thuong-xuyen-p1.html",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vme_introduction",
+      "title": "Giới thiệu",
+      "url": "https://www.vme.org.vn/vi/c/category-36/36-p1.html",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_hanoi_culture_2016",
+      "title": "Bảo tàng Dân tộc học Việt Nam: Điểm đến hấp dẫn",
+      "url": "https://sovhtt.hanoi.gov.vn/bao-tang-dan-toc-hoc-viet-nam-diem-den-hap-dan/",
+      "source_type": "provincial_culture_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vme_mission_2026",
+      "title": "Bảo tàng Dân tộc học Việt Nam: Cầu nối chặt chẽ giữa Nghiên cứu – Trưng bày - Công chúng",
+      "url": "https://www.vme.org.vn/vi/p/bao-tang-dan-toc-hoc-viet-nam-cau-noi-chat-che-giua-nghien-cuu-trung-bay-cong-chung-37248.html",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Bảo tàng Dân tộc học Việt Nam",
+      "aliases": ["Bảo tàng DTHVN", "Vietnam Museum of Ethnology", "VME"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Đường Nguyễn Văn Huyên, phường Nghĩa Đô, thành phố Hà Nội",
+      "aliases": ["Nguyễn Văn Huyên, Nghĩa Đô, Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "ward_nghia_do",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Nghĩa Đô",
+      "aliases": ["Nghĩa Đô"],
+      "admin_level": "ward",
+      "match": "new"
+    },
+    {
+      "key": "city_hanoi",
+      "type": "AdministrativeArea",
+      "canonical_name": "Thành phố Hà Nội",
+      "match": "existing",
+      "existing_id": "ADMIN_000002"
+    },
+    {
+      "key": "category_ethnology_museum",
+      "type": "TourismCategory",
+      "canonical_name": "Bảo tàng dân tộc học",
+      "aliases": ["Bảo tàng văn hóa các dân tộc"],
+      "match": "new"
+    },
+    {
+      "key": "vass",
+      "type": "Organization",
+      "canonical_name": "Viện Hàn lâm Khoa học xã hội Việt Nam",
+      "aliases": ["VASS", "Viện Hàn lâm KHXH Việt Nam"],
+      "match": "new"
+    },
+    {
+      "key": "trong_dong_building",
+      "type": "Architecture",
+      "canonical_name": "Tòa Trống đồng",
+      "aliases": ["Tòa nhà Trống đồng", "Khu trưng bày Trống đồng"],
+      "match": "new"
+    },
+    {
+      "key": "architecture_garden",
+      "type": "Place",
+      "canonical_name": "Vườn Kiến trúc",
+      "aliases": ["Vườn Kiến trúc dân gian", "Khu trưng bày ngoài trời"],
+      "match": "new"
+    },
+    {
+      "key": "kite_building",
+      "type": "Architecture",
+      "canonical_name": "Tòa Cánh diều",
+      "aliases": ["Tòa nhà Cánh diều", "Khu trưng bày Đông Nam Á"],
+      "match": "new"
+    },
+    {
+      "key": "cham_house",
+      "type": "Architecture",
+      "canonical_name": "Khuôn viên nhà người Chăm",
+      "aliases": ["Nhà sàn thấp của người Chăm"],
+      "match": "new"
+    },
+    {
+      "key": "viet_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà người Việt",
+      "aliases": ["Nhà ngói của người Việt"],
+      "match": "new"
+    },
+    {
+      "key": "bahnar_communal_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà rông Ba-na",
+      "aliases": ["Nhà rông của người Ba-na"],
+      "match": "new"
+    },
+    {
+      "key": "ede_longhouse",
+      "type": "Architecture",
+      "canonical_name": "Nhà dài Ê-đê",
+      "aliases": ["Nhà sàn dài của người Ê-đê"],
+      "match": "new"
+    },
+    {
+      "key": "jarai_tomb_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà mồ Gia-rai",
+      "aliases": ["Nhà mồ tập thể của người Gia-rai"],
+      "match": "new"
+    },
+    {
+      "key": "katu_tomb_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà mồ Cơ-tu",
+      "aliases": ["Nhà mồ cá nhân của người Cơ-tu"],
+      "match": "new"
+    },
+    {
+      "key": "tay_stilt_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà sàn Tày",
+      "aliases": ["Nhà sàn của người Tày"],
+      "match": "new"
+    },
+    {
+      "key": "dao_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà người Dao",
+      "aliases": ["Nhà nửa sàn nửa trệt người Dao", "Nhà nửa sàn nửa đất của người Dao"],
+      "match": "new"
+    },
+    {
+      "key": "hmong_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà trệt Hmông",
+      "aliases": ["Nhà trệt lợp ván pơmu của người Hmông"],
+      "match": "new"
+    },
+    {
+      "key": "hani_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà trình tường Hà Nhì",
+      "aliases": ["Nhà trình tường của người Hà Nhì"],
+      "match": "new"
+    },
+    {
+      "key": "water_puppet_pavilion",
+      "type": "Architecture",
+      "canonical_name": "Thủy đình Vườn Kiến trúc",
+      "aliases": ["Hồ thủy đình", "Sân khấu rối nước"],
+      "match": "new"
+    },
+    {
+      "key": "ha_duc_linh",
+      "type": "Person",
+      "canonical_name": "Hà Đức Lịnh",
+      "aliases": ["Kiến trúc sư Hà Đức Lịnh"],
+      "match": "new"
+    },
+    {
+      "key": "veronique_dollfus",
+      "type": "Person",
+      "canonical_name": "Véronique Dollfus",
+      "aliases": ["Kiến trúc sư Véronique Dollfus"],
+      "match": "new"
+    },
+    {
+      "key": "time_1995",
+      "type": "Time",
+      "canonical_name": "Năm 1995",
+      "aliases": ["1995"],
+      "match": "new"
+    },
+    {
+      "key": "time_1997_11_12",
+      "type": "Time",
+      "canonical_name": "Ngày 12 tháng 11 năm 1997",
+      "aliases": ["12/11/1997"],
+      "match": "new"
+    },
+    {
+      "key": "time_1997_11_13",
+      "type": "Time",
+      "canonical_name": "Ngày 13 tháng 11 năm 1997",
+      "aliases": ["13/11/1997"],
+      "match": "new"
+    },
+    {
+      "key": "time_2013",
+      "type": "Time",
+      "canonical_name": "Cuối năm 2013",
+      "aliases": ["Năm 2013"],
+      "match": "new"
+    },
+    {
+      "key": "event_inauguration",
+      "type": "Event",
+      "canonical_name": "Lễ khánh thành Bảo tàng Dân tộc học Việt Nam",
+      "aliases": ["Khánh thành Bảo tàng DTHVN"],
+      "match": "new"
+    },
+    {
+      "key": "event_public_opening",
+      "type": "Event",
+      "canonical_name": "Tòa Trống đồng mở cửa phục vụ công chúng",
+      "aliases": ["Mở cửa Bảo tàng DTHVN"],
+      "match": "new"
+    },
+    {
+      "key": "event_kite_opening",
+      "type": "Event",
+      "canonical_name": "Khai trương trưng bày đầu tiên tại Tòa Cánh diều",
+      "aliases": ["Khai trương Tòa Cánh diều"],
+      "match": "new"
+    },
+    {
+      "key": "site_area",
+      "type": "Value",
+      "canonical_name": "4 ha",
+      "aliases": ["Khuôn viên rộng 4 ha", "40.000 m²"],
+      "numeric_value": 4,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "garden_area",
+      "type": "Value",
+      "canonical_name": "Khoảng 2 ha",
+      "aliases": ["Vườn Kiến trúc rộng khoảng 2 ha", "Khoảng 20.000 m²"],
+      "numeric_value": 2,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "folk_architecture_count",
+      "type": "Value",
+      "canonical_name": "10 công trình",
+      "aliases": ["10 công trình kiến trúc dân gian"],
+      "numeric_value": 10,
+      "unit": "công trình",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "ethnic_group_count",
+      "type": "Value",
+      "canonical_name": "54 dân tộc",
+      "aliases": ["54 dân tộc Việt Nam"],
+      "numeric_value": 54,
+      "unit": "dân tộc",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "activity_exhibition",
+      "type": "Activity",
+      "canonical_name": "Xem trưng bày hiện vật",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000005"
+    },
+    {
+      "key": "activity_education",
+      "type": "Activity",
+      "canonical_name": "Giáo dục trải nghiệm",
+      "aliases": ["Hoạt động giáo dục", "Khám phá dành cho trẻ em"],
+      "match": "new"
+    },
+    {
+      "key": "activity_research",
+      "type": "Activity",
+      "canonical_name": "Nghiên cứu dân tộc học",
+      "aliases": ["Nghiên cứu khoa học", "Nghiên cứu nhân học"],
+      "match": "new"
+    },
+    {
+      "key": "activity_water_puppetry",
+      "type": "Activity",
+      "canonical_name": "Biểu diễn múa rối nước",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000037"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_current_address",
+      "source": "src_vme_address",
+      "topic": "current_address",
+      "normalized_text": "Địa chỉ liên hệ hiện hành là đường Nguyễn Văn Huyên, phường Nghĩa Đô, thành phố Hà Nội; đây là địa chỉ duy nhất dùng trong hồ sơ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_category_management",
+      "source": "src_vme_mission_2026",
+      "topic": "category_and_management",
+      "normalized_text": "Đây là bảo tàng chuyên nghiên cứu, sưu tầm, bảo quản, trưng bày, giáo dục và giới thiệu văn hóa các dân tộc; đơn vị trực thuộc Viện Hàn lâm Khoa học xã hội Việt Nam.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_established",
+      "source": "src_vme_history",
+      "topic": "establishment",
+      "normalized_text": "Bảo tàng được thành lập năm 1995 và từng bước phát triển các không gian giới thiệu văn hóa Việt Nam, Đông Nam Á cùng nhiều khu vực trên thế giới.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_inauguration",
+      "source": "src_vme_history",
+      "topic": "inauguration",
+      "normalized_text": "Lễ khánh thành diễn ra ngày 12 tháng 11 năm 1997; Tòa Trống đồng bắt đầu mở cửa phục vụ công chúng từ ngày 13 tháng 11 năm 1997.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_three_spaces",
+      "source": "src_hanoi_culture_2016",
+      "topic": "main_spaces",
+      "normalized_text": "Bảo tàng gồm ba khu vực trưng bày chính: Tòa Trống đồng, khu trưng bày ngoài trời và khu trưng bày Đông Nam Á.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_site_area",
+      "source": "src_hanoi_culture_2016",
+      "topic": "site_area",
+      "normalized_text": "Khuôn viên bảo tàng rộng 4 ha và nằm trên đường Nguyễn Văn Huyên, Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_architects",
+      "source": "src_hanoi_culture_2016",
+      "topic": "architects",
+      "normalized_text": "Công trình được thiết kế bởi kiến trúc sư Hà Đức Lịnh, người Tày, và kiến trúc sư Véronique Dollfus, người Pháp.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_trong_dong",
+      "source": "src_vme_spaces",
+      "topic": "trong_dong_building",
+      "normalized_text": "Tòa Trống đồng do Hà Đức Lịnh thiết kế theo hình chiếc trống đồng Đông Sơn; phần lớn diện tích dành cho trưng bày thường xuyên về 54 dân tộc Việt Nam.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_garden_area_period",
+      "source": "src_vme_history",
+      "topic": "architecture_garden",
+      "normalized_text": "Vườn Kiến trúc rộng khoảng 2 ha, được xây dựng trong giai đoạn 1998–2006 và giới thiệu 10 công trình kiến trúc dân gian của 10 dân tộc Việt Nam.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_garden_components",
+      "source": "src_vme_spaces",
+      "topic": "garden_components",
+      "normalized_text": "Mười công trình trong vườn gồm khuôn viên nhà người Chăm, nhà người Việt, nhà rông Ba-na, nhà dài Ê-đê, nhà mồ Gia-rai, nhà mồ Cơ-tu, nhà sàn Tày, nhà người Dao, nhà trệt Hmông và nhà trình tường Hà Nhì.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_water_puppetry",
+      "source": "src_vme_exhibitions",
+      "topic": "water_puppetry",
+      "normalized_text": "Trong Vườn Kiến trúc có hồ thủy đình; hoạt động biểu diễn rối nước được tổ chức trước nhà người Việt vào thứ Bảy và Chủ nhật.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_kite_building",
+      "source": "src_vme_history",
+      "topic": "kite_building",
+      "normalized_text": "Tòa Cánh diều là tòa nhà bốn tầng dành cho trưng bày về cư dân ngoài Việt Nam, trước hết là Đông Nam Á; trưng bày đầu tiên khai trương vào cuối năm 2013.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_exhibition_activity",
+      "source": "src_vme_exhibitions",
+      "topic": "exhibition_activity",
+      "normalized_text": "Các không gian trưng bày sử dụng hiện vật, ảnh và phim tư liệu để giới thiệu văn hóa vật thể, phi vật thể, đời sống và sự sáng tạo của các tộc người.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_education_research",
+      "source": "src_vme_mission_2026",
+      "topic": "education_and_research",
+      "normalized_text": "Các chức năng thường xuyên gồm nghiên cứu khoa học, sưu tầm, bảo quản, tổ chức trưng bày và hoạt động giáo dục nhằm bảo tồn sự đa dạng văn hóa.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_ten_buildings",
+      "source": "src_vme_introduction",
+      "topic": "folk_architecture_count",
+      "normalized_text": "Vườn Kiến trúc hiện trưng bày 10 công trình kiến trúc dân gian đặc sắc của các dân tộc ở Việt Nam.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_current_address"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "ward_nghia_do", "evidence": ["ev_current_address"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "city_hanoi", "evidence": ["ev_current_address", "ev_site_area"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_ethnology_museum", "evidence": ["ev_category_management"], "confidence": 1.0},
+    {"source": "place", "relation": "MANAGED_BY", "target": "vass", "evidence": ["ev_category_management"], "confidence": 1.0},
+    {"source": "place", "relation": "ESTABLISHED_IN", "target": "time_1995", "evidence": ["ev_established"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "trong_dong_building", "evidence": ["ev_three_spaces", "ev_trong_dong"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "architecture_garden", "evidence": ["ev_three_spaces", "ev_garden_area_period"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "kite_building", "evidence": ["ev_three_spaces", "ev_kite_building"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "cham_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "viet_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "bahnar_communal_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "ede_longhouse", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "jarai_tomb_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "katu_tomb_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "tay_stilt_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "dao_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "hmong_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "hani_house", "evidence": ["ev_garden_components"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_COMPONENT", "target": "water_puppet_pavilion", "evidence": ["ev_water_puppetry"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "site_area", "evidence": ["ev_site_area"], "confidence": 1.0, "qualifiers": {"measurement_kind": "area"}},
+    {"source": "architecture_garden", "relation": "HAS_MEASUREMENT", "target": "garden_area", "evidence": ["ev_garden_area_period"], "confidence": 1.0, "qualifiers": {"measurement_kind": "area"}},
+    {"source": "architecture_garden", "relation": "HAS_MEASUREMENT", "target": "folk_architecture_count", "evidence": ["ev_garden_area_period", "ev_ten_buildings"], "confidence": 1.0, "qualifiers": {"measurement_kind": "component_count"}},
+    {"source": "trong_dong_building", "relation": "HAS_MEASUREMENT", "target": "ethnic_group_count", "evidence": ["ev_trong_dong"], "confidence": 1.0, "qualifiers": {"measurement_kind": "exhibition_subject_count"}},
+    {"source": "trong_dong_building", "relation": "BUILT_BY", "target": "ha_duc_linh", "evidence": ["ev_trong_dong", "ev_architects"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_BY", "target": "ha_duc_linh", "evidence": ["ev_architects"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_BY", "target": "veronique_dollfus", "evidence": ["ev_architects"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_inauguration", "evidence": ["ev_inauguration"], "confidence": 1.0},
+    {"source": "event_inauguration", "relation": "OCCURRED_IN", "target": "time_1997_11_12", "evidence": ["ev_inauguration"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_public_opening", "evidence": ["ev_inauguration"], "confidence": 1.0},
+    {"source": "event_public_opening", "relation": "OCCURRED_IN", "target": "time_1997_11_13", "evidence": ["ev_inauguration"], "confidence": 1.0},
+    {"source": "trong_dong_building", "relation": "HAS_EVENT", "target": "event_public_opening", "evidence": ["ev_inauguration"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_kite_opening", "evidence": ["ev_kite_building"], "confidence": 1.0},
+    {"source": "kite_building", "relation": "HAS_EVENT", "target": "event_kite_opening", "evidence": ["ev_kite_building"], "confidence": 1.0},
+    {"source": "event_kite_opening", "relation": "OCCURRED_IN", "target": "time_2013", "evidence": ["ev_kite_building"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_exhibition", "evidence": ["ev_exhibition_activity"], "confidence": 1.0},
+    {"source": "trong_dong_building", "relation": "HAS_ACTIVITY", "target": "activity_exhibition", "evidence": ["ev_trong_dong", "ev_exhibition_activity"], "confidence": 1.0},
+    {"source": "kite_building", "relation": "HAS_ACTIVITY", "target": "activity_exhibition", "evidence": ["ev_kite_building", "ev_exhibition_activity"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_ACTIVITY", "target": "activity_exhibition", "evidence": ["ev_garden_components", "ev_exhibition_activity"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_education", "evidence": ["ev_education_research"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_research", "evidence": ["ev_education_research"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "HAS_ACTIVITY", "target": "activity_water_puppetry", "evidence": ["ev_water_puppetry"], "confidence": 1.0},
+    {"source": "water_puppet_pavilion", "relation": "USED_FOR", "target": "activity_water_puppetry", "evidence": ["ev_water_puppetry"], "confidence": 1.0},
+    {"source": "trong_dong_building", "relation": "USED_FOR", "target": "activity_exhibition", "evidence": ["ev_trong_dong", "ev_exhibition_activity"], "confidence": 1.0},
+    {"source": "kite_building", "relation": "USED_FOR", "target": "activity_exhibition", "evidence": ["ev_kite_building", "ev_exhibition_activity"], "confidence": 1.0},
+    {"source": "architecture_garden", "relation": "USED_FOR", "target": "activity_exhibition", "evidence": ["ev_garden_components", "ev_exhibition_activity"], "confidence": 1.0}
+  ]
+}

@@ -1,0 +1,20 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000538,SRC_000198,PLACE_000043,current_address,"Địa chỉ hiện hành là đường Phạm Hùng, phường Từ Liêm, thành phố Hà Nội.",normalized_summary,approved
+EVD_000539,SRC_000199,PLACE_000043,museum_function,"Địa danh là bảo tàng lịch sử và văn hóa, có chức năng bảo quản và trưng bày tài liệu, hiện vật về Thăng Long - Hà Nội.",normalized_summary,approved
+EVD_000540,SRC_000199,PLACE_000043,management,Bảo tàng là đơn vị trực thuộc cơ quan quản lý văn hóa của thành phố Hà Nội.,normalized_summary,approved
+EVD_000541,SRC_000196,PLACE_000043,establishment_1982,Bảo tàng Hà Nội được thành lập năm 1982.,normalized_summary,approved
+EVD_000542,SRC_000201,PLACE_000043,groundbreaking_2008,Trụ sở mới của bảo tàng được khởi công xây dựng ngày 19 tháng 5 năm 2008.,normalized_summary,approved
+EVD_000543,SRC_000196,PLACE_000043,inauguration_2010,Công trình được khánh thành ngày 6 tháng 10 năm 2010 tại đường Phạm Hùng.,normalized_summary,approved
+EVD_000544,SRC_000197,PLACE_000043,reopening_2026,Bảo tàng mở cửa đón khách trở lại từ ngày 3 tháng 2 năm 2026 sau khi hoàn thiện nội dung trưng bày.,normalized_summary,approved
+EVD_000545,SRC_000198,PLACE_000043,tourism_recognition,Địa danh được công nhận là điểm du lịch theo Quyết định số 1423/QĐ-UBND ngày 30 tháng 3 năm 2026.,normalized_summary,approved
+EVD_000546,SRC_000196,PLACE_000043,building_scale,"Tòa nhà có sáu tầng, gồm bốn tầng nổi và hai tầng hầm.",normalized_summary,approved
+EVD_000547,SRC_000196,PLACE_000043,land_area,Công trình được xây dựng trên khu đất rộng hơn 54.000 m².,normalized_summary,approved
+EVD_000548,SRC_000197,PLACE_000043,exhibition_spaces,"Các không gian phục vụ công chúng gồm trưng bày thường xuyên, trưng bày chuyên đề, trưng bày 3D và khu hoạt động sáng tạo.",normalized_summary,approved
+EVD_000549,SRC_000200,PLACE_000043,collection_and_exhibition_counts,"Bảo tàng lưu giữ hơn 70.000 hiện vật, tài liệu, trong đó có sáu nhóm bảo vật quốc gia.",normalized_summary,approved
+EVD_000550,SRC_000200,PLACE_000043,exhibition_theme_count,Hệ thống trưng bày được tổ chức theo bảy chủ đề lớn về tiến trình lịch sử và văn hóa Thăng Long - Hà Nội.,normalized_summary,approved
+EVD_000551,SRC_000202,PLACE_000043,national_treasure_groups,"Hệ thống trưng bày có năm nhóm được công nhận bảo vật quốc gia trước gồm hiện vật Mả Tre, chuông Thanh Mai, chân đèn gốm thời Mạc, Long đình Bát Tràng và vũ khí trường Giảng Võ.",normalized_summary,approved
+EVD_000552,SRC_000202,PLACE_000043,bronze_nghe_national_treasure,Đôi tượng nghê đồng là nhóm hiện vật tiêu biểu mới được bổ sung vào danh mục bảo vật quốc gia của bảo tàng.,normalized_summary,approved
+EVD_000553,SRC_000197,PLACE_000043,viewing_activity,"Khách tham quan có thể xem hệ thống trưng bày thường xuyên, chuyên đề và nội dung số 3D.",normalized_summary,approved
+EVD_000554,SRC_000199,PLACE_000043,research_and_education,"Các nhiệm vụ của bảo tàng bao gồm nghiên cứu, bảo quản, trưng bày, tuyên truyền và phát huy giá trị tài liệu, hiện vật.",normalized_summary,approved
+EVD_000555,SRC_000197,PLACE_000043,creative_activity,"Khu hoạt động sáng tạo tổ chức các hoạt động sáng tạo và trải nghiệm gắn với lịch sử, văn hóa Hà Nội.",normalized_summary,approved
+EVD_000556,SRC_000200,PLACE_000043,heritage_preservation,"Bảo tàng thực hiện bảo tồn, gìn giữ và lan tỏa giá trị di sản Thăng Long - Hà Nội.",normalized_summary,approved

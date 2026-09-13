@@ -1,0 +1,40 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000005,Xem trưng bày hiện vật,Activity,,Tham quan nhà trưng bày,xem_trung_bay_hien_vat,,,,approved
+ACTIVITY_000010,"Tham quan, nghiên cứu và học tập",Activity,,Tham quan và nghiên cứu di tích,tham_quan_nghien_cuu_va_hoc_tap,,,,approved
+ACTIVITY_000050,Trải nghiệm hoạt động sáng tạo về văn hóa Hà Nội,Activity,,Hoạt động sáng tạo tại Bảo tàng Hà Nội,trai_nghiem_hoat_dong_sang_tao_ve_van_hoa_ha_noi,,,,approved
+ACTIVITY_000051,Bảo tồn và phát huy di sản Thăng Long - Hà Nội,Activity,,Bảo quản và phát huy hiện vật lịch sử Hà Nội,bao_ton_va_phat_huy_di_san_thang_long_ha_noi,,,,approved
+ADDRESS_000033,"Đường Phạm Hùng, phường Từ Liêm, thành phố Hà Nội",Address,,"Phạm Hùng, Từ Liêm, Hà Nội",duong_pham_hung_phuong_tu_liem_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000018,Phường Từ Liêm,AdministrativeArea,ward,,phuong_tu_liem,,,,approved
+ARCH_000282,Tòa nhà Bảo tàng Hà Nội,Architecture,,Công trình Bảo tàng Hà Nội tại Phạm Hùng,toa_nha_bao_tang_ha_noi,,,,approved
+ARCH_000283,Hệ thống trưng bày thường xuyên,Architecture,,Trưng bày thường xuyên Bảo tàng Hà Nội,he_thong_trung_bay_thuong_xuyen,,,,approved
+ARCH_000284,Không gian trưng bày chuyên đề,Architecture,,Trưng bày chuyên đề,khong_gian_trung_bay_chuyen_de,,,,approved
+ARCH_000285,Không gian trưng bày 3D,Architecture,,Trưng bày số 3D,khong_gian_trung_bay_3d,,,,approved
+ARCH_000286,Không gian hoạt động sáng tạo,Architecture,,Không gian trải nghiệm sáng tạo,khong_gian_hoat_dong_sang_tao,,,,approved
+CATEGORY_000010,Bảo tàng lịch sử và văn hóa Hà Nội,TourismCategory,,Bảo tàng lịch sử - văn hóa|Bảo tàng về Thăng Long - Hà Nội,bao_tang_lich_su_va_van_hoa_ha_noi,,,,approved
+EVENT_000066,Thành lập Bảo tàng Hà Nội,Event,,,thanh_lap_bao_tang_ha_noi,,,,approved
+EVENT_000067,Khởi công xây dựng trụ sở mới Bảo tàng Hà Nội,Event,,,khoi_cong_xay_dung_tru_so_moi_bao_tang_ha_noi,,,,approved
+EVENT_000068,Khánh thành Bảo tàng Hà Nội tại đường Phạm Hùng,Event,,,khanh_thanh_bao_tang_ha_noi_tai_duong_pham_hung,,,,approved
+EVENT_000069,Mở cửa trở lại hệ thống trưng bày Bảo tàng Hà Nội,Event,,,mo_cua_tro_lai_he_thong_trung_bay_bao_tang_ha_noi,,,,approved
+EVENT_000070,Công nhận điểm du lịch Bảo tàng Hà Nội,Event,,,cong_nhan_diem_du_lich_bao_tang_ha_noi,,,,approved
+HOBJ_000112,Trống đồng và bộ sưu tập lưỡi cày đồng Mả Tre,HeritageObject,,Trống đồng và lưỡi cày đồng Mả Tre,trong_dong_va_bo_suu_tap_luoi_cay_dong_ma_tre,,,,approved
+HOBJ_000113,Chuông Thanh Mai,HeritageObject,,,chuong_thanh_mai,,,,approved
+HOBJ_000114,Chân đèn gốm thời Mạc,HeritageObject,,Chân đèn gốm men lam xám thời Mạc,chan_den_gom_thoi_mac,,,,approved
+HOBJ_000115,Long đình gốm Bát Tràng,HeritageObject,,,long_dinh_gom_bat_trang,,,,approved
+HOBJ_000116,Bộ sưu tập vũ khí trường Giảng Võ,HeritageObject,,Vũ khí trường Giảng Võ,bo_suu_tap_vu_khi_truong_giang_vo,,,,approved
+HOBJ_000117,Đôi tượng nghê đồng,HeritageObject,,Cặp tượng nghê bằng đồng,doi_tuong_nghe_dong,,,,approved
+HSTATUS_000009,Điểm du lịch cấp thành phố,HeritageStatus,,Điểm du lịch Bảo tàng Hà Nội,diem_du_lich_cap_thanh_pho,,,,approved
+ORG_000019,Sở Văn hóa và Thể thao Hà Nội,Organization,,"Sở Văn hóa, Thể thao và Du lịch thành phố Hà Nội|Sở VHTT Hà Nội",so_van_hoa_va_the_thao_ha_noi,,,,approved
+PLACE_000043,Bảo tàng Hà Nội,Place,,Hanoi Museum|Điểm du lịch Bảo tàng Hà Nội,bao_tang_ha_noi,,,,approved
+TIME_000017,Năm 1982,Time,,1982,nam_1982,1982,năm,year,approved
+TIME_000137,Ngày 19 tháng 5 năm 2008,Time,,19/5/2008,ngay_19_thang_5_nam_2008,,,,approved
+TIME_000138,Ngày 6 tháng 10 năm 2010,Time,,06/10/2010,ngay_6_thang_10_nam_2010,,,,approved
+TIME_000139,Ngày 3 tháng 2 năm 2026,Time,,03/02/2026,ngay_3_thang_2_nam_2026,,,,approved
+TIME_000140,Ngày 30 tháng 3 năm 2026,Time,,30/3/2026,ngay_30_thang_3_nam_2026,,,,approved
+VALUE_000071,Hơn 54.000 mét vuông diện tích đất,Value,,Diện tích khu đất hơn 54 nghìn m²,hon_54_000_met_vuong_dien_tich_dat,54000,m²,minimum_area,approved
+VALUE_000072,6 tầng,Value,,,6_tang,6,tầng,count,approved
+VALUE_000073,4 tầng nổi,Value,,,4_tang_noi,4,tầng nổi,count,approved
+VALUE_000074,2 tầng hầm,Value,,,2_tang_ham,2,tầng hầm,count,approved
+VALUE_000075,Hơn 70.000 hiện vật và tài liệu,Value,,"Trên bảy mươi nghìn hiện vật, tài liệu",hon_70_000_hien_vat_va_tai_lieu,70000,hiện vật và tài liệu,minimum_count,approved
+VALUE_000076,6 nhóm bảo vật quốc gia,Value,,,6_nhom_bao_vat_quoc_gia,6,nhóm bảo vật quốc gia,count,approved
+VALUE_000077,7 chủ đề trưng bày,Value,,,7_chu_de_trung_bay,7,chủ đề,count,approved

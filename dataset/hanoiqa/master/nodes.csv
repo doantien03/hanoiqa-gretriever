@@ -1030,3 +1030,34 @@ VALUE_000076,6 nhóm bảo vật quốc gia,Value,,,6_nhom_bao_vat_quoc_gia,6,nh
 VALUE_000077,7 chủ đề trưng bày,Value,,,7_chu_de_trung_bay,7,chủ đề,count,approved
 ACTIVITY_000050,Trải nghiệm hoạt động sáng tạo về văn hóa Hà Nội,Activity,,Hoạt động sáng tạo tại Bảo tàng Hà Nội,trai_nghiem_hoat_dong_sang_tao_ve_van_hoa_ha_noi,,,,approved
 ACTIVITY_000051,Bảo tồn và phát huy di sản Thăng Long - Hà Nội,Activity,,Bảo quản và phát huy hiện vật lịch sử Hà Nội,bao_ton_va_phat_huy_di_san_thang_long_ha_noi,,,,approved
+PLACE_000044,Bảo tàng Hồ Chí Minh,Place,,Bảo tàng Chủ tịch Hồ Chí Minh|Ho Chi Minh Museum|BTHCM,bao_tang_ho_chi_minh,,,,approved
+ADDRESS_000034,"Số 19 phố Ngọc Hà, phường Ba Đình, thành phố Hà Nội",Address,,"19 Ngọc Hà, Ba Đình, Hà Nội",so_19_pho_ngoc_ha_phuong_ba_dinh_thanh_pho_ha_noi,,,,approved
+CATEGORY_000011,Bảo tàng lưu niệm danh nhân,TourismCategory,,Bảo tàng tưởng niệm Chủ tịch Hồ Chí Minh,bao_tang_luu_niem_danh_nhan,,,,approved
+ORG_000020,"Bộ Văn hóa, Thể thao và Du lịch",Organization,,Bộ Văn hóa thể thao và du lịch,bo_van_hoa_the_thao_va_du_lich,,,,approved
+ORG_000021,Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam,Organization,,Bộ Chính trị,bo_chinh_tri_ban_chap_hanh_trung_uong_dang_cong_san_viet_nam,,,,approved
+ARCH_000287,Tòa nhà Bảo tàng Hồ Chí Minh,Architecture,,Công trình Bảo tàng Hồ Chí Minh,toa_nha_bao_tang_ho_chi_minh,,,,approved
+ARCH_000288,Gian mở đầu Bảo tàng Hồ Chí Minh,Architecture,,Gian long trọng,gian_mo_dau_bao_tang_ho_chi_minh,,,,approved
+ARCH_000289,Phần trưng bày tiểu sử Chủ tịch Hồ Chí Minh,Architecture,,Trưng bày tiểu sử Hồ Chí Minh,phan_trung_bay_tieu_su_chu_tich_ho_chi_minh,,,,approved
+ARCH_000290,Phần trưng bày về đất nước và nhân dân Việt Nam,Architecture,,Trưng bày lịch sử cách mạng Việt Nam,phan_trung_bay_ve_dat_nuoc_va_nhan_dan_viet_nam,,,,approved
+ARCH_000291,Phần trưng bày lịch sử thế giới,Architecture,,Trưng bày các sự kiện lịch sử thế giới,phan_trung_bay_lich_su_the_gioi,,,,approved
+ARCH_000292,Nhóm gian chuyên đề lịch sử thế giới,Architecture,,Tám gian chuyên đề,nhom_gian_chuyen_de_lich_su_the_gioi,,,,approved
+ARCH_000293,Gian tưởng niệm Chủ tịch Hồ Chí Minh,Architecture,,Gian tưởng niệm Bác Hồ,gian_tuong_niem_chu_tich_ho_chi_minh,,,,approved
+HOBJ_000118,Tượng đồng toàn thân Chủ tịch Hồ Chí Minh,HeritageObject,,Tượng Chủ tịch Hồ Chí Minh tại gian mở đầu,tuong_dong_toan_than_chu_tich_ho_chi_minh,,,,approved
+HOBJ_000119,Phù điêu quốc kỳ và búa liềm,HeritageObject,,Phù điêu mặt trước Bảo tàng Hồ Chí Minh,phu_dieu_quoc_ky_va_bua_liem,,,,approved
+ASTYLE_000018,Kiến trúc biểu tượng bông sen trắng,ArchitecturalStyle,,Hình khối bông sen trắng|Khối vuông vát góc,kien_truc_bieu_tuong_bong_sen_trang,,,,approved
+TIME_000141,Ngày 25 tháng 11 năm 1970,Time,,25/11/1970,ngay_25_thang_11_nam_1970,,,,approved
+TIME_000142,Ngày 12 tháng 9 năm 1977,Time,,12/09/1977,ngay_12_thang_9_nam_1977,,,,approved
+TIME_000143,Ngày 15 tháng 10 năm 1979,Time,,15/10/1979,ngay_15_thang_10_nam_1979,,,,approved
+TIME_000144,Ngày 31 tháng 8 năm 1985,Time,,31/08/1985,ngay_31_thang_8_nam_1985,,,,approved
+TIME_000145,Tháng 11 năm 1987,Time,,11/1987,thang_11_nam_1987,,,,approved
+TIME_000146,Ngày 19 tháng 5 năm 1990,Time,,19/05/1990,ngay_19_thang_5_nam_1990,,,,approved
+EVENT_000071,Thành lập Ban Phụ trách xây dựng Bảo tàng Hồ Chí Minh,Event,,Bắt đầu chuẩn bị xây dựng Bảo tàng Hồ Chí Minh,thanh_lap_ban_phu_trach_xay_dung_bao_tang_ho_chi_minh,,,,approved
+EVENT_000072,Ban hành Nghị quyết 04-NQ/TW thành lập Viện Bảo tàng Hồ Chí Minh,Event,,Thành lập Viện Bảo tàng Hồ Chí Minh,ban_hanh_nghi_quyet_04_nq_tw_thanh_lap_vien_bao_tang_ho_chi_minh,,,,approved
+EVENT_000073,Ban hành Nghị định 375/CP về Viện Bảo tàng Hồ Chí Minh,Event,,Nghị định 375/CP,ban_hanh_nghi_dinh_375_cp_ve_vien_bao_tang_ho_chi_minh,,,,approved
+EVENT_000074,Khởi công xây dựng Bảo tàng Hồ Chí Minh,Event,,Lễ khởi công Bảo tàng Hồ Chí Minh,khoi_cong_xay_dung_bao_tang_ho_chi_minh,,,,approved
+EVENT_000075,UNESCO thông qua Nghị quyết 18.65 về Chủ tịch Hồ Chí Minh,Event,,Nghị quyết 18.65 của UNESCO,unesco_thong_qua_nghi_quyet_18_65_ve_chu_tich_ho_chi_minh,,,,approved
+EVENT_000076,Khánh thành Bảo tàng Hồ Chí Minh,Event,,Lễ khánh thành Bảo tàng Hồ Chí Minh,khanh_thanh_bao_tang_ho_chi_minh,,,,approved
+VALUE_000078,18.000 m²,Value,,"Tổng diện tích 18.000 m²|1,8 ha",18_000_m,18000,m²,area,approved
+VALUE_000079,3 tầng,Value,,Tòa nhà cao 3 tầng,3_tang,3,tầng,count,approved
+VALUE_000080,8 gian,Value,,Tám gian chuyên đề lịch sử thế giới,8_gian,8,gian,count,approved
+VALUE_000081,"3,5 m",Value,,"Tượng cao 3,5 mét",3_5_m,3.5,m,height,approved

@@ -1,0 +1,523 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_museum_contact",
+      "title": "Bảo tàng Hồ Chí Minh - Liên hệ",
+      "url": "https://baotanghochiminh.vn/lien-he.htm",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_badinh_current",
+      "title": "Phường Ba Đình: Những thông tin chi tiết sau sắp xếp",
+      "url": "https://badinh.hanoi.gov.vn/thong-tin-can-biet/phuong-ba-dinh-nhung-thong-tin-chi-tiet-sau-sap-xep-2800250710094622829.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_museum_history",
+      "title": "Lịch sử phát triển",
+      "url": "https://baotanghochiminh.vn/lich-su-phat-trien-new.htm",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_museum_display",
+      "title": "Giới thiệu chung về trưng bày thường xuyên của Bảo tàng Hồ Chí Minh",
+      "url": "https://baotanghochiminh.vn/gioi-thieu-chung-ve-trung-bay-thuong-xuyen-cua-bao-tang-ho-chi-minh.htm",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_museum_mission",
+      "title": "Bảo tàng Hồ Chí Minh - Nhiệm vụ và vai trò đối với phát triển văn hóa nước nhà",
+      "url": "https://baotanghochiminh.vn/bao-tang-ho-chi-minh-nhiem-vu-va-vai-tro-doi-voi-phat-trien-van-hoa-nuoc-nha.htm",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_hanoi_architecture",
+      "title": "Bảo tàng Hồ Chí Minh - Nơi lưu giữ nhiều hiện vật quý giá về Bác Hồ",
+      "url": "https://hanoi.gov.vn/di-tich-lich-su-cach-mang/bao-tang-ho-chi-minh-noi-luu-giu-nhieu-hien-vat-quy-gia-ve-bac-ho-42837677.htm",
+      "source_type": "municipal_government_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_government_area",
+      "title": "Chủ tịch nước Tô Lâm và Tổng thống Timor-Leste thăm Bảo tàng Hồ Chí Minh",
+      "url": "https://baochinhphu.vn/chu-tich-nuoc-to-lam-va-tong-thong-timor-leste-tham-bao-tang-ho-chi-minh-102240801174601632.htm",
+      "source_type": "central_government_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Bảo tàng Hồ Chí Minh",
+      "aliases": ["Bảo tàng Chủ tịch Hồ Chí Minh", "Ho Chi Minh Museum", "BTHCM"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 19 phố Ngọc Hà, phường Ba Đình, thành phố Hà Nội",
+      "aliases": ["19 Ngọc Hà, Ba Đình, Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "ward_ba_dinh",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Ba Đình",
+      "match": "existing",
+      "existing_id": "ADMIN_000001"
+    },
+    {
+      "key": "city_hanoi",
+      "type": "AdministrativeArea",
+      "canonical_name": "Thành phố Hà Nội",
+      "match": "existing",
+      "existing_id": "ADMIN_000002"
+    },
+    {
+      "key": "category_memorial_museum",
+      "type": "TourismCategory",
+      "canonical_name": "Bảo tàng lưu niệm danh nhân",
+      "aliases": ["Bảo tàng tưởng niệm Chủ tịch Hồ Chí Minh"],
+      "match": "new"
+    },
+    {
+      "key": "ministry_culture",
+      "type": "Organization",
+      "canonical_name": "Bộ Văn hóa, Thể thao và Du lịch",
+      "aliases": ["Bộ Văn hóa thể thao và du lịch"],
+      "match": "new"
+    },
+    {
+      "key": "politburo",
+      "type": "Organization",
+      "canonical_name": "Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam",
+      "aliases": ["Bộ Chính trị"],
+      "match": "new"
+    },
+    {
+      "key": "ho_chi_minh",
+      "type": "Person",
+      "canonical_name": "Hồ Chí Minh",
+      "match": "existing",
+      "existing_id": "PERSON_000024"
+    },
+    {
+      "key": "mausoleum",
+      "type": "Place",
+      "canonical_name": "Lăng Chủ tịch Hồ Chí Minh",
+      "match": "existing",
+      "existing_id": "PLACE_000011"
+    },
+    {
+      "key": "presidential_site",
+      "type": "Place",
+      "canonical_name": "Khu di tích Chủ tịch Hồ Chí Minh tại Phủ Chủ tịch",
+      "match": "existing",
+      "existing_id": "PLACE_000010"
+    },
+    {
+      "key": "one_pillar_pagoda",
+      "type": "Place",
+      "canonical_name": "Chùa Một Cột",
+      "match": "existing",
+      "existing_id": "PLACE_000017"
+    },
+    {
+      "key": "museum_building",
+      "type": "Architecture",
+      "canonical_name": "Tòa nhà Bảo tàng Hồ Chí Minh",
+      "aliases": ["Công trình Bảo tàng Hồ Chí Minh"],
+      "match": "new"
+    },
+    {
+      "key": "opening_hall",
+      "type": "Architecture",
+      "canonical_name": "Gian mở đầu Bảo tàng Hồ Chí Minh",
+      "aliases": ["Gian long trọng"],
+      "match": "new"
+    },
+    {
+      "key": "biography_exhibition",
+      "type": "Architecture",
+      "canonical_name": "Phần trưng bày tiểu sử Chủ tịch Hồ Chí Minh",
+      "aliases": ["Trưng bày tiểu sử Hồ Chí Minh"],
+      "match": "new"
+    },
+    {
+      "key": "vietnam_exhibition",
+      "type": "Architecture",
+      "canonical_name": "Phần trưng bày về đất nước và nhân dân Việt Nam",
+      "aliases": ["Trưng bày lịch sử cách mạng Việt Nam"],
+      "match": "new"
+    },
+    {
+      "key": "world_history_exhibition",
+      "type": "Architecture",
+      "canonical_name": "Phần trưng bày lịch sử thế giới",
+      "aliases": ["Trưng bày các sự kiện lịch sử thế giới"],
+      "match": "new"
+    },
+    {
+      "key": "thematic_halls",
+      "type": "Architecture",
+      "canonical_name": "Nhóm gian chuyên đề lịch sử thế giới",
+      "aliases": ["Tám gian chuyên đề"],
+      "match": "new"
+    },
+    {
+      "key": "memorial_hall",
+      "type": "Architecture",
+      "canonical_name": "Gian tưởng niệm Chủ tịch Hồ Chí Minh",
+      "aliases": ["Gian tưởng niệm Bác Hồ"],
+      "match": "new"
+    },
+    {
+      "key": "ho_chi_minh_statue",
+      "type": "HeritageObject",
+      "canonical_name": "Tượng đồng toàn thân Chủ tịch Hồ Chí Minh",
+      "aliases": ["Tượng Chủ tịch Hồ Chí Minh tại gian mở đầu"],
+      "match": "new"
+    },
+    {
+      "key": "front_relief",
+      "type": "HeritageObject",
+      "canonical_name": "Phù điêu quốc kỳ và búa liềm",
+      "aliases": ["Phù điêu mặt trước Bảo tàng Hồ Chí Minh"],
+      "match": "new"
+    },
+    {
+      "key": "white_lotus_style",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc biểu tượng bông sen trắng",
+      "aliases": ["Hình khối bông sen trắng", "Khối vuông vát góc"],
+      "match": "new"
+    },
+    {
+      "key": "time_1970_11_25",
+      "type": "Time",
+      "canonical_name": "Ngày 25 tháng 11 năm 1970",
+      "aliases": ["25/11/1970"],
+      "match": "new"
+    },
+    {
+      "key": "time_1977_09_12",
+      "type": "Time",
+      "canonical_name": "Ngày 12 tháng 9 năm 1977",
+      "aliases": ["12/09/1977"],
+      "match": "new"
+    },
+    {
+      "key": "time_1979_10_15",
+      "type": "Time",
+      "canonical_name": "Ngày 15 tháng 10 năm 1979",
+      "aliases": ["15/10/1979"],
+      "match": "new"
+    },
+    {
+      "key": "time_1985_08_31",
+      "type": "Time",
+      "canonical_name": "Ngày 31 tháng 8 năm 1985",
+      "aliases": ["31/08/1985"],
+      "match": "new"
+    },
+    {
+      "key": "time_1987_11",
+      "type": "Time",
+      "canonical_name": "Tháng 11 năm 1987",
+      "aliases": ["11/1987"],
+      "match": "new"
+    },
+    {
+      "key": "time_1990_05_19",
+      "type": "Time",
+      "canonical_name": "Ngày 19 tháng 5 năm 1990",
+      "aliases": ["19/05/1990"],
+      "match": "new"
+    },
+    {
+      "key": "event_preparation",
+      "type": "Event",
+      "canonical_name": "Thành lập Ban Phụ trách xây dựng Bảo tàng Hồ Chí Minh",
+      "aliases": ["Bắt đầu chuẩn bị xây dựng Bảo tàng Hồ Chí Minh"],
+      "match": "new"
+    },
+    {
+      "key": "event_institute_establishment",
+      "type": "Event",
+      "canonical_name": "Ban hành Nghị quyết 04-NQ/TW thành lập Viện Bảo tàng Hồ Chí Minh",
+      "aliases": ["Thành lập Viện Bảo tàng Hồ Chí Minh"],
+      "match": "new"
+    },
+    {
+      "key": "event_government_decree",
+      "type": "Event",
+      "canonical_name": "Ban hành Nghị định 375/CP về Viện Bảo tàng Hồ Chí Minh",
+      "aliases": ["Nghị định 375/CP"],
+      "match": "new"
+    },
+    {
+      "key": "event_groundbreaking",
+      "type": "Event",
+      "canonical_name": "Khởi công xây dựng Bảo tàng Hồ Chí Minh",
+      "aliases": ["Lễ khởi công Bảo tàng Hồ Chí Minh"],
+      "match": "new"
+    },
+    {
+      "key": "event_unesco_resolution",
+      "type": "Event",
+      "canonical_name": "UNESCO thông qua Nghị quyết 18.65 về Chủ tịch Hồ Chí Minh",
+      "aliases": ["Nghị quyết 18.65 của UNESCO"],
+      "match": "new"
+    },
+    {
+      "key": "event_inauguration",
+      "type": "Event",
+      "canonical_name": "Khánh thành Bảo tàng Hồ Chí Minh",
+      "aliases": ["Lễ khánh thành Bảo tàng Hồ Chí Minh"],
+      "match": "new"
+    },
+    {
+      "key": "total_area",
+      "type": "Value",
+      "canonical_name": "18.000 m²",
+      "aliases": ["Tổng diện tích 18.000 m²", "1,8 ha"],
+      "numeric_value": 18000,
+      "unit": "m²",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "floor_count",
+      "type": "Value",
+      "canonical_name": "3 tầng",
+      "aliases": ["Tòa nhà cao 3 tầng"],
+      "numeric_value": 3,
+      "unit": "tầng",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "thematic_hall_count",
+      "type": "Value",
+      "canonical_name": "8 gian",
+      "aliases": ["Tám gian chuyên đề lịch sử thế giới"],
+      "numeric_value": 8,
+      "unit": "gian",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "statue_height",
+      "type": "Value",
+      "canonical_name": "3,5 m",
+      "aliases": ["Tượng cao 3,5 mét"],
+      "numeric_value": 3.5,
+      "unit": "m",
+      "value_kind": "height",
+      "match": "new"
+    },
+    {
+      "key": "activity_exhibition",
+      "type": "Activity",
+      "canonical_name": "Xem trưng bày hiện vật",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000005"
+    },
+    {
+      "key": "activity_research_learning",
+      "type": "Activity",
+      "canonical_name": "Tham quan, nghiên cứu và học tập",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000010"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_current_address",
+      "source": "src_museum_contact",
+      "topic": "current_address",
+      "normalized_text": "Bảo tàng có địa chỉ số 19 phố Ngọc Hà, Ba Đình, Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_current_ward",
+      "source": "src_badinh_current",
+      "topic": "current_administrative_area",
+      "normalized_text": "Sau sắp xếp đơn vị hành chính năm 2025, Bảo tàng Hồ Chí Minh nằm trong địa bàn phường Ba Đình, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_category_mission",
+      "source": "src_museum_mission",
+      "topic": "category_and_mission",
+      "normalized_text": "Đây là bảo tàng lưu niệm danh nhân, thực hiện nghiên cứu, lưu giữ, trưng bày và giáo dục về cuộc đời, sự nghiệp, tư tưởng, đạo đức và phong cách Hồ Chí Minh.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_management",
+      "source": "src_museum_history",
+      "topic": "management",
+      "normalized_text": "Từ ngày 10 tháng 5 năm 1990, bảo tàng trực thuộc cơ quan quản lý nhà nước về văn hóa ở trung ương, nay là Bộ Văn hóa, Thể thao và Du lịch.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_preparation_1970",
+      "source": "src_museum_history",
+      "topic": "preparation",
+      "normalized_text": "Ban Phụ trách xây dựng Bảo tàng Hồ Chí Minh được thành lập ngày 25 tháng 11 năm 1970, mở đầu quá trình chuẩn bị kéo dài gần 20 năm.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_resolution_1977",
+      "source": "src_museum_history",
+      "topic": "institution_establishment",
+      "normalized_text": "Ngày 12 tháng 9 năm 1977, Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam ban hành nghị quyết số 04-NQ/TW để thành lập Viện Bảo tàng Hồ Chí Minh và xác định mục đích tưởng niệm, học tập di sản của Người.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_decree_1979",
+      "source": "src_museum_history",
+      "topic": "government_decree",
+      "normalized_text": "Ngày 15 tháng 10 năm 1979, Nghị định số 375/CP quy định chức năng, nhiệm vụ và tổ chức của Viện Bảo tàng Hồ Chí Minh.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_groundbreaking_inauguration",
+      "source": "src_museum_display",
+      "topic": "construction_timeline",
+      "normalized_text": "Công trình được khởi công ngày 31 tháng 8 năm 1985 và khánh thành ngày 19 tháng 5 năm 1990, đúng dịp kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_unesco_1987",
+      "source": "src_museum_history",
+      "topic": "unesco_resolution",
+      "normalized_text": "Tháng 11 năm 1987, Nghị quyết 18.65 khuyến nghị các quốc gia thành viên tham gia kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh; quá trình hoàn thiện công trình sau đó hướng tới mốc 19 tháng 5 năm 1990.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_complex_area",
+      "source": "src_government_area",
+      "topic": "area_and_nearby_places",
+      "normalized_text": "Bảo tàng có tổng diện tích 18.000 m² và nằm trong quần thể kết hợp với Lăng Chủ tịch Hồ Chí Minh, Khu Di tích Phủ Chủ tịch và Chùa Một Cột.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_architecture",
+      "source": "src_hanoi_architecture",
+      "topic": "building_architecture",
+      "normalized_text": "Tòa nhà Bảo tàng Hồ Chí Minh là một hạng mục kiến trúc thuộc Bảo tàng Hồ Chí Minh. Công trình có dạng khối vuông vát góc, cao ba tầng và gần 20 m, mỗi chiều dài 70 m, đồng thời mang biểu tượng bông sen trắng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_front_relief",
+      "source": "src_hanoi_architecture",
+      "topic": "front_relief",
+      "normalized_text": "Mặt trước tòa nhà có phù điêu lớn hình quốc kỳ và búa liềm đan quyện, đặt trên mảng hình vuông mỗi cạnh 8 m.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_opening_hall_statue",
+      "source": "src_hanoi_architecture",
+      "topic": "opening_hall_and_statue",
+      "normalized_text": "Gian mở đầu cao hơn 9 m, rộng 360 m²; trung tâm đặt tượng đồng toàn thân Chủ tịch Hồ Chí Minh cao 3,5 m.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_three_exhibition_sections",
+      "source": "src_museum_display",
+      "topic": "exhibition_structure",
+      "normalized_text": "Trưng bày gồm ba phần gắn bó: tiểu sử Chủ tịch Hồ Chí Minh, lịch sử đất nước và nhân dân Việt Nam, cùng các sự kiện chính của lịch sử thế giới ảnh hưởng tới hoạt động của Người và cách mạng Việt Nam.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_eight_halls",
+      "source": "src_museum_display",
+      "topic": "thematic_halls",
+      "normalized_text": "Phần lịch sử thế giới gồm tám gian chuyên đề, tương ứng tám giảng đường nhỏ để mở rộng nghiên cứu về các biến cố lịch sử từ giữa thế kỷ XIX đến hiện tại.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_memorial_hall",
+      "source": "src_museum_display",
+      "topic": "memorial_hall",
+      "normalized_text": "Gian tưởng niệm Chủ tịch Hồ Chí Minh là một tổ hợp không gian thuộc phần trưng bày về đất nước, cuộc sống, chiến đấu và thắng lợi của nhân dân Việt Nam.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_activities",
+      "source": "src_museum_mission",
+      "topic": "visitor_and_research_activities",
+      "normalized_text": "Các hoạt động gồm tham quan trưng bày hiện vật, nghiên cứu và học tập tư tưởng, đạo đức Hồ Chí Minh.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_current_address", "ev_current_ward"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "ward_ba_dinh", "evidence": ["ev_current_ward"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "city_hanoi", "evidence": ["ev_current_address", "ev_current_ward"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_memorial_museum", "evidence": ["ev_category_mission"], "confidence": 1.0},
+    {"source": "place", "relation": "MANAGED_BY", "target": "ministry_culture", "evidence": ["ev_management"], "confidence": 1.0},
+    {"source": "place", "relation": "ESTABLISHED_BY", "target": "politburo", "evidence": ["ev_resolution_1977"], "confidence": 0.95},
+    {"source": "place", "relation": "HONORS", "target": "ho_chi_minh", "evidence": ["ev_category_mission", "ev_resolution_1977"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "ho_chi_minh", "evidence": ["ev_category_mission", "ev_three_exhibition_sections"], "confidence": 1.0},
+    {"source": "place", "relation": "NEAR", "target": "mausoleum", "evidence": ["ev_complex_area"], "confidence": 1.0},
+    {"source": "place", "relation": "NEAR", "target": "presidential_site", "evidence": ["ev_complex_area"], "confidence": 1.0},
+    {"source": "place", "relation": "NEAR", "target": "one_pillar_pagoda", "evidence": ["ev_complex_area"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "museum_building", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "museum_building", "relation": "HAS_COMPONENT", "target": "opening_hall", "evidence": ["ev_opening_hall_statue"], "confidence": 1.0},
+    {"source": "museum_building", "relation": "HAS_COMPONENT", "target": "biography_exhibition", "evidence": ["ev_three_exhibition_sections"], "confidence": 1.0},
+    {"source": "museum_building", "relation": "HAS_COMPONENT", "target": "vietnam_exhibition", "evidence": ["ev_three_exhibition_sections"], "confidence": 1.0},
+    {"source": "museum_building", "relation": "HAS_COMPONENT", "target": "world_history_exhibition", "evidence": ["ev_three_exhibition_sections"], "confidence": 1.0},
+    {"source": "world_history_exhibition", "relation": "HAS_COMPONENT", "target": "thematic_halls", "evidence": ["ev_eight_halls"], "confidence": 1.0},
+    {"source": "vietnam_exhibition", "relation": "HAS_COMPONENT", "target": "memorial_hall", "evidence": ["ev_memorial_hall"], "confidence": 1.0},
+    {"source": "opening_hall", "relation": "HAS_COMPONENT", "target": "ho_chi_minh_statue", "evidence": ["ev_opening_hall_statue"], "confidence": 1.0},
+    {"source": "museum_building", "relation": "HAS_COMPONENT", "target": "front_relief", "evidence": ["ev_front_relief"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "white_lotus_style", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "museum_building", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "white_lotus_style", "evidence": ["ev_architecture"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "total_area", "evidence": ["ev_complex_area"], "confidence": 1.0, "qualifiers": {"measurement_kind": "area"}},
+    {"source": "museum_building", "relation": "HAS_MEASUREMENT", "target": "floor_count", "evidence": ["ev_architecture"], "confidence": 1.0, "qualifiers": {"measurement_kind": "floor_count"}},
+    {"source": "world_history_exhibition", "relation": "HAS_MEASUREMENT", "target": "thematic_hall_count", "evidence": ["ev_eight_halls"], "confidence": 1.0, "qualifiers": {"measurement_kind": "room_count"}},
+    {"source": "ho_chi_minh_statue", "relation": "HAS_MEASUREMENT", "target": "statue_height", "evidence": ["ev_opening_hall_statue"], "confidence": 1.0, "qualifiers": {"measurement_kind": "height"}},
+    {"source": "ho_chi_minh_statue", "relation": "ASSOCIATED_WITH_PERSON", "target": "ho_chi_minh", "evidence": ["ev_opening_hall_statue"], "confidence": 1.0},
+    {"source": "place", "relation": "ESTABLISHED_IN", "target": "time_1970_11_25", "evidence": ["ev_preparation_1970"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_preparation", "evidence": ["ev_preparation_1970"], "confidence": 1.0},
+    {"source": "event_preparation", "relation": "OCCURRED_IN", "target": "time_1970_11_25", "evidence": ["ev_preparation_1970"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_institute_establishment", "evidence": ["ev_resolution_1977"], "confidence": 1.0},
+    {"source": "event_institute_establishment", "relation": "OCCURRED_IN", "target": "time_1977_09_12", "evidence": ["ev_resolution_1977"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_government_decree", "evidence": ["ev_decree_1979"], "confidence": 1.0},
+    {"source": "event_government_decree", "relation": "OCCURRED_IN", "target": "time_1979_10_15", "evidence": ["ev_decree_1979"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_groundbreaking", "evidence": ["ev_groundbreaking_inauguration"], "confidence": 1.0},
+    {"source": "museum_building", "relation": "HAS_EVENT", "target": "event_groundbreaking", "evidence": ["ev_groundbreaking_inauguration"], "confidence": 1.0},
+    {"source": "event_groundbreaking", "relation": "OCCURRED_IN", "target": "time_1985_08_31", "evidence": ["ev_groundbreaking_inauguration"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_unesco_resolution", "evidence": ["ev_unesco_1987"], "confidence": 0.9},
+    {"source": "event_unesco_resolution", "relation": "OCCURRED_IN", "target": "time_1987_11", "evidence": ["ev_unesco_1987"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_inauguration", "evidence": ["ev_groundbreaking_inauguration"], "confidence": 1.0},
+    {"source": "museum_building", "relation": "HAS_EVENT", "target": "event_inauguration", "evidence": ["ev_groundbreaking_inauguration"], "confidence": 1.0},
+    {"source": "event_inauguration", "relation": "OCCURRED_IN", "target": "time_1990_05_19", "evidence": ["ev_groundbreaking_inauguration"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_exhibition", "evidence": ["ev_activities", "ev_three_exhibition_sections"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_research_learning", "evidence": ["ev_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "USED_FOR", "target": "activity_exhibition", "evidence": ["ev_activities", "ev_three_exhibition_sections"], "confidence": 1.0},
+    {"source": "place", "relation": "USED_FOR", "target": "activity_research_learning", "evidence": ["ev_activities"], "confidence": 1.0},
+    {"source": "opening_hall", "relation": "USED_FOR", "target": "activity_exhibition", "evidence": ["ev_opening_hall_statue"], "confidence": 1.0},
+    {"source": "biography_exhibition", "relation": "USED_FOR", "target": "activity_exhibition", "evidence": ["ev_three_exhibition_sections"], "confidence": 1.0},
+    {"source": "vietnam_exhibition", "relation": "USED_FOR", "target": "activity_exhibition", "evidence": ["ev_three_exhibition_sections"], "confidence": 1.0},
+    {"source": "world_history_exhibition", "relation": "USED_FOR", "target": "activity_exhibition", "evidence": ["ev_eight_halls"], "confidence": 1.0}
+  ]
+}

@@ -1124,3 +1124,34 @@ VALUE_000090,Khoảng 200.000 hiện vật và tư liệu,Value,,"Khoảng hai t
 VALUE_000091,30 Bảo vật quốc gia,Value,,,30_bao_vat_quoc_gia,30,bảo vật quốc gia,count,approved
 VALUE_000092,3.700 mét vuông diện tích trưng bày,Value,,Diện tích trưng bày 3.700 m²,3_700_met_vuong_dien_tich_trung_bay,3700,m²,area,approved
 VALUE_000093,Gần 8.000 tài liệu và hiện vật trưng bày,Value,,"Gần tám nghìn tài liệu, hiện vật",gan_8_000_tai_lieu_va_hien_vat_trung_bay,8000,tài liệu và hiện vật,approximate_count,approved
+PLACE_000047,Bảo tàng Mỹ thuật Việt Nam,Place,,Vietnam National Fine Arts Museum|Vietnam Fine Arts Museum|VNFAM|BTMTVN,bao_tang_my_thuat_viet_nam,,,,approved
+ADDRESS_000037,"Số 66 phố Nguyễn Thái Học, phường Ba Đình, thành phố Hà Nội",Address,,"66 Nguyễn Thái Học, Ba Đình, Hà Nội",so_66_pho_nguyen_thai_hoc_phuong_ba_dinh_thanh_pho_ha_noi,,,,approved
+CATEGORY_000014,Bảo tàng mỹ thuật quốc gia,TourismCategory,,Bảo tàng mỹ thuật|Bảo tàng nghệ thuật,bao_tang_my_thuat_quoc_gia,,,,approved
+TIME_000157,Ngày 24 tháng 6 năm 1966,Time,,24/6/1966,ngay_24_thang_6_nam_1966,,,,approved
+TIME_000158,Giai đoạn 1997-1999,Time,,Từ năm 1997 đến năm 1999,giai_doan_1997_1999,,,,approved
+EVENT_000087,Cải tạo tòa nhà thành nơi sưu tầm và trưng bày mỹ thuật,Event,,,cai_tao_toa_nha_thanh_noi_suu_tam_va_trung_bay_my_thuat,,,,approved
+EVENT_000088,Bảo tàng Mỹ thuật Việt Nam chính thức mở cửa,Event,,,bao_tang_my_thuat_viet_nam_chinh_thuc_mo_cua,,,,approved
+EVENT_000089,Mở rộng Bảo tàng Mỹ thuật Việt Nam giai đoạn 1997-1999,Event,,,mo_rong_bao_tang_my_thuat_viet_nam_giai_doan_1997_1999,,,,approved
+ARCH_000309,Tòa nhà chính Bảo tàng Mỹ thuật Việt Nam,Architecture,,Tòa nhà trưng bày số 66 Nguyễn Thái Học,toa_nha_chinh_bao_tang_my_thuat_viet_nam,,,,approved
+ASTYLE_000020,Kiến trúc châu Âu kết hợp nét kiến trúc Việt Nam,ArchitecturalStyle,,Kiến trúc Tây phương kết hợp kiến trúc đình làng Việt Nam,kien_truc_chau_au_ket_hop_net_kien_truc_viet_nam,,,,approved
+ARCH_000310,Không gian sáng tạo cho trẻ em,Architecture,,,khong_gian_sang_tao_cho_tre_em,,,,approved
+ARCH_000311,Không gian ẩm thực và đồ uống,Architecture,,Không gian cà phê,khong_gian_am_thuc_va_do_uong,,,,approved
+PLACE_000048,Cơ sở 2 Bảo tàng Mỹ thuật Việt Nam tại Hoàng Cầu,Place,,Cơ sở Hoàng Cầu - Ô Chợ Dừa,co_so_2_bao_tang_my_thuat_viet_nam_tai_hoang_cau,,,,approved
+ARCH_000312,Trung tâm Bảo quản - Tu sửa tác phẩm mỹ thuật,Architecture,,Trung tâm Bảo quản tu sửa tác phẩm mỹ thuật,trung_tam_bao_quan_tu_sua_tac_pham_my_thuat,,,,approved
+ARCH_000313,Hệ thống kho lưu giữ hiện vật tại cơ sở 2,Architecture,,Kho bảo quản tác phẩm mỹ thuật,he_thong_kho_luu_giu_hien_vat_tai_co_so_2,,,,approved
+ARCH_000314,Thư viện khoa học tại cơ sở 2,Architecture,,,thu_vien_khoa_hoc_tai_co_so_2,,,,approved
+HOBJ_000127,Sưu tập mỹ thuật thời Tiền sử và Sơ sử,HeritageObject,,Mỹ thuật thời Tiền sử - Sơ sử,suu_tap_my_thuat_thoi_tien_su_va_so_su,,,,approved
+HOBJ_000128,Sưu tập mỹ thuật từ thế kỷ XI đến thế kỷ XIX,HeritageObject,,Mỹ thuật thời phong kiến,suu_tap_my_thuat_tu_the_ky_xi_den_the_ky_xix,,,,approved
+HOBJ_000129,Sưu tập mỹ thuật hiện đại Việt Nam,HeritageObject,,Mỹ thuật hiện đại,suu_tap_my_thuat_hien_dai_viet_nam,,,,approved
+HOBJ_000130,Sưu tập mỹ thuật dân gian Việt Nam,HeritageObject,,Mỹ thuật dân gian,suu_tap_my_thuat_dan_gian_viet_nam,,,,approved
+HOBJ_000131,Sưu tập tranh sơn mài,HeritageObject,,,suu_tap_tranh_son_mai,,,,approved
+HOBJ_000132,Sưu tập tranh sơn dầu,HeritageObject,,,suu_tap_tranh_son_dau,,,,approved
+HOBJ_000133,Sưu tập tranh lụa,HeritageObject,,,suu_tap_tranh_lua,,,,approved
+HOBJ_000134,Sưu tập tranh dân gian,HeritageObject,,,suu_tap_tranh_dan_gian,,,,approved
+VALUE_000094,Khoảng 4.737 mét vuông diện tích khuôn viên,Value,,Diện tích toàn bộ 4.737 m²,khoang_4_737_met_vuong_dien_tich_khuon_vien,4737,m²,area,approved
+VALUE_000095,Trên 3.000 mét vuông diện tích trưng bày,Value,,Diện tích trưng bày hơn 3.000 m²,tren_3_000_met_vuong_dien_tich_trung_bay,3000,m²,minimum_area,approved
+VALUE_000096,Gần 21.000 hiện vật và tác phẩm nghệ thuật,Value,,"Khoảng hai mươi mốt nghìn hiện vật, tác phẩm",gan_21_000_hien_vat_va_tac_pham_nghe_thuat,21000,hiện vật và tác phẩm,approximate_count,approved
+VALUE_000097,Gần 2.000 hiện vật và tác phẩm trưng bày thường xuyên,Value,,Khoảng hai nghìn hiện vật trưng bày,gan_2_000_hien_vat_va_tac_pham_trung_bay_thuong_xuyen,2000,hiện vật và tác phẩm,approximate_count,approved
+VALUE_000098,9 Bảo vật quốc gia,Value,,,9_bao_vat_quoc_gia,9,bảo vật quốc gia,count,approved
+ACTIVITY_000052,"Học tập, tương tác và sáng tạo mỹ thuật",Activity,,Trải nghiệm sáng tạo trong không gian nghệ thuật,hoc_tap_tuong_tac_va_sang_tao_my_thuat,,,,approved
+ACTIVITY_000053,Bảo quản và tu sửa tác phẩm mỹ thuật,Activity,,"Bảo quản, phục chế tác phẩm mỹ thuật",bao_quan_va_tu_sua_tac_pham_my_thuat,,,,approved

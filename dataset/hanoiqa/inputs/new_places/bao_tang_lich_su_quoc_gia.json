@@ -1,0 +1,535 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_official_intro",
+      "title": "Lời giới thiệu",
+      "url": "https://baotanglichsu.vn/vi/Articles/3085/Loi-gioi-thieu",
+      "source_type": "official_museum_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu trích đoạn ngắn, bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_official_history",
+      "title": "Hình thành phát triển",
+      "url": "https://baotanglichsu.vn/vi/Articles/3086/hinh-thanh-phat-trien",
+      "source_type": "official_museum_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu trích đoạn ngắn, bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_official_display",
+      "title": "Trưng bày thường xuyên",
+      "url": "https://baotanglichsu.vn/vi/Articles/3144/Trung-bay-thuong-xuyen",
+      "source_type": "official_museum_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu trích đoạn ngắn, bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_official_renovation",
+      "title": "Khởi công Dự án Cải tạo, nâng cấp Bảo tàng lịch sử Quốc gia tại số 1 Tràng Tiền",
+      "url": "https://baotanglichsu.vn/vi/Articles/3090/76068/khoi-cong-du-an-cai-tao-nang-cap-bao-tang-lich-su-quoc-gia-tai-so-1-trang-tien.html",
+      "source_type": "official_museum_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu trích đoạn ngắn, bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_ministry_establishment",
+      "title": "Thành lập Bảo tàng Lịch sử quốc gia",
+      "url": "https://bvhttdl.gov.vn/thanh-lap-bao-tang-lich-su-quoc-gia-2295.htm",
+      "source_type": "central_government_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu trích đoạn ngắn, bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_cuanam_architecture",
+      "title": "Bảo tàng Lịch sử quốc gia - đại diện lớn của kiến trúc Đông Dương",
+      "url": "https://cuanam.hanoi.gov.vn/di-tich-lich-su-va-le-hoi-truyen-thong/bao-tang-lich-su-quoc-gia-dai-dien-lon-cua-kien-truc-dong-duong-2801250716144958073.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu trích đoạn ngắn, bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_official_fees",
+      "title": "Vé và lệ phí",
+      "url": "https://baotanglichsu.vn/vi/Articles/3108/ve-va-le-phi",
+      "source_type": "official_museum_portal",
+      "retrieved_at": "2026-09-12",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu trích đoạn ngắn, bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Bảo tàng Lịch sử Quốc gia",
+      "aliases": ["Bảo tàng Lịch sử quốc gia", "Vietnam National Museum of History", "VNMH", "BTLSQG"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 1 phố Tràng Tiền, phường Cửa Nam, thành phố Hà Nội",
+      "aliases": ["Số 1 Tràng Tiền, Cửa Nam, Hà Nội", "1 Tràng Tiền, Hà Nội"],
+      "match": "new"
+    },
+    {
+      "key": "ward_cua_nam",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Cửa Nam",
+      "admin_level": "ward",
+      "match": "existing",
+      "existing_id": "ADMIN_000004"
+    },
+    {
+      "key": "city_hanoi",
+      "type": "AdministrativeArea",
+      "canonical_name": "Thành phố Hà Nội",
+      "admin_level": "city",
+      "match": "existing",
+      "existing_id": "ADMIN_000002"
+    },
+    {
+      "key": "category_national_history_museum",
+      "type": "TourismCategory",
+      "canonical_name": "Bảo tàng lịch sử quốc gia",
+      "aliases": ["Bảo tàng lịch sử - xã hội", "Bảo tàng quốc gia"],
+      "match": "new"
+    },
+    {
+      "key": "building_trang_tien",
+      "type": "Architecture",
+      "canonical_name": "Tòa nhà Bảo tàng tại số 1 Tràng Tiền",
+      "aliases": ["Tòa nhà Bảo tàng Louis Finot", "Tòa nhà Bác Cổ"],
+      "match": "new"
+    },
+    {
+      "key": "building_tran_quang_khai",
+      "type": "Architecture",
+      "canonical_name": "Tòa nhà Bảo tàng tại số 216 Trần Quang Khải",
+      "aliases": ["Cơ sở 216 Trần Quang Khải", "Tòa nhà Bảo tàng Cách mạng Việt Nam"],
+      "match": "new"
+    },
+    {
+      "key": "value_pre1945_collection",
+      "type": "Value",
+      "canonical_name": "Gần 110.000 tài liệu và hiện vật giai đoạn trước năm 1945",
+      "aliases": ["Gần một trăm mười nghìn tài liệu, hiện vật"],
+      "numeric_value": 110000,
+      "unit": "tài liệu và hiện vật",
+      "value_kind": "approximate_count",
+      "match": "new"
+    },
+    {
+      "key": "value_modern_collection",
+      "type": "Value",
+      "canonical_name": "Hơn 80.000 tài liệu và hiện vật từ giữa thế kỷ XIX đến nay",
+      "aliases": ["Hơn tám mươi nghìn tài liệu, hiện vật"],
+      "numeric_value": 80000,
+      "unit": "tài liệu và hiện vật",
+      "value_kind": "minimum_count",
+      "match": "new"
+    },
+    {
+      "key": "ministry_culture",
+      "type": "Organization",
+      "canonical_name": "Bộ Văn hóa, Thể thao và Du lịch",
+      "aliases": ["Bộ Văn hóa Thể thao và Du lịch "],
+      "match": "existing",
+      "existing_id": "ORG_000020"
+    },
+    {
+      "key": "time_established_2011",
+      "type": "Time",
+      "canonical_name": "Ngày 26 tháng 9 năm 2011",
+      "aliases": ["26/09/2011", "26-9-2011"],
+      "match": "new"
+    },
+    {
+      "key": "time_1926",
+      "type": "Time",
+      "canonical_name": "Năm 1926",
+      "match": "new"
+    },
+    {
+      "key": "time_1932",
+      "type": "Time",
+      "canonical_name": "Năm 1932",
+      "match": "new"
+    },
+    {
+      "key": "time_open_history_1958",
+      "type": "Time",
+      "canonical_name": "Ngày 3 tháng 9 năm 1958",
+      "aliases": ["3/9/1958"],
+      "match": "new"
+    },
+    {
+      "key": "time_1917",
+      "type": "Time",
+      "canonical_name": "Năm 1917",
+      "match": "new"
+    },
+    {
+      "key": "time_open_revolution_1959",
+      "type": "Time",
+      "canonical_name": "Ngày 6 tháng 1 năm 1959",
+      "aliases": ["6/1/1959", "6-1-1959"],
+      "match": "new"
+    },
+    {
+      "key": "event_establishment",
+      "type": "Event",
+      "canonical_name": "Thành lập Bảo tàng Lịch sử Quốc gia",
+      "match": "new"
+    },
+    {
+      "key": "event_build_louis_finot",
+      "type": "Event",
+      "canonical_name": "Xây dựng Bảo tàng Louis Finot",
+      "match": "new"
+    },
+    {
+      "key": "event_inaugurate_louis_finot",
+      "type": "Event",
+      "canonical_name": "Khánh thành Bảo tàng Louis Finot",
+      "match": "new"
+    },
+    {
+      "key": "event_open_history_museum",
+      "type": "Event",
+      "canonical_name": "Bảo tàng Lịch sử Việt Nam mở cửa đón khách",
+      "match": "new"
+    },
+    {
+      "key": "event_build_customs",
+      "type": "Event",
+      "canonical_name": "Xây dựng trụ sở Sở Thương chính Đông Dương",
+      "match": "new"
+    },
+    {
+      "key": "event_open_revolution_museum",
+      "type": "Event",
+      "canonical_name": "Bảo tàng Cách mạng Việt Nam mở cửa phục vụ công chúng",
+      "match": "new"
+    },
+    {
+      "key": "style_indochinese",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc Đông Dương kết hợp Á - Âu",
+      "aliases": ["Phong cách kiến trúc Đông Dương", "Kiến trúc Á - Âu"],
+      "match": "new"
+    },
+    {
+      "key": "display_pre1945",
+      "type": "Architecture",
+      "canonical_name": "Hệ thống trưng bày lịch sử Việt Nam từ thời Tiền sử đến năm 1945",
+      "aliases": ["Trưng bày từ thời Tiền sử đến hết triều Nguyễn"],
+      "match": "new"
+    },
+    {
+      "key": "display_modern",
+      "type": "Architecture",
+      "canonical_name": "Hệ thống trưng bày lịch sử Việt Nam từ giữa thế kỷ XIX đến nay",
+      "aliases": ["Trưng bày lịch sử Việt Nam cận hiện đại"],
+      "match": "new"
+    },
+    {
+      "key": "display_outdoor",
+      "type": "Architecture",
+      "canonical_name": "Khu trưng bày ngoài trời tại 216 Trần Quang Khải",
+      "match": "new"
+    },
+    {
+      "key": "collection_dong_son",
+      "type": "HeritageObject",
+      "canonical_name": "Sưu tập hiện vật Văn hóa Đông Sơn",
+      "aliases": ["Sưu tập Văn hóa Đông Sơn"],
+      "match": "new"
+    },
+    {
+      "key": "collection_champa",
+      "type": "HeritageObject",
+      "canonical_name": "Sưu tập điêu khắc đá Chăm-pa",
+      "aliases": ["Sưu tập nghệ thuật Chămpa", "Sưu tập điêu khắc đá Chămpa"],
+      "match": "new"
+    },
+    {
+      "key": "collection_ceramics",
+      "type": "HeritageObject",
+      "canonical_name": "Sưu tập gốm men cổ Việt Nam",
+      "aliases": ["Sưu tập gốm men Việt Nam"],
+      "match": "new"
+    },
+    {
+      "key": "value_total_objects",
+      "type": "Value",
+      "canonical_name": "Khoảng 200.000 hiện vật và tư liệu",
+      "aliases": ["Khoảng hai trăm nghìn hiện vật, tư liệu"],
+      "numeric_value": 200000,
+      "unit": "hiện vật và tư liệu",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "value_national_treasures",
+      "type": "Value",
+      "canonical_name": "30 Bảo vật quốc gia",
+      "numeric_value": 30,
+      "unit": "bảo vật quốc gia",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "value_display_area",
+      "type": "Value",
+      "canonical_name": "3.700 mét vuông diện tích trưng bày",
+      "aliases": ["Diện tích trưng bày 3.700 m²"],
+      "numeric_value": 3700,
+      "unit": "m²",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_displayed_objects",
+      "type": "Value",
+      "canonical_name": "Gần 8.000 tài liệu và hiện vật trưng bày",
+      "aliases": ["Gần tám nghìn tài liệu, hiện vật"],
+      "numeric_value": 8000,
+      "unit": "tài liệu và hiện vật",
+      "value_kind": "approximate_count",
+      "match": "new"
+    },
+    {
+      "key": "lake_hoan_kiem",
+      "type": "Place",
+      "canonical_name": "Hồ Hoàn Kiếm",
+      "aliases": ["Hồ Gươm"],
+      "match": "existing",
+      "existing_id": "PLACE_000009"
+    },
+    {
+      "key": "thap_rua",
+      "type": "Place",
+      "canonical_name": "Tháp Rùa",
+      "match": "existing",
+      "existing_id": "PLACE_000008"
+    },
+    {
+      "key": "den_ngoc_son",
+      "type": "Place",
+      "canonical_name": "Đền Ngọc Sơn",
+      "match": "existing",
+      "existing_id": "PLACE_000016"
+    },
+    {
+      "key": "activity_view_exhibition",
+      "type": "Activity",
+      "canonical_name": "Xem trưng bày hiện vật",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000005"
+    },
+    {
+      "key": "activity_research_learning",
+      "type": "Activity",
+      "canonical_name": "Tham quan, nghiên cứu và học tập",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000010"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address_primary",
+      "source": "src_official_intro",
+      "topic": "primary_address",
+      "quote": "Địa chỉ: Số 1, Tràng Tiền, Cửa Nam, Hà Nội",
+      "normalized_text": "Địa chỉ cơ sở chính là số 1 phố Tràng Tiền, phường Cửa Nam, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_current_ward",
+      "source": "src_cuanam_architecture",
+      "topic": "current_administrative_area",
+      "quote": "Bảo tàng Lịch sử quốc gia (số 1 Tràng Tiền, Hoàn Kiếm, Hà Nội)",
+      "normalized_text": "Công trình số 1 Tràng Tiền nằm trên địa bàn phường Cửa Nam hiện hành của thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_category_management",
+      "source": "src_ministry_establishment",
+      "topic": "classification_and_management",
+      "normalized_text": "Địa danh là bảo tàng đứng đầu hệ thống bảo tàng Việt Nam và là đơn vị sự nghiệp công lập trực thuộc cơ quan quản lý văn hóa cấp bộ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_establishment",
+      "source": "src_ministry_establishment",
+      "topic": "establishment",
+      "quote": "Ngày 26/9, Thủ tướng Chính phủ đã ban hành Quyết định số 1674/QĐ-TTg về thành lập Bảo tàng lịch sử quốc gia",
+      "normalized_text": "Địa danh được thành lập ngày 26 tháng 9 năm 2011 theo Quyết định số 1674/QĐ-TTg.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_merger",
+      "source": "src_official_history",
+      "topic": "predecessor_museums",
+      "quote": "được thành lập trên cơ sở sáp nhập Bảo tàng Lịch sử Việt Nam và Bảo tàng Cách mạng Việt Nam",
+      "normalized_text": "Việc thành lập được thực hiện trên cơ sở sáp nhập hai bảo tàng tiền thân về lịch sử và cách mạng Việt Nam.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_louis_finot_history",
+      "source": "src_official_history",
+      "topic": "louis_finot_building_history",
+      "normalized_text": "Tòa nhà tiền thân tại Tràng Tiền được xây dựng năm 1926, khánh thành năm 1932 và được tiếp quản năm 1958.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_history_museum_opening",
+      "source": "src_official_history",
+      "topic": "history_museum_opening",
+      "normalized_text": "Bảo tàng tiền thân về lịch sử chính thức mở cửa đón khách ngày 3 tháng 9 năm 1958.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_revolution_building_history",
+      "source": "src_official_history",
+      "topic": "revolution_museum_building_history",
+      "normalized_text": "Cơ sở Trần Quang Khải nguyên là trụ sở Sở Thương chính Đông Dương, được xây dựng năm 1917.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_revolution_museum_opening",
+      "source": "src_official_history",
+      "topic": "revolution_museum_opening",
+      "normalized_text": "Bảo tàng tiền thân về cách mạng mở cửa phục vụ công chúng từ ngày 6 tháng 1 năm 1959.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_architectural_style",
+      "source": "src_official_renovation",
+      "topic": "architectural_style",
+      "quote": "mang phong cách kiến trúc Đông Dương, kết hợp hài hòa giữa kiến trúc phương Tây và phương Đông",
+      "normalized_text": "Tòa nhà số 1 Tràng Tiền mang phong cách Đông Dương, kết hợp hài hòa các yếu tố kiến trúc phương Tây và phương Đông.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_two_facilities",
+      "source": "src_official_fees",
+      "topic": "two_exhibition_facilities",
+      "quote": "Giá vé trên bao gồm hai khu vực trưng bày của Bảo tàng Lịch sử quốc gia",
+      "normalized_text": "Hai cơ sở của bảo tàng Lịch sử Quốc gia và là khu vực trưng bày nằm tại số 1 Tràng Tiền và số 216 Trần Quang Khải.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_display_scope",
+      "source": "src_official_display",
+      "topic": "permanent_display_scope",
+      "normalized_text": "Cơ sở Tràng Tiền giới thiệu lịch sử từ thời Tiền sử đến năm 1945; cơ sở Trần Quang Khải có hệ thống trưng bày giới thiệu lịch sử từ giữa thế kỷ XIX đến nay.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_display_measurements",
+      "source": "src_official_display",
+      "topic": "display_area_and_object_count",
+      "quote": "Với tổng diện tích 3.700m2, hệ thống trưng bày BTLSQG giới thiệu nhiều Bảo vật quốc gia và gần 8.000 tài liệu, hiện vật",
+      "normalized_text": "Hệ thống trưng bày có tổng diện tích 3.700 m² và giới thiệu gần 8.000 tài liệu, hiện vật cùng các sưu tập quý.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_collection_counts",
+      "source": "src_official_intro",
+      "topic": "collection_counts",
+      "normalized_text": "Kho lưu giữ có khoảng 200.000 hiện vật, tư liệu; trong đó gần 110.000 tài liệu, hiện vật thuộc giai đoạn trước năm 1945, hơn 80.000 thuộc giai đoạn từ giữa thế kỷ XIX đến nay và có 30 Bảo vật quốc gia.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_featured_collections",
+      "source": "src_official_intro",
+      "topic": "featured_collections",
+      "normalized_text": "Các sưu tập tiêu biểu gồm hiện vật Văn hóa Đông Sơn, gốm men cổ Việt Nam và điêu khắc đá Chăm-pa.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_outdoor_display",
+      "source": "src_official_display",
+      "topic": "outdoor_display",
+      "normalized_text": "Cơ sở Trần Quang Khải có khu trưng bày ngoài trời giới thiệu hiện vật thể khối kích thước lớn có giá trị lịch sử tiêu biểu.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_functions",
+      "source": "src_official_intro",
+      "topic": "museum_functions",
+      "normalized_text": "Các chức năng gồm nghiên cứu, khai quật khảo cổ, sưu tầm, lưu giữ, kiểm kê, bảo quản, trưng bày, giới thiệu và giáo dục về lịch sử Việt Nam.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_nearby_places",
+      "source": "src_official_intro",
+      "topic": "nearby_places",
+      "normalized_text": "Địa danh ở trung tâm Hà Nội, gần Hồ Gươm, Tháp Rùa và quần thể Cầu Thê Húc - Đền Ngọc Sơn.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address_primary", "ev_current_ward"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "ward_cua_nam", "evidence": ["ev_address_primary", "ev_current_ward"], "confidence": 1.0},
+    {"source": "place", "relation": "LOCATED_IN", "target": "city_hanoi", "evidence": ["ev_address_primary"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_national_history_museum", "evidence": ["ev_category_management"], "confidence": 1.0},
+    {"source": "place", "relation": "MANAGED_BY", "target": "ministry_culture", "evidence": ["ev_category_management"], "confidence": 1.0},
+    {"source": "place", "relation": "ESTABLISHED_IN", "target": "time_established_2011", "evidence": ["ev_establishment"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_establishment", "evidence": ["ev_establishment"], "confidence": 1.0},
+    {"source": "event_establishment", "relation": "OCCURRED_IN", "target": "time_established_2011", "evidence": ["ev_establishment"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "building_trang_tien", "evidence": ["ev_two_facilities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "building_tran_quang_khai", "evidence": ["ev_two_facilities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "display_pre1945", "evidence": ["ev_display_scope"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "display_modern", "evidence": ["ev_display_scope"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "display_outdoor", "evidence": ["ev_outdoor_display"], "confidence": 1.0},
+    {"source": "building_trang_tien", "relation": "HAS_COMPONENT", "target": "display_pre1945", "evidence": ["ev_display_scope"], "confidence": 1.0},
+    {"source": "building_tran_quang_khai", "relation": "HAS_COMPONENT", "target": "display_modern", "evidence": ["ev_display_scope"], "confidence": 1.0},
+    {"source": "building_tran_quang_khai", "relation": "HAS_COMPONENT", "target": "display_outdoor", "evidence": ["ev_outdoor_display"], "confidence": 1.0},
+    {"source": "building_trang_tien", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "style_indochinese", "evidence": ["ev_architectural_style"], "confidence": 1.0},
+    {"source": "building_trang_tien", "relation": "BUILT_IN", "target": "time_1926", "evidence": ["ev_louis_finot_history"], "confidence": 1.0},
+    {"source": "building_trang_tien", "relation": "HAS_EVENT", "target": "event_build_louis_finot", "evidence": ["ev_louis_finot_history"], "confidence": 1.0},
+    {"source": "event_build_louis_finot", "relation": "OCCURRED_IN", "target": "time_1926", "evidence": ["ev_louis_finot_history"], "confidence": 1.0},
+    {"source": "building_trang_tien", "relation": "HAS_EVENT", "target": "event_inaugurate_louis_finot", "evidence": ["ev_louis_finot_history"], "confidence": 1.0},
+    {"source": "event_inaugurate_louis_finot", "relation": "OCCURRED_IN", "target": "time_1932", "evidence": ["ev_louis_finot_history"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_open_history_museum", "evidence": ["ev_history_museum_opening"], "confidence": 1.0},
+    {"source": "building_trang_tien", "relation": "HAS_EVENT", "target": "event_open_history_museum", "evidence": ["ev_history_museum_opening"], "confidence": 1.0},
+    {"source": "event_open_history_museum", "relation": "OCCURRED_IN", "target": "time_open_history_1958", "evidence": ["ev_history_museum_opening"], "confidence": 1.0},
+    {"source": "building_tran_quang_khai", "relation": "BUILT_IN", "target": "time_1917", "evidence": ["ev_revolution_building_history"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_build_customs", "evidence": ["ev_revolution_building_history"], "confidence": 1.0},
+    {"source": "building_tran_quang_khai", "relation": "HAS_EVENT", "target": "event_build_customs", "evidence": ["ev_revolution_building_history"], "confidence": 1.0},
+    {"source": "event_build_customs", "relation": "OCCURRED_IN", "target": "time_1917", "evidence": ["ev_revolution_building_history"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_open_revolution_museum", "evidence": ["ev_revolution_museum_opening"], "confidence": 1.0},
+    {"source": "building_tran_quang_khai", "relation": "HAS_EVENT", "target": "event_open_revolution_museum", "evidence": ["ev_revolution_museum_opening"], "confidence": 1.0},
+    {"source": "event_open_revolution_museum", "relation": "OCCURRED_IN", "target": "time_open_revolution_1959", "evidence": ["ev_revolution_museum_opening"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "value_total_objects", "evidence": ["ev_collection_counts"], "confidence": 1.0, "qualifiers": {"measurement_kind": "collection_count"}},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "value_national_treasures", "evidence": ["ev_collection_counts"], "confidence": 1.0, "qualifiers": {"measurement_kind": "national_treasure_count"}},
+    {"source": "display_pre1945", "relation": "HAS_MEASUREMENT", "target": "value_pre1945_collection", "evidence": ["ev_collection_counts"], "confidence": 0.99, "qualifiers": {"measurement_kind": "collection_count"}},
+    {"source": "display_modern", "relation": "HAS_MEASUREMENT", "target": "value_modern_collection", "evidence": ["ev_collection_counts"], "confidence": 0.99, "qualifiers": {"measurement_kind": "collection_count"}},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "value_display_area", "evidence": ["ev_display_measurements"], "confidence": 1.0, "qualifiers": {"measurement_kind": "display_area"}},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "value_displayed_objects", "evidence": ["ev_display_measurements"], "confidence": 0.99, "qualifiers": {"measurement_kind": "displayed_object_count"}},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_view_exhibition", "evidence": ["ev_display_scope", "ev_functions"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_research_learning", "evidence": ["ev_functions"], "confidence": 1.0},
+    {"source": "place", "relation": "USED_FOR", "target": "activity_view_exhibition", "evidence": ["ev_functions"], "confidence": 1.0},
+    {"source": "place", "relation": "USED_FOR", "target": "activity_research_learning", "evidence": ["ev_functions"], "confidence": 1.0},
+    {"source": "building_trang_tien", "relation": "USED_FOR", "target": "activity_view_exhibition", "evidence": ["ev_display_scope"], "confidence": 1.0},
+    {"source": "building_tran_quang_khai", "relation": "USED_FOR", "target": "activity_view_exhibition", "evidence": ["ev_display_scope"], "confidence": 1.0},
+    {"source": "display_pre1945", "relation": "USED_FOR", "target": "activity_view_exhibition", "evidence": ["ev_display_scope"], "confidence": 1.0},
+    {"source": "display_modern", "relation": "USED_FOR", "target": "activity_view_exhibition", "evidence": ["ev_display_scope"], "confidence": 1.0},
+    {"source": "display_outdoor", "relation": "USED_FOR", "target": "activity_view_exhibition", "evidence": ["ev_outdoor_display"], "confidence": 1.0},
+    {"source": "display_pre1945", "relation": "HAS_COMPONENT", "target": "collection_dong_son", "evidence": ["ev_featured_collections"], "confidence": 1.0},
+    {"source": "display_pre1945", "relation": "HAS_COMPONENT", "target": "collection_champa", "evidence": ["ev_featured_collections"], "confidence": 1.0},
+    {"source": "display_pre1945", "relation": "HAS_COMPONENT", "target": "collection_ceramics", "evidence": ["ev_featured_collections"], "confidence": 1.0},
+    {"source": "place", "relation": "NEAR", "target": "lake_hoan_kiem", "evidence": ["ev_nearby_places"], "confidence": 1.0},
+    {"source": "place", "relation": "NEAR", "target": "thap_rua", "evidence": ["ev_nearby_places"], "confidence": 1.0},
+    {"source": "place", "relation": "NEAR", "target": "den_ngoc_son", "evidence": ["ev_nearby_places"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "collection_dong_son", "evidence": ["ev_featured_collections"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "collection_champa", "evidence": ["ev_featured_collections"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "collection_ceramics", "evidence": ["ev_featured_collections"], "confidence": 1.0}
+  ]
+}

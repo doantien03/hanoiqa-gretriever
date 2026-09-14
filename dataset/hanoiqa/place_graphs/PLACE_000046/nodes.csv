@@ -1,0 +1,39 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000005,Xem trưng bày hiện vật,Activity,,Tham quan nhà trưng bày,xem_trung_bay_hien_vat,,,,approved
+ACTIVITY_000010,"Tham quan, nghiên cứu và học tập",Activity,,Tham quan và nghiên cứu di tích,tham_quan_nghien_cuu_va_hoc_tap,,,,approved
+ADDRESS_000036,"Số 1 phố Tràng Tiền, phường Cửa Nam, thành phố Hà Nội",Address,,"Số 1 Tràng Tiền, Cửa Nam, Hà Nội|1 Tràng Tiền, Hà Nội",so_1_pho_trang_tien_phuong_cua_nam_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000004,Phường Cửa Nam,AdministrativeArea,ward,,phuong_cua_nam,,,,approved
+ARCH_000304,Tòa nhà Bảo tàng tại số 1 Tràng Tiền,Architecture,,Tòa nhà Bảo tàng Louis Finot|Tòa nhà Bác Cổ,toa_nha_bao_tang_tai_so_1_trang_tien,,,,approved
+ARCH_000305,Tòa nhà Bảo tàng tại số 216 Trần Quang Khải,Architecture,,Cơ sở 216 Trần Quang Khải|Tòa nhà Bảo tàng Cách mạng Việt Nam,toa_nha_bao_tang_tai_so_216_tran_quang_khai,,,,approved
+ARCH_000306,Hệ thống trưng bày lịch sử Việt Nam từ thời Tiền sử đến năm 1945,Architecture,,Trưng bày từ thời Tiền sử đến hết triều Nguyễn,he_thong_trung_bay_lich_su_viet_nam_tu_thoi_tien_su_den_nam_1945,,,,approved
+ARCH_000307,Hệ thống trưng bày lịch sử Việt Nam từ giữa thế kỷ XIX đến nay,Architecture,,Trưng bày lịch sử Việt Nam cận hiện đại,he_thong_trung_bay_lich_su_viet_nam_tu_giua_the_ky_xix_den_nay,,,,approved
+ARCH_000308,Khu trưng bày ngoài trời tại 216 Trần Quang Khải,Architecture,,,khu_trung_bay_ngoai_troi_tai_216_tran_quang_khai,,,,approved
+ASTYLE_000019,Kiến trúc Đông Dương kết hợp Á - Âu,ArchitecturalStyle,,Phong cách kiến trúc Đông Dương|Kiến trúc Á - Âu,kien_truc_dong_duong_ket_hop_a_au,,,,approved
+CATEGORY_000013,Bảo tàng lịch sử quốc gia,TourismCategory,,Bảo tàng lịch sử - xã hội|Bảo tàng quốc gia,bao_tang_lich_su_quoc_gia,,,,approved
+EVENT_000081,Thành lập Bảo tàng Lịch sử Quốc gia,Event,,,thanh_lap_bao_tang_lich_su_quoc_gia,,,,approved
+EVENT_000082,Xây dựng Bảo tàng Louis Finot,Event,,,xay_dung_bao_tang_louis_finot,,,,approved
+EVENT_000083,Khánh thành Bảo tàng Louis Finot,Event,,,khanh_thanh_bao_tang_louis_finot,,,,approved
+EVENT_000084,Bảo tàng Lịch sử Việt Nam mở cửa đón khách,Event,,,bao_tang_lich_su_viet_nam_mo_cua_don_khach,,,,approved
+EVENT_000085,Xây dựng trụ sở Sở Thương chính Đông Dương,Event,,,xay_dung_tru_so_so_thuong_chinh_dong_duong,,,,approved
+EVENT_000086,Bảo tàng Cách mạng Việt Nam mở cửa phục vụ công chúng,Event,,,bao_tang_cach_mang_viet_nam_mo_cua_phuc_vu_cong_chung,,,,approved
+HOBJ_000124,Sưu tập hiện vật Văn hóa Đông Sơn,HeritageObject,,Sưu tập Văn hóa Đông Sơn,suu_tap_hien_vat_van_hoa_dong_son,,,,approved
+HOBJ_000125,Sưu tập điêu khắc đá Chăm-pa,HeritageObject,,Sưu tập nghệ thuật Chămpa|Sưu tập điêu khắc đá Chămpa,suu_tap_dieu_khac_da_cham_pa,,,,approved
+HOBJ_000126,Sưu tập gốm men cổ Việt Nam,HeritageObject,,Sưu tập gốm men Việt Nam,suu_tap_gom_men_co_viet_nam,,,,approved
+ORG_000020,"Bộ Văn hóa, Thể thao và Du lịch",Organization,,Bộ Văn hóa thể thao và du lịch,bo_van_hoa_the_thao_va_du_lich,,,,approved
+PLACE_000008,Tháp Rùa,Place,,Quy Sơn Tháp|Tháp Núi Rùa|Turtle Tower,thap_rua,,,,approved
+PLACE_000009,Hồ Hoàn Kiếm,Place,,Hồ Gươm|Hồ Tả Vọng|Hoan Kiem Lake,ho_hoan_kiem,,,,approved
+PLACE_000016,Đền Ngọc Sơn,Place,,Ngoc Son Temple,den_ngoc_son,,,,approved
+PLACE_000046,Bảo tàng Lịch sử Quốc gia,Place,,Bảo tàng Lịch sử quốc gia|Vietnam National Museum of History|VNMH|BTLSQG,bao_tang_lich_su_quoc_gia,,,,approved
+TIME_000151,Ngày 26 tháng 9 năm 2011,Time,,26/09/2011|26-9-2011,ngay_26_thang_9_nam_2011,,,,approved
+TIME_000152,Năm 1926,Time,,,nam_1926,,,,approved
+TIME_000153,Năm 1932,Time,,,nam_1932,,,,approved
+TIME_000154,Ngày 3 tháng 9 năm 1958,Time,,3/9/1958,ngay_3_thang_9_nam_1958,,,,approved
+TIME_000155,Năm 1917,Time,,,nam_1917,,,,approved
+TIME_000156,Ngày 6 tháng 1 năm 1959,Time,,6/1/1959|6-1-1959,ngay_6_thang_1_nam_1959,,,,approved
+VALUE_000088,Gần 110.000 tài liệu và hiện vật giai đoạn trước năm 1945,Value,,"Gần một trăm mười nghìn tài liệu, hiện vật",gan_110_000_tai_lieu_va_hien_vat_giai_doan_truoc_nam_1945,110000,tài liệu và hiện vật,approximate_count,approved
+VALUE_000089,Hơn 80.000 tài liệu và hiện vật từ giữa thế kỷ XIX đến nay,Value,,"Hơn tám mươi nghìn tài liệu, hiện vật",hon_80_000_tai_lieu_va_hien_vat_tu_giua_the_ky_xix_den_nay,80000,tài liệu và hiện vật,minimum_count,approved
+VALUE_000090,Khoảng 200.000 hiện vật và tư liệu,Value,,"Khoảng hai trăm nghìn hiện vật, tư liệu",khoang_200_000_hien_vat_va_tu_lieu,200000,hiện vật và tư liệu,count,approved
+VALUE_000091,30 Bảo vật quốc gia,Value,,,30_bao_vat_quoc_gia,30,bảo vật quốc gia,count,approved
+VALUE_000092,3.700 mét vuông diện tích trưng bày,Value,,Diện tích trưng bày 3.700 m²,3_700_met_vuong_dien_tich_trung_bay,3700,m²,area,approved
+VALUE_000093,Gần 8.000 tài liệu và hiện vật trưng bày,Value,,"Gần tám nghìn tài liệu, hiện vật",gan_8_000_tai_lieu_va_hien_vat_trung_bay,8000,tài liệu và hiện vật,approximate_count,approved

@@ -1,0 +1,42 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000005,Xem trưng bày hiện vật,Activity,,Tham quan nhà trưng bày,xem_trung_bay_hien_vat,,,,approved
+ACTIVITY_000010,"Tham quan, nghiên cứu và học tập",Activity,,Tham quan và nghiên cứu di tích,tham_quan_nghien_cuu_va_hoc_tap,,,,approved
+ADDRESS_000035,"Km 6+500 Đại lộ Thăng Long, phường Xuân Phương, thành phố Hà Nội",Address,,"Km6+500 Đại lộ Thăng Long, Xuân Phương, Hà Nội",km_6_500_dai_lo_thang_long_phuong_xuan_phuong_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000019,Phường Xuân Phương,AdministrativeArea,ward,,phuong_xuan_phuong,,,,approved
+ARCH_000294,Tòa nhà chính Bảo tàng Lịch sử Quân sự Việt Nam,Architecture,,Khối nhà trưng bày chính,toa_nha_chinh_bao_tang_lich_su_quan_su_viet_nam,,,,approved
+ARCH_000295,Tháp Chiến thắng,Architecture,,Tháp Chiến thắng Bảo tàng Lịch sử Quân sự Việt Nam,thap_chien_thang,,,,approved
+ARCH_000296,Hệ thống trưng bày trong nhà,Architecture,,,he_thong_trung_bay_trong_nha,,,,approved
+ARCH_000297,Không gian trưng bày ngoài trời,Architecture,,,khong_gian_trung_bay_ngoai_troi,,,,approved
+ARCH_000298,Chủ đề Buổi đầu dựng nước và giữ nước,Architecture,,"Chủ đề 1: Buổi đầu dựng nước và giữ nước, 700 TCN-938",chu_de_buoi_dau_dung_nuoc_va_giu_nuoc,,,,approved
+ARCH_000299,Chủ đề Bảo vệ độc lập dân tộc giai đoạn 939-1858,Architecture,,Chủ đề 2: Bảo vệ nền độc lập từ năm 939 đến năm 1858,chu_de_bao_ve_doc_lap_dan_toc_giai_doan_939_1858,,,,approved
+ARCH_000300,"Chủ đề Chống thực dân Pháp, giành độc lập dân tộc giai đoạn 1858-1945",Architecture,,,chu_de_chong_thuc_dan_phap_gianh_doc_lap_dan_toc_giai_doan_1858_1945,,,,approved
+ARCH_000301,Chủ đề Kháng chiến chống thực dân Pháp giai đoạn 1945-1954,Architecture,,,chu_de_khang_chien_chong_thuc_dan_phap_giai_doan_1945_1954,,,,approved
+ARCH_000302,Chủ đề Kháng chiến chống Mỹ giai đoạn 1954-1975,Architecture,,,chu_de_khang_chien_chong_my_giai_doan_1954_1975,,,,approved
+ARCH_000303,Chủ đề Xây dựng và bảo vệ đất nước từ năm 1976 đến nay,Architecture,,Xây dựng và bảo vệ Tổ quốc từ năm 1975 đến nay,chu_de_xay_dung_va_bao_ve_dat_nuoc_tu_nam_1976_den_nay,,,,approved
+CATEGORY_000012,Bảo tàng lịch sử quân sự,TourismCategory,,Bảo tàng quân sự|Bảo tàng quốc gia về lịch sử quân sự,bao_tang_lich_su_quan_su,,,,approved
+EVENT_000077,Thành lập Bảo tàng Quân đội,Event,,,thanh_lap_bao_tang_quan_doi,,,,approved
+EVENT_000078,Bảo tàng Quân đội mở cửa đón khách,Event,,,bao_tang_quan_doi_mo_cua_don_khach,,,,approved
+EVENT_000079,Đổi tên thành Bảo tàng Lịch sử Quân sự Việt Nam,Event,,,doi_ten_thanh_bao_tang_lich_su_quan_su_viet_nam,,,,approved
+EVENT_000080,Cơ sở Đại lộ Thăng Long mở cửa đón khách,Event,,,co_so_dai_lo_thang_long_mo_cua_don_khach,,,,approved
+HOBJ_000120,Máy bay MiG-21 số hiệu 4324,HeritageObject,,MiG-21 4324,may_bay_mig_21_so_hieu_4324,,,,approved
+HOBJ_000121,Máy bay MiG-21 số hiệu 5121,HeritageObject,,MiG-21 5121,may_bay_mig_21_so_hieu_5121,,,,approved
+HOBJ_000122,Xe tăng T-54B số hiệu 843,HeritageObject,,Xe tăng 843|T-54B 843,xe_tang_t_54b_so_hieu_843,,,,approved
+HOBJ_000123,Bản đồ Quyết tâm Chiến dịch Hồ Chí Minh,HeritageObject,,Bản đồ quyết tâm Chiến dịch Hồ Chí Minh năm 1975,ban_do_quyet_tam_chien_dich_ho_chi_minh,,,,approved
+HPERIOD_000002,Thời kỳ kháng chiến chống Mỹ,HistoricalPeriod,,Kháng chiến chống Mỹ,thoi_ky_khang_chien_chong_my,,,,approved
+HSTATUS_000004,Bảo vật quốc gia,HeritageStatus,,Bảo vật Quốc gia,bao_vat_quoc_gia,,,,approved
+ORG_000003,Bộ Quốc phòng,Organization,,,bo_quoc_phong,,,,approved
+ORG_000022,Tổng cục Chính trị Quân đội nhân dân Việt Nam,Organization,,Tổng cục Chính trị QĐND Việt Nam,tong_cuc_chinh_tri_quan_doi_nhan_dan_viet_nam,,,,approved
+PLACE_000045,Bảo tàng Lịch sử Quân sự Việt Nam,Place,,Bảo tàng LSQS Việt Nam|Bảo tàng Quân đội|Vietnam Military History Museum,bao_tang_lich_su_quan_su_viet_nam,,,,approved
+TIME_000009,Tháng 12 năm 2002,Time,,Năm 2002,thang_12_nam_2002,,,,approved
+TIME_000147,Ngày 17 tháng 7 năm 1956,Time,,17/7/1956,ngay_17_thang_7_nam_1956,,,,approved
+TIME_000148,Ngày 22 tháng 12 năm 1959,Time,,22/12/1959,ngay_22_thang_12_nam_1959,,,,approved
+TIME_000149,Năm 2019,Time,,,nam_2019,,,,approved
+TIME_000150,Ngày 1 tháng 11 năm 2024,Time,,1/11/2024|Tháng 11 năm 2024,ngay_1_thang_11_nam_2024,,,,approved
+VALUE_000073,4 tầng nổi,Value,,,4_tang_noi,4,tầng nổi,count,approved
+VALUE_000082,386.600 mét vuông diện tích xây dựng,Value,,"Diện tích 38,66 ha",386_600_met_vuong_dien_tich_xay_dung,386600,m²,area,approved
+VALUE_000083,1 tầng hầm,Value,,,1_tang_ham,1,tầng hầm,basement_count,approved
+VALUE_000084,45 mét chiều cao Tháp Chiến thắng,Value,,Tháp Chiến thắng cao 45 m,45_met_chieu_cao_thap_chien_thang,45,m,height,approved
+VALUE_000085,Hơn 150.000 hiện vật,Value,,,hon_150_000_hien_vat,150000,hiện vật,minimum_count,approved
+VALUE_000086,4 Bảo vật quốc gia,Value,,,4_bao_vat_quoc_gia,4,bảo vật quốc gia,count,approved
+VALUE_000087,6 chủ đề trưng bày,Value,,,6_chu_de_trung_bay,6,chủ đề,count,approved

@@ -1,0 +1,23 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000628,SRC_000231,PLACE_000049,current_address,"Bảo tàng Phụ nữ có địa chỉ hiện hành là số 36 phố Lý Thường Kiệt, phường Cửa Nam, thành phố Hà Nội.",normalized_summary,approved
+EVD_000629,SRC_000231,PLACE_000049,museum_mission,"Bảo tàng Phụ nữ là bảo tàng chuyên đề lưu giữ, giới thiệu lịch sử và di sản văn hóa của phụ nữ Việt Nam.",normalized_summary,approved
+EVD_000630,SRC_000231,PLACE_000049,management,Bảo tàng Phụ nữ trực thuộc Hội Liên hiệp Phụ nữ Việt Nam.,normalized_summary,approved
+EVD_000631,SRC_000237,PLACE_000049,establishment,Bảo tàng Phụ nữ được thành lập theo Quyết định số 09/QĐ ngày 1 tháng 10 năm 1987.,normalized_summary,approved
+EVD_000632,SRC_000231,PLACE_000049,founding_person,Bà Nguyễn Thị Định là người đặt nền móng cho sự ra đời của Bảo tàng Phụ nữ Việt Nam.,normalized_summary,approved
+EVD_000633,SRC_000231,PLACE_000049,construction_1991,Bảo tàng Phụ nữ được khởi công xây dựng vào năm 1991.,normalized_summary,approved
+EVD_000634,SRC_000231,PLACE_000049,opening_1995,Bảo tàng Phụ nữ chính thức mở cửa phục vụ khách tham quan vào năm 1995.,normalized_summary,approved
+EVD_000635,SRC_000231,PLACE_000049,reopening_2010,"Cuối năm 2010, bảo tàng Phụ nữ mở cửa trở lại với diện mạo và hệ thống trưng bày thường xuyên mới.",normalized_summary,approved
+EVD_000636,SRC_000232,PLACE_000049,permanent_exhibition_themes,"Bảo tàng Phụ nữ có hệ thống trưng bày thường xuyên gồm ba chủ đề về phụ nữ trong gia đình, phụ nữ trong lịch sử và thời trang nữ.",normalized_summary,approved
+EVD_000637,SRC_000232,PLACE_000049,women_in_family,"Chủ đề gia đình trình bày vai trò người vợ, người mẹ cùng các nghi lễ, tập tục và kinh nghiệm trong đời sống gia đình.",normalized_summary,approved
+EVD_000638,SRC_000232,PLACE_000049,women_in_history,"Chủ đề lịch sử giới thiệu vai trò của các thế hệ phụ nữ trong chiến tranh, thời bình và công cuộc xây dựng đất nước.",normalized_summary,approved
+EVD_000639,SRC_000232,PLACE_000049,women_fashion,"Chủ đề thời trang giới thiệu trang phục, kỹ thuật tạo hoa văn, trang sức và nghệ thuật làm đẹp của phụ nữ các dân tộc Việt Nam.",normalized_summary,approved
+EVD_000640,SRC_000231,PLACE_000049,mother_goddess_exhibition,"Trưng bày chuyên đề Tín ngưỡng thờ Mẫu trình bày bốn nội dung Mẫu, Tâm, Đẹp và Vui.",normalized_summary,approved
+EVD_000641,SRC_000235,PLACE_000049,collection_scope,"Các bộ sưu tập bao quát trang phục, trang sức, hình ảnh và hiện vật gắn với phụ nữ qua nhiều giai đoạn và vùng miền.",normalized_summary,approved
+EVD_000642,SRC_000236,PLACE_000049,collection_count,"Bảo tàng Phụ nữ lưu giữ và trưng bày hơn 28.000 hiện vật, tài liệu về phụ nữ Việt Nam.",normalized_summary,approved
+EVD_000643,SRC_000233,PLACE_000049,audio_guide,Hệ thống thuyết minh tự động có gần 60 câu chuyện xuyên suốt ba chủ đề trưng bày thường xuyên.,normalized_summary,approved
+EVD_000644,SRC_000234,PLACE_000049,discovery_room,"Bảo tàng Phụ nữ có phòng Khám phá dành cho trẻ em tương tác, trải nghiệm sáng tạo và tham gia các hoạt động giáo dục.",normalized_summary,approved
+EVD_000645,SRC_000234,PLACE_000049,discovery_room_renewal,Phòng Khám phá ra đời tháng 10 năm 2010 và mở cửa trở lại sau đổi mới vào tháng 11 năm 2017.,normalized_summary,approved
+EVD_000646,SRC_000234,PLACE_000049,discovery_room_components,"Phòng Khám phá có góc giới và giới tính, góc hoạt động sáng tạo và góc đọc sách.",normalized_summary,approved
+EVD_000647,SRC_000234,PLACE_000049,science_models,Góc hoạt động sáng tạo và tư duy có ba mô hình khoa học phục vụ trải nghiệm.,normalized_summary,approved
+EVD_000648,SRC_000233,PLACE_000049,visitor_activities,"Khách có thể xem trưng bày, nghe thuyết minh, nghiên cứu, học tập và tham gia các trải nghiệm giáo dục tương tác.",normalized_summary,approved
+EVD_000649,SRC_000231,PLACE_000049,heritage_preservation,"Bảo tàng Phụ nữ thực hiện nhiệm vụ bảo tồn, trao đổi văn hóa, nâng cao hiểu biết và thúc đẩy bình đẳng giới.",normalized_summary,approved

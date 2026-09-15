@@ -1,0 +1,20 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000650,SRC_000242,PLACE_000050,street_address,"Bảo tàng Phòng không - Không quân có số nhà 173C trên đường Trường Chinh, thành phố Hà Nội.",normalized_summary,approved
+EVD_000651,SRC_000243,PLACE_000050,current_administrative_area,"Sau sắp xếp đơn vị hành chính, Bảo tàng Phòng không - Không quân thuộc phường Phương Liệt, thành phố Hà Nội.",normalized_summary,approved
+EVD_000652,SRC_000241,PLACE_000050,museum_category,Bảo tàng Phòng không - Không quân là bảo tàng chuyên ngành quân sự về lực lượng Phòng không - Không quân.,normalized_summary,approved
+EVD_000653,SRC_000239,PLACE_000050,management,Bảo tàng Phòng không - Không quân là cơ quan thuộc hệ thống tổ chức của Cục Chính trị Quân chủng Phòng không - Không quân.,normalized_summary,approved
+EVD_000654,SRC_000244,PLACE_000050,establishment,Bảo tàng Phòng không - Không quân được thành lập ngày 22 tháng 10 năm 1963.,normalized_summary,approved
+EVD_000655,SRC_000240,PLACE_000050,inauguration,Bảo tàng Phòng không - Không quân mới được khánh thành ngày 28 tháng 8 năm 2007.,normalized_summary,approved
+EVD_000656,SRC_000238,PLACE_000050,collection_and_total_area,"Bảo tàng Phòng không - Không quân lưu giữ hơn 56.000 hiện vật, hình ảnh và tư liệu trên tổng diện tích trưng bày 16.000 m².",normalized_summary,approved
+EVD_000657,SRC_000238,PLACE_000050,display_area_breakdown,Bảo tàng Phòng không - Không quân có diện tích trưng bày gồm 12.800 m² ngoài trời và 3.200 m² trong nhà.,normalized_summary,approved
+EVD_000658,SRC_000241,PLACE_000050,indoor_display,Bảo tàng Phòng không - Không quân có khu trưng bày trong nhà giới thiệu hơn 3.000 hiện vật và hình ảnh tại hai tầng.,normalized_summary,approved
+EVD_000659,SRC_000241,PLACE_000050,indoor_theme_count,Nội dung trưng bày trong nhà được tổ chức theo sáu chủ đề lịch sử.,normalized_summary,approved
+EVD_000660,SRC_000241,PLACE_000050,outdoor_object_count,"Bảo tàng Phòng không - Không quân có khu trưng bày ngoài trời giới thiệu 73 hiện vật khối lớn là vũ khí, khí tài và phương tiện quân sự.",normalized_summary,approved
+EVD_000661,SRC_000241,PLACE_000050,ceremonial_hall,Phần khánh tiết có thiết kế trang trọng với mái vòm biểu tượng cho bầu trời Tổ quốc thanh bình.,normalized_summary,approved
+EVD_000662,SRC_000238,PLACE_000050,electronic_campaign_model,Khu trưng bày trong nhà của Bảo tàng Phòng không – Không quân có sa bàn điện tử tái hiện Chiến dịch Phòng không bảo vệ Hà Nội cuối tháng 12 năm 1972.,normalized_summary,approved
+EVD_000663,SRC_000238,PLACE_000050,historical_collections,Khu trưng bày trong nhà của Bảo tàng Phòng không - Không quân giới thiệu các bộ sưu tập hiện vật tiêu biểu về Ban Nghiên cứu Không quân và Trung đoàn Pháo cao xạ 367 tại mặt trận Điện Biên Phủ.,normalized_summary,approved
+EVD_000664,SRC_000241,PLACE_000050,representative_outdoor_objects,"Khu trưng bày ngoài trời của Bảo tàng Phòng không – Không quân giới thiệu các hiện vật tiêu biểu gồm pháo cao xạ 37 mm, pháo phòng không 90 mm, ra-đa phát hiện máy bay B52, bệ phóng tên lửa, máy bay MiG-17, máy bay MiG-19, máy bay MiG-21, máy bay A-37 và trực thăng vận tải.",normalized_summary,approved
+EVD_000665,SRC_000241,PLACE_000050,cannon_37mm,Khẩu pháo cao xạ 37 mm của Anh hùng Tô Vĩnh Diện từng tham gia Chiến dịch Điện Biên Phủ năm 1954.,normalized_summary,approved
+EVD_000666,SRC_000241,PLACE_000050,radar_and_missile_launcher,Ra-đa phát hiện B-52 sớm 35 phút và bệ phóng tên lửa bắn rơi B-52 đầu tiên gắn với chiến dịch tháng 12 năm 1972.,normalized_summary,approved
+EVD_000667,SRC_000241,PLACE_000050,aircraft_a37,Máy bay A-37 được Phi đội Quyết Thắng sử dụng ném bom sân bay Tân Sơn Nhất trong Chiến dịch Hồ Chí Minh.,normalized_summary,approved
+EVD_000668,SRC_000239,PLACE_000050,museum_activities,"Bảo tàng Phòng không - Không quân có các hoạt động xem trưng bày hiện vật, phục vụ tham quan, nghiên cứu và học tập ,giáo dục truyền thống yêu nước và cách mạng và kiểm kê, bảo quản hiện vật quân sự.",normalized_summary,approved

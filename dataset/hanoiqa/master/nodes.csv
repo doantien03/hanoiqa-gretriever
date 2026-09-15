@@ -1188,3 +1188,37 @@ VALUE_000102,3 mô hình khoa học tại Phòng Khám phá,Value,,,3_mo_hinh_kh
 ACTIVITY_000054,"Tương tác, trải nghiệm và giáo dục về giới",Activity,,Hoạt động giáo dục tương tác cho trẻ em,tuong_tac_trai_nghiem_va_giao_duc_ve_gioi,,,,approved
 ACTIVITY_000055,Nghe thuyết minh tự động,Activity,,Sử dụng Audio Guide,nghe_thuyet_minh_tu_dong,,,,approved
 ACTIVITY_000056,Bảo tồn và phát huy di sản văn hóa phụ nữ Việt Nam,Activity,,Bảo tồn di sản phụ nữ Việt Nam,bao_ton_va_phat_huy_di_san_van_hoa_phu_nu_viet_nam,,,,approved
+PLACE_000050,Bảo tàng Phòng không - Không quân,Place,,Bảo tàng PK-KQ|Bảo tàng Quân chủng Phòng không - Không quân|Vietnam People's Air Force Museum,bao_tang_phong_khong_khong_quan,,,,approved
+ADDRESS_000039,"Số 173C đường Trường Chinh, phường Phương Liệt, thành phố Hà Nội",Address,,"173C Trường Chinh, Phương Liệt, Hà Nội",so_173c_duong_truong_chinh_phuong_phuong_liet_thanh_pho_ha_noi,,,,approved
+ADMIN_000020,Phường Phương Liệt,AdministrativeArea,ward,,phuong_phuong_liet,,,,approved
+CATEGORY_000016,Bảo tàng chuyên ngành quân sự,TourismCategory,,Bảo tàng chuyên ngành Phòng không - Không quân,bao_tang_chuyen_nganh_quan_su,,,,approved
+ORG_000024,Cục Chính trị Quân chủng Phòng không - Không quân,Organization,,Cục Chính trị Quân chủng PK-KQ,cuc_chinh_tri_quan_chung_phong_khong_khong_quan,,,,approved
+TIME_000163,Ngày 22 tháng 10 năm 1963,Time,,22/10/1963,ngay_22_thang_10_nam_1963,,,,approved
+TIME_000164,Ngày 28 tháng 8 năm 2007,Time,,28/8/2007,ngay_28_thang_8_nam_2007,,,,approved
+EVENT_000095,Thành lập Bảo tàng Phòng không - Không quân,Event,,,thanh_lap_bao_tang_phong_khong_khong_quan,,,,approved
+EVENT_000096,Khánh thành công trình Bảo tàng Phòng không - Không quân,Event,,,khanh_thanh_cong_trinh_bao_tang_phong_khong_khong_quan,,,,approved
+ARCH_000324,Tòa nhà Bảo tàng Phòng không - Không quân,Architecture,,,toa_nha_bao_tang_phong_khong_khong_quan,,,,approved
+ARCH_000325,Khu trưng bày trong nhà,Architecture,,Không gian trưng bày nội thất,khu_trung_bay_trong_nha,,,,approved
+ARCH_000326,Khu trưng bày ngoài trời,Architecture,,Không gian trưng bày hiện vật khối lớn,khu_trung_bay_ngoai_troi,,,,approved
+ARCH_000327,Phần khánh tiết,Architecture,,Không gian khánh tiết mái vòm,phan_khanh_tiet,,,,approved
+ARCH_000328,Sa bàn điện tử Chiến dịch Phòng không bảo vệ Hà Nội tháng 12 năm 1972,Architecture,,Sa bàn điện tử Hà Nội - Điện Biên Phủ trên không,sa_ban_dien_tu_chien_dich_phong_khong_bao_ve_ha_noi_thang_12_nam_1972,,,,approved
+HOBJ_000138,Bộ sưu tập hiện vật về Ban Nghiên cứu Không quân,HeritageObject,,Hiện vật Ban Nghiên cứu KQ,bo_suu_tap_hien_vat_ve_ban_nghien_cuu_khong_quan,,,,approved
+HOBJ_000139,Bộ sưu tập hiện vật Trung đoàn Pháo cao xạ 367 tại Điện Biên Phủ,HeritageObject,,Hiện vật Trung đoàn 367,bo_suu_tap_hien_vat_trung_doan_phao_cao_xa_367_tai_dien_bien_phu,,,,approved
+HOBJ_000140,Khẩu pháo cao xạ 37 mm,HeritageObject,,Pháo cao xạ 37mm ,khau_phao_cao_xa_37_mm,,,,approved
+HOBJ_000141,Khẩu pháo phòng không 90 mm ,HeritageObject,,Pháo 90mm,khau_phao_phong_khong_90_mm,,,,approved
+HOBJ_000142,Ra-đa phát hiện máy bay B-52,HeritageObject,,Ra-đa bắt tín hiệu B-52,ra_da_phat_hien_may_bay_b_52,,,,approved
+HOBJ_000143,Bệ phóng tên lửa,HeritageObject,,Bệ phóng tên lửa hạ B-52 ,be_phong_ten_lua,,,,approved
+HOBJ_000144,Máy bay MiG-17,HeritageObject,,,may_bay_mig_17,,,,approved
+HOBJ_000145,Máy bay MiG-19,HeritageObject,,,may_bay_mig_19,,,,approved
+HOBJ_000146,Máy bay MiG-21,HeritageObject,,,may_bay_mig_21,,,,approved
+HOBJ_000147,Máy bay A-37,HeritageObject,,Máy bay A.37,may_bay_a_37,,,,approved
+HOBJ_000148,Trực thăng vận tải,HeritageObject,,,truc_thang_van_tai,,,,approved
+VALUE_000103,"Hơn 56.000 hiện vật, hình ảnh và tư liệu",Value,,Trên năm mươi sáu nghìn hiện vật,hon_56_000_hien_vat_hinh_anh_va_tu_lieu,56000,"hiện vật, hình ảnh và tư liệu",minimum_count,approved
+VALUE_000104,16.000 mét vuông diện tích trưng bày,Value,,Tổng diện tích trưng bày 16.000 m²,16_000_met_vuong_dien_tich_trung_bay,16000,m²,area,approved
+VALUE_000105,12.800 mét vuông diện tích trưng bày ngoài trời,Value,,Diện tích ngoài trời 12.800 m²,12_800_met_vuong_dien_tich_trung_bay_ngoai_troi,12800,m²,area,approved
+VALUE_000106,3.200 mét vuông diện tích trưng bày trong nhà,Value,,Diện tích trong nhà 3.200 m²,3_200_met_vuong_dien_tich_trung_bay_trong_nha,3200,m²,area,approved
+VALUE_000107,73 hiện vật khối lớn ngoài trời,Value,,,73_hien_vat_khoi_lon_ngoai_troi,73,hiện vật khối lớn,count,approved
+VALUE_000108,Hơn 3.000 hiện vật và hình ảnh trưng bày,Value,,"Trên ba nghìn hiện vật, hình ảnh",hon_3_000_hien_vat_va_hinh_anh_trung_bay,3000,hiện vật và hình ảnh,minimum_count,approved
+VALUE_000109,6 chủ đề trưng bày trong nhà,Value,,,6_chu_de_trung_bay_trong_nha,6,chủ đề,count,approved
+VALUE_000110,2 tầng trưng bày,Value,,,2_tang_trung_bay,2,tầng,count,approved
+ACTIVITY_000057,"Sưu tầm, kiểm kê và bảo quản hiện vật quân sự",Activity,,"Bảo quản tư liệu, hiện vật Phòng không - Không quân",suu_tam_kiem_ke_va_bao_quan_hien_vat_quan_su,,,,approved

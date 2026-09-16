@@ -1,0 +1,23 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000715,SRC_000259,PLACE_000053,geographic_address,"Công viên Thống Nhất nằm giữa bốn tuyến phố Trần Nhân Tông, Lê Duẩn, Đại Cồ Việt và Nguyễn Đình Chiểu thuộc thành phố Hà Nội.",normalized_summary,approved
+EVD_000716,SRC_000257,PLACE_000053,construction_start,Công viên Thống Nhất được khởi công xây dựng ngày 28 tháng 11 năm 1958 trên khu vực trước đây là đầm hồ và bãi rác.,normalized_summary,approved
+EVD_000717,SRC_000261,PLACE_000053,park_categories,"Công viên Thống Nhất là công viên đô thị và không gian xanh công cộng phục vụ nhu cầu vui chơi, giải trí, nghỉ ngơi của người dân Thủ đô.",normalized_summary,approved
+EVD_000718,SRC_000260,PLACE_000053,total_area,Công viên Thống Nhất có tổng diện tích hơn 50 hecta.,normalized_summary,approved
+EVD_000719,SRC_000259,PLACE_000053,lake_and_islands,Công viên Thống Nhất bao quanh Hồ Bảy Mẫu; trong Hồ Bảy Mẫu có hai hòn đảo là Đảo Hòa Bình và Đảo Thống Nhất.,normalized_summary,approved
+EVD_000720,SRC_000259,PLACE_000053,lake_area,"Hồ Bảy Mẫu, một hạng mục thuộc Công viên Thống Nhất, có diện tích khoảng 25 hecta.",normalized_summary,approved
+EVD_000721,SRC_000259,PLACE_000053,island_and_bridge,Đảo Thống Nhất trong Công viên Thống Nhất có diện tích hơn 6.000 mét vuông và được nối với khu vực phía đường Lê Duẩn bằng Cầu Thống Nhất.,normalized_summary,approved
+EVD_000722,SRC_000259,PLACE_000053,recreation_components,"Công viên Thống Nhất có Sân khấu ngoài trời, Khu vui chơi thiếu nhi và Không gian đường dạo, cây xanh phục vụ người dân.",normalized_summary,approved
+EVD_000723,SRC_000257,PLACE_000053,visitor_activities,"Khách đến Công viên Thống Nhất có thể tập thể dục, đi bộ, dạo chơi, nghỉ ngơi và thư giãn trong không gian cây xanh.",normalized_summary,approved
+EVD_000724,SRC_000259,PLACE_000053,hoa_binh_island_usage,"Đảo Hòa Bình thuộc Công viên Thống Nhất là không gian yên tĩnh được sử dụng cho hoạt động tập thể dục, nghỉ ngơi và thư giãn.",normalized_summary,approved
+EVD_000725,SRC_000261,PLACE_000053,walking_space_usage,"Không gian đường dạo và cây xanh của Công viên Thống Nhất được sử dụng cho hoạt động đi bộ, dạo chơi và tập thể dục.",normalized_summary,approved
+EVD_000726,SRC_000259,PLACE_000053,children_playground_usage,Khu vui chơi thiếu nhi của Công viên Thống Nhất được sử dụng cho hoạt động vui chơi dành cho trẻ em.,normalized_summary,approved
+EVD_000727,SRC_000259,PLACE_000053,park_inauguration,Công viên Thống Nhất gắn với sự kiện Khánh thành Công viên Thống Nhất diễn ra ngày 30 tháng 5 năm 1961.,normalized_summary,approved
+EVD_000728,SRC_000258,PLACE_000053,first_tree_planting,"Ngày 11 tháng 1 năm 1960, Chủ tịch Hồ Chí Minh trồng một cây đa tại Công viên hồ Bảy Mẫu, nay là Công viên Thống Nhất, mở đầu phong trào Tết trồng cây đầu tiên.",normalized_summary,approved
+EVD_000729,SRC_000257,PLACE_000053,ho_chi_minh_association,Công viên Thống Nhất gắn với Chủ tịch Hồ Chí Minh thông qua Cây đa do Chủ tịch Hồ Chí Minh trực tiếp trồng ngày 11 tháng 1 năm 1960.,normalized_summary,approved
+EVD_000730,SRC_000259,PLACE_000053,commemorative_monument,"Đảo Thống Nhất có Tượng đài Bác Hồ và Bác Tôn, công trình tưởng niệm Chủ tịch Hồ Chí Minh và Chủ tịch Tôn Đức Thắng được xây dựng vào năm 2010.",normalized_summary,approved
+EVD_000731,SRC_000257,PLACE_000053,open_park_conversion,"Cuối tháng 12 năm 2022, gần 400 mét hàng rào phía đường Trần Nhân Tông được tháo dỡ, chuyển Công viên Thống Nhất sang mô hình Công viên mở và không thu phí vào cửa.",normalized_summary,approved
+EVD_000732,SRC_000260,PLACE_000053,renovation_2025,"Tháng 3 năm 2025, Công viên Thống Nhất gắn với sự kiện Cải tạo cổng, hàng rào và hè phố Lê Duẩn; Ban Quản lý dự án đầu tư xây dựng quận Hai Bà Trưng là chủ đầu tư tổ chức khởi công dự án.",normalized_summary,approved
+EVD_000733,SRC_000260,PLACE_000053,renovation_material,Khu vực cổng và hè phố Lê Duẩn giáp Công viên Thống Nhất được cải tạo bằng cách thay lớp gạch block cũ bằng Đá tự nhiên.,normalized_summary,approved
+EVD_000734,SRC_000260,PLACE_000053,entrance_count,Công viên Thống Nhất có 7 vị trí cổng ra vào.,normalized_summary,approved
+EVD_000735,SRC_000262,PLACE_000053,park_management,Công ty trách nhiệm hữu hạn một thành viên Công viên Thống Nhất là đơn vị gắn với công tác quản lý và vận hành Công viên Thống Nhất.,normalized_summary,approved
+EVD_000736,SRC_000257,PLACE_000053,management_person,Trần Anh Tú được giới thiệu là Tổng Giám đốc Công ty Công viên Thống Nhất và là nhân vật gắn với công tác quản lý Công viên Thống Nhất.,normalized_summary,approved

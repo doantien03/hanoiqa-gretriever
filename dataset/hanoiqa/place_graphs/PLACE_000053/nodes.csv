@@ -1,0 +1,39 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000068,Tập thể dục,Activity,,Rèn luyện thể chất,tap_the_duc,,,,approved
+ACTIVITY_000069,Đi bộ và dạo chơi,Activity,,Tản bộ|Dạo bộ trong công viên,di_bo_va_dao_choi,,,,approved
+ACTIVITY_000070,Nghỉ ngơi và thư giãn,Activity,,Thư giãn trong không gian xanh,nghi_ngoi_va_thu_gian,,,,approved
+ACTIVITY_000071,Vui chơi dành cho trẻ em,Activity,,Vui chơi thiếu nhi,vui_choi_danh_cho_tre_em,,,,approved
+ADDRESS_000042,"Giữa các phố Trần Nhân Tông, Lê Duẩn, Đại Cồ Việt và Nguyễn Đình Chiểu, thành phố Hà Nội",Address,,,giua_cac_pho_tran_nhan_tong_le_duan_dai_co_viet_va_nguyen_dinh_chieu_thanh_pho_ha_noi,,,,approved
+ARCH_000343,Cầu Thống Nhất,Architecture,,Cầu dẫn vào Đảo Thống Nhất,cau_thong_nhat,,,,approved
+ARCH_000344,Tượng đài Bác Hồ và Bác Tôn,Architecture,,Tượng đài Hồ Chí Minh và Tôn Đức Thắng,tuong_dai_bac_ho_va_bac_ton,,,,approved
+ARCH_000345,Sân khấu ngoài trời Công viên Thống Nhất,Architecture,,Sân khấu ngoài trời,san_khau_ngoai_troi_cong_vien_thong_nhat,,,,approved
+ARCH_000346,Khu vui chơi thiếu nhi Công viên Thống Nhất,Architecture,,Khu vui chơi trẻ em,khu_vui_choi_thieu_nhi_cong_vien_thong_nhat,,,,approved
+ARCH_000347,Không gian đường dạo và cây xanh Công viên Thống Nhất,Architecture,,Đường dạo trong công viên|Không gian cây xanh,khong_gian_duong_dao_va_cay_xanh_cong_vien_thong_nhat,,,,approved
+ARCH_000348,Khu vực cổng và hè phố Lê Duẩn,Architecture,,Cổng Công viên Thống Nhất phía Lê Duẩn|Hè phố Lê Duẩn giáp công viên,khu_vuc_cong_va_he_pho_le_duan,,,,approved
+CATEGORY_000020,Công viên đô thị,TourismCategory,,Công viên trong đô thị,cong_vien_do_thi,,,,approved
+CATEGORY_000021,Không gian xanh công cộng,TourismCategory,,Không gian xanh đô thị,khong_gian_xanh_cong_cong,,,,approved
+CATEGORY_000022,Công viên mở,TourismCategory,,Mô hình công viên mở,cong_vien_mo,,,,approved
+EVENT_000107,Khánh thành Công viên Thống Nhất,Event,,Lễ khánh thành Công viên Thống Nhất năm 1961,khanh_thanh_cong_vien_thong_nhat,,,,approved
+EVENT_000108,Chủ tịch Hồ Chí Minh trồng cây đa mở đầu phong trào Tết trồng cây,Event,,Sự kiện Bác Hồ trồng cây đa tại Công viên Thống Nhất,chu_tich_ho_chi_minh_trong_cay_da_mo_dau_phong_trao_tet_trong_cay,,,,approved
+EVENT_000109,Chuyển sang mô hình công viên mở,Event,,Tháo hàng rào Công viên Thống Nhất năm 2022,chuyen_sang_mo_hinh_cong_vien_mo,,,,approved
+EVENT_000110,"Cải tạo cổng, hàng rào và hè phố Lê Duẩn",Event,,Đợt cải tạo Công viên Thống Nhất năm 2025,cai_tao_cong_hang_rao_va_he_pho_le_duan,,,,approved
+HOBJ_000153,Cây đa do Chủ tịch Hồ Chí Minh trồng,HeritageObject,,Cây đa Bác Hồ|Cây đa lưu niệm năm 1960,cay_da_do_chu_tich_ho_chi_minh_trong,,,,approved
+MATERIAL_000018,Đá tự nhiên,Material,,Lớp lát đá tự nhiên,da_tu_nhien,,,,approved
+ORG_000031,Công ty trách nhiệm hữu hạn một thành viên Công viên Thống Nhất,Organization,,Công ty TNHH MTV Công viên Thống Nhất|Công ty Công viên Thống Nhất,cong_ty_trach_nhiem_huu_han_mot_thanh_vien_cong_vien_thong_nhat,,,,approved
+PERSON_000024,Hồ Chí Minh,Person,,Chủ tịch Hồ Chí Minh|Bác Hồ|Nguyễn Ái Quốc|Nguyễn Tất Thành,ho_chi_minh,,,,approved
+PERSON_000079,Tôn Đức Thắng,Person,,Chủ tịch Tôn Đức Thắng|Bác Tôn,ton_duc_thang,,,,approved
+PERSON_000080,Trần Anh Tú,Person,,,tran_anh_tu,,,,approved
+PLACE_000053,Công viên Thống Nhất,Place,,Công viên Lênin giai đoạn 1980-2003,cong_vien_thong_nhat,,,,approved
+PLACE_000054,Hồ Bảy Mẫu,Place,,Hồ 7 Mẫu,ho_bay_mau,,,,approved
+PLACE_000055,Đảo Hòa Bình,Place,,Đảo Hòa Bình trong Hồ Bảy Mẫu,dao_hoa_binh,,,,approved
+PLACE_000056,Đảo Thống Nhất,Place,,Đảo Thống Nhất trong Hồ Bảy Mẫu,dao_thong_nhat,,,,approved
+ROLE_000010,Tổng Giám đốc Công ty Công viên Thống Nhất,Role,,Tổng Giám đốc đơn vị quản lý Công viên Thống Nhất,tong_giam_doc_cong_ty_cong_vien_thong_nhat,,,,approved
+TIME_000173,Ngày 28 tháng 11 năm 1958,Time,,28/11/1958|28-11-1958,ngay_28_thang_11_nam_1958,,,,approved
+TIME_000174,Ngày 30 tháng 5 năm 1961,Time,,30/05/1961|30-5-1961,ngay_30_thang_5_nam_1961,,,,approved
+TIME_000175,Ngày 11 tháng 1 năm 1960,Time,,11/01/1960|11-1-1960,ngay_11_thang_1_nam_1960,,,,approved
+TIME_000176,Tháng 12 năm 2022,Time,,Cuối năm 2022,thang_12_nam_2022,,,,approved
+TIME_000177,Tháng 3 năm 2025,Time,,03/2025,thang_3_nam_2025,,,,approved
+VALUE_000111,Hơn 50 hecta diện tích,Value,,Diện tích công viên hơn 50 ha,hon_50_hecta_dien_tich,50,ha,minimum_area,approved
+VALUE_000112,25 hecta diện tích,Value,,,25_hecta_dien_tich,25,ha,area,approved
+VALUE_000113,Hơn 6.000 mét vuông diện tích,Value,,,hon_6_000_met_vuong_dien_tich,6000,m²,minimum_area,approved
+VALUE_000114,7 vị trí cổng ra vào,Value,,Bảy cổng ra vào,7_vi_tri_cong_ra_vao,7,cổng,count,approved

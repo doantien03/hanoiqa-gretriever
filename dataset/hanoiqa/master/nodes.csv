@@ -1333,3 +1333,23 @@ MATERIAL_000018,Đá tự nhiên,Material,,Lớp lát đá tự nhiên,da_tu_nhi
 CATEGORY_000020,Công viên đô thị,TourismCategory,,Công viên trong đô thị,cong_vien_do_thi,,,,approved
 CATEGORY_000021,Không gian xanh công cộng,TourismCategory,,Không gian xanh đô thị,khong_gian_xanh_cong_cong,,,,approved
 CATEGORY_000022,Công viên mở,TourismCategory,,Mô hình công viên mở,cong_vien_mo,,,,approved
+PLACE_000057,Công viên Thủ Lệ,Place,,Vườn thú Hà Nội|Vườn thú Thủ Lệ,cong_vien_thu_le,,,,approved
+ADDRESS_000043,"Khu vực đường Bưởi, phường Giảng Võ, thành phố Hà Nội",Address,,,khu_vuc_duong_buoi_phuong_giang_vo_thanh_pho_ha_noi,,,,approved
+TIME_000178,Ngày 19 tháng 5 năm 1975,Time,,19/05/1975|19-5-1975,ngay_19_thang_5_nam_1975,,,,approved
+TIME_000179,Giai đoạn 2024-2026,Time,,Từ năm 2024 đến năm 2026,giai_doan_2024_2026,,,,approved
+PLACE_000058,Hồ nước trong Công viên Thủ Lệ,Place,,Hồ Thủ Lệ|Hồ nước Công viên Thủ Lệ,ho_nuoc_trong_cong_vien_thu_le,,,,approved
+ARCH_000349,Khu vườn thú Công viên Thủ Lệ,Architecture,,Khu nuôi và giới thiệu động vật|Khu chuồng thú,khu_vuon_thu_cong_vien_thu_le,,,,approved
+ARCH_000350,Khu vui chơi Công viên Thủ Lệ,Architecture,,Khu vui chơi trong Công viên Thủ Lệ,khu_vui_choi_cong_vien_thu_le,,,,approved
+VALUE_000115,Hơn 28 hecta diện tích công viên,Value,,Khoảng 29 hecta diện tích công viên,hon_28_hecta_dien_tich_cong_vien,28,ha,minimum_area,approved
+VALUE_000116,6 hecta diện tích hồ nước,Value,,Diện tích hồ nước 6 ha,6_hecta_dien_tich_ho_nuoc,6,ha,area,approved
+VALUE_000117,Gần 600 cá thể động vật,Value,,Khoảng 600 cá thể động vật,gan_600_ca_the_dong_vat,600,cá thể,approximate_count,approved
+VALUE_000118,Hơn 100 loài động vật,Value,,Trên 100 loài động vật,hon_100_loai_dong_vat,100,loài,minimum_count,approved
+HSTATUS_000012,Điểm du lịch Vườn thú Hà Nội,HeritageStatus,,Điểm du lịch của thành phố Hà Nội,diem_du_lich_vuon_thu_ha_noi,,,,approved
+CATEGORY_000023,Vườn thú,TourismCategory,,Vườn bách thú,vuon_thu,,,,approved
+ORG_000032,Công ty trách nhiệm hữu hạn một thành viên Vườn thú Hà Nội,Organization,,Công ty TNHH MTV Vườn thú Hà Nội|Công ty TNHH một thành viên Vườn thú Hà Nội,cong_ty_trach_nhiem_huu_han_mot_thanh_vien_vuon_thu_ha_noi,,,,approved
+EVENT_000111,Công nhận Vườn thú Hà Nội là điểm du lịch,Event,,Sự kiện công nhận điểm du lịch Vườn thú Hà Nội,cong_nhan_vuon_thu_ha_noi_la_diem_du_lich,,,,approved
+EVENT_000112,"Dự án cải tạo, nâng cấp Công viên Thủ Lệ giai đoạn 2024-2026",Event,,Dự án cải tạo Công viên Thủ Lệ,du_an_cai_tao_nang_cap_cong_vien_thu_le_giai_doan_2024_2026,,,,approved
+PERSON_000081,Ngô Văn Quý,Person,,Ông Ngô Văn Quý,ngo_van_quy,,,,approved
+ROLE_000011,Phó Chủ tịch Ủy ban nhân dân thành phố Hà Nội,Role,,Phó Chủ tịch UBND thành phố Hà Nội,pho_chu_tich_uy_ban_nhan_dan_thanh_pho_ha_noi,,,,approved
+ACTIVITY_000072,Tham quan và tìm hiểu động vật,Activity,,Tham quan vườn thú|Quan sát động vật,tham_quan_va_tim_hieu_dong_vat,,,,approved
+ACTIVITY_000073,Vui chơi và giải trí,Activity,,Vui chơi tại công viên,vui_choi_va_giai_tri,,,,approved

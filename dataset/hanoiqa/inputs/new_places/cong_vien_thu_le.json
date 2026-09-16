@@ -1,0 +1,645 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_nhandan_recognition",
+      "title": "Công nhận Vườn thú Hà Nội là điểm du lịch",
+      "url": "https://nhandan.vn/cong-nhan-vuon-thu-ha-noi-la-diem-du-lich-post342964.html",
+      "source_type": "state_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vov_renovation",
+      "title": "Nỗ lực làm sống lại các công viên đang xuống cấp ở Hà Nội vẫn trên giấy?",
+      "url": "https://vov.vn/xa-hoi/no-luc-lam-song-lai-cac-cong-vien-dang-xuong-cap-o-ha-noi-van-tren-giay-post1158591.vov",
+      "source_type": "state_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_hanoi_enterprise",
+      "title": "Công ty TNHH một thành viên Vườn thú Hà Nội",
+      "url": "https://congbothongtindn.sotaichinh.hanoi.gov.vn/thongtindoanhnghiep/chitietdoanhnghiep/22",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_daidoanket_visitors",
+      "title": "Đông đảo người dân đến Vườn thú Hà Nội dịp nghỉ lễ 30/4 và 1/5",
+      "url": "https://daidoanket.vn/dong-dao-nguoi-dan-den-vuon-thu-ha-noi-dip-nghi-le-30-4-va-1-5-10278693.html",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Công viên Thủ Lệ",
+      "aliases": [
+        "Vườn thú Hà Nội",
+        "Vườn thú Thủ Lệ"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Khu vực đường Bưởi, phường Giảng Võ, thành phố Hà Nội",
+      "match": "new"
+    },
+    {
+      "key": "time_construction_start",
+      "type": "Time",
+      "canonical_name": "Ngày 19 tháng 5 năm 1975",
+      "aliases": [
+        "19/05/1975",
+        "19-5-1975"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "time_recognition_2018",
+      "type": "Time",
+      "canonical_name": "Năm 2018",
+      "aliases": [
+        "2018"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "period_renovation_2024_2026",
+      "type": "Time",
+      "canonical_name": "Giai đoạn 2024-2026",
+      "aliases": [
+        "Từ năm 2024 đến năm 2026"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "lake_thu_le",
+      "type": "Place",
+      "canonical_name": "Hồ nước trong Công viên Thủ Lệ",
+      "aliases": [
+        "Hồ Thủ Lệ",
+        "Hồ nước Công viên Thủ Lệ"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "zoo_area",
+      "type": "Architecture",
+      "canonical_name": "Khu vườn thú Công viên Thủ Lệ",
+      "aliases": [
+        "Khu nuôi và giới thiệu động vật",
+        "Khu chuồng thú"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "play_area",
+      "type": "Architecture",
+      "canonical_name": "Khu vui chơi Công viên Thủ Lệ",
+      "aliases": ["Khu vui chơi trong Công viên Thủ Lệ"],
+      "match": "new"
+    },
+    {
+      "key": "value_total_area",
+      "type": "Value",
+      "canonical_name": "Hơn 28 hecta diện tích công viên",
+      "aliases": ["Khoảng 29 hecta diện tích công viên"],
+      "numeric_value": 28,
+      "unit": "ha",
+      "value_kind": "minimum_area",
+      "match": "new"
+    },
+    {
+      "key": "value_lake_area",
+      "type": "Value",
+      "canonical_name": "6 hecta diện tích hồ nước",
+      "aliases": [
+        "Diện tích hồ nước 6 ha"
+      ],
+      "numeric_value": 6,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_animal_count",
+      "type": "Value",
+      "canonical_name": "Gần 600 cá thể động vật",
+      "aliases": [
+        "Khoảng 600 cá thể động vật"
+      ],
+      "numeric_value": 600,
+      "unit": "cá thể",
+      "value_kind": "approximate_count",
+      "match": "new"
+    },
+    {
+      "key": "value_species_count",
+      "type": "Value",
+      "canonical_name": "Hơn 100 loài động vật",
+      "aliases": [
+        "Trên 100 loài động vật"
+      ],
+      "numeric_value": 100,
+      "unit": "loài",
+      "value_kind": "minimum_count",
+      "match": "new"
+    },
+    {
+      "key": "status_tourist_site",
+      "type": "HeritageStatus",
+      "canonical_name": "Điểm du lịch Vườn thú Hà Nội",
+      "aliases": [
+        "Điểm du lịch của thành phố Hà Nội"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "category_zoo",
+      "type": "TourismCategory",
+      "canonical_name": "Vườn thú",
+      "aliases": [
+        "Vườn bách thú"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "category_urban_park",
+      "type": "TourismCategory",
+      "canonical_name": "Công viên đô thị",
+      "aliases": [
+        "Công viên công cộng"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "org_hanoi_ubnd",
+      "type": "Organization",
+      "canonical_name": "Ủy ban nhân dân thành phố Hà Nội",
+      "aliases": [
+        "UBND thành phố Hà Nội"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "management_company",
+      "type": "Organization",
+      "canonical_name": "Công ty trách nhiệm hữu hạn một thành viên Vườn thú Hà Nội",
+      "aliases": [
+        "Công ty TNHH MTV Vườn thú Hà Nội",
+        "Công ty TNHH một thành viên Vườn thú Hà Nội"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "event_recognition",
+      "type": "Event",
+      "canonical_name": "Công nhận Vườn thú Hà Nội là điểm du lịch",
+      "aliases": [
+        "Sự kiện công nhận điểm du lịch Vườn thú Hà Nội"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "event_renovation_project",
+      "type": "Event",
+      "canonical_name": "Dự án cải tạo, nâng cấp Công viên Thủ Lệ giai đoạn 2024-2026",
+      "aliases": [
+        "Dự án cải tạo Công viên Thủ Lệ"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "ngo_van_quy",
+      "type": "Person",
+      "canonical_name": "Ngô Văn Quý",
+      "aliases": [
+        "Ông Ngô Văn Quý"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "role_hanoi_vice_chairman",
+      "type": "Role",
+      "canonical_name": "Phó Chủ tịch Ủy ban nhân dân thành phố Hà Nội",
+      "aliases": [
+        "Phó Chủ tịch UBND thành phố Hà Nội"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "activity_animal_viewing",
+      "type": "Activity",
+      "canonical_name": "Tham quan và tìm hiểu động vật",
+      "aliases": [
+        "Tham quan vườn thú",
+        "Quan sát động vật"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "activity_recreation",
+      "type": "Activity",
+      "canonical_name": "Vui chơi và giải trí",
+      "aliases": [
+        "Vui chơi tại công viên"
+      ],
+      "match": "auto"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_nhandan_recognition",
+      "topic": "geographic_address",
+      "normalized_text": "Công viên Thủ Lệ, còn gọi là Vườn thú Hà Nội, nằm tại đường Bưởi, phường Giãng Võ, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_built_in",
+      "source": "src_nhandan_recognition",
+      "topic": "construction_start",
+      "normalized_text": "Công viên Thủ Lệ, còn gọi là Vườn thú Hà Nội, được khởi công xây dựng ngày 19 tháng 5 năm 1975.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_categories",
+      "source": "src_nhandan_recognition",
+      "topic": "park_categories",
+      "normalized_text": "Công viên Thủ Lệ là một công viên đô thị của Hà Nội và được tổ chức với chức năng Vườn thú Hà Nội để nuôi, bảo tồn và giới thiệu động vật.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_total_area",
+      "source": "src_vov_renovation",
+      "topic": "total_area",
+      "normalized_text": "Công viên Thủ Lệ có tổng diện tích hơn 28 hecta.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_main_components",
+      "source": "src_vov_renovation",
+      "topic": "park_components",
+      "normalized_text": "Công viên Thủ Lệ gồm hồ nước, khu vườn thú bố trí các khu vực nuôi động vật và các khu vui chơi phục vụ người dân.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_lake_area",
+      "source": "src_vov_renovation",
+      "topic": "lake_area",
+      "normalized_text": "Hồ nước trong Công viên Thủ Lệ là một hạng mục của công viên và có diện tích khoảng 6 hecta.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_animal_collection",
+      "source": "src_nhandan_recognition",
+      "topic": "animal_collection",
+      "normalized_text": "Khu vườn thú Công viên Thủ Lệ nuôi giữ gần 600 cá thể thuộc hơn 100 loài động vật, gồm các loài bò sát, lưỡng cư, cá, chim và thú.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_visitor_activities",
+      "source": "src_daidoanket_visitors",
+      "topic": "visitor_activities",
+      "normalized_text": "Khách đến Công viên Thủ Lệ có thể tham quan khu vườn thú để quan sát, tìm hiểu động vật và tham gia các hoạt động vui chơi, giải trí tại khu vui chơi của công viên.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_zoo_area_usage",
+      "source": "src_nhandan_recognition",
+      "topic": "zoo_area_usage",
+      "normalized_text": "Khu vườn thú Công viên Thủ Lệ được sử dụng để nuôi, bảo tồn, giới thiệu động vật và phục vụ hoạt động tham quan, tìm hiểu động vật của khách.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_play_area_usage",
+      "source": "src_daidoanket_visitors",
+      "topic": "play_area_usage",
+      "normalized_text": "Khu vui chơi Công viên Thủ Lệ được sử dụng cho hoạt động vui chơi và giải trí của người dân, đặc biệt là các gia đình có trẻ em.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_tourism_recognition",
+      "source": "src_nhandan_recognition",
+      "topic": "tourism_recognition",
+      "normalized_text": "Năm 2018, Ủy ban nhân dân thành phố Hà Nội ban hành quyết định công nhận Vườn thú Hà Nội tại Công viên Thủ Lệ là Điểm du lịch Vườn thú Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognition_event",
+      "source": "src_nhandan_recognition",
+      "topic": "recognition_event",
+      "normalized_text": "Sự kiện Công nhận Vườn thú Hà Nội là điểm du lịch gắn với Công viên Thủ Lệ và diễn ra vào năm 2018.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognition_signer",
+      "source": "src_nhandan_recognition",
+      "topic": "recognition_signer",
+      "normalized_text": "Ông Ngô Văn Quý tham gia sự kiện Công nhận Vườn thú Hà Nội là điểm du lịch với tư cách người ký văn bản và khi đó giữ vai trò Phó Chủ tịch Ủy ban nhân dân thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_person_association",
+      "source": "src_nhandan_recognition",
+      "topic": "recognition_person_association",
+      "normalized_text": "Công viên Thủ Lệ gắn với ông Ngô Văn Quý thông qua việc ông ký văn bản công nhận Vườn thú Hà Nội là điểm du lịch năm 2018.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_management",
+      "source": "src_nhandan_recognition",
+      "topic": "park_management",
+      "normalized_text": "Công ty trách nhiệm hữu hạn một thành viên Vườn thú Hà Nội chịu trách nhiệm quản lý, khai thác và phát triển điểm du lịch Vườn thú Hà Nội tại Công viên Thủ Lệ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_management_identity",
+      "source": "src_hanoi_enterprise",
+      "topic": "management_organization_identity",
+      "normalized_text": "Đơn vị quản lý Vườn thú Hà Nội có tên chính thức là Công ty trách nhiệm hữu hạn một thành viên Vườn thú Hà Nội và có địa chỉ tại khu Thủ Lệ, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_plan",
+      "source": "src_vov_renovation",
+      "topic": "planned_renovation",
+      "normalized_text": "Công viên Thủ Lệ gắn với Dự án cải tạo, nâng cấp Công viên Thủ Lệ giai đoạn 2024-2026; tại thời điểm tháng 3 năm 2025 dự án vẫn đang trong quá trình chuẩn bị đầu tư.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {
+      "source": "place",
+      "relation": "HAS_ADDRESS",
+      "target": "address",
+      "evidence": [
+        "ev_address"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "BUILT_IN",
+      "target": "time_construction_start",
+      "evidence": [
+        "ev_built_in"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "construction_phase": "start"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_zoo",
+      "evidence": [
+        "ev_categories",
+        "ev_animal_collection"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_urban_park",
+      "evidence": [
+        "ev_categories"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_total_area",
+      "evidence": [
+        "ev_total_area"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "measurement_kind": "area",
+        "approximate": true
+      }
+    },
+    {
+      "source": "lake_thu_le",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_lake_area",
+      "evidence": [
+        "ev_lake_area"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "measurement_kind": "area",
+        "approximate": true
+      }
+    },
+    {
+      "source": "zoo_area",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_animal_count",
+      "evidence": [
+        "ev_animal_collection"
+      ],
+      "confidence": 0.95,
+      "qualifiers": {
+        "measurement_kind": "approximate_count"
+      }
+    },
+    {
+      "source": "zoo_area",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_species_count",
+      "evidence": [
+        "ev_animal_collection"
+      ],
+      "confidence": 0.95,
+      "qualifiers": {
+        "measurement_kind": "minimum_count"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "lake_thu_le",
+      "evidence": [
+        "ev_main_components",
+        "ev_lake_area"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "zoo_area",
+      "evidence": [
+        "ev_main_components",
+        "ev_animal_collection"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "play_area",
+      "evidence": [
+        "ev_main_components",
+        "ev_play_area_usage"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_animal_viewing",
+      "evidence": [
+        "ev_visitor_activities"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_recreation",
+      "evidence": [
+        "ev_visitor_activities"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "zoo_area",
+      "relation": "USED_FOR",
+      "target": "activity_animal_viewing",
+      "evidence": [
+        "ev_zoo_area_usage"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "play_area",
+      "relation": "USED_FOR",
+      "target": "activity_recreation",
+      "evidence": [
+        "ev_play_area_usage"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_AS",
+      "target": "status_tourist_site",
+      "evidence": [
+        "ev_tourism_recognition"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_IN",
+      "target": "time_recognition_2018",
+      "evidence": [
+        "ev_tourism_recognition"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "designation": "Điểm du lịch Vườn thú Hà Nội"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_BY",
+      "target": "org_hanoi_ubnd",
+      "evidence": [
+        "ev_tourism_recognition"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "MANAGED_BY",
+      "target": "management_company",
+      "evidence": [
+        "ev_management",
+        "ev_management_identity"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "event_recognition",
+      "evidence": [
+        "ev_recognition_event",
+        "ev_tourism_recognition"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_recognition",
+      "relation": "OCCURRED_IN",
+      "target": "time_recognition_2018",
+      "evidence": [
+        "ev_recognition_event"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_recognition",
+      "relation": "INVOLVED_PERSON",
+      "target": "ngo_van_quy",
+      "evidence": [
+        "ev_recognition_signer"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_PERSON",
+      "target": "ngo_van_quy",
+      "evidence": [
+        "ev_person_association"
+      ],
+      "confidence": 0.95
+    },
+    {
+      "source": "ngo_van_quy",
+      "relation": "HELD_ROLE",
+      "target": "role_hanoi_vice_chairman",
+      "evidence": [
+        "ev_recognition_signer"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "event_renovation_project",
+      "evidence": [
+        "ev_renovation_plan"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_renovation_project",
+      "relation": "OCCURRED_IN",
+      "target": "period_renovation_2024_2026",
+      "evidence": [
+        "ev_renovation_plan"
+      ],
+      "confidence": 0.95,
+      "qualifiers": {
+        "event_status": "planned_or_in_preparation"
+      }
+    }
+  ]
+}

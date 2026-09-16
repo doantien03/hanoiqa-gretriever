@@ -1,0 +1,18 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000737,SRC_000263,PLACE_000057,geographic_address,"Công viên Thủ Lệ, còn gọi là Vườn thú Hà Nội, nằm tại đường Bưởi, phường Giãng Võ, thành phố Hà Nội.",normalized_summary,approved
+EVD_000738,SRC_000263,PLACE_000057,construction_start,"Công viên Thủ Lệ, còn gọi là Vườn thú Hà Nội, được khởi công xây dựng ngày 19 tháng 5 năm 1975.",normalized_summary,approved
+EVD_000739,SRC_000263,PLACE_000057,park_categories,"Công viên Thủ Lệ là một công viên đô thị của Hà Nội và được tổ chức với chức năng Vườn thú Hà Nội để nuôi, bảo tồn và giới thiệu động vật.",normalized_summary,approved
+EVD_000740,SRC_000264,PLACE_000057,total_area,Công viên Thủ Lệ có tổng diện tích hơn 28 hecta.,normalized_summary,approved
+EVD_000741,SRC_000264,PLACE_000057,park_components,"Công viên Thủ Lệ gồm hồ nước, khu vườn thú bố trí các khu vực nuôi động vật và các khu vui chơi phục vụ người dân.",normalized_summary,approved
+EVD_000742,SRC_000264,PLACE_000057,lake_area,Hồ nước trong Công viên Thủ Lệ là một hạng mục của công viên và có diện tích khoảng 6 hecta.,normalized_summary,approved
+EVD_000743,SRC_000263,PLACE_000057,animal_collection,"Khu vườn thú Công viên Thủ Lệ nuôi giữ gần 600 cá thể thuộc hơn 100 loài động vật, gồm các loài bò sát, lưỡng cư, cá, chim và thú.",normalized_summary,approved
+EVD_000744,SRC_000266,PLACE_000057,visitor_activities,"Khách đến Công viên Thủ Lệ có thể tham quan khu vườn thú để quan sát, tìm hiểu động vật và tham gia các hoạt động vui chơi, giải trí tại khu vui chơi của công viên.",normalized_summary,approved
+EVD_000745,SRC_000263,PLACE_000057,zoo_area_usage,"Khu vườn thú Công viên Thủ Lệ được sử dụng để nuôi, bảo tồn, giới thiệu động vật và phục vụ hoạt động tham quan, tìm hiểu động vật của khách.",normalized_summary,approved
+EVD_000746,SRC_000266,PLACE_000057,play_area_usage,"Khu vui chơi Công viên Thủ Lệ được sử dụng cho hoạt động vui chơi và giải trí của người dân, đặc biệt là các gia đình có trẻ em.",normalized_summary,approved
+EVD_000747,SRC_000263,PLACE_000057,tourism_recognition,"Năm 2018, Ủy ban nhân dân thành phố Hà Nội ban hành quyết định công nhận Vườn thú Hà Nội tại Công viên Thủ Lệ là Điểm du lịch Vườn thú Hà Nội.",normalized_summary,approved
+EVD_000748,SRC_000263,PLACE_000057,recognition_event,Sự kiện Công nhận Vườn thú Hà Nội là điểm du lịch gắn với Công viên Thủ Lệ và diễn ra vào năm 2018.,normalized_summary,approved
+EVD_000749,SRC_000263,PLACE_000057,recognition_signer,Ông Ngô Văn Quý tham gia sự kiện Công nhận Vườn thú Hà Nội là điểm du lịch với tư cách người ký văn bản và khi đó giữ vai trò Phó Chủ tịch Ủy ban nhân dân thành phố Hà Nội.,normalized_summary,approved
+EVD_000750,SRC_000263,PLACE_000057,recognition_person_association,Công viên Thủ Lệ gắn với ông Ngô Văn Quý thông qua việc ông ký văn bản công nhận Vườn thú Hà Nội là điểm du lịch năm 2018.,normalized_summary,approved
+EVD_000751,SRC_000263,PLACE_000057,park_management,"Công ty trách nhiệm hữu hạn một thành viên Vườn thú Hà Nội chịu trách nhiệm quản lý, khai thác và phát triển điểm du lịch Vườn thú Hà Nội tại Công viên Thủ Lệ.",normalized_summary,approved
+EVD_000752,SRC_000265,PLACE_000057,management_organization_identity,"Đơn vị quản lý Vườn thú Hà Nội có tên chính thức là Công ty trách nhiệm hữu hạn một thành viên Vườn thú Hà Nội và có địa chỉ tại khu Thủ Lệ, thành phố Hà Nội.",normalized_summary,approved
+EVD_000753,SRC_000264,PLACE_000057,planned_renovation,"Công viên Thủ Lệ gắn với Dự án cải tạo, nâng cấp Công viên Thủ Lệ giai đoạn 2024-2026; tại thời điểm tháng 3 năm 2025 dự án vẫn đang trong quá trình chuẩn bị đầu tư.",normalized_summary,approved

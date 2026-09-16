@@ -1,0 +1,18 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000592,SRC_000217,PLACE_000046,primary_address,"Địa chỉ cơ sở chính là số 1 phố Tràng Tiền, phường Cửa Nam, thành phố Hà Nội.",normalized_summary,approved
+EVD_000593,SRC_000222,PLACE_000046,current_administrative_area,Công trình số 1 Tràng Tiền nằm trên địa bàn phường Cửa Nam hiện hành của thành phố Hà Nội.,normalized_summary,approved
+EVD_000594,SRC_000221,PLACE_000046,classification_and_management,Địa danh là bảo tàng đứng đầu hệ thống bảo tàng Việt Nam và là đơn vị sự nghiệp công lập trực thuộc cơ quan quản lý văn hóa cấp bộ.,normalized_summary,approved
+EVD_000595,SRC_000221,PLACE_000046,establishment,Địa danh được thành lập ngày 26 tháng 9 năm 2011 theo Quyết định số 1674/QĐ-TTg.,normalized_summary,approved
+EVD_000597,SRC_000218,PLACE_000046,louis_finot_building_history,"Tòa nhà tiền thân tại Tràng Tiền được xây dựng năm 1926, khánh thành năm 1932 và được tiếp quản năm 1958.",normalized_summary,approved
+EVD_000598,SRC_000218,PLACE_000046,history_museum_opening,Bảo tàng tiền thân về lịch sử chính thức mở cửa đón khách ngày 3 tháng 9 năm 1958.,normalized_summary,approved
+EVD_000599,SRC_000218,PLACE_000046,revolution_museum_building_history,"Cơ sở Trần Quang Khải nguyên là trụ sở Sở Thương chính Đông Dương, được xây dựng năm 1917.",normalized_summary,approved
+EVD_000600,SRC_000218,PLACE_000046,revolution_museum_opening,Bảo tàng tiền thân về cách mạng mở cửa phục vụ công chúng từ ngày 6 tháng 1 năm 1959.,normalized_summary,approved
+EVD_000601,SRC_000220,PLACE_000046,architectural_style,"Tòa nhà số 1 Tràng Tiền mang phong cách Đông Dương, kết hợp hài hòa các yếu tố kiến trúc phương Tây và phương Đông.",normalized_summary,approved
+EVD_000602,SRC_000223,PLACE_000046,two_exhibition_facilities,Hai cơ sở của bảo tàng Lịch sử Quốc gia và là khu vực trưng bày nằm tại số 1 Tràng Tiền và số 216 Trần Quang Khải.,normalized_summary,approved
+EVD_000603,SRC_000219,PLACE_000046,permanent_display_scope,Cơ sở Tràng Tiền giới thiệu lịch sử từ thời Tiền sử đến năm 1945; cơ sở Trần Quang Khải có hệ thống trưng bày giới thiệu lịch sử từ giữa thế kỷ XIX đến nay.,normalized_summary,approved
+EVD_000604,SRC_000219,PLACE_000046,display_area_and_object_count,"Hệ thống trưng bày có tổng diện tích 3.700 m² và giới thiệu gần 8.000 tài liệu, hiện vật cùng các sưu tập quý.",normalized_summary,approved
+EVD_000605,SRC_000217,PLACE_000046,collection_counts,"Kho lưu giữ có khoảng 200.000 hiện vật, tư liệu; trong đó gần 110.000 tài liệu, hiện vật thuộc giai đoạn trước năm 1945, hơn 80.000 thuộc giai đoạn từ giữa thế kỷ XIX đến nay và có 30 Bảo vật quốc gia.",normalized_summary,approved
+EVD_000606,SRC_000217,PLACE_000046,featured_collections,"Các sưu tập tiêu biểu gồm hiện vật Văn hóa Đông Sơn, gốm men cổ Việt Nam và điêu khắc đá Chăm-pa.",normalized_summary,approved
+EVD_000607,SRC_000219,PLACE_000046,outdoor_display,Cơ sở Trần Quang Khải có khu trưng bày ngoài trời giới thiệu hiện vật thể khối kích thước lớn có giá trị lịch sử tiêu biểu.,normalized_summary,approved
+EVD_000608,SRC_000217,PLACE_000046,museum_functions,"Các chức năng gồm nghiên cứu, khai quật khảo cổ, sưu tầm, lưu giữ, kiểm kê, bảo quản, trưng bày, giới thiệu và giáo dục về lịch sử Việt Nam.",normalized_summary,approved
+EVD_000609,SRC_000217,PLACE_000046,nearby_places,"Địa danh ở trung tâm Hà Nội, gần Hồ Gươm, Tháp Rùa và quần thể Cầu Thê Húc - Đền Ngọc Sơn.",normalized_summary,approved

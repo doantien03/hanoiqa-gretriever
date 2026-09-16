@@ -1,0 +1,41 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000058,Tham quan trưng bày gốm sứ,Activity,,Xem trưng bày gốm,tham_quan_trung_bay_gom_su,,,,approved
+ACTIVITY_000059,Tìm hiểu văn hóa làng nghề Bát Tràng,Activity,,Tìm hiểu lịch sử nghề gốm,tim_hieu_van_hoa_lang_nghe_bat_trang,,,,approved
+ACTIVITY_000060,Trải nghiệm nặn gốm,Activity,,Làm gốm trên bàn xoay,trai_nghiem_nan_gom,,,,approved
+ACTIVITY_000061,Tô tượng gốm,Activity,,Vẽ tượng gốm,to_tuong_gom,,,,approved
+ACTIVITY_000062,Trải nghiệm trà đạo,Activity,,Thưởng trà,trai_nghiem_tra_dao,,,,approved
+ACTIVITY_000063,Khám phá trưng bày thực tế ảo và mô phỏng 3D,Activity,,Xem trưng bày 3D,kham_pha_trung_bay_thuc_te_ao_va_mo_phong_3d,,,,approved
+ACTIVITY_000064,Mua đồ gốm làm quà lưu niệm,Activity,,Mua sản phẩm gốm,mua_do_gom_lam_qua_luu_niem,,,,approved
+ADDRESS_000040,"Số 28 đường Làng cổ Bát Tràng, xã Bát Tràng, thành phố Hà Nội",Address,,Số 28 thôn 5 Bát Tràng|28 đường Làng cổ Bát Tràng,so_28_duong_lang_co_bat_trang_xa_bat_trang_thanh_pho_ha_noi,,,,approved
+ARCH_000329,Khối kiến trúc chính Bảo tàng Gốm Bát Tràng,Architecture,,Khối kiến trúc bảo tàng chính|Khối bảo tàng trung tâm,khoi_kien_truc_chinh_bao_tang_gom_bat_trang,,,,approved
+ARCH_000330,Các công trình phụ trợ Bảo tàng Gốm Bát Tràng,Architecture,,Các công trình phụ trợ|Khối công trình phụ trợ,cac_cong_trinh_phu_tro_bao_tang_gom_bat_trang,,,,approved
+ARCH_000331,Bảy khối xoáy ốc Bảo tàng Gốm Bát Tràng,Architecture,,Bảy khối xoáy ốc|Bảy hình xoáy ốc|Bảy khối bàn xoay,bay_khoi_xoay_oc_bao_tang_gom_bat_trang,,,,approved
+ARCH_000332,Tầng G Bảo tàng Gốm Bát Tràng,Architecture,,Tầng G|Khu trải nghiệm tầng G,tang_g_bao_tang_gom_bat_trang,,,,approved
+ARCH_000333,Tầng 1 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 1|Không gian đón tiếp tầng 1,tang_1_bao_tang_gom_bat_trang,,,,approved
+ARCH_000334,Tầng 2 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 2|Không gian gốm truyền thống tầng 2,tang_2_bao_tang_gom_bat_trang,,,,approved
+ARCH_000335,Tầng 3 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 3|Không gian nghệ thuật đương đại tầng 3,tang_3_bao_tang_gom_bat_trang,,,,approved
+ARCH_000336,Tầng 4 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 4|Hội trường Cung đình tầng 4,tang_4_bao_tang_gom_bat_trang,,,,approved
+ARCH_000337,Tầng 5 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 5|Không gian trà đạo tầng 5,tang_5_bao_tang_gom_bat_trang,,,,approved
+ARCH_000338,Không gian trưng bày thường xuyên của Bảo tàng Gốm Bát Tràng,Architecture,,,khong_gian_trung_bay_thuong_xuyen_cua_bao_tang_gom_bat_trang,,,,approved
+ARCH_000339,Không gian trưng bày chuyên đề của Bảo tàng Gốm Bát Tràng,Architecture,,,khong_gian_trung_bay_chuyen_de_cua_bao_tang_gom_bat_trang,,,,approved
+ARCH_000340,Không gian trưng bày thực tế ảo và mô phỏng 3D Bảo tàng Gốm Bát Tràng,Architecture,,Không gian trưng bày thực tế ảo và mô phỏng 3D|Trưng bày 3D|Không gian thực tế ảo,khong_gian_trung_bay_thuc_te_ao_va_mo_phong_3d_bao_tang_gom_bat_trang,,,,approved
+CATEGORY_000017,Bảo tàng chuyên đề về gốm sứ,TourismCategory,,Bảo tàng gốm,bao_tang_chuyen_de_ve_gom_su,,,,approved
+CATEGORY_000018,Điểm đến du lịch văn hóa làng nghề,TourismCategory,,Du lịch văn hóa làng nghề,diem_den_du_lich_van_hoa_lang_nghe,,,,approved
+CATEGORY_000019,Bảo tàng mở và bảo tàng sống,TourismCategory,,Bảo tàng mở|Bảo tàng sống,bao_tang_mo_va_bao_tang_song,,,,approved
+EVENT_000097,Khởi công xây dựng Trung tâm Tinh hoa Làng nghề Việt,Event,,Khởi công Bảo tàng Gốm Bát Tràng,khoi_cong_xay_dung_trung_tam_tinh_hoa_lang_nghe_viet,,,,approved
+EVENT_000098,Công bố Giải Vàng Kiến trúc Quốc gia cho Trung tâm Gốm Bát Tràng,Event,,Sự kiện nhận Giải Vàng Kiến trúc Quốc gia,cong_bo_giai_vang_kien_truc_quoc_gia_cho_trung_tam_gom_bat_trang,,,,approved
+HSTATUS_000010,Giải Vàng Giải thưởng Kiến trúc Quốc gia 2022-2023,HeritageStatus,,Giải Vàng Kiến trúc Quốc gia,giai_vang_giai_thuong_kien_truc_quoc_gia_2022_2023,,,,approved
+MATERIAL_000015,Gạch nung,Material,,Gạch đất nung,gach_nung,,,,approved
+MATERIAL_000016,Gạch men,Material,,Gạch tráng men,gach_men,,,,approved
+MATERIAL_000017,Gạch gốm cổ,Material,,Gạch gốm truyền thống,gach_gom_co,,,,approved
+ORG_000020,"Bộ Văn hóa, Thể thao và Du lịch",Organization,,Bộ Văn hóa thể thao và du lịch,bo_van_hoa_the_thao_va_du_lich,,,,approved
+ORG_000025,Hội Kiến trúc sư Việt Nam,Organization,,,hoi_kien_truc_su_viet_nam,,,,approved
+ORG_000026,Bộ Xây dựng,Organization,,,bo_xay_dung,,,,approved
+PERSON_000074,Hà Thị Vinh,Person,,Nghệ nhân Hà Thị Vinh,ha_thi_vinh,,,,approved
+PERSON_000075,Hoàng Thúc Hào,Person,,Kiến trúc sư Hoàng Thúc Hào,hoang_thuc_hao,,,,approved
+PLACE_000051,Bảo tàng Gốm Bát Tràng,Place,,Trung tâm Tinh hoa Làng nghề Việt|Bảo tàng làng gốm Bát Tràng|Bảo tàng Gốm sứ Bát Tràng,bao_tang_gom_bat_trang,,,,approved
+ROLE_000005,Chủ tịch Trung tâm Tinh hoa Làng nghề Việt,Role,,Chủ tịch Trung tâm,chu_tich_trung_tam_tinh_hoa_lang_nghe_viet,,,,approved
+ROLE_000006,Đại diện chủ đầu tư Bảo tàng Gốm Bát Tràng,Role,,Đại diện chủ đầu tư,dai_dien_chu_dau_tu_bao_tang_gom_bat_trang,,,,approved
+ROLE_000007,Kiến trúc sư thiết kế Bảo tàng Gốm Bát Tràng,Role,,Kiến trúc sư thiết kế,kien_truc_su_thiet_ke_bao_tang_gom_bat_trang,,,,approved
+TIME_000092,Năm 2018,Time,,2018,nam_2018,,,,approved
+TIME_000165,Năm 2023,Time,,2023,nam_2023,,,,approved

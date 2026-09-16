@@ -1,0 +1,39 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000005,Xem trưng bày hiện vật,Activity,,Tham quan nhà trưng bày,xem_trung_bay_hien_vat,,,,approved
+ACTIVITY_000009,Giáo dục truyền thống yêu nước và cách mạng,Activity,,Giáo dục truyền thống cách mạng,giao_duc_truyen_thong_yeu_nuoc_va_cach_mang,,,,approved
+ACTIVITY_000065,Tìm hiểu lịch sử Chiến thắng Hà Nội - Điện Biên Phủ trên không,Activity,,Học tập lịch sử chiến thắng B-52,tim_hieu_lich_su_chien_thang_ha_noi_dien_bien_phu_tren_khong,,,,approved
+ACTIVITY_000066,"Tìm hiểu vũ khí, khí tài và xác máy bay",Activity,,Tìm hiểu hiện vật quân sự ngoài trời,tim_hieu_vu_khi_khi_tai_va_xac_may_bay,,,,approved
+ACTIVITY_000067,Tương tác và tìm hiểu chiến dịch qua sa bàn số hóa,Activity,,Trải nghiệm sa bàn 3D mapping,tuong_tac_va_tim_hieu_chien_dich_qua_sa_ban_so_hoa,,,,approved
+ADDRESS_000041,"Số 157 phố Đội Cấn, phường Ngọc Hà, thành phố Hà Nội",Address,,"157 Đội Cấn, Ngọc Hà, Hà Nội|Số 157 Đội Cấn, Ba Đình, Hà Nội",so_157_pho_doi_can_phuong_ngoc_ha_thanh_pho_ha_noi,,,,approved
+ARCH_000341,Khu trưng bày trong nhà Bảo tàng Chiến thắng B-52,Architecture,,Phần trưng bày trong nhà,khu_trung_bay_trong_nha_bao_tang_chien_thang_b_52,,,,approved
+ARCH_000342,Khu trưng bày ngoài trời Bảo tàng Chiến thắng B-52,Architecture,,Phần trưng bày ngoài trời,khu_trung_bay_ngoai_troi_bao_tang_chien_thang_b_52,,,,approved
+CATEGORY_000012,Bảo tàng lịch sử quân sự,TourismCategory,,Bảo tàng quân sự|Bảo tàng quốc gia về lịch sử quân sự,bao_tang_lich_su_quan_su,,,,approved
+EVENT_000099,Thành lập Bảo tàng Chiến thắng B-52,Event,,Sự kiện thành lập Bảo tàng Chiến thắng B-52,thanh_lap_bao_tang_chien_thang_b_52,,,,approved
+EVENT_000100,Khánh thành Bảo tàng Chiến thắng B-52,Event,,Lễ khánh thành Bảo tàng Chiến thắng B-52,khanh_thanh_bao_tang_chien_thang_b_52,,,,approved
+EVENT_000101,Nâng cấp Bảo tàng Chiến thắng B-52 năm 2012,Event,,Tu sửa bảo tàng năm 2012,nang_cap_bao_tang_chien_thang_b_52_nam_2012,,,,approved
+EVENT_000102,Nâng cấp Bảo tàng Chiến thắng B-52 năm 2017,Event,,Tu sửa bảo tàng năm 2017,nang_cap_bao_tang_chien_thang_b_52_nam_2017,,,,approved
+EVENT_000103,Nâng cấp Bảo tàng Chiến thắng B-52 năm 2019,Event,,Tu sửa bảo tàng năm 2019,nang_cap_bao_tang_chien_thang_b_52_nam_2019,,,,approved
+EVENT_000104,"Cải tạo, nâng cấp Bảo tàng Chiến thắng B-52 năm 2022",Event,,Đợt cải tạo bảo tàng năm 2022,cai_tao_nang_cap_bao_tang_chien_thang_b_52_nam_2022,,,,approved
+EVENT_000105,Khánh thành công trình cải tạo Bảo tàng Chiến thắng B-52,Event,,Lễ khánh thành công trình nâng cấp năm 2022,khanh_thanh_cong_trinh_cai_tao_bao_tang_chien_thang_b_52,,,,approved
+EVENT_000106,Chiến thắng Hà Nội - Điện Biên Phủ trên không,Event,,Chiến dịch Hà Nội - Điện Biên Phủ trên không|Chiến thắng 12 ngày đêm năm 1972,chien_thang_ha_noi_dien_bien_phu_tren_khong,,,,approved
+HOBJ_000149,Sa bàn số hóa Chiến dịch Hà Nội - Điện Biên Phủ trên không,HeritageObject,,Sa bàn Chiến dịch Hà Nội - Điện Biên Phủ trên không|Sa bàn 3D mapping,sa_ban_so_hoa_chien_dich_ha_noi_dien_bien_phu_tren_khong,,,,approved
+HOBJ_000150,Xác máy bay B-52 trưng bày ngoài trời,HeritageObject,,Xác Pháo đài bay B-52|Xác máy bay B-52 tỷ lệ 1:1,xac_may_bay_b_52_trung_bay_ngoai_troi,,,,approved
+HOBJ_000151,Ra-đa dẫn đường P-35,HeritageObject,,Ra-đa P-35|Radar P35 của Đại đội 45,ra_da_dan_duong_p_35,,,,approved
+HOBJ_000152,Bệ phóng tên lửa SAM-2,HeritageObject,,Bệ phóng SAM-2|Bệ phóng tên lửa của Tiểu đoàn 72,be_phong_ten_lua_sam_2,,,,approved
+HSTATUS_000011,Bảo tàng hạng 2,HeritageStatus,,Bảo tàng xếp hạng 2|Bảo tàng hạng Hai,bao_tang_hang_2,,,,approved
+ORG_000029,Quân khu Thủ đô,Organization,,"Quân khu Thủ đô, nay là Bộ Tư lệnh Thủ đô Hà Nội",quan_khu_thu_do,,,,approved
+ORG_000030,Cục Chính trị Bộ Tư lệnh Thủ đô Hà Nội,Organization,,Cục Chính trị Bộ Tư lệnh Thủ đô|Cục Chính trị Quân khu Thủ đô,cuc_chinh_tri_bo_tu_lenh_thu_do_ha_noi,,,,approved
+PERSON_000076,Trịnh Thị Khuyến Lương,Person,,Thượng tá QNCN Trịnh Thị Khuyến Lương,trinh_thi_khuyen_luong,,,,approved
+PERSON_000077,Phạm Tuân,Person,,Phi công Phạm Tuân|Anh hùng Phạm Tuân,pham_tuan,,,,approved
+PERSON_000078,Vũ Xuân Thiều,Person,,Phi công Vũ Xuân Thiều|Anh hùng liệt sĩ Vũ Xuân Thiều,vu_xuan_thieu,,,,approved
+PLACE_000052,Bảo tàng Chiến thắng B-52,Place,,Bảo tàng Chiến thắng B.52|Bảo tàng B-52,bao_tang_chien_thang_b_52,,,,approved
+ROLE_000008,Phó Giám đốc Bảo tàng Chiến thắng B-52,Role,,Phó giám đốc bảo tàng,pho_giam_doc_bao_tang_chien_thang_b_52,,,,approved
+ROLE_000009,Phi công chiến đấu,Role,,Phi công quân sự|Phi công tiêm kích,phi_cong_chien_dau,,,,approved
+TIME_000149,Năm 2019,Time,,,nam_2019,,,,approved
+TIME_000166,Ngày 10 tháng 1 năm 1986,Time,,10/01/1986|10-1-1986,ngay_10_thang_1_nam_1986,,,,approved
+TIME_000167,Ngày 22 tháng 12 năm 1997,Time,,22/12/1997,ngay_22_thang_12_nam_1997,,,,approved
+TIME_000168,Năm 2012,Time,,2012,nam_2012,,,,approved
+TIME_000169,Năm 2017,Time,,2017,nam_2017,,,,approved
+TIME_000170,Từ tháng 8 đến tháng 12 năm 2022,Time,,Tháng 8-12/2022|Giai đoạn tháng 8 đến tháng 12 năm 2022,tu_thang_8_den_thang_12_nam_2022,,,,approved
+TIME_000171,Ngày 11 tháng 12 năm 2022,Time,,11/12/2022,ngay_11_thang_12_nam_2022,,,,approved
+TIME_000172,Từ ngày 18 đến ngày 29 tháng 12 năm 1972,Time,,12 ngày đêm cuối tháng 12 năm 1972|18-29/12/1972,tu_ngay_18_den_ngay_29_thang_12_nam_1972,,,,approved

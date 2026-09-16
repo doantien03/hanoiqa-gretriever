@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_ceramuseum_overview",
+      "title": "Trung tâm Tinh hoa Làng nghề Việt",
+      "url": "https://ceramuseum.com/",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-15",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_tinh_hoa_lang_nghe",
+      "title": "Giới thiệu Trung tâm Tinh hoa Làng nghề Việt",
+      "url": "https://www.tinhhoalangngheviet.vn/",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-15",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vietnam_airlines_guide",
+      "title": "Hướng dẫn tham quan, trải nghiệm tại Bảo tàng làng gốm Bát Tràng",
+      "url": "https://www.vietnamairlines.com/nl/vi/plan-book/travel/travel-guide/bao-tang-lang-gom-bat-trang",
+      "source_type": "commercial_travel_guide",
+      "retrieved_at": "2026-09-15",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vietnamplus_ha_thi_vinh",
+      "title": "Nghệ nhân Hà Thị Vinh: Chuyển đổi số để đưa tinh hoa làng nghề đến công chúng",
+      "url": "https://www.vietnamplus.vn/nghe-nhan-ha-thi-vinh-chuyen-doi-so-de-dua-tinh-hoa-lang-nghe-den-cong-chung-post1132447.vnp",
+      "source_type": "state_news",
+      "retrieved_at": "2026-09-15",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_architecture_award",
+      "title": "Kết quả Giải thưởng Kiến trúc Quốc gia 2022-2023",
+      "url": "https://www.tapchikientruc.com.vn/tin-tuc/ket-qua-giai-thuong-kien-truc-quoc-gia-2022-2023.html",
+      "source_type": "professional_journal",
+      "retrieved_at": "2026-09-15",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Bảo tàng Gốm Bát Tràng",
+      "aliases": [
+        "Trung tâm Tinh hoa Làng nghề Việt",
+        "Bảo tàng làng gốm Bát Tràng",
+        "Bảo tàng Gốm sứ Bát Tràng"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 28 đường Làng cổ Bát Tràng, xã Bát Tràng, thành phố Hà Nội",
+      "aliases": [
+        "Số 28 thôn 5 Bát Tràng",
+        "28 đường Làng cổ Bát Tràng"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "time_2018",
+      "type": "Time",
+      "canonical_name": "Năm 2018",
+      "aliases": ["2018"],
+      "match": "auto"
+    },
+    {
+      "key": "time_2023",
+      "type": "Time",
+      "canonical_name": "Năm 2023",
+      "aliases": ["2023"],
+      "match": "auto"
+    },
+    {
+      "key": "main_museum_block",
+      "type": "Architecture",
+      "canonical_name": "Khối kiến trúc chính Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Khối kiến trúc bảo tàng chính", "Khối bảo tàng trung tâm"],
+      "match": "new"
+    },
+    {
+      "key": "supporting_structures",
+      "type": "Architecture",
+      "canonical_name": "Các công trình phụ trợ Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Các công trình phụ trợ", "Khối công trình phụ trợ"],
+      "match": "new"
+    },
+    {
+      "key": "seven_spiral_blocks",
+      "type": "Architecture",
+      "canonical_name": "Bảy khối xoáy ốc Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Bảy khối xoáy ốc", "Bảy hình xoáy ốc", "Bảy khối bàn xoay"],
+      "match": "new"
+    },
+    {
+      "key": "ground_floor",
+      "type": "Architecture",
+      "canonical_name": "Tầng G Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Tầng G", "Khu trải nghiệm tầng G"],
+      "match": "new"
+    },
+    {
+      "key": "first_floor",
+      "type": "Architecture",
+      "canonical_name": "Tầng 1 Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Tầng 1", "Không gian đón tiếp tầng 1"],
+      "match": "new"
+    },
+    {
+      "key": "second_floor",
+      "type": "Architecture",
+      "canonical_name": "Tầng 2 Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Tầng 2", "Không gian gốm truyền thống tầng 2"],
+      "match": "new"
+    },
+    {
+      "key": "third_floor",
+      "type": "Architecture",
+      "canonical_name": "Tầng 3 Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Tầng 3", "Không gian nghệ thuật đương đại tầng 3"],
+      "match": "new"
+    },
+    {
+      "key": "fourth_floor",
+      "type": "Architecture",
+      "canonical_name": "Tầng 4 Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Tầng 4", "Hội trường Cung đình tầng 4"],
+      "match": "new"
+    },
+    {
+      "key": "fifth_floor",
+      "type": "Architecture",
+      "canonical_name": "Tầng 5 Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Tầng 5", "Không gian trà đạo tầng 5"],
+      "match": "new"
+    },
+    {
+      "key": "permanent_exhibition",
+      "type": "Architecture",
+      "canonical_name": "Không gian trưng bày thường xuyên của Bảo tàng Gốm Bát Tràng",
+      "match": "new"
+    },
+    {
+      "key": "thematic_exhibition",
+      "type": "Architecture",
+      "canonical_name": "Không gian trưng bày chuyên đề của Bảo tàng Gốm Bát Tràng",
+      "match": "new"
+    },
+    {
+      "key": "virtual_3d_exhibition",
+      "type": "Architecture",
+      "canonical_name": "Không gian trưng bày thực tế ảo và mô phỏng 3D Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Không gian trưng bày thực tế ảo và mô phỏng 3D", "Trưng bày 3D", "Không gian thực tế ảo"],
+      "match": "new"
+    },
+    {
+      "key": "fired_brick",
+      "type": "Material",
+      "canonical_name": "Gạch nung",
+      "aliases": ["Gạch đất nung"],
+      "match": "auto"
+    },
+    {
+      "key": "glazed_brick",
+      "type": "Material",
+      "canonical_name": "Gạch men",
+      "aliases": ["Gạch tráng men"],
+      "match": "auto"
+    },
+    {
+      "key": "old_ceramic_brick",
+      "type": "Material",
+      "canonical_name": "Gạch gốm cổ",
+      "aliases": ["Gạch gốm truyền thống"],
+      "match": "auto"
+    },
+    {
+      "key": "gold_architecture_award",
+      "type": "HeritageStatus",
+      "canonical_name": "Giải Vàng Giải thưởng Kiến trúc Quốc gia 2022-2023",
+      "aliases": ["Giải Vàng Kiến trúc Quốc gia"],
+      "match": "auto"
+    },
+    {
+      "key": "vietnam_association_architects",
+      "type": "Organization",
+      "canonical_name": "Hội Kiến trúc sư Việt Nam",
+      "match": "auto"
+    },
+    {
+      "key": "ministry_construction",
+      "type": "Organization",
+      "canonical_name": "Bộ Xây dựng",
+      "match": "auto"
+    },
+    {
+      "key": "ministry_culture",
+      "type": "Organization",
+      "canonical_name": "Bộ Văn hóa, Thể thao và Du lịch",
+      "aliases": ["Bộ Văn hóa Thể thao và Du lịch"],
+      "match": "auto"
+    },
+    {
+      "key": "quang_vinh_ceramics",
+      "type": "Organization",
+      "canonical_name": "Công ty trách nhiệm hữu hạn Gốm sứ Quang Vinh",
+      "aliases": ["Công ty Gốm sứ Quang Vinh"],
+      "match": "auto"
+    },
+    {
+      "key": "hanoi_craft_village_association",
+      "type": "Organization",
+      "canonical_name": "Hiệp hội Làng nghề Hà Nội",
+      "aliases": ["Hiệp hội thủ công mỹ nghệ và Làng nghề Hà Nội"],
+      "match": "auto"
+    },
+    {
+      "key": "construction_start_event",
+      "type": "Event",
+      "canonical_name": "Khởi công xây dựng Trung tâm Tinh hoa Làng nghề Việt",
+      "aliases": ["Khởi công Bảo tàng Gốm Bát Tràng"],
+      "match": "new"
+    },
+    {
+      "key": "architecture_award_event",
+      "type": "Event",
+      "canonical_name": "Công bố Giải Vàng Kiến trúc Quốc gia cho Trung tâm Gốm Bát Tràng",
+      "aliases": ["Sự kiện nhận Giải Vàng Kiến trúc Quốc gia"],
+      "match": "new"
+    },
+    {
+      "key": "visit_ceramic_exhibition",
+      "type": "Activity",
+      "canonical_name": "Tham quan trưng bày gốm sứ",
+      "aliases": ["Xem trưng bày gốm"],
+      "match": "auto"
+    },
+    {
+      "key": "learn_craft_village_culture",
+      "type": "Activity",
+      "canonical_name": "Tìm hiểu văn hóa làng nghề Bát Tràng",
+      "aliases": ["Tìm hiểu lịch sử nghề gốm"],
+      "match": "auto"
+    },
+    {
+      "key": "make_pottery",
+      "type": "Activity",
+      "canonical_name": "Trải nghiệm nặn gốm",
+      "aliases": ["Làm gốm trên bàn xoay"],
+      "match": "auto"
+    },
+    {
+      "key": "paint_ceramic_statue",
+      "type": "Activity",
+      "canonical_name": "Tô tượng gốm",
+      "aliases": ["Vẽ tượng gốm"],
+      "match": "auto"
+    },
+    {
+      "key": "tea_culture",
+      "type": "Activity",
+      "canonical_name": "Trải nghiệm trà đạo",
+      "aliases": ["Thưởng trà"],
+      "match": "auto"
+    },
+    {
+      "key": "explore_3d_exhibition",
+      "type": "Activity",
+      "canonical_name": "Khám phá trưng bày thực tế ảo và mô phỏng 3D",
+      "aliases": ["Xem trưng bày 3D"],
+      "match": "auto"
+    },
+    {
+      "key": "buy_ceramic_souvenirs",
+      "type": "Activity",
+      "canonical_name": "Mua đồ gốm làm quà lưu niệm",
+      "aliases": ["Mua sản phẩm gốm"],
+      "match": "auto"
+    },
+    {
+      "key": "ha_thi_vinh",
+      "type": "Person",
+      "canonical_name": "Hà Thị Vinh",
+      "aliases": ["Nghệ nhân Hà Thị Vinh"],
+      "match": "auto"
+    },
+    {
+      "key": "hoang_thuc_hao",
+      "type": "Person",
+      "canonical_name": "Hoàng Thúc Hào",
+      "aliases": ["Kiến trúc sư Hoàng Thúc Hào"],
+      "match": "auto"
+    },
+    {
+      "key": "center_chairperson",
+      "type": "Role",
+      "canonical_name": "Chủ tịch Trung tâm Tinh hoa Làng nghề Việt",
+      "aliases": ["Chủ tịch Trung tâm"],
+      "match": "new"
+    },
+    {
+      "key": "investor_representative",
+      "type": "Role",
+      "canonical_name": "Đại diện chủ đầu tư Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Đại diện chủ đầu tư"],
+      "match": "new"
+    },
+    {
+      "key": "museum_architect",
+      "type": "Role",
+      "canonical_name": "Kiến trúc sư thiết kế Bảo tàng Gốm Bát Tràng",
+      "aliases": ["Kiến trúc sư thiết kế"],
+      "match": "new"
+    },
+    {
+      "key": "ceramic_museum_category",
+      "type": "TourismCategory",
+      "canonical_name": "Bảo tàng chuyên đề về gốm sứ",
+      "aliases": ["Bảo tàng gốm"],
+      "match": "auto"
+    },
+    {
+      "key": "craft_village_tourism_category",
+      "type": "TourismCategory",
+      "canonical_name": "Điểm đến du lịch văn hóa làng nghề",
+      "aliases": ["Du lịch văn hóa làng nghề"],
+      "match": "auto"
+    },
+    {
+      "key": "open_living_museum_category",
+      "type": "TourismCategory",
+      "canonical_name": "Bảo tàng mở và bảo tàng sống",
+      "aliases": ["Bảo tàng mở", "Bảo tàng sống"],
+      "match": "auto"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_ceramuseum_overview",
+      "topic": "official_address",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng có địa chỉ tại số 28 đường Làng cổ Bát Tràng, xã Bát Tràng, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_built_in",
+      "source": "src_ceramuseum_overview",
+      "topic": "construction_start",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng - Trung tâm Tinh hoa Làng nghề Việt được khởi công xây dựng vào năm 2018.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_complex_components",
+      "source": "src_ceramuseum_overview",
+      "topic": "architectural_components",
+      "normalized_text": "Quần thể Bảo tàng Gốm Bát Tràng gồm khối kiến trúc bảo tàng chính ở trung tâm và các công trình phụ trợ được bố trí về ba phía.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_spiral_blocks",
+      "source": "src_ceramuseum_overview",
+      "topic": "spiral_architecture",
+      "normalized_text": "Khối kiến trúc bảo tàng chính của Bảo tàng Gốm Bát Tràng gồm bảy khối xoáy ốc giao thoa và đan xen, lấy cảm hứng từ bàn xoay gốm thủ công.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_floor_components",
+      "source": "src_vietnam_airlines_guide",
+      "topic": "floor_components",
+      "normalized_text": "Khối kiến trúc bảo tàng chính của Bảo tàng Gốm Bát Tràng gồm tầng G, tầng 1, tầng 2, tầng 3, tầng 4 và tầng 5.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_exhibition_components",
+      "source": "src_ceramuseum_overview",
+      "topic": "exhibition_components",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng có không gian trưng bày thường xuyên, không gian trưng bày chuyên đề và không gian trưng bày thực tế ảo, mô phỏng 3D.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_building_materials",
+      "source": "src_vietnam_airlines_guide",
+      "topic": "building_materials",
+      "normalized_text": "Khối kiến trúc bảo tàng chính của Bảo tàng Gốm Bát Tràng được xây dựng với các vật liệu đặc trưng gồm gạch nung, gạch men và gạch gốm cổ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognized_as",
+      "source": "src_architecture_award",
+      "topic": "national_architecture_award",
+      "normalized_text": "Công trình Bảo tàng Gốm Bát Tràng được trao Giải Vàng tại Giải thưởng Kiến trúc Quốc gia lần thứ 15, giai đoạn 2022-2023.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognized_in",
+      "source": "src_architecture_award",
+      "topic": "award_year",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng được công bố đạt Giải Vàng Giải thưởng Kiến trúc Quốc gia 2022-2023 vào năm 2023.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognized_by",
+      "source": "src_architecture_award",
+      "topic": "award_organizers",
+      "normalized_text": "Giải Vàng Kiến trúc Quốc gia mà Bảo tàng Gốm Bát Tràng đạt được thuộc giải thưởng do Hội Kiến trúc sư Việt Nam, Bộ Xây dựng và Bộ Văn hóa, Thể thao và Du lịch tổ chức.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_construction_event",
+      "source": "src_ceramuseum_overview",
+      "topic": "construction_event",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng gắn với sự kiện khởi công xây dựng Trung tâm Tinh hoa Làng nghề Việt vào năm 2018.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_award_event",
+      "source": "src_architecture_award",
+      "topic": "award_event",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng gắn với sự kiện được công bố đạt Giải Vàng Giải thưởng Kiến trúc Quốc gia 2022-2023 vào năm 2023.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_visitor_activities",
+      "source": "src_vietnam_airlines_guide",
+      "topic": "visitor_activities",
+      "normalized_text": "Khách tham quan tại Bảo tàng Gốm Bát Tràng có thể xem trưng bày gốm sứ, tìm hiểu văn hóa làng nghề, trải nghiệm nặn gốm, tô tượng gốm, thưởng trà và mua đồ gốm làm quà lưu niệm.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_ground_floor_usage",
+      "source": "src_vietnam_airlines_guide",
+      "topic": "ground_floor_usage",
+      "normalized_text": "Tầng G của Bảo tàng Gốm Bát Tràng được sử dụng làm khu vực trải nghiệm nặn gốm và tạo hình sản phẩm bằng bàn xoay.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_second_floor_usage",
+      "source": "src_vietnam_airlines_guide",
+      "topic": "second_floor_usage",
+      "normalized_text": "Tầng 2 của Bảo tàng Gốm Bát Tràng được sử dụng để tham quan trưng bày gốm sứ và tìm hiểu các tác phẩm gốm truyền thống theo dòng thời gian phát triển của làng nghề Bát Tràng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_third_floor_usage",
+      "source": "src_vietnam_airlines_guide",
+      "topic": "third_floor_usage",
+      "normalized_text": "Tầng 3 của Bảo tàng Gốm Bát Tràng được sử dụng để tham quan các tác phẩm nghệ thuật gốm đương đại.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_fifth_floor_usage",
+      "source": "src_vietnam_airlines_guide",
+      "topic": "fifth_floor_usage",
+      "normalized_text": "Tầng 5 của Bảo tàng Gốm Bát Tràng được sử dụng cho hoạt động thưởng trà, trải nghiệm trà đạo và chiêm ngưỡng nghệ thuật ánh sáng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_virtual_exhibition_usage",
+      "source": "src_ceramuseum_overview",
+      "topic": "virtual_exhibition_usage",
+      "normalized_text": "Không gian trưng bày thực tế ảo và mô phỏng 3D của Bảo tàng Gốm Bát Tràng được sử dụng để giúp khách tham quan khám phá di sản, hiện vật và các câu chuyện lịch sử.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_associated_investor",
+      "source": "src_vietnamplus_ha_thi_vinh",
+      "topic": "associated_investor",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng gắn với Nghệ nhân Hà Thị Vinh, người đại diện Công ty Gốm sứ Quang Vinh đầu tư và thực hiện dự án Trung tâm Tinh hoa Làng nghề Việt.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_associated_architect",
+      "source": "src_vietnamplus_ha_thi_vinh",
+      "topic": "associated_architect",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng gắn với Kiến trúc sư Hoàng Thúc Hào, người thực hiện thiết kế công trình với hình thức kiến trúc lấy cảm hứng từ bàn xoay gốm.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_construction_people",
+      "source": "src_vietnamplus_ha_thi_vinh",
+      "topic": "construction_participants",
+      "normalized_text": "Sự kiện xây dựng Bảo tàng Gốm Bát Tràng có sự tham gia của đại diện chủ đầu tư Hà Thị Vinh và kiến trúc sư thiết kế Hoàng Thúc Hào.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_ha_thi_vinh_roles",
+      "source": "src_tinh_hoa_lang_nghe",
+      "topic": "ha_thi_vinh_roles",
+      "normalized_text": "Nghệ nhân Hà Thị Vinh giữ vai trò Chủ tịch Trung tâm Tinh hoa Làng nghề Việt và đại diện chủ đầu tư công trình Bảo tàng Gốm Bát Tràng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_hoang_thuc_hao_role",
+      "source": "src_vietnamplus_ha_thi_vinh",
+      "topic": "hoang_thuc_hao_role",
+      "normalized_text": "Hoàng Thúc Hào giữ vai trò kiến trúc sư thiết kế công trình Bảo tàng Gốm Bát Tràng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_categories",
+      "source": "src_tinh_hoa_lang_nghe",
+      "topic": "museum_categories",
+      "normalized_text": "Bảo tàng Gốm Bát Tràng là bảo tàng chuyên đề về gốm sứ, điểm đến du lịch văn hóa làng nghề và được phát triển theo mô hình bảo tàng mở, bảo tàng sống.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_IN", "target": "time_2018", "evidence": ["ev_built_in"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "main_museum_block", "evidence": ["ev_complex_components"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "supporting_structures", "evidence": ["ev_complex_components"], "confidence": 1.0},
+    {"source": "main_museum_block", "relation": "HAS_COMPONENT", "target": "seven_spiral_blocks", "evidence": ["ev_spiral_blocks"], "confidence": 1.0},
+    {"source": "main_museum_block", "relation": "HAS_COMPONENT", "target": "ground_floor", "evidence": ["ev_floor_components"], "confidence": 1.0},
+    {"source": "main_museum_block", "relation": "HAS_COMPONENT", "target": "first_floor", "evidence": ["ev_floor_components"], "confidence": 1.0},
+    {"source": "main_museum_block", "relation": "HAS_COMPONENT", "target": "second_floor", "evidence": ["ev_floor_components"], "confidence": 1.0},
+    {"source": "main_museum_block", "relation": "HAS_COMPONENT", "target": "third_floor", "evidence": ["ev_floor_components"], "confidence": 1.0},
+    {"source": "main_museum_block", "relation": "HAS_COMPONENT", "target": "fourth_floor", "evidence": ["ev_floor_components"], "confidence": 1.0},
+    {"source": "main_museum_block", "relation": "HAS_COMPONENT", "target": "fifth_floor", "evidence": ["ev_floor_components"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "permanent_exhibition", "evidence": ["ev_exhibition_components"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "thematic_exhibition", "evidence": ["ev_exhibition_components"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "virtual_3d_exhibition", "evidence": ["ev_exhibition_components"], "confidence": 1.0},
+
+    {"source": "main_museum_block", "relation": "BUILT_WITH", "target": "fired_brick", "evidence": ["ev_building_materials"], "confidence": 0.92},
+    {"source": "main_museum_block", "relation": "BUILT_WITH", "target": "glazed_brick", "evidence": ["ev_building_materials"], "confidence": 0.92},
+    {"source": "main_museum_block", "relation": "BUILT_WITH", "target": "old_ceramic_brick", "evidence": ["ev_building_materials"], "confidence": 0.92},
+
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "gold_architecture_award", "evidence": ["ev_recognized_as"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_IN", "target": "time_2023", "evidence": ["ev_recognized_in"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "vietnam_association_architects", "evidence": ["ev_recognized_by"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "ministry_construction", "evidence": ["ev_recognized_by"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "ministry_culture", "evidence": ["ev_recognized_by"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_EVENT", "target": "construction_start_event", "evidence": ["ev_construction_event"], "confidence": 1.0},
+    {"source": "construction_start_event", "relation": "OCCURRED_IN", "target": "time_2018", "evidence": ["ev_construction_event"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "architecture_award_event", "evidence": ["ev_award_event"], "confidence": 1.0},
+    {"source": "architecture_award_event", "relation": "OCCURRED_IN", "target": "time_2023", "evidence": ["ev_award_event"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "visit_ceramic_exhibition", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "learn_craft_village_culture", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "make_pottery", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "paint_ceramic_statue", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "tea_culture", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "explore_3d_exhibition", "evidence": ["ev_virtual_exhibition_usage"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "buy_ceramic_souvenirs", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+
+    {"source": "ground_floor", "relation": "USED_FOR", "target": "make_pottery", "evidence": ["ev_ground_floor_usage"], "confidence": 1.0},
+    {"source": "second_floor", "relation": "USED_FOR", "target": "visit_ceramic_exhibition", "evidence": ["ev_second_floor_usage"], "confidence": 1.0},
+    {"source": "second_floor", "relation": "USED_FOR", "target": "learn_craft_village_culture", "evidence": ["ev_second_floor_usage"], "confidence": 0.95},
+    {"source": "third_floor", "relation": "USED_FOR", "target": "visit_ceramic_exhibition", "evidence": ["ev_third_floor_usage"], "confidence": 1.0},
+    {"source": "fifth_floor", "relation": "USED_FOR", "target": "tea_culture", "evidence": ["ev_fifth_floor_usage"], "confidence": 1.0},
+    {"source": "virtual_3d_exhibition", "relation": "USED_FOR", "target": "explore_3d_exhibition", "evidence": ["ev_virtual_exhibition_usage"], "confidence": 1.0},
+
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "ha_thi_vinh", "evidence": ["ev_associated_investor"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "hoang_thuc_hao", "evidence": ["ev_associated_architect"], "confidence": 1.0},
+    {"source": "construction_start_event", "relation": "INVOLVED_PERSON", "target": "ha_thi_vinh", "evidence": ["ev_construction_people"], "confidence": 0.95},
+    {"source": "construction_start_event", "relation": "INVOLVED_PERSON", "target": "hoang_thuc_hao", "evidence": ["ev_construction_people"], "confidence": 0.95},
+    {"source": "ha_thi_vinh", "relation": "HELD_ROLE", "target": "center_chairperson", "evidence": ["ev_ha_thi_vinh_roles"], "confidence": 1.0},
+    {"source": "ha_thi_vinh", "relation": "HELD_ROLE", "target": "investor_representative", "evidence": ["ev_ha_thi_vinh_roles"], "confidence": 1.0},
+    {"source": "hoang_thuc_hao", "relation": "HELD_ROLE", "target": "museum_architect", "evidence": ["ev_hoang_thuc_hao_role"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "ceramic_museum_category", "evidence": ["ev_categories"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "craft_village_tourism_category", "evidence": ["ev_categories"], "confidence": 0.95},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "open_living_museum_category", "evidence": ["ev_categories"], "confidence": 0.95}
+  ]
+}

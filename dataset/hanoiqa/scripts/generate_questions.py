@@ -22,7 +22,7 @@ LIST_RELATIONS = {
     "HAS_COMPONENT", "HAS_ACTIVITY", "HAS_CATEGORY", "ASSOCIATED_WITH_PERSON",
     "ASSOCIATED_WITH_DYNASTY", "ASSOCIATED_WITH_PERIOD", "BUILT_WITH",
     "USED_FOR", "HONORS", "SUITABLE_FOR", "HAS_CULTURAL_LAYER", "HAS_EVENT",
-    "INVOLVED_PERSON",
+    "INVOLVED_PERSON","MANAGED_BY","RECOGNIZED_AS",
 }
 
 SINGLE_RELATIONS = {
@@ -56,7 +56,7 @@ def single_template(edge, subject, target):
             question = f"Theo địa chỉ vị trí trong nguồn, {name} nằm ở đâu?"
             note = "Địa chỉ vị trí, không mặc định là cổng đón khách."
         else:
-            question = f"Theo nguồn đã lưu, {name} có địa chỉ nào?"
+            question = f"{name} nằm tại địa chỉ hoặc khu vực nào?"
         if q.get("needs_address_verification"):
             status = "needs_revision"
             note += " Nguồn đang mâu thuẫn số nhà; cần xác minh trước khi duyệt."
@@ -65,7 +65,7 @@ def single_template(edge, subject, target):
         if level == "ward": question = f"{name} nằm tại phường nào?"
         elif level == "district": question = f"{name} nằm tại quận hoặc huyện nào?"
         elif level == "city": question = f"{name} nằm tại thành phố nào?"
-        elif target["type"] == "Place": question = f"{name} nằm trong địa danh nào?"
+        elif target["type"] == "Place": question = f"{name} nằm trong địa danh hoặc quần thể nào?"
         else: question = f"{name} nằm tại vị trí nào?"
     elif relation == "BUILT_IN":
         phase = q.get("construction_phase")
@@ -82,19 +82,19 @@ def single_template(edge, subject, target):
         note = "Kiểm tra phạm vi: cho xây dựng/khởi xướng không nhất thiết là trực tiếp thi công."
     elif relation == "ESTABLISHED_IN": question = f"{name} được thành lập vào thời điểm nào?"
     elif relation == "ESTABLISHED_BY":
-        question = f"Cơ quan nào thành lập {name}?" if target["type"] == "Organization" else f"Ai thành lập {name}?"
+        question = f"Cơ quan nào thành lập {name}?" if target["type"] == "Organization" else f"Nhân vật nào thành lập {name}"
     elif relation == "RENOVATED_IN": question = f"{name} được trùng tu hoặc xây dựng lại vào thời điểm nào?"
     elif relation == "RENOVATED_BY": question = f"Ai hoặc đơn vị nào thực hiện việc trùng tu {name}?"
-    elif relation == "RECOGNIZED_AS": question = f"{name} được công nhận với danh hiệu nào?"
+    elif relation == "RECOGNIZED_AS": question = f"{name} đã được công nhận với danh hiệu hoặc di sản nào"
     elif relation == "RECOGNIZED_IN":
         designation = q.get("designation") or q.get("listed_property_name")
         if designation: question = f"{name} được công nhận là {designation} vào thời điểm nào?"
         else:
-            question = f"Mốc công nhận được ghi nhận đối với {name} là thời điểm nào?"
+            question = f"{name} được công nhận vào thời điểm nào?"
             status = "needs_revision"
             note = "Cần kiểm tra danh hiệu tương ứng để tránh mơ hồ."
-    elif relation == "RECOGNIZED_BY": question = f"Tổ chức nào công nhận {name}?"
-    elif relation == "MANAGED_BY": question = f"Đơn vị nào quản lý {name}?"
+    elif relation == "RECOGNIZED_BY": question = f"Cơ quan hoạc tổ chức nào công nhận {name}?"
+    elif relation == "MANAGED_BY": question = f"Cơ quan hoặc tổ chức nào chịu trách nhiệm quản lý {name}?"
     elif relation == "HAS_ARCHITECTURAL_STYLE": question = f"{name} mang phong cách kiến trúc nào?"
     elif relation == "HELD_ROLE": question = f"{name} giữ vai trò nào?"
     elif relation == "HAS_MEASUREMENT":
@@ -260,7 +260,7 @@ def generate_place(place_id, folder, templates):
                 "source_ids_json": dump(sorted(set(sources))),
                 "fact_group_id": "FACT_" + key,
                 "review_status": "needs_revision",
-                "review_note": "Nhiều edge tạo cùng cách hỏi nhưng có đáp án khác. Đã gom để không tạo nhãn mâu thuẫn; người duyệt phải viết lại câu theo phạm vi/qualifier hoặc giữ dạng liệt kê phù hợp.",
+                "review_note": "Nhiều edge tạo cùng cách hỏi nhưng có đáp án khác.",
             })
             replacements.append(base)
     return [row for row in rows if row["question_id"] not in remove_ids] + replacements

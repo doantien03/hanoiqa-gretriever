@@ -1,0 +1,251 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_b52_military_museum_2026",
+      "title": "Bảo tàng Chiến thắng B-52: Địa chỉ đỏ bồi đắp chủ nghĩa anh hùng cách mạng",
+      "url": "https://btlsqsvn.mod.gov.vn/giao-duc/chi-tiet/bao-tang-chien-thang-b-52-ia-chi-o-boi-ap-chu-nghia-anh-hung-cach-mang-27ed9f62-a038-4386-854d-ab7292e14c7a",
+      "source_type": "official_military_museum_website",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_b52_qptd_2023",
+      "title": "Chúc mừng 37 năm Ngày thành lập Bảo tàng Chiến thắng B-52",
+      "url": "https://quocphongthudo.vn/van-hoa/lich-su-llvt-thu-do/chuc-mung-37-nam-ngay-thanh-lap-bao-tang-chien-thang-b52.html",
+      "source_type": "official_military_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_b52_qptd_2019",
+      "title": "Bảo tàng Chiến thắng B-52: Biểu tượng của đài chiến thắng vinh quang",
+      "url": "https://quocphongthudo.vn/van-hoa-xa-hoi/bao-tang-chien-thang-b-52-bieu-tuong-cua-dai-chien-thang-vin.html",
+      "source_type": "official_military_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_b52_official_intro",
+      "title": "Giới thiệu Bảo tàng Chiến thắng B.52",
+      "url": "https://baotangchienthangb52.com.vn/gioi-thieu2/gioi-thieu-ve-bao-tang-chien-thang-b-52.html",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_b52_renovation_2022",
+      "title": "Khánh thành công trình cải tạo, nâng cấp Bảo tàng Chiến thắng B52",
+      "url": "https://thanglong.chinhphu.vn/khanh-thanh-cong-trinh-cai-tao-nang-cap-bao-tang-chien-thang-b52-103221211141245946.htm",
+      "source_type": "government_portal",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_b52_national_history",
+      "title": "Để đi đến trận thắng B52 tháng 12 năm 1972 của bộ đội tên lửa Việt Nam",
+      "url": "https://baotanglichsu.vn/vi/Articles/2001/68211/dje-dji-djen-tran-thang-b52-thang-12-nam-1972-cua-bo-djoi-ten-lua-viet-nam-phan-2-va-het.html",
+      "source_type": "official_national_museum_website",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_b52_personnel_2026",
+      "title": "Bảo tàng Chiến thắng B-52 tham quan, học tập tại Bảo tàng Hậu cần - Kỹ thuật",
+      "url": "https://baotangchienthangb52.com.vn/hoat-dong/bao-tang-lsqsvn/bao-tang-chien-thang-b-52-tham-quan-hoc-tap-tai-bao-tang-hau-can-ky-thuat.html",
+      "source_type": "official_museum_website",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Bảo tàng Chiến thắng B-52",
+      "aliases": ["Bảo tàng Chiến thắng B.52", "Bảo tàng B-52"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 157 phố Đội Cấn, phường Ngọc Hà, thành phố Hà Nội",
+      "aliases": ["157 Đội Cấn, Ngọc Hà, Hà Nội", "Số 157 Đội Cấn, Ba Đình, Hà Nội"],
+      "match": "new"
+    },
+    {"key": "time_1986_01_10", "type": "Time", "canonical_name": "Ngày 10 tháng 1 năm 1986", "aliases": ["10/01/1986", "10-1-1986"], "match": "auto"},
+    {"key": "time_1997_12_22", "type": "Time", "canonical_name": "Ngày 22 tháng 12 năm 1997", "aliases": ["22/12/1997"], "match": "auto"},
+    {"key": "time_2012", "type": "Time", "canonical_name": "Năm 2012", "aliases": ["2012"], "match": "auto"},
+    {"key": "time_2017", "type": "Time", "canonical_name": "Năm 2017", "aliases": ["2017"], "match": "auto"},
+    {"key": "time_2019", "type": "Time", "canonical_name": "Năm 2019", "aliases": ["2019"], "match": "auto"},
+    {"key": "time_2022_period", "type": "Time", "canonical_name": "Từ tháng 8 đến tháng 12 năm 2022", "aliases": ["Tháng 8-12/2022", "Giai đoạn tháng 8 đến tháng 12 năm 2022"], "match": "new"},
+    {"key": "time_2022_12_11", "type": "Time", "canonical_name": "Ngày 11 tháng 12 năm 2022", "aliases": ["11/12/2022"], "match": "auto"},
+    {"key": "time_1972_campaign", "type": "Time", "canonical_name": "Từ ngày 18 đến ngày 29 tháng 12 năm 1972", "aliases": ["12 ngày đêm cuối tháng 12 năm 1972", "18-29/12/1972"], "match": "new"},
+    {
+      "key": "org_capital_military_region",
+      "type": "Organization",
+      "canonical_name": "Quân khu Thủ đô",
+      "aliases": ["Quân khu Thủ đô, nay là Bộ Tư lệnh Thủ đô Hà Nội"],
+      "match": "auto"
+    },
+    {
+      "key": "org_political_department",
+      "type": "Organization",
+      "canonical_name": "Cục Chính trị Bộ Tư lệnh Thủ đô Hà Nội",
+      "aliases": ["Cục Chính trị Bộ Tư lệnh Thủ đô", "Cục Chính trị Quân khu Thủ đô"],
+      "match": "auto"
+    },
+    {
+      "key": "category_military_history",
+      "type": "TourismCategory",
+      "canonical_name": "Bảo tàng lịch sử quân sự",
+      "match": "auto"
+    },
+    {
+      "key": "status_museum_class_ii",
+      "type": "HeritageStatus",
+      "canonical_name": "Bảo tàng hạng 2",
+      "aliases": ["Bảo tàng xếp hạng 2", "Bảo tàng hạng Hai"],
+      "match": "auto"
+    },
+    {
+      "key": "indoor_display",
+      "type": "Architecture",
+      "canonical_name": "Khu trưng bày trong nhà Bảo tàng Chiến thắng B-52",
+      "aliases": ["Phần trưng bày trong nhà"],
+      "match": "new"
+    },
+    {
+      "key": "outdoor_display",
+      "type": "Architecture",
+      "canonical_name": "Khu trưng bày ngoài trời Bảo tàng Chiến thắng B-52",
+      "aliases": ["Phần trưng bày ngoài trời"],
+      "match": "new"
+    },
+    {
+      "key": "digital_campaign_model",
+      "type": "HeritageObject",
+      "canonical_name": "Sa bàn số hóa Chiến dịch Hà Nội - Điện Biên Phủ trên không",
+      "aliases": ["Sa bàn Chiến dịch Hà Nội - Điện Biên Phủ trên không", "Sa bàn 3D mapping"],
+      "match": "new"
+    },
+    {
+      "key": "b52_wreck",
+      "type": "HeritageObject",
+      "canonical_name": "Xác máy bay B-52 trưng bày ngoài trời",
+      "aliases": ["Xác Pháo đài bay B-52", "Xác máy bay B-52 tỷ lệ 1:1"],
+      "match": "new"
+    },
+    {
+      "key": "radar_p35",
+      "type": "HeritageObject",
+      "canonical_name": "Ra-đa dẫn đường P-35",
+      "aliases": ["Ra-đa P-35", "Radar P35 của Đại đội 45"],
+      "match": "new"
+    },
+    {
+      "key": "sam2_launcher",
+      "type": "HeritageObject",
+      "canonical_name": "Bệ phóng tên lửa SAM-2",
+      "aliases": ["Bệ phóng SAM-2", "Bệ phóng tên lửa của Tiểu đoàn 72"],
+      "match": "new"
+    },
+    {"key": "event_establishment", "type": "Event", "canonical_name": "Thành lập Bảo tàng Chiến thắng B-52", "aliases": ["Sự kiện thành lập Bảo tàng Chiến thắng B-52"], "match": "new"},
+    {"key": "event_inauguration", "type": "Event", "canonical_name": "Khánh thành Bảo tàng Chiến thắng B-52", "aliases": ["Lễ khánh thành Bảo tàng Chiến thắng B-52"], "match": "new"},
+    {"key": "event_renovation_2012", "type": "Event", "canonical_name": "Nâng cấp Bảo tàng Chiến thắng B-52 năm 2012", "aliases": ["Tu sửa bảo tàng năm 2012"], "match": "new"},
+    {"key": "event_renovation_2017", "type": "Event", "canonical_name": "Nâng cấp Bảo tàng Chiến thắng B-52 năm 2017", "aliases": ["Tu sửa bảo tàng năm 2017"], "match": "new"},
+    {"key": "event_renovation_2019", "type": "Event", "canonical_name": "Nâng cấp Bảo tàng Chiến thắng B-52 năm 2019", "aliases": ["Tu sửa bảo tàng năm 2019"], "match": "new"},
+    {"key": "event_renovation_2022", "type": "Event", "canonical_name": "Cải tạo, nâng cấp Bảo tàng Chiến thắng B-52 năm 2022", "aliases": ["Đợt cải tạo bảo tàng năm 2022"], "match": "new"},
+    {"key": "event_renovation_inauguration_2022", "type": "Event", "canonical_name": "Khánh thành công trình cải tạo Bảo tàng Chiến thắng B-52", "aliases": ["Lễ khánh thành công trình nâng cấp năm 2022"], "match": "new"},
+    {"key": "event_air_victory_1972", "type": "Event", "canonical_name": "Chiến thắng Hà Nội - Điện Biên Phủ trên không", "aliases": ["Chiến dịch Hà Nội - Điện Biên Phủ trên không", "Chiến thắng 12 ngày đêm năm 1972"], "match": "auto"},
+    {"key": "person_trinh_thi_khuyen_luong", "type": "Person", "canonical_name": "Trịnh Thị Khuyến Lương", "aliases": ["Thượng tá QNCN Trịnh Thị Khuyến Lương"], "match": "auto"},
+    {"key": "person_pham_tuan", "type": "Person", "canonical_name": "Phạm Tuân", "aliases": ["Phi công Phạm Tuân", "Anh hùng Phạm Tuân"], "match": "auto"},
+    {"key": "person_vu_xuan_thieu", "type": "Person", "canonical_name": "Vũ Xuân Thiều", "aliases": ["Phi công Vũ Xuân Thiều", "Anh hùng liệt sĩ Vũ Xuân Thiều"], "match": "auto"},
+    {"key": "role_deputy_director", "type": "Role", "canonical_name": "Phó Giám đốc Bảo tàng Chiến thắng B-52", "aliases": ["Phó giám đốc bảo tàng"], "match": "new"},
+    {"key": "role_fighter_pilot", "type": "Role", "canonical_name": "Phi công chiến đấu", "aliases": ["Phi công quân sự", "Phi công tiêm kích"], "match": "auto"},
+    {"key": "activity_visit_exhibition", "type": "Activity", "canonical_name": "Tham quan trưng bày", "aliases": ["Tham quan bảo tàng", "Xem trưng bày hiện vật"], "match": "auto"},
+    {"key": "activity_learn_history", "type": "Activity", "canonical_name": "Tìm hiểu lịch sử Chiến thắng Hà Nội - Điện Biên Phủ trên không", "aliases": ["Học tập lịch sử chiến thắng B-52"], "match": "new"},
+    {"key": "activity_traditional_education", "type": "Activity", "canonical_name": "Giáo dục truyền thống cách mạng", "aliases": ["Giáo dục truyền thống yêu nước", "Sinh hoạt giáo dục truyền thống"], "match": "auto"},
+    {"key": "activity_learn_outdoor_equipment", "type": "Activity", "canonical_name": "Tìm hiểu vũ khí, khí tài và xác máy bay", "aliases": ["Tìm hiểu hiện vật quân sự ngoài trời"], "match": "new"},
+    {"key": "activity_interactive_model", "type": "Activity", "canonical_name": "Tương tác và tìm hiểu chiến dịch qua sa bàn số hóa", "aliases": ["Trải nghiệm sa bàn 3D mapping"], "match": "new"}
+  ],
+  "evidence": [
+    {"key": "ev_address", "source": "src_b52_military_museum_2026", "topic": "official_address", "normalized_text": "Bảo tàng Chiến thắng B-52 có địa chỉ tại số 157 phố Đội Cấn, phường Ngọc Hà, thành phố Hà Nội.", "text_kind": "normalized_summary"},
+    {"key": "ev_establishment", "source": "src_b52_qptd_2023", "topic": "establishment", "normalized_text": "Ngày 10 tháng 1 năm 1986, Quân khu Thủ đô ban hành Quyết định số 401 thành lập Bảo tàng Chiến thắng B-52, trực thuộc Cục Chính trị.", "text_kind": "normalized_summary"},
+    {"key": "ev_management", "source": "src_b52_military_museum_2026", "topic": "management", "normalized_text": "Bảo tàng Chiến thắng B-52 trực thuộc Cục Chính trị Bộ Tư lệnh Thủ đô Hà Nội.", "text_kind": "normalized_summary"},
+    {"key": "ev_category", "source": "src_b52_official_intro", "topic": "museum_category", "normalized_text": "Bảo tàng Chiến thắng B-52 thuộc loại hình bảo tàng lịch sử quân sự.", "text_kind": "normalized_summary"},
+    {"key": "ev_museum_rank", "source": "src_b52_official_intro", "topic": "museum_rank", "normalized_text": "Bảo tàng Chiến thắng B-52 được xếp hạng II trong hệ thống bảo tàng Việt Nam.", "text_kind": "normalized_summary"},
+    {"key": "ev_inauguration", "source": "src_b52_qptd_2023", "topic": "inauguration", "normalized_text": "Bảo tàng Chiến thắng B-52 được xây mới và khánh thành ngày 22 tháng 12 năm 1997 nhân dịp kỷ niệm 25 năm Chiến thắng Hà Nội - Điện Biên Phủ trên không.", "text_kind": "normalized_summary"},
+    {"key": "ev_display_areas", "source": "src_b52_military_museum_2026", "topic": "display_areas", "normalized_text": "Bảo tàng Chiến thắng B-52 gồm khu trưng bày trong nhà và khu trưng bày ngoài trời.", "text_kind": "normalized_summary"},
+    {"key": "ev_outdoor_objects", "source": "src_b52_military_museum_2026", "topic": "outdoor_objects", "normalized_text": "Khu trưng bày ngoài trời của Bảo tàng Chiến thắng B-52 giới thiệu ra-đa dẫn đường P-35, bệ phóng tên lửa SAM-2 và xác máy bay B-52.", "text_kind": "normalized_summary"},
+    {"key": "ev_radar_p35", "source": "src_b52_qptd_2019", "topic": "radar_p35", "normalized_text": "Ra-đa dẫn đường P-35 của Đại đội 45, Trung đoàn 291 được sử dụng để phát hiện sớm máy bay B-52 đánh vào Hà Nội ngày 18 tháng 12 năm 1972.", "text_kind": "normalized_summary"},
+    {"key": "ev_sam2_launcher", "source": "src_b52_qptd_2019", "topic": "sam2_launcher", "normalized_text": "Bệ phóng tên lửa SAM-2 của Tiểu đoàn 72, Trung đoàn 285 được sử dụng trong trận bắn rơi tại chỗ một máy bay B-52 lúc 23 giờ 05 phút ngày 27 tháng 12 năm 1972.", "text_kind": "normalized_summary"},
+    {"key": "ev_b52_wreck", "source": "src_b52_military_museum_2026", "topic": "b52_wreck", "normalized_text": "Khu trưng bày ngoài trời của Bảo tàng Chiến thắng B-52 có xác máy bay B-52 được phục dựng theo tỷ lệ 1:1 với thân dài 49,05 mét và sải cánh 56,39 mét.", "text_kind": "normalized_summary"},
+    {"key": "ev_indoor_content", "source": "src_b52_military_museum_2026", "topic": "indoor_display_purpose", "normalized_text": "Khu trưng bày trong nhà của Bảo tàng Chiến thắng B-52 giới thiệu truyền thống của lực lượng vũ trang Thủ đô và diễn biến Chiến thắng Hà Nội - Điện Biên Phủ trên không.", "text_kind": "normalized_summary"},
+    {"key": "ev_outdoor_use", "source": "src_b52_military_museum_2026", "topic": "outdoor_display_purpose", "normalized_text": "Khu trưng bày ngoài trời của Bảo tàng Chiến thắng B-52 được sử dụng để giới thiệu vũ khí, khí tài và xác máy bay gắn với chiến thắng tháng 12 năm 1972.", "text_kind": "normalized_summary"},
+    {"key": "ev_visitor_activities", "source": "src_b52_qptd_2023", "topic": "visitor_activities", "normalized_text": "Bảo tàng Chiến thắng B-52 tạo điều kiện cho học sinh, sinh viên và nhân dân tham quan trưng bày, học tập, tìm hiểu lịch sử và giáo dục truyền thống của lực lượng vũ trang Thủ đô.", "text_kind": "normalized_summary"},
+    {"key": "ev_renovation_2012_2019", "source": "src_b52_qptd_2023", "topic": "renovation_years", "normalized_text": "Bảo tàng Chiến thắng B-52 được đầu tư nâng cấp, tu sửa vào các năm 2012, 2017 và 2019.", "text_kind": "normalized_summary"},
+    {"key": "ev_renovation_period_2022", "source": "src_b52_renovation_2022", "topic": "renovation_period_2022", "normalized_text": "Công trình cải tạo, nâng cấp Bảo tàng Chiến thắng B-52 được thi công từ tháng 8 đến tháng 12 năm 2022.", "text_kind": "normalized_summary"},
+    {"key": "ev_renovation_inauguration_2022", "source": "src_b52_renovation_2022", "topic": "renovation_inauguration_2022", "normalized_text": "Công trình cải tạo, nâng cấp Bảo tàng Chiến thắng B-52 được khánh thành ngày 11 tháng 12 năm 2022.", "text_kind": "normalized_summary"},
+    {"key": "ev_digital_model", "source": "src_b52_qptd_2023", "topic": "digital_campaign_model", "normalized_text": "Sau đợt cải tạo năm 2022, Bảo tàng Chiến thắng B-52 có phòng sa bàn được làm mới và áp dụng công nghệ 3D mapping để trình chiếu phim tư liệu, hỗ trợ khách tham quan tìm hiểu diễn biến và ý nghĩa chiến dịch.", "text_kind": "normalized_summary"},
+    {"key": "ev_deputy_director", "source": "src_b52_personnel_2026", "topic": "museum_personnel", "normalized_text": "Thượng tá quân nhân chuyên nghiệp Trịnh Thị Khuyến Lương giữ chức Phó Giám đốc Bảo tàng Chiến thắng B-52.", "text_kind": "normalized_summary"},
+    {"key": "ev_museum_historical_focus", "source": "src_b52_military_museum_2026", "topic": "museum_historical_focus", "normalized_text": "Bảo tàng Chiến thắng B-52 lưu giữ, trưng bày và giới thiệu tư liệu, hiện vật về Chiến thắng Hà Nội - Điện Biên Phủ trên không năm 1972.", "text_kind": "normalized_summary"},
+    {"key": "ev_historical_event", "source": "src_b52_national_history", "topic": "historical_event", "normalized_text": "Chiến thắng Hà Nội - Điện Biên Phủ trên không diễn ra từ ngày 18 đến ngày 29 tháng 12 năm 1972.", "text_kind": "normalized_summary"},
+    {"key": "ev_pilots", "source": "src_b52_national_history", "topic": "involved_pilots", "normalized_text": "Trong chiến dịch tháng 12 năm 1972, phi công Phạm Tuân bắn rơi một máy bay B-52 trong đêm 27 tháng 12 và phi công Vũ Xuân Thiều bắn rơi một máy bay B-52 trong đêm 28 tháng 12.", "text_kind": "normalized_summary"}
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "ESTABLISHED_IN", "target": "time_1986_01_10", "evidence": ["ev_establishment"], "confidence": 1.0},
+    {"source": "place", "relation": "ESTABLISHED_BY", "target": "org_capital_military_region", "evidence": ["ev_establishment"], "confidence": 1.0},
+    {"source": "place", "relation": "MANAGED_BY", "target": "org_political_department", "evidence": ["ev_management"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_military_history", "evidence": ["ev_category"], "confidence": 1.0},
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "status_museum_class_ii", "evidence": ["ev_museum_rank"], "confidence": 0.95},
+
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "indoor_display", "evidence": ["ev_display_areas"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "outdoor_display", "evidence": ["ev_display_areas"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "digital_campaign_model", "evidence": ["ev_digital_model"], "confidence": 1.0},
+    {"source": "outdoor_display", "relation": "HAS_COMPONENT", "target": "radar_p35", "evidence": ["ev_outdoor_objects", "ev_radar_p35"], "confidence": 1.0},
+    {"source": "outdoor_display", "relation": "HAS_COMPONENT", "target": "sam2_launcher", "evidence": ["ev_outdoor_objects", "ev_sam2_launcher"], "confidence": 1.0},
+    {"source": "outdoor_display", "relation": "HAS_COMPONENT", "target": "b52_wreck", "evidence": ["ev_outdoor_objects", "ev_b52_wreck"], "confidence": 1.0},
+
+    {"source": "indoor_display", "relation": "USED_FOR", "target": "activity_learn_history", "evidence": ["ev_indoor_content"], "confidence": 1.0},
+    {"source": "outdoor_display", "relation": "USED_FOR", "target": "activity_learn_outdoor_equipment", "evidence": ["ev_outdoor_use"], "confidence": 1.0},
+    {"source": "digital_campaign_model", "relation": "USED_FOR", "target": "activity_interactive_model", "evidence": ["ev_digital_model"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_visit_exhibition", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_learn_history", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_traditional_education", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "person_trinh_thi_khuyen_luong", "evidence": ["ev_deputy_director"], "confidence": 1.0},
+    {"source": "person_trinh_thi_khuyen_luong", "relation": "HELD_ROLE", "target": "role_deputy_director", "evidence": ["ev_deputy_director"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_establishment", "evidence": ["ev_establishment"], "confidence": 1.0},
+    {"source": "event_establishment", "relation": "OCCURRED_IN", "target": "time_1986_01_10", "evidence": ["ev_establishment"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_inauguration", "evidence": ["ev_inauguration"], "confidence": 1.0},
+    {"source": "event_inauguration", "relation": "OCCURRED_IN", "target": "time_1997_12_22", "evidence": ["ev_inauguration"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_renovation_2012", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+    {"source": "event_renovation_2012", "relation": "OCCURRED_IN", "target": "time_2012", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_2012", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_renovation_2017", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+    {"source": "event_renovation_2017", "relation": "OCCURRED_IN", "target": "time_2017", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_2017", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_renovation_2019", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+    {"source": "event_renovation_2019", "relation": "OCCURRED_IN", "target": "time_2019", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_2019", "evidence": ["ev_renovation_2012_2019"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_renovation_2022", "evidence": ["ev_renovation_period_2022"], "confidence": 1.0},
+    {"source": "event_renovation_2022", "relation": "OCCURRED_IN", "target": "time_2022_period", "evidence": ["ev_renovation_period_2022"], "confidence": 1.0},
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_2022_period", "evidence": ["ev_renovation_period_2022"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_renovation_inauguration_2022", "evidence": ["ev_renovation_inauguration_2022"], "confidence": 1.0},
+    {"source": "event_renovation_inauguration_2022", "relation": "OCCURRED_IN", "target": "time_2022_12_11", "evidence": ["ev_renovation_inauguration_2022"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_air_victory_1972", "evidence": ["ev_museum_historical_focus"], "confidence": 1.0},
+    {"source": "event_air_victory_1972", "relation": "OCCURRED_IN", "target": "time_1972_campaign", "evidence": ["ev_historical_event"], "confidence": 1.0},
+    {"source": "event_air_victory_1972", "relation": "INVOLVED_PERSON", "target": "person_pham_tuan", "evidence": ["ev_pilots"], "confidence": 1.0},
+    {"source": "event_air_victory_1972", "relation": "INVOLVED_PERSON", "target": "person_vu_xuan_thieu", "evidence": ["ev_pilots"], "confidence": 1.0},
+    {"source": "person_pham_tuan", "relation": "HELD_ROLE", "target": "role_fighter_pilot", "evidence": ["ev_pilots"], "confidence": 1.0},
+    {"source": "person_vu_xuan_thieu", "relation": "HELD_ROLE", "target": "role_fighter_pilot", "evidence": ["ev_pilots"], "confidence": 1.0}
+  ]
+}

@@ -1,0 +1,23 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000693,SRC_000250,PLACE_000052,official_address,"Bảo tàng Chiến thắng B-52 có địa chỉ tại số 157 phố Đội Cấn, phường Ngọc Hà, thành phố Hà Nội.",normalized_summary,approved
+EVD_000694,SRC_000251,PLACE_000052,establishment,"Ngày 10 tháng 1 năm 1986, Quân khu Thủ đô ban hành Quyết định số 401 thành lập Bảo tàng Chiến thắng B-52, trực thuộc Cục Chính trị.",normalized_summary,approved
+EVD_000695,SRC_000250,PLACE_000052,management,Bảo tàng Chiến thắng B-52 trực thuộc Cục Chính trị Bộ Tư lệnh Thủ đô Hà Nội.,normalized_summary,approved
+EVD_000696,SRC_000253,PLACE_000052,museum_category,Bảo tàng Chiến thắng B-52 thuộc loại hình bảo tàng lịch sử quân sự.,normalized_summary,approved
+EVD_000697,SRC_000253,PLACE_000052,museum_rank,Bảo tàng Chiến thắng B-52 được xếp hạng II trong hệ thống bảo tàng Việt Nam.,normalized_summary,approved
+EVD_000698,SRC_000251,PLACE_000052,inauguration,Bảo tàng Chiến thắng B-52 được xây mới và khánh thành ngày 22 tháng 12 năm 1997 nhân dịp kỷ niệm 25 năm Chiến thắng Hà Nội - Điện Biên Phủ trên không.,normalized_summary,approved
+EVD_000699,SRC_000250,PLACE_000052,display_areas,Bảo tàng Chiến thắng B-52 gồm khu trưng bày trong nhà và khu trưng bày ngoài trời.,normalized_summary,approved
+EVD_000700,SRC_000250,PLACE_000052,outdoor_objects,"Khu trưng bày ngoài trời của Bảo tàng Chiến thắng B-52 giới thiệu ra-đa dẫn đường P-35, bệ phóng tên lửa SAM-2 và xác máy bay B-52.",normalized_summary,approved
+EVD_000701,SRC_000252,PLACE_000052,radar_p35,"Ra-đa dẫn đường P-35 của Đại đội 45, Trung đoàn 291 được sử dụng để phát hiện sớm máy bay B-52 đánh vào Hà Nội ngày 18 tháng 12 năm 1972.",normalized_summary,approved
+EVD_000702,SRC_000252,PLACE_000052,sam2_launcher,"Bệ phóng tên lửa SAM-2 của Tiểu đoàn 72, Trung đoàn 285 được sử dụng trong trận bắn rơi tại chỗ một máy bay B-52 lúc 23 giờ 05 phút ngày 27 tháng 12 năm 1972.",normalized_summary,approved
+EVD_000703,SRC_000250,PLACE_000052,b52_wreck,"Khu trưng bày ngoài trời của Bảo tàng Chiến thắng B-52 có xác máy bay B-52 được phục dựng theo tỷ lệ 1:1 với thân dài 49,05 mét và sải cánh 56,39 mét.",normalized_summary,approved
+EVD_000704,SRC_000250,PLACE_000052,indoor_display_purpose,Khu trưng bày trong nhà của Bảo tàng Chiến thắng B-52 giới thiệu truyền thống của lực lượng vũ trang Thủ đô và diễn biến Chiến thắng Hà Nội - Điện Biên Phủ trên không.,normalized_summary,approved
+EVD_000705,SRC_000250,PLACE_000052,outdoor_display_purpose,"Khu trưng bày ngoài trời của Bảo tàng Chiến thắng B-52 được sử dụng để giới thiệu vũ khí, khí tài và xác máy bay gắn với chiến thắng tháng 12 năm 1972.",normalized_summary,approved
+EVD_000706,SRC_000251,PLACE_000052,visitor_activities,"Bảo tàng Chiến thắng B-52 tạo điều kiện cho học sinh, sinh viên và nhân dân tham quan trưng bày, học tập, tìm hiểu lịch sử và giáo dục truyền thống của lực lượng vũ trang Thủ đô.",normalized_summary,approved
+EVD_000707,SRC_000251,PLACE_000052,renovation_years,"Bảo tàng Chiến thắng B-52 được đầu tư nâng cấp, tu sửa vào các năm 2012, 2017 và 2019.",normalized_summary,approved
+EVD_000708,SRC_000254,PLACE_000052,renovation_period_2022,"Công trình cải tạo, nâng cấp Bảo tàng Chiến thắng B-52 được thi công từ tháng 8 đến tháng 12 năm 2022.",normalized_summary,approved
+EVD_000709,SRC_000254,PLACE_000052,renovation_inauguration_2022,"Công trình cải tạo, nâng cấp Bảo tàng Chiến thắng B-52 được khánh thành ngày 11 tháng 12 năm 2022.",normalized_summary,approved
+EVD_000710,SRC_000251,PLACE_000052,digital_campaign_model,"Sau đợt cải tạo năm 2022, Bảo tàng Chiến thắng B-52 có phòng sa bàn được làm mới và áp dụng công nghệ 3D mapping để trình chiếu phim tư liệu, hỗ trợ khách tham quan tìm hiểu diễn biến và ý nghĩa chiến dịch.",normalized_summary,approved
+EVD_000711,SRC_000256,PLACE_000052,museum_personnel,Thượng tá quân nhân chuyên nghiệp Trịnh Thị Khuyến Lương giữ chức Phó Giám đốc Bảo tàng Chiến thắng B-52.,normalized_summary,approved
+EVD_000712,SRC_000250,PLACE_000052,museum_historical_focus,"Bảo tàng Chiến thắng B-52 lưu giữ, trưng bày và giới thiệu tư liệu, hiện vật về Chiến thắng Hà Nội - Điện Biên Phủ trên không năm 1972.",normalized_summary,approved
+EVD_000713,SRC_000255,PLACE_000052,historical_event,Chiến thắng Hà Nội - Điện Biên Phủ trên không diễn ra từ ngày 18 đến ngày 29 tháng 12 năm 1972.,normalized_summary,approved
+EVD_000714,SRC_000255,PLACE_000052,involved_pilots,"Trong chiến dịch tháng 12 năm 1972, phi công Phạm Tuân bắn rơi một máy bay B-52 trong đêm 27 tháng 12 và phi công Vũ Xuân Thiều bắn rơi một máy bay B-52 trong đêm 28 tháng 12.",normalized_summary,approved

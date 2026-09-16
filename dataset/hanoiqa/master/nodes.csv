@@ -961,3 +961,338 @@ ORG_000017,Tiểu ban quản lý di tích Đình – Chùa Hà,Organization,,Ban
 ACTIVITY_000046,Hành lễ,Activity,,Đi lễ|Dâng lễ,hanh_le,,,,approved
 ACTIVITY_000047,Cầu duyên,Activity,,Cầu tình duyên,cau_duyen,,,,approved
 VALUE_000066,18 tấm bia,Value,,Số lượng bia hậu: 18,18_tam_bia,18,tấm bia,count,approved
+PLACE_000041,Bảo tàng Dân tộc học Việt Nam,Place,,Bảo tàng DTHVN|Vietnam Museum of Ethnology|VME,bao_tang_dan_toc_hoc_viet_nam,,,,approved
+ADDRESS_000032,"Đường Nguyễn Văn Huyên, phường Nghĩa Đô, thành phố Hà Nội",Address,,"Nguyễn Văn Huyên, Nghĩa Đô, Hà Nội",duong_nguyen_van_huyen_phuong_nghia_do_thanh_pho_ha_noi,,,,approved
+ADMIN_000017,Phường Nghĩa Đô,AdministrativeArea,ward,Nghĩa Đô,phuong_nghia_do,,,,approved
+CATEGORY_000009,Bảo tàng dân tộc học,TourismCategory,,Bảo tàng văn hóa các dân tộc,bao_tang_dan_toc_hoc,,,,approved
+ORG_000018,Viện Hàn lâm Khoa học xã hội Việt Nam,Organization,,VASS|Viện Hàn lâm KHXH Việt Nam,vien_han_lam_khoa_hoc_xa_hoi_viet_nam,,,,approved
+ARCH_000269,Tòa Trống đồng,Architecture,,Tòa nhà Trống đồng|Khu trưng bày Trống đồng,toa_trong_dong,,,,approved
+PLACE_000042,Vườn Kiến trúc,Place,,Vườn Kiến trúc dân gian|Khu trưng bày ngoài trời,vuon_kien_truc,,,,approved
+ARCH_000270,Tòa Cánh diều,Architecture,,Tòa nhà Cánh diều|Khu trưng bày Đông Nam Á,toa_canh_dieu,,,,approved
+ARCH_000271,Khuôn viên nhà người Chăm,Architecture,,Nhà sàn thấp của người Chăm,khuon_vien_nha_nguoi_cham,,,,approved
+ARCH_000272,Nhà người Việt,Architecture,,Nhà ngói của người Việt,nha_nguoi_viet,,,,approved
+ARCH_000273,Nhà rông Ba-na,Architecture,,Nhà rông của người Ba-na,nha_rong_ba_na,,,,approved
+ARCH_000274,Nhà dài Ê-đê,Architecture,,Nhà sàn dài của người Ê-đê,nha_dai_e_de,,,,approved
+ARCH_000275,Nhà mồ Gia-rai,Architecture,,Nhà mồ tập thể của người Gia-rai,nha_mo_gia_rai,,,,approved
+ARCH_000276,Nhà mồ Cơ-tu,Architecture,,Nhà mồ cá nhân của người Cơ-tu,nha_mo_co_tu,,,,approved
+ARCH_000277,Nhà sàn Tày,Architecture,,Nhà sàn của người Tày,nha_san_tay,,,,approved
+ARCH_000278,Nhà người Dao,Architecture,,Nhà nửa sàn nửa trệt người Dao|Nhà nửa sàn nửa đất của người Dao,nha_nguoi_dao,,,,approved
+ARCH_000279,Nhà trệt Hmông,Architecture,,Nhà trệt lợp ván pơmu của người Hmông,nha_tret_hmong,,,,approved
+ARCH_000280,Nhà trình tường Hà Nhì,Architecture,,Nhà trình tường của người Hà Nhì,nha_trinh_tuong_ha_nhi,,,,approved
+ARCH_000281,Thủy đình Vườn Kiến trúc,Architecture,,Hồ thủy đình|Sân khấu rối nước,thuy_dinh_vuon_kien_truc,,,,approved
+PERSON_000071,Hà Đức Lịnh,Person,,Kiến trúc sư Hà Đức Lịnh,ha_duc_linh,,,,approved
+PERSON_000072,Véronique Dollfus,Person,,Kiến trúc sư Véronique Dollfus,veronique_dollfus,,,,approved
+TIME_000133,Năm 1995,Time,,1995,nam_1995,,,,approved
+TIME_000134,Ngày 12 tháng 11 năm 1997,Time,,12/11/1997,ngay_12_thang_11_nam_1997,,,,approved
+TIME_000135,Ngày 13 tháng 11 năm 1997,Time,,13/11/1997,ngay_13_thang_11_nam_1997,,,,approved
+TIME_000136,Cuối năm 2013,Time,,Năm 2013,cuoi_nam_2013,,,,approved
+EVENT_000063,Lễ khánh thành Bảo tàng Dân tộc học Việt Nam,Event,,Khánh thành Bảo tàng DTHVN,le_khanh_thanh_bao_tang_dan_toc_hoc_viet_nam,,,,approved
+EVENT_000064,Tòa Trống đồng mở cửa phục vụ công chúng,Event,,Mở cửa Bảo tàng DTHVN,toa_trong_dong_mo_cua_phuc_vu_cong_chung,,,,approved
+EVENT_000065,Khai trương trưng bày đầu tiên tại Tòa Cánh diều,Event,,Khai trương Tòa Cánh diều,khai_truong_trung_bay_dau_tien_tai_toa_canh_dieu,,,,approved
+VALUE_000067,4 ha,Value,,Khuôn viên rộng 4 ha|40.000 m²,4_ha,4,ha,area,approved
+VALUE_000068,Khoảng 2 ha,Value,,Vườn Kiến trúc rộng khoảng 2 ha|Khoảng 20.000 m²,khoang_2_ha,2,ha,area,approved
+VALUE_000069,10 công trình,Value,,10 công trình kiến trúc dân gian,10_cong_trinh,10,công trình,count,approved
+VALUE_000070,54 dân tộc,Value,,54 dân tộc Việt Nam,54_dan_toc,54,dân tộc,count,approved
+ACTIVITY_000048,Giáo dục trải nghiệm,Activity,,Hoạt động giáo dục|Khám phá dành cho trẻ em,giao_duc_trai_nghiem,,,,approved
+ACTIVITY_000049,Nghiên cứu dân tộc học,Activity,,Nghiên cứu khoa học|Nghiên cứu nhân học,nghien_cuu_dan_toc_hoc,,,,approved
+PLACE_000043,Bảo tàng Hà Nội,Place,,Hanoi Museum|Điểm du lịch Bảo tàng Hà Nội,bao_tang_ha_noi,,,,approved
+ADDRESS_000033,"Đường Phạm Hùng, phường Từ Liêm, thành phố Hà Nội",Address,,"Phạm Hùng, Từ Liêm, Hà Nội",duong_pham_hung_phuong_tu_liem_thanh_pho_ha_noi,,,,approved
+ADMIN_000018,Phường Từ Liêm,AdministrativeArea,ward,,phuong_tu_liem,,,,approved
+CATEGORY_000010,Bảo tàng lịch sử và văn hóa Hà Nội,TourismCategory,,Bảo tàng lịch sử - văn hóa|Bảo tàng về Thăng Long - Hà Nội,bao_tang_lich_su_va_van_hoa_ha_noi,,,,approved
+HSTATUS_000009,Điểm du lịch cấp thành phố,HeritageStatus,,Điểm du lịch Bảo tàng Hà Nội,diem_du_lich_cap_thanh_pho,,,,approved
+ORG_000019,Sở Văn hóa và Thể thao Hà Nội,Organization,,"Sở Văn hóa, Thể thao và Du lịch thành phố Hà Nội|Sở VHTT Hà Nội",so_van_hoa_va_the_thao_ha_noi,,,,approved
+TIME_000137,Ngày 19 tháng 5 năm 2008,Time,,19/05/2008,ngay_19_thang_5_nam_2008,,,,approved
+TIME_000138,Ngày 6 tháng 10 năm 2010,Time,,06/10/2010,ngay_6_thang_10_nam_2010,,,,approved
+TIME_000139,Ngày 3 tháng 2 năm 2026,Time,,03/02/2026,ngay_3_thang_2_nam_2026,,,,approved
+TIME_000140,Ngày 30 tháng 3 năm 2026,Time,,30/03/2026,ngay_30_thang_3_nam_2026,,,,approved
+EVENT_000066,Thành lập Bảo tàng Hà Nội,Event,,,thanh_lap_bao_tang_ha_noi,,,,approved
+EVENT_000067,Khởi công xây dựng trụ sở mới Bảo tàng Hà Nội,Event,,,khoi_cong_xay_dung_tru_so_moi_bao_tang_ha_noi,,,,approved
+EVENT_000068,Khánh thành Bảo tàng Hà Nội tại đường Phạm Hùng,Event,,,khanh_thanh_bao_tang_ha_noi_tai_duong_pham_hung,,,,approved
+EVENT_000069,Mở cửa trở lại hệ thống trưng bày Bảo tàng Hà Nội,Event,,,mo_cua_tro_lai_he_thong_trung_bay_bao_tang_ha_noi,,,,approved
+EVENT_000070,Công nhận điểm du lịch Bảo tàng Hà Nội,Event,,,cong_nhan_diem_du_lich_bao_tang_ha_noi,,,,approved
+ARCH_000282,Tòa nhà Bảo tàng Hà Nội,Architecture,,Công trình Bảo tàng Hà Nội tại Phạm Hùng,toa_nha_bao_tang_ha_noi,,,,approved
+ARCH_000283,Hệ thống trưng bày thường xuyên,Architecture,,Trưng bày thường xuyên Bảo tàng Hà Nội,he_thong_trung_bay_thuong_xuyen,,,,approved
+ARCH_000284,Không gian trưng bày chuyên đề,Architecture,,Trưng bày chuyên đề,khong_gian_trung_bay_chuyen_de,,,,approved
+ARCH_000285,Không gian trưng bày 3D,Architecture,,Trưng bày số 3D,khong_gian_trung_bay_3d,,,,approved
+ARCH_000286,Không gian hoạt động sáng tạo,Architecture,,Không gian trải nghiệm sáng tạo,khong_gian_hoat_dong_sang_tao,,,,approved
+HOBJ_000112,Trống đồng và bộ sưu tập lưỡi cày đồng Mả Tre,HeritageObject,,Trống đồng và lưỡi cày đồng Mả Tre,trong_dong_va_bo_suu_tap_luoi_cay_dong_ma_tre,,,,approved
+HOBJ_000113,Chuông Thanh Mai,HeritageObject,,,chuong_thanh_mai,,,,approved
+HOBJ_000114,Chân đèn gốm thời Mạc,HeritageObject,,Chân đèn gốm men lam xám thời Mạc,chan_den_gom_thoi_mac,,,,approved
+HOBJ_000115,Long đình gốm Bát Tràng,HeritageObject,,,long_dinh_gom_bat_trang,,,,approved
+HOBJ_000116,Bộ sưu tập vũ khí trường Giảng Võ,HeritageObject,,Vũ khí trường Giảng Võ,bo_suu_tap_vu_khi_truong_giang_vo,,,,approved
+HOBJ_000117,Đôi tượng nghê đồng,HeritageObject,,Cặp tượng nghê bằng đồng,doi_tuong_nghe_dong,,,,approved
+VALUE_000071,Hơn 54.000 mét vuông diện tích đất,Value,,Diện tích khu đất hơn 54 nghìn m²,hon_54_000_met_vuong_dien_tich_dat,54000,m²,minimum_area,approved
+VALUE_000072,6 tầng,Value,,,6_tang,6,tầng,count,approved
+VALUE_000073,4 tầng nổi,Value,,,4_tang_noi,4,tầng nổi,count,approved
+VALUE_000074,2 tầng hầm,Value,,,2_tang_ham,2,tầng hầm,count,approved
+VALUE_000075,Hơn 70.000 hiện vật và tài liệu,Value,,"Trên bảy mươi nghìn hiện vật, tài liệu",hon_70_000_hien_vat_va_tai_lieu,70000,hiện vật và tài liệu,minimum_count,approved
+VALUE_000076,6 nhóm bảo vật quốc gia,Value,,,6_nhom_bao_vat_quoc_gia,6,nhóm bảo vật quốc gia,count,approved
+VALUE_000077,7 chủ đề trưng bày,Value,,,7_chu_de_trung_bay,7,chủ đề,count,approved
+ACTIVITY_000050,Trải nghiệm hoạt động sáng tạo về văn hóa Hà Nội,Activity,,Hoạt động sáng tạo tại Bảo tàng Hà Nội,trai_nghiem_hoat_dong_sang_tao_ve_van_hoa_ha_noi,,,,approved
+ACTIVITY_000051,Bảo tồn và phát huy di sản Thăng Long - Hà Nội,Activity,,Bảo quản và phát huy hiện vật lịch sử Hà Nội,bao_ton_va_phat_huy_di_san_thang_long_ha_noi,,,,approved
+PLACE_000044,Bảo tàng Hồ Chí Minh,Place,,Bảo tàng Chủ tịch Hồ Chí Minh|Ho Chi Minh Museum|BTHCM,bao_tang_ho_chi_minh,,,,approved
+ADDRESS_000034,"Số 19 phố Ngọc Hà, phường Ba Đình, thành phố Hà Nội",Address,,"19 Ngọc Hà, Ba Đình, Hà Nội",so_19_pho_ngoc_ha_phuong_ba_dinh_thanh_pho_ha_noi,,,,approved
+CATEGORY_000011,Bảo tàng lưu niệm danh nhân,TourismCategory,,Bảo tàng tưởng niệm Chủ tịch Hồ Chí Minh,bao_tang_luu_niem_danh_nhan,,,,approved
+ORG_000020,"Bộ Văn hóa, Thể thao và Du lịch",Organization,,Bộ Văn hóa thể thao và du lịch,bo_van_hoa_the_thao_va_du_lich,,,,approved
+ORG_000021,Bộ Chính trị Ban Chấp hành Trung ương Đảng Cộng sản Việt Nam,Organization,,Bộ Chính trị,bo_chinh_tri_ban_chap_hanh_trung_uong_dang_cong_san_viet_nam,,,,approved
+ARCH_000287,Tòa nhà Bảo tàng Hồ Chí Minh,Architecture,,Công trình Bảo tàng Hồ Chí Minh,toa_nha_bao_tang_ho_chi_minh,,,,approved
+ARCH_000288,Gian mở đầu Bảo tàng Hồ Chí Minh,Architecture,,Gian long trọng,gian_mo_dau_bao_tang_ho_chi_minh,,,,approved
+ARCH_000289,Phần trưng bày tiểu sử Chủ tịch Hồ Chí Minh,Architecture,,Trưng bày tiểu sử Hồ Chí Minh,phan_trung_bay_tieu_su_chu_tich_ho_chi_minh,,,,approved
+ARCH_000290,Phần trưng bày về đất nước và nhân dân Việt Nam,Architecture,,Trưng bày lịch sử cách mạng Việt Nam,phan_trung_bay_ve_dat_nuoc_va_nhan_dan_viet_nam,,,,approved
+ARCH_000291,Phần trưng bày lịch sử thế giới,Architecture,,Trưng bày các sự kiện lịch sử thế giới,phan_trung_bay_lich_su_the_gioi,,,,approved
+ARCH_000292,Nhóm gian chuyên đề lịch sử thế giới,Architecture,,Tám gian chuyên đề,nhom_gian_chuyen_de_lich_su_the_gioi,,,,approved
+ARCH_000293,Gian tưởng niệm Chủ tịch Hồ Chí Minh,Architecture,,Gian tưởng niệm Bác Hồ,gian_tuong_niem_chu_tich_ho_chi_minh,,,,approved
+HOBJ_000118,Tượng đồng toàn thân Chủ tịch Hồ Chí Minh,HeritageObject,,Tượng Chủ tịch Hồ Chí Minh tại gian mở đầu,tuong_dong_toan_than_chu_tich_ho_chi_minh,,,,approved
+HOBJ_000119,Phù điêu quốc kỳ và búa liềm,HeritageObject,,Phù điêu mặt trước Bảo tàng Hồ Chí Minh,phu_dieu_quoc_ky_va_bua_liem,,,,approved
+ASTYLE_000018,Kiến trúc biểu tượng bông sen trắng,ArchitecturalStyle,,Hình khối bông sen trắng|Khối vuông vát góc,kien_truc_bieu_tuong_bong_sen_trang,,,,approved
+TIME_000141,Ngày 25 tháng 11 năm 1970,Time,,25/11/1970,ngay_25_thang_11_nam_1970,,,,approved
+TIME_000142,Ngày 12 tháng 9 năm 1977,Time,,12/09/1977,ngay_12_thang_9_nam_1977,,,,approved
+TIME_000143,Ngày 15 tháng 10 năm 1979,Time,,15/10/1979,ngay_15_thang_10_nam_1979,,,,approved
+TIME_000144,Ngày 31 tháng 8 năm 1985,Time,,31/08/1985,ngay_31_thang_8_nam_1985,,,,approved
+TIME_000145,Tháng 11 năm 1987,Time,,Nov-87,thang_11_nam_1987,,,,approved
+TIME_000146,Ngày 19 tháng 5 năm 1990,Time,,19/05/1990,ngay_19_thang_5_nam_1990,,,,approved
+EVENT_000071,Thành lập Ban Phụ trách xây dựng Bảo tàng Hồ Chí Minh,Event,,Bắt đầu chuẩn bị xây dựng Bảo tàng Hồ Chí Minh,thanh_lap_ban_phu_trach_xay_dung_bao_tang_ho_chi_minh,,,,approved
+EVENT_000072,Ban hành Nghị quyết 04-NQ/TW thành lập Viện Bảo tàng Hồ Chí Minh,Event,,Thành lập Viện Bảo tàng Hồ Chí Minh,ban_hanh_nghi_quyet_04_nq_tw_thanh_lap_vien_bao_tang_ho_chi_minh,,,,approved
+EVENT_000073,Ban hành Nghị định 375/CP về Viện Bảo tàng Hồ Chí Minh,Event,,Nghị định 375/CP,ban_hanh_nghi_dinh_375_cp_ve_vien_bao_tang_ho_chi_minh,,,,approved
+EVENT_000074,Khởi công xây dựng Bảo tàng Hồ Chí Minh,Event,,Lễ khởi công Bảo tàng Hồ Chí Minh,khoi_cong_xay_dung_bao_tang_ho_chi_minh,,,,approved
+EVENT_000075,UNESCO thông qua Nghị quyết 18.65 về Chủ tịch Hồ Chí Minh,Event,,Nghị quyết 18.65 của UNESCO,unesco_thong_qua_nghi_quyet_18_65_ve_chu_tich_ho_chi_minh,,,,approved
+EVENT_000076,Khánh thành Bảo tàng Hồ Chí Minh,Event,,Lễ khánh thành Bảo tàng Hồ Chí Minh,khanh_thanh_bao_tang_ho_chi_minh,,,,approved
+VALUE_000078,18.000 m²,Value,,"Tổng diện tích 18.000 m²|1,8 ha",18_000_m,18000,m²,area,approved
+VALUE_000079,3 tầng,Value,,Tòa nhà cao 3 tầng,3_tang,3,tầng,count,approved
+VALUE_000080,8 gian,Value,,Tám gian chuyên đề lịch sử thế giới,8_gian,8,gian,count,approved
+VALUE_000081,"3,5 m",Value,,"Tượng cao 3,5 mét",3_5_m,3.5,m,height,approved
+PLACE_000045,Bảo tàng Lịch sử Quân sự Việt Nam,Place,,Bảo tàng LSQS Việt Nam|Bảo tàng Quân đội|Vietnam Military History Museum,bao_tang_lich_su_quan_su_viet_nam,,,,approved
+ADDRESS_000035,"Km 6+500 Đại lộ Thăng Long, phường Xuân Phương, thành phố Hà Nội",Address,,"Km6+500 Đại lộ Thăng Long, Xuân Phương, Hà Nội",km_6_500_dai_lo_thang_long_phuong_xuan_phuong_thanh_pho_ha_noi,,,,approved
+ADMIN_000019,Phường Xuân Phương,AdministrativeArea,ward,,phuong_xuan_phuong,,,,approved
+CATEGORY_000012,Bảo tàng lịch sử quân sự,TourismCategory,,Bảo tàng quân sự|Bảo tàng quốc gia về lịch sử quân sự,bao_tang_lich_su_quan_su,,,,approved
+ORG_000022,Tổng cục Chính trị Quân đội nhân dân Việt Nam,Organization,,Tổng cục Chính trị QĐND Việt Nam,tong_cuc_chinh_tri_quan_doi_nhan_dan_viet_nam,,,,approved
+TIME_000147,Ngày 17 tháng 7 năm 1956,Time,,17/07/1956,ngay_17_thang_7_nam_1956,,,,approved
+TIME_000148,Ngày 22 tháng 12 năm 1959,Time,,22/12/1959,ngay_22_thang_12_nam_1959,,,,approved
+TIME_000149,Năm 2019,Time,,,nam_2019,,,,approved
+TIME_000150,Ngày 1 tháng 11 năm 2024,Time,,1/11/2024|Tháng 11 năm 2024,ngay_1_thang_11_nam_2024,,,,approved
+EVENT_000077,Thành lập Bảo tàng Quân đội,Event,,,thanh_lap_bao_tang_quan_doi,,,,approved
+EVENT_000078,Bảo tàng Quân đội mở cửa đón khách,Event,,,bao_tang_quan_doi_mo_cua_don_khach,,,,approved
+EVENT_000079,Đổi tên thành Bảo tàng Lịch sử Quân sự Việt Nam,Event,,,doi_ten_thanh_bao_tang_lich_su_quan_su_viet_nam,,,,approved
+EVENT_000080,Cơ sở Đại lộ Thăng Long mở cửa đón khách,Event,,,co_so_dai_lo_thang_long_mo_cua_don_khach,,,,approved
+ARCH_000294,Tòa nhà chính Bảo tàng Lịch sử Quân sự Việt Nam,Architecture,,Khối nhà trưng bày chính,toa_nha_chinh_bao_tang_lich_su_quan_su_viet_nam,,,,approved
+ARCH_000295,Tháp Chiến thắng,Architecture,,Tháp Chiến thắng Bảo tàng Lịch sử Quân sự Việt Nam,thap_chien_thang,,,,approved
+ARCH_000296,Hệ thống trưng bày trong nhà,Architecture,,,he_thong_trung_bay_trong_nha,,,,approved
+ARCH_000297,Không gian trưng bày ngoài trời,Architecture,,,khong_gian_trung_bay_ngoai_troi,,,,approved
+ARCH_000298,Chủ đề Buổi đầu dựng nước và giữ nước,Architecture,,"Chủ đề 1: Buổi đầu dựng nước và giữ nước, 700 TCN-938",chu_de_buoi_dau_dung_nuoc_va_giu_nuoc,,,,approved
+ARCH_000299,Chủ đề Bảo vệ độc lập dân tộc giai đoạn 939-1858,Architecture,,Chủ đề 2: Bảo vệ nền độc lập từ năm 939 đến năm 1858,chu_de_bao_ve_doc_lap_dan_toc_giai_doan_939_1858,,,,approved
+ARCH_000300,"Chủ đề Chống thực dân Pháp, giành độc lập dân tộc giai đoạn 1858-1945",Architecture,,,chu_de_chong_thuc_dan_phap_gianh_doc_lap_dan_toc_giai_doan_1858_1945,,,,approved
+ARCH_000301,Chủ đề Kháng chiến chống thực dân Pháp giai đoạn 1945-1954,Architecture,,,chu_de_khang_chien_chong_thuc_dan_phap_giai_doan_1945_1954,,,,approved
+ARCH_000302,Chủ đề Kháng chiến chống Mỹ giai đoạn 1954-1975,Architecture,,,chu_de_khang_chien_chong_my_giai_doan_1954_1975,,,,approved
+ARCH_000303,Chủ đề Xây dựng và bảo vệ đất nước từ năm 1976 đến nay,Architecture,,Xây dựng và bảo vệ Tổ quốc từ năm 1975 đến nay,chu_de_xay_dung_va_bao_ve_dat_nuoc_tu_nam_1976_den_nay,,,,approved
+HOBJ_000120,Máy bay MiG-21 số hiệu 4324,HeritageObject,,MiG-21 4324,may_bay_mig_21_so_hieu_4324,,,,approved
+HOBJ_000121,Máy bay MiG-21 số hiệu 5121,HeritageObject,,MiG-21 5121,may_bay_mig_21_so_hieu_5121,,,,approved
+HOBJ_000122,Xe tăng T-54B số hiệu 843,HeritageObject,,Xe tăng 843|T-54B 843,xe_tang_t_54b_so_hieu_843,,,,approved
+HOBJ_000123,Bản đồ Quyết tâm Chiến dịch Hồ Chí Minh,HeritageObject,,Bản đồ quyết tâm Chiến dịch Hồ Chí Minh năm 1975,ban_do_quyet_tam_chien_dich_ho_chi_minh,,,,approved
+VALUE_000082,386.600 mét vuông diện tích xây dựng,Value,,"Diện tích 38,66 ha",386_600_met_vuong_dien_tich_xay_dung,386600,m²,area,approved
+VALUE_000083,1 tầng hầm,Value,,,1_tang_ham,1,tầng hầm,basement_count,approved
+VALUE_000084,45 mét chiều cao Tháp Chiến thắng,Value,,Tháp Chiến thắng cao 45 m,45_met_chieu_cao_thap_chien_thang,45,m,height,approved
+VALUE_000085,Hơn 150.000 hiện vật,Value,,,hon_150_000_hien_vat,150000,hiện vật,minimum_count,approved
+VALUE_000086,4 Bảo vật quốc gia,Value,,,4_bao_vat_quoc_gia,4,bảo vật quốc gia,count,approved
+VALUE_000087,6 chủ đề trưng bày,Value,,,6_chu_de_trung_bay,6,chủ đề,count,approved
+PLACE_000046,Bảo tàng Lịch sử Quốc gia,Place,,Bảo tàng Lịch sử quốc gia|Vietnam National Museum of History|VNMH|BTLSQG,bao_tang_lich_su_quoc_gia,,,,approved
+ADDRESS_000036,"Số 1 phố Tràng Tiền, phường Cửa Nam, thành phố Hà Nội",Address,,"Số 1 Tràng Tiền, Cửa Nam, Hà Nội|1 Tràng Tiền, Hà Nội",so_1_pho_trang_tien_phuong_cua_nam_thanh_pho_ha_noi,,,,approved
+CATEGORY_000013,Bảo tàng lịch sử quốc gia,TourismCategory,,Bảo tàng lịch sử - xã hội|Bảo tàng quốc gia,bao_tang_lich_su_quoc_gia,,,,approved
+ARCH_000304,Tòa nhà Bảo tàng tại số 1 Tràng Tiền,Architecture,,Tòa nhà Bảo tàng Louis Finot|Tòa nhà Bác Cổ,toa_nha_bao_tang_tai_so_1_trang_tien,,,,approved
+ARCH_000305,Tòa nhà Bảo tàng tại số 216 Trần Quang Khải,Architecture,,Cơ sở 216 Trần Quang Khải|Tòa nhà Bảo tàng Cách mạng Việt Nam,toa_nha_bao_tang_tai_so_216_tran_quang_khai,,,,approved
+VALUE_000088,Gần 110.000 tài liệu và hiện vật giai đoạn trước năm 1945,Value,,"Gần một trăm mười nghìn tài liệu, hiện vật",gan_110_000_tai_lieu_va_hien_vat_giai_doan_truoc_nam_1945,110000,tài liệu và hiện vật,approximate_count,approved
+VALUE_000089,Hơn 80.000 tài liệu và hiện vật từ giữa thế kỷ XIX đến nay,Value,,"Hơn tám mươi nghìn tài liệu, hiện vật",hon_80_000_tai_lieu_va_hien_vat_tu_giua_the_ky_xix_den_nay,80000,tài liệu và hiện vật,minimum_count,approved
+TIME_000151,Ngày 26 tháng 9 năm 2011,Time,,26/09/2011|26-9-2011,ngay_26_thang_9_nam_2011,,,,approved
+TIME_000152,Năm 1926,Time,,,nam_1926,,,,approved
+TIME_000153,Năm 1932,Time,,,nam_1932,,,,approved
+TIME_000154,Ngày 3 tháng 9 năm 1958,Time,,03/09/1958,ngay_3_thang_9_nam_1958,,,,approved
+TIME_000155,Năm 1917,Time,,,nam_1917,,,,approved
+TIME_000156,Ngày 6 tháng 1 năm 1959,Time,,6/1/1959|6-1-1959,ngay_6_thang_1_nam_1959,,,,approved
+EVENT_000081,Thành lập Bảo tàng Lịch sử Quốc gia,Event,,,thanh_lap_bao_tang_lich_su_quoc_gia,,,,approved
+EVENT_000082,Xây dựng Bảo tàng Louis Finot,Event,,,xay_dung_bao_tang_louis_finot,,,,approved
+EVENT_000083,Khánh thành Bảo tàng Louis Finot,Event,,,khanh_thanh_bao_tang_louis_finot,,,,approved
+EVENT_000084,Bảo tàng Lịch sử Việt Nam mở cửa đón khách,Event,,,bao_tang_lich_su_viet_nam_mo_cua_don_khach,,,,approved
+EVENT_000085,Xây dựng trụ sở Sở Thương chính Đông Dương,Event,,,xay_dung_tru_so_so_thuong_chinh_dong_duong,,,,approved
+EVENT_000086,Bảo tàng Cách mạng Việt Nam mở cửa phục vụ công chúng,Event,,,bao_tang_cach_mang_viet_nam_mo_cua_phuc_vu_cong_chung,,,,approved
+ASTYLE_000019,Kiến trúc Đông Dương kết hợp Á - Âu,ArchitecturalStyle,,Phong cách kiến trúc Đông Dương|Kiến trúc Á - Âu,kien_truc_dong_duong_ket_hop_a_au,,,,approved
+ARCH_000306,Hệ thống trưng bày lịch sử Việt Nam từ thời Tiền sử đến năm 1945,Architecture,,Trưng bày từ thời Tiền sử đến hết triều Nguyễn,he_thong_trung_bay_lich_su_viet_nam_tu_thoi_tien_su_den_nam_1945,,,,approved
+ARCH_000307,Hệ thống trưng bày lịch sử Việt Nam từ giữa thế kỷ XIX đến nay,Architecture,,Trưng bày lịch sử Việt Nam cận hiện đại,he_thong_trung_bay_lich_su_viet_nam_tu_giua_the_ky_xix_den_nay,,,,approved
+ARCH_000308,Khu trưng bày ngoài trời tại 216 Trần Quang Khải,Architecture,,,khu_trung_bay_ngoai_troi_tai_216_tran_quang_khai,,,,approved
+HOBJ_000124,Sưu tập hiện vật Văn hóa Đông Sơn,HeritageObject,,Sưu tập Văn hóa Đông Sơn,suu_tap_hien_vat_van_hoa_dong_son,,,,approved
+HOBJ_000125,Sưu tập điêu khắc đá Chăm-pa,HeritageObject,,Sưu tập nghệ thuật Chămpa|Sưu tập điêu khắc đá Chămpa,suu_tap_dieu_khac_da_cham_pa,,,,approved
+HOBJ_000126,Sưu tập gốm men cổ Việt Nam,HeritageObject,,Sưu tập gốm men Việt Nam,suu_tap_gom_men_co_viet_nam,,,,approved
+VALUE_000090,Khoảng 200.000 hiện vật và tư liệu,Value,,"Khoảng hai trăm nghìn hiện vật, tư liệu",khoang_200_000_hien_vat_va_tu_lieu,200000,hiện vật và tư liệu,count,approved
+VALUE_000091,30 Bảo vật quốc gia,Value,,,30_bao_vat_quoc_gia,30,bảo vật quốc gia,count,approved
+VALUE_000092,3.700 mét vuông diện tích trưng bày,Value,,Diện tích trưng bày 3.700 m²,3_700_met_vuong_dien_tich_trung_bay,3700,m²,area,approved
+VALUE_000093,Gần 8.000 tài liệu và hiện vật trưng bày,Value,,"Gần tám nghìn tài liệu, hiện vật",gan_8_000_tai_lieu_va_hien_vat_trung_bay,8000,tài liệu và hiện vật,approximate_count,approved
+PLACE_000047,Bảo tàng Mỹ thuật Việt Nam,Place,,Vietnam National Fine Arts Museum|Vietnam Fine Arts Museum|VNFAM|BTMTVN,bao_tang_my_thuat_viet_nam,,,,approved
+ADDRESS_000037,"Số 66 phố Nguyễn Thái Học, phường Ba Đình, thành phố Hà Nội",Address,,"66 Nguyễn Thái Học, Ba Đình, Hà Nội",so_66_pho_nguyen_thai_hoc_phuong_ba_dinh_thanh_pho_ha_noi,,,,approved
+CATEGORY_000014,Bảo tàng mỹ thuật quốc gia,TourismCategory,,Bảo tàng mỹ thuật|Bảo tàng nghệ thuật,bao_tang_my_thuat_quoc_gia,,,,approved
+TIME_000157,Ngày 24 tháng 6 năm 1966,Time,,24/06/1966,ngay_24_thang_6_nam_1966,,,,approved
+TIME_000158,Giai đoạn 1997-1999,Time,,Từ năm 1997 đến năm 1999,giai_doan_1997_1999,,,,approved
+EVENT_000087,Cải tạo tòa nhà thành nơi sưu tầm và trưng bày mỹ thuật,Event,,,cai_tao_toa_nha_thanh_noi_suu_tam_va_trung_bay_my_thuat,,,,approved
+EVENT_000088,Bảo tàng Mỹ thuật Việt Nam chính thức mở cửa,Event,,,bao_tang_my_thuat_viet_nam_chinh_thuc_mo_cua,,,,approved
+EVENT_000089,Mở rộng Bảo tàng Mỹ thuật Việt Nam giai đoạn 1997-1999,Event,,,mo_rong_bao_tang_my_thuat_viet_nam_giai_doan_1997_1999,,,,approved
+ARCH_000309,Tòa nhà chính Bảo tàng Mỹ thuật Việt Nam,Architecture,,Tòa nhà trưng bày số 66 Nguyễn Thái Học,toa_nha_chinh_bao_tang_my_thuat_viet_nam,,,,approved
+ASTYLE_000020,Kiến trúc châu Âu kết hợp nét kiến trúc Việt Nam,ArchitecturalStyle,,Kiến trúc Tây phương kết hợp kiến trúc đình làng Việt Nam,kien_truc_chau_au_ket_hop_net_kien_truc_viet_nam,,,,approved
+ARCH_000310,Không gian sáng tạo cho trẻ em,Architecture,,,khong_gian_sang_tao_cho_tre_em,,,,approved
+ARCH_000311,Không gian ẩm thực và đồ uống,Architecture,,Không gian cà phê,khong_gian_am_thuc_va_do_uong,,,,approved
+PLACE_000048,Cơ sở 2 Bảo tàng Mỹ thuật Việt Nam tại Hoàng Cầu,Place,,Cơ sở Hoàng Cầu - Ô Chợ Dừa,co_so_2_bao_tang_my_thuat_viet_nam_tai_hoang_cau,,,,approved
+ARCH_000312,Trung tâm Bảo quản - Tu sửa tác phẩm mỹ thuật,Architecture,,Trung tâm Bảo quản tu sửa tác phẩm mỹ thuật,trung_tam_bao_quan_tu_sua_tac_pham_my_thuat,,,,approved
+ARCH_000313,Hệ thống kho lưu giữ hiện vật tại cơ sở 2,Architecture,,Kho bảo quản tác phẩm mỹ thuật,he_thong_kho_luu_giu_hien_vat_tai_co_so_2,,,,approved
+ARCH_000314,Thư viện khoa học tại cơ sở 2,Architecture,,,thu_vien_khoa_hoc_tai_co_so_2,,,,approved
+HOBJ_000127,Sưu tập mỹ thuật thời Tiền sử và Sơ sử,HeritageObject,,Mỹ thuật thời Tiền sử - Sơ sử,suu_tap_my_thuat_thoi_tien_su_va_so_su,,,,approved
+HOBJ_000128,Sưu tập mỹ thuật từ thế kỷ XI đến thế kỷ XIX,HeritageObject,,Mỹ thuật thời phong kiến,suu_tap_my_thuat_tu_the_ky_xi_den_the_ky_xix,,,,approved
+HOBJ_000129,Sưu tập mỹ thuật hiện đại Việt Nam,HeritageObject,,Mỹ thuật hiện đại,suu_tap_my_thuat_hien_dai_viet_nam,,,,approved
+HOBJ_000130,Sưu tập mỹ thuật dân gian Việt Nam,HeritageObject,,Mỹ thuật dân gian,suu_tap_my_thuat_dan_gian_viet_nam,,,,approved
+HOBJ_000131,Sưu tập tranh sơn mài,HeritageObject,,,suu_tap_tranh_son_mai,,,,approved
+HOBJ_000132,Sưu tập tranh sơn dầu,HeritageObject,,,suu_tap_tranh_son_dau,,,,approved
+HOBJ_000133,Sưu tập tranh lụa,HeritageObject,,,suu_tap_tranh_lua,,,,approved
+HOBJ_000134,Sưu tập tranh dân gian,HeritageObject,,,suu_tap_tranh_dan_gian,,,,approved
+VALUE_000094,Khoảng 4.737 mét vuông diện tích khuôn viên,Value,,Diện tích toàn bộ 4.737 m²,khoang_4_737_met_vuong_dien_tich_khuon_vien,4737,m²,area,approved
+VALUE_000095,Trên 3.000 mét vuông diện tích trưng bày,Value,,Diện tích trưng bày hơn 3.000 m²,tren_3_000_met_vuong_dien_tich_trung_bay,3000,m²,minimum_area,approved
+VALUE_000096,Gần 21.000 hiện vật và tác phẩm nghệ thuật,Value,,"Khoảng hai mươi mốt nghìn hiện vật, tác phẩm",gan_21_000_hien_vat_va_tac_pham_nghe_thuat,21000,hiện vật và tác phẩm,approximate_count,approved
+VALUE_000097,Gần 2.000 hiện vật và tác phẩm trưng bày thường xuyên,Value,,Khoảng hai nghìn hiện vật trưng bày,gan_2_000_hien_vat_va_tac_pham_trung_bay_thuong_xuyen,2000,hiện vật và tác phẩm,approximate_count,approved
+VALUE_000098,9 Bảo vật quốc gia,Value,,,9_bao_vat_quoc_gia,9,bảo vật quốc gia,count,approved
+ACTIVITY_000052,"Học tập, tương tác và sáng tạo mỹ thuật",Activity,,Trải nghiệm sáng tạo trong không gian nghệ thuật,hoc_tap_tuong_tac_va_sang_tao_my_thuat,,,,approved
+ACTIVITY_000053,Bảo quản và tu sửa tác phẩm mỹ thuật,Activity,,"Bảo quản, phục chế tác phẩm mỹ thuật",bao_quan_va_tu_sua_tac_pham_my_thuat,,,,approved
+PLACE_000049,Bảo tàng Phụ nữ Việt Nam,Place,,Vietnamese Women's Museum|Bảo tàng Phụ nữ,bao_tang_phu_nu_viet_nam,,,,approved
+ADDRESS_000038,"Số 36 phố Lý Thường Kiệt, phường Cửa Nam, thành phố Hà Nội",Address,,"36 Lý Thường Kiệt, phường Cửa Nam, Hà Nội",so_36_pho_ly_thuong_kiet_phuong_cua_nam_thanh_pho_ha_noi,,,,approved
+CATEGORY_000015,Bảo tàng chuyên đề về phụ nữ,TourismCategory,,Bảo tàng phụ nữ|Bảo tàng lịch sử và văn hóa phụ nữ,bao_tang_chuyen_de_ve_phu_nu,,,,approved
+ORG_000023,Hội Liên hiệp Phụ nữ Việt Nam,Organization,,Trung ương Hội Liên hiệp Phụ nữ Việt Nam|Hội LHPN Việt Nam,hoi_lien_hiep_phu_nu_viet_nam,,,,approved
+PERSON_000073,Nguyễn Thị Định,Person,,Bà Nguyễn Thị Định|Nữ tướng Nguyễn Thị Định,nguyen_thi_dinh,,,,approved
+TIME_000159,Ngày 1 tháng 10 năm 1987,Time,,Năm 1987|1/10/1987,ngay_1_thang_10_nam_1987,,,,approved
+TIME_000160,Năm 1991,Time,,,nam_1991,,,,approved
+TIME_000161,Cuối năm 2010,Time,,,cuoi_nam_2010,,,,approved
+TIME_000162,Tháng 11 năm 2017,Time,,,thang_11_nam_2017,,,,approved
+EVENT_000090,Thành lập Bảo tàng Phụ nữ Việt Nam,Event,,,thanh_lap_bao_tang_phu_nu_viet_nam,,,,approved
+EVENT_000091,Khởi công xây dựng Bảo tàng Phụ nữ Việt Nam,Event,,,khoi_cong_xay_dung_bao_tang_phu_nu_viet_nam,,,,approved
+EVENT_000092,Bảo tàng Phụ nữ Việt Nam chính thức mở cửa đón khách,Event,,,bao_tang_phu_nu_viet_nam_chinh_thuc_mo_cua_don_khach,,,,approved
+EVENT_000093,Mở cửa trở lại hệ thống trưng bày thường xuyên,Event,,,mo_cua_tro_lai_he_thong_trung_bay_thuong_xuyen,,,,approved
+EVENT_000094,Mở cửa trở lại Phòng Khám phá sau đổi mới,Event,,,mo_cua_tro_lai_phong_kham_pha_sau_doi_moi,,,,approved
+ARCH_000315,Tòa nhà Bảo tàng Phụ nữ Việt Nam,Architecture,,Công trình Bảo tàng Phụ nữ Việt Nam,toa_nha_bao_tang_phu_nu_viet_nam,,,,approved
+ARCH_000316,Trưng bày Phụ nữ trong Gia đình,Architecture,,Chủ đề Phụ nữ trong gia đình,trung_bay_phu_nu_trong_gia_dinh,,,,approved
+ARCH_000317,Trưng bày Phụ nữ trong Lịch sử,Architecture,,Chủ đề Phụ nữ trong lịch sử,trung_bay_phu_nu_trong_lich_su,,,,approved
+ARCH_000318,Trưng bày Thời trang nữ,Architecture,,Chủ đề Thời trang nữ,trung_bay_thoi_trang_nu,,,,approved
+ARCH_000319,Trưng bày Tín ngưỡng thờ Mẫu: Tâm - Đẹp - Vui,Architecture,,Trưng bày Tín ngưỡng thờ Mẫu,trung_bay_tin_nguong_tho_mau_tam_dep_vui,,,,approved
+ARCH_000320,Phòng Khám phá,Architecture,,Không gian khám phá dành cho trẻ em,phong_kham_pha,,,,approved
+ARCH_000321,Góc Giới và giới tính,Architecture,,,goc_gioi_va_gioi_tinh,,,,approved
+ARCH_000322,Góc Hoạt động sáng tạo và tư duy,Architecture,,Góc Hoạt động,goc_hoat_dong_sang_tao_va_tu_duy,,,,approved
+ARCH_000323,Góc Đọc sách,Architecture,,,goc_doc_sach,,,,approved
+HOBJ_000135,Sưu tập tài liệu và hiện vật về phụ nữ Việt Nam,HeritageObject,,"Kho tài liệu, hiện vật về phụ nữ Việt Nam",suu_tap_tai_lieu_va_hien_vat_ve_phu_nu_viet_nam,,,,approved
+HOBJ_000136,Sưu tập trang phục phụ nữ Việt Nam,HeritageObject,,Bộ sưu tập trang phục,suu_tap_trang_phuc_phu_nu_viet_nam,,,,approved
+HOBJ_000137,Sưu tập trang sức phụ nữ Việt Nam,HeritageObject,,Bộ sưu tập trang sức,suu_tap_trang_suc_phu_nu_viet_nam,,,,approved
+VALUE_000099,Hơn 28.000 hiện vật và tài liệu,Value,,"Trên hai mươi tám nghìn hiện vật, tài liệu",hon_28_000_hien_vat_va_tai_lieu,28000,hiện vật và tài liệu,minimum_count,approved
+VALUE_000100,3 chủ đề trưng bày thường xuyên,Value,,,3_chu_de_trung_bay_thuong_xuyen,3,chủ đề,count,approved
+VALUE_000101,Gần 60 câu chuyện thuyết minh tự động,Value,,Khoảng sáu mươi câu chuyện audio guide,gan_60_cau_chuyen_thuyet_minh_tu_dong,60,câu chuyện,approximate_count,approved
+VALUE_000102,3 mô hình khoa học tại Phòng Khám phá,Value,,,3_mo_hinh_khoa_hoc_tai_phong_kham_pha,3,mô hình khoa học,count,approved
+ACTIVITY_000054,"Tương tác, trải nghiệm và giáo dục về giới",Activity,,Hoạt động giáo dục tương tác cho trẻ em,tuong_tac_trai_nghiem_va_giao_duc_ve_gioi,,,,approved
+ACTIVITY_000055,Nghe thuyết minh tự động,Activity,,Sử dụng Audio Guide,nghe_thuyet_minh_tu_dong,,,,approved
+ACTIVITY_000056,Bảo tồn và phát huy di sản văn hóa phụ nữ Việt Nam,Activity,,Bảo tồn di sản phụ nữ Việt Nam,bao_ton_va_phat_huy_di_san_van_hoa_phu_nu_viet_nam,,,,approved
+PLACE_000050,Bảo tàng Phòng không - Không quân,Place,,Bảo tàng PK-KQ|Bảo tàng Quân chủng Phòng không - Không quân|Vietnam People's Air Force Museum,bao_tang_phong_khong_khong_quan,,,,approved
+ADDRESS_000039,"Số 173C đường Trường Chinh, phường Phương Liệt, thành phố Hà Nội",Address,,"173C Trường Chinh, Phương Liệt, Hà Nội",so_173c_duong_truong_chinh_phuong_phuong_liet_thanh_pho_ha_noi,,,,approved
+ADMIN_000020,Phường Phương Liệt,AdministrativeArea,ward,,phuong_phuong_liet,,,,approved
+CATEGORY_000016,Bảo tàng chuyên ngành quân sự,TourismCategory,,Bảo tàng chuyên ngành Phòng không - Không quân,bao_tang_chuyen_nganh_quan_su,,,,approved
+ORG_000024,Cục Chính trị Quân chủng Phòng không - Không quân,Organization,,Cục Chính trị Quân chủng PK-KQ,cuc_chinh_tri_quan_chung_phong_khong_khong_quan,,,,approved
+TIME_000163,Ngày 22 tháng 10 năm 1963,Time,,22/10/1963,ngay_22_thang_10_nam_1963,,,,approved
+TIME_000164,Ngày 28 tháng 8 năm 2007,Time,,28/08/2007,ngay_28_thang_8_nam_2007,,,,approved
+EVENT_000095,Thành lập Bảo tàng Phòng không - Không quân,Event,,,thanh_lap_bao_tang_phong_khong_khong_quan,,,,approved
+EVENT_000096,Khánh thành công trình Bảo tàng Phòng không - Không quân,Event,,,khanh_thanh_cong_trinh_bao_tang_phong_khong_khong_quan,,,,approved
+ARCH_000324,Tòa nhà Bảo tàng Phòng không - Không quân,Architecture,,,toa_nha_bao_tang_phong_khong_khong_quan,,,,approved
+ARCH_000325,Khu trưng bày trong nhà,Architecture,,Không gian trưng bày nội thất,khu_trung_bay_trong_nha,,,,approved
+ARCH_000326,Khu trưng bày ngoài trời,Architecture,,Không gian trưng bày hiện vật khối lớn,khu_trung_bay_ngoai_troi,,,,approved
+ARCH_000327,Phần khánh tiết,Architecture,,Không gian khánh tiết mái vòm,phan_khanh_tiet,,,,approved
+ARCH_000328,Sa bàn điện tử Chiến dịch Phòng không bảo vệ Hà Nội tháng 12 năm 1972,Architecture,,Sa bàn điện tử Hà Nội - Điện Biên Phủ trên không,sa_ban_dien_tu_chien_dich_phong_khong_bao_ve_ha_noi_thang_12_nam_1972,,,,approved
+HOBJ_000138,Bộ sưu tập hiện vật về Ban Nghiên cứu Không quân,HeritageObject,,Hiện vật Ban Nghiên cứu KQ,bo_suu_tap_hien_vat_ve_ban_nghien_cuu_khong_quan,,,,approved
+HOBJ_000139,Bộ sưu tập hiện vật Trung đoàn Pháo cao xạ 367 tại Điện Biên Phủ,HeritageObject,,Hiện vật Trung đoàn 367,bo_suu_tap_hien_vat_trung_doan_phao_cao_xa_367_tai_dien_bien_phu,,,,approved
+HOBJ_000140,Khẩu pháo cao xạ 37 mm,HeritageObject,,Pháo cao xạ 37mm ,khau_phao_cao_xa_37_mm,,,,approved
+HOBJ_000141,Khẩu pháo phòng không 90 mm ,HeritageObject,,Pháo 90mm,khau_phao_phong_khong_90_mm,,,,approved
+HOBJ_000142,Ra-đa phát hiện máy bay B-52,HeritageObject,,Ra-đa bắt tín hiệu B-52,ra_da_phat_hien_may_bay_b_52,,,,approved
+HOBJ_000143,Bệ phóng tên lửa,HeritageObject,,Bệ phóng tên lửa hạ B-52 ,be_phong_ten_lua,,,,approved
+HOBJ_000144,Máy bay MiG-17,HeritageObject,,,may_bay_mig_17,,,,approved
+HOBJ_000145,Máy bay MiG-19,HeritageObject,,,may_bay_mig_19,,,,approved
+HOBJ_000146,Máy bay MiG-21,HeritageObject,,,may_bay_mig_21,,,,approved
+HOBJ_000147,Máy bay A-37,HeritageObject,,Máy bay A.37,may_bay_a_37,,,,approved
+HOBJ_000148,Trực thăng vận tải,HeritageObject,,,truc_thang_van_tai,,,,approved
+VALUE_000103,"Hơn 56.000 hiện vật, hình ảnh và tư liệu",Value,,Trên năm mươi sáu nghìn hiện vật,hon_56_000_hien_vat_hinh_anh_va_tu_lieu,56000,"hiện vật, hình ảnh và tư liệu",minimum_count,approved
+VALUE_000104,16.000 mét vuông diện tích trưng bày,Value,,Tổng diện tích trưng bày 16.000 m²,16_000_met_vuong_dien_tich_trung_bay,16000,m²,area,approved
+VALUE_000105,12.800 mét vuông diện tích trưng bày ngoài trời,Value,,Diện tích ngoài trời 12.800 m²,12_800_met_vuong_dien_tich_trung_bay_ngoai_troi,12800,m²,area,approved
+VALUE_000106,3.200 mét vuông diện tích trưng bày trong nhà,Value,,Diện tích trong nhà 3.200 m²,3_200_met_vuong_dien_tich_trung_bay_trong_nha,3200,m²,area,approved
+VALUE_000107,73 hiện vật khối lớn ngoài trời,Value,,,73_hien_vat_khoi_lon_ngoai_troi,73,hiện vật khối lớn,count,approved
+VALUE_000108,Hơn 3.000 hiện vật và hình ảnh trưng bày,Value,,"Trên ba nghìn hiện vật, hình ảnh",hon_3_000_hien_vat_va_hinh_anh_trung_bay,3000,hiện vật và hình ảnh,minimum_count,approved
+VALUE_000109,6 chủ đề trưng bày trong nhà,Value,,,6_chu_de_trung_bay_trong_nha,6,chủ đề,count,approved
+VALUE_000110,2 tầng trưng bày,Value,,,2_tang_trung_bay,2,tầng,count,approved
+ACTIVITY_000057,"Sưu tầm, kiểm kê và bảo quản hiện vật quân sự",Activity,,"Bảo quản tư liệu, hiện vật Phòng không - Không quân",suu_tam_kiem_ke_va_bao_quan_hien_vat_quan_su,,,,approved
+PLACE_000051,Bảo tàng Gốm Bát Tràng,Place,,Trung tâm Tinh hoa Làng nghề Việt|Bảo tàng làng gốm Bát Tràng|Bảo tàng Gốm sứ Bát Tràng,bao_tang_gom_bat_trang,,,,approved
+ADDRESS_000040,"Số 28 đường Làng cổ Bát Tràng, xã Bát Tràng, thành phố Hà Nội",Address,,Số 28 thôn 5 Bát Tràng|28 đường Làng cổ Bát Tràng,so_28_duong_lang_co_bat_trang_xa_bat_trang_thanh_pho_ha_noi,,,,approved
+TIME_000165,Năm 2023,Time,,2023,nam_2023,,,,approved
+ARCH_000329,Khối kiến trúc chính Bảo tàng Gốm Bát Tràng,Architecture,,Khối kiến trúc bảo tàng chính|Khối bảo tàng trung tâm,khoi_kien_truc_chinh_bao_tang_gom_bat_trang,,,,approved
+ARCH_000330,Các công trình phụ trợ Bảo tàng Gốm Bát Tràng,Architecture,,Các công trình phụ trợ|Khối công trình phụ trợ,cac_cong_trinh_phu_tro_bao_tang_gom_bat_trang,,,,approved
+ARCH_000331,Bảy khối xoáy ốc Bảo tàng Gốm Bát Tràng,Architecture,,Bảy khối xoáy ốc|Bảy hình xoáy ốc|Bảy khối bàn xoay,bay_khoi_xoay_oc_bao_tang_gom_bat_trang,,,,approved
+ARCH_000332,Tầng G Bảo tàng Gốm Bát Tràng,Architecture,,Tầng G|Khu trải nghiệm tầng G,tang_g_bao_tang_gom_bat_trang,,,,approved
+ARCH_000333,Tầng 1 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 1|Không gian đón tiếp tầng 1,tang_1_bao_tang_gom_bat_trang,,,,approved
+ARCH_000334,Tầng 2 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 2|Không gian gốm truyền thống tầng 2,tang_2_bao_tang_gom_bat_trang,,,,approved
+ARCH_000335,Tầng 3 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 3|Không gian nghệ thuật đương đại tầng 3,tang_3_bao_tang_gom_bat_trang,,,,approved
+ARCH_000336,Tầng 4 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 4|Hội trường Cung đình tầng 4,tang_4_bao_tang_gom_bat_trang,,,,approved
+ARCH_000337,Tầng 5 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 5|Không gian trà đạo tầng 5,tang_5_bao_tang_gom_bat_trang,,,,approved
+ARCH_000338,Không gian trưng bày thường xuyên của Bảo tàng Gốm Bát Tràng,Architecture,,,khong_gian_trung_bay_thuong_xuyen_cua_bao_tang_gom_bat_trang,,,,approved
+ARCH_000339,Không gian trưng bày chuyên đề của Bảo tàng Gốm Bát Tràng,Architecture,,,khong_gian_trung_bay_chuyen_de_cua_bao_tang_gom_bat_trang,,,,approved
+ARCH_000340,Không gian trưng bày thực tế ảo và mô phỏng 3D Bảo tàng Gốm Bát Tràng,Architecture,,Không gian trưng bày thực tế ảo và mô phỏng 3D|Trưng bày 3D|Không gian thực tế ảo,khong_gian_trung_bay_thuc_te_ao_va_mo_phong_3d_bao_tang_gom_bat_trang,,,,approved
+MATERIAL_000015,Gạch nung,Material,,Gạch đất nung,gach_nung,,,,approved
+MATERIAL_000016,Gạch men,Material,,Gạch tráng men,gach_men,,,,approved
+MATERIAL_000017,Gạch gốm cổ,Material,,Gạch gốm truyền thống,gach_gom_co,,,,approved
+HSTATUS_000010,Giải Vàng Giải thưởng Kiến trúc Quốc gia 2022-2023,HeritageStatus,,Giải Vàng Kiến trúc Quốc gia,giai_vang_giai_thuong_kien_truc_quoc_gia_2022_2023,,,,approved
+ORG_000025,Hội Kiến trúc sư Việt Nam,Organization,,,hoi_kien_truc_su_viet_nam,,,,approved
+ORG_000026,Bộ Xây dựng,Organization,,,bo_xay_dung,,,,approved
+ORG_000027,Công ty trách nhiệm hữu hạn Gốm sứ Quang Vinh,Organization,,Công ty Gốm sứ Quang Vinh,cong_ty_trach_nhiem_huu_han_gom_su_quang_vinh,,,,approved
+ORG_000028,Hiệp hội Làng nghề Hà Nội,Organization,,Hiệp hội thủ công mỹ nghệ và Làng nghề Hà Nội,hiep_hoi_lang_nghe_ha_noi,,,,approved
+EVENT_000097,Khởi công xây dựng Trung tâm Tinh hoa Làng nghề Việt,Event,,Khởi công Bảo tàng Gốm Bát Tràng,khoi_cong_xay_dung_trung_tam_tinh_hoa_lang_nghe_viet,,,,approved
+EVENT_000098,Công bố Giải Vàng Kiến trúc Quốc gia cho Trung tâm Gốm Bát Tràng,Event,,Sự kiện nhận Giải Vàng Kiến trúc Quốc gia,cong_bo_giai_vang_kien_truc_quoc_gia_cho_trung_tam_gom_bat_trang,,,,approved
+ACTIVITY_000058,Tham quan trưng bày gốm sứ,Activity,,Xem trưng bày gốm,tham_quan_trung_bay_gom_su,,,,approved
+ACTIVITY_000059,Tìm hiểu văn hóa làng nghề Bát Tràng,Activity,,Tìm hiểu lịch sử nghề gốm,tim_hieu_van_hoa_lang_nghe_bat_trang,,,,approved
+ACTIVITY_000060,Trải nghiệm nặn gốm,Activity,,Làm gốm trên bàn xoay,trai_nghiem_nan_gom,,,,approved
+ACTIVITY_000061,Tô tượng gốm,Activity,,Vẽ tượng gốm,to_tuong_gom,,,,approved
+ACTIVITY_000062,Trải nghiệm trà đạo,Activity,,Thưởng trà,trai_nghiem_tra_dao,,,,approved
+ACTIVITY_000063,Khám phá trưng bày thực tế ảo và mô phỏng 3D,Activity,,Xem trưng bày 3D,kham_pha_trung_bay_thuc_te_ao_va_mo_phong_3d,,,,approved
+ACTIVITY_000064,Mua đồ gốm làm quà lưu niệm,Activity,,Mua sản phẩm gốm,mua_do_gom_lam_qua_luu_niem,,,,approved
+PERSON_000074,Hà Thị Vinh,Person,,Nghệ nhân Hà Thị Vinh,ha_thi_vinh,,,,approved
+PERSON_000075,Hoàng Thúc Hào,Person,,Kiến trúc sư Hoàng Thúc Hào,hoang_thuc_hao,,,,approved
+ROLE_000005,Chủ tịch Trung tâm Tinh hoa Làng nghề Việt,Role,,Chủ tịch Trung tâm,chu_tich_trung_tam_tinh_hoa_lang_nghe_viet,,,,approved
+ROLE_000006,Đại diện chủ đầu tư Bảo tàng Gốm Bát Tràng,Role,,Đại diện chủ đầu tư,dai_dien_chu_dau_tu_bao_tang_gom_bat_trang,,,,approved
+ROLE_000007,Kiến trúc sư thiết kế Bảo tàng Gốm Bát Tràng,Role,,Kiến trúc sư thiết kế,kien_truc_su_thiet_ke_bao_tang_gom_bat_trang,,,,approved
+CATEGORY_000017,Bảo tàng chuyên đề về gốm sứ,TourismCategory,,Bảo tàng gốm,bao_tang_chuyen_de_ve_gom_su,,,,approved
+CATEGORY_000018,Điểm đến du lịch văn hóa làng nghề,TourismCategory,,Du lịch văn hóa làng nghề,diem_den_du_lich_van_hoa_lang_nghe,,,,approved
+CATEGORY_000019,Bảo tàng mở và bảo tàng sống,TourismCategory,,Bảo tàng mở|Bảo tàng sống,bao_tang_mo_va_bao_tang_song,,,,approved
+PLACE_000052,Bảo tàng Chiến thắng B-52,Place,,Bảo tàng Chiến thắng B.52|Bảo tàng B-52,bao_tang_chien_thang_b_52,,,,approved
+ADDRESS_000041,"Số 157 phố Đội Cấn, phường Ngọc Hà, thành phố Hà Nội",Address,,"157 Đội Cấn, Ngọc Hà, Hà Nội|Số 157 Đội Cấn, Ba Đình, Hà Nội",so_157_pho_doi_can_phuong_ngoc_ha_thanh_pho_ha_noi,,,,approved
+TIME_000166,Ngày 10 tháng 1 năm 1986,Time,,10/01/1986|10-1-1986,ngay_10_thang_1_nam_1986,,,,approved
+TIME_000167,Ngày 22 tháng 12 năm 1997,Time,,22/12/1997,ngay_22_thang_12_nam_1997,,,,approved
+TIME_000168,Năm 2012,Time,,2012,nam_2012,,,,approved
+TIME_000169,Năm 2017,Time,,2017,nam_2017,,,,approved
+TIME_000170,Từ tháng 8 đến tháng 12 năm 2022,Time,,Tháng 8-12/2022|Giai đoạn tháng 8 đến tháng 12 năm 2022,tu_thang_8_den_thang_12_nam_2022,,,,approved
+TIME_000171,Ngày 11 tháng 12 năm 2022,Time,,11/12/2022,ngay_11_thang_12_nam_2022,,,,approved
+TIME_000172,Từ ngày 18 đến ngày 29 tháng 12 năm 1972,Time,,12 ngày đêm cuối tháng 12 năm 1972|18-29/12/1972,tu_ngay_18_den_ngay_29_thang_12_nam_1972,,,,approved
+ORG_000029,Quân khu Thủ đô,Organization,,"Quân khu Thủ đô, nay là Bộ Tư lệnh Thủ đô Hà Nội",quan_khu_thu_do,,,,approved
+ORG_000030,Cục Chính trị Bộ Tư lệnh Thủ đô Hà Nội,Organization,,Cục Chính trị Bộ Tư lệnh Thủ đô|Cục Chính trị Quân khu Thủ đô,cuc_chinh_tri_bo_tu_lenh_thu_do_ha_noi,,,,approved
+HSTATUS_000011,Bảo tàng hạng 2,HeritageStatus,,Bảo tàng xếp hạng 2|Bảo tàng hạng Hai,bao_tang_hang_2,,,,approved
+ARCH_000341,Khu trưng bày trong nhà Bảo tàng Chiến thắng B-52,Architecture,,Phần trưng bày trong nhà,khu_trung_bay_trong_nha_bao_tang_chien_thang_b_52,,,,approved
+ARCH_000342,Khu trưng bày ngoài trời Bảo tàng Chiến thắng B-52,Architecture,,Phần trưng bày ngoài trời,khu_trung_bay_ngoai_troi_bao_tang_chien_thang_b_52,,,,approved
+HOBJ_000149,Sa bàn số hóa Chiến dịch Hà Nội - Điện Biên Phủ trên không,HeritageObject,,Sa bàn Chiến dịch Hà Nội - Điện Biên Phủ trên không|Sa bàn 3D mapping,sa_ban_so_hoa_chien_dich_ha_noi_dien_bien_phu_tren_khong,,,,approved
+HOBJ_000150,Xác máy bay B-52 trưng bày ngoài trời,HeritageObject,,Xác Pháo đài bay B-52|Xác máy bay B-52 tỷ lệ 1:1,xac_may_bay_b_52_trung_bay_ngoai_troi,,,,approved
+HOBJ_000151,Ra-đa dẫn đường P-35,HeritageObject,,Ra-đa P-35|Radar P35 của Đại đội 45,ra_da_dan_duong_p_35,,,,approved
+HOBJ_000152,Bệ phóng tên lửa SAM-2,HeritageObject,,Bệ phóng SAM-2|Bệ phóng tên lửa của Tiểu đoàn 72,be_phong_ten_lua_sam_2,,,,approved
+EVENT_000099,Thành lập Bảo tàng Chiến thắng B-52,Event,,Sự kiện thành lập Bảo tàng Chiến thắng B-52,thanh_lap_bao_tang_chien_thang_b_52,,,,approved
+EVENT_000100,Khánh thành Bảo tàng Chiến thắng B-52,Event,,Lễ khánh thành Bảo tàng Chiến thắng B-52,khanh_thanh_bao_tang_chien_thang_b_52,,,,approved
+EVENT_000101,Nâng cấp Bảo tàng Chiến thắng B-52 năm 2012,Event,,Tu sửa bảo tàng năm 2012,nang_cap_bao_tang_chien_thang_b_52_nam_2012,,,,approved
+EVENT_000102,Nâng cấp Bảo tàng Chiến thắng B-52 năm 2017,Event,,Tu sửa bảo tàng năm 2017,nang_cap_bao_tang_chien_thang_b_52_nam_2017,,,,approved
+EVENT_000103,Nâng cấp Bảo tàng Chiến thắng B-52 năm 2019,Event,,Tu sửa bảo tàng năm 2019,nang_cap_bao_tang_chien_thang_b_52_nam_2019,,,,approved
+EVENT_000104,"Cải tạo, nâng cấp Bảo tàng Chiến thắng B-52 năm 2022",Event,,Đợt cải tạo bảo tàng năm 2022,cai_tao_nang_cap_bao_tang_chien_thang_b_52_nam_2022,,,,approved
+EVENT_000105,Khánh thành công trình cải tạo Bảo tàng Chiến thắng B-52,Event,,Lễ khánh thành công trình nâng cấp năm 2022,khanh_thanh_cong_trinh_cai_tao_bao_tang_chien_thang_b_52,,,,approved
+EVENT_000106,Chiến thắng Hà Nội - Điện Biên Phủ trên không,Event,,Chiến dịch Hà Nội - Điện Biên Phủ trên không|Chiến thắng 12 ngày đêm năm 1972,chien_thang_ha_noi_dien_bien_phu_tren_khong,,,,approved
+PERSON_000076,Trịnh Thị Khuyến Lương,Person,,Thượng tá QNCN Trịnh Thị Khuyến Lương,trinh_thi_khuyen_luong,,,,approved
+PERSON_000077,Phạm Tuân,Person,,Phi công Phạm Tuân|Anh hùng Phạm Tuân,pham_tuan,,,,approved
+PERSON_000078,Vũ Xuân Thiều,Person,,Phi công Vũ Xuân Thiều|Anh hùng liệt sĩ Vũ Xuân Thiều,vu_xuan_thieu,,,,approved
+ROLE_000008,Phó Giám đốc Bảo tàng Chiến thắng B-52,Role,,Phó giám đốc bảo tàng,pho_giam_doc_bao_tang_chien_thang_b_52,,,,approved
+ROLE_000009,Phi công chiến đấu,Role,,Phi công quân sự|Phi công tiêm kích,phi_cong_chien_dau,,,,approved
+ACTIVITY_000065,Tìm hiểu lịch sử Chiến thắng Hà Nội - Điện Biên Phủ trên không,Activity,,Học tập lịch sử chiến thắng B-52,tim_hieu_lich_su_chien_thang_ha_noi_dien_bien_phu_tren_khong,,,,approved
+ACTIVITY_000066,"Tìm hiểu vũ khí, khí tài và xác máy bay",Activity,,Tìm hiểu hiện vật quân sự ngoài trời,tim_hieu_vu_khi_khi_tai_va_xac_may_bay,,,,approved
+ACTIVITY_000067,Tương tác và tìm hiểu chiến dịch qua sa bàn số hóa,Activity,,Trải nghiệm sa bàn 3D mapping,tuong_tac_va_tim_hieu_chien_dich_qua_sa_ban_so_hoa,,,,approved

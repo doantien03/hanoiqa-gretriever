@@ -1,0 +1,40 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000005,Xem trưng bày hiện vật,Activity,,Tham quan nhà trưng bày,xem_trung_bay_hien_vat,,,,approved
+ACTIVITY_000010,"Tham quan, nghiên cứu và học tập",Activity,,Tham quan và nghiên cứu di tích,tham_quan_nghien_cuu_va_hoc_tap,,,,approved
+ACTIVITY_000054,"Tương tác, trải nghiệm và giáo dục về giới",Activity,,Hoạt động giáo dục tương tác cho trẻ em,tuong_tac_trai_nghiem_va_giao_duc_ve_gioi,,,,approved
+ACTIVITY_000055,Nghe thuyết minh tự động,Activity,,Sử dụng Audio Guide,nghe_thuyet_minh_tu_dong,,,,approved
+ACTIVITY_000056,Bảo tồn và phát huy di sản văn hóa phụ nữ Việt Nam,Activity,,Bảo tồn di sản phụ nữ Việt Nam,bao_ton_va_phat_huy_di_san_van_hoa_phu_nu_viet_nam,,,,approved
+ADDRESS_000038,"Số 36 phố Lý Thường Kiệt, phường Cửa Nam, thành phố Hà Nội",Address,,"36 Lý Thường Kiệt, phường Cửa Nam, Hà Nội",so_36_pho_ly_thuong_kiet_phuong_cua_nam_thanh_pho_ha_noi,,,,approved
+ADMIN_000002,Thành phố Hà Nội,AdministrativeArea,city,Hà Nội,thanh_pho_ha_noi,,,,approved
+ADMIN_000004,Phường Cửa Nam,AdministrativeArea,ward,,phuong_cua_nam,,,,approved
+ARCH_000283,Hệ thống trưng bày thường xuyên,Architecture,,Trưng bày thường xuyên Bảo tàng Hà Nội,he_thong_trung_bay_thuong_xuyen,,,,approved
+ARCH_000315,Tòa nhà Bảo tàng Phụ nữ Việt Nam,Architecture,,Công trình Bảo tàng Phụ nữ Việt Nam,toa_nha_bao_tang_phu_nu_viet_nam,,,,approved
+ARCH_000316,Trưng bày Phụ nữ trong Gia đình,Architecture,,Chủ đề Phụ nữ trong gia đình,trung_bay_phu_nu_trong_gia_dinh,,,,approved
+ARCH_000317,Trưng bày Phụ nữ trong Lịch sử,Architecture,,Chủ đề Phụ nữ trong lịch sử,trung_bay_phu_nu_trong_lich_su,,,,approved
+ARCH_000318,Trưng bày Thời trang nữ,Architecture,,Chủ đề Thời trang nữ,trung_bay_thoi_trang_nu,,,,approved
+ARCH_000319,Trưng bày Tín ngưỡng thờ Mẫu: Tâm - Đẹp - Vui,Architecture,,Trưng bày Tín ngưỡng thờ Mẫu,trung_bay_tin_nguong_tho_mau_tam_dep_vui,,,,approved
+ARCH_000320,Phòng Khám phá,Architecture,,Không gian khám phá dành cho trẻ em,phong_kham_pha,,,,approved
+ARCH_000321,Góc Giới và giới tính,Architecture,,,goc_gioi_va_gioi_tinh,,,,approved
+ARCH_000322,Góc Hoạt động sáng tạo và tư duy,Architecture,,Góc Hoạt động,goc_hoat_dong_sang_tao_va_tu_duy,,,,approved
+ARCH_000323,Góc Đọc sách,Architecture,,,goc_doc_sach,,,,approved
+CATEGORY_000015,Bảo tàng chuyên đề về phụ nữ,TourismCategory,,Bảo tàng phụ nữ|Bảo tàng lịch sử và văn hóa phụ nữ,bao_tang_chuyen_de_ve_phu_nu,,,,approved
+EVENT_000090,Thành lập Bảo tàng Phụ nữ Việt Nam,Event,,,thanh_lap_bao_tang_phu_nu_viet_nam,,,,approved
+EVENT_000091,Khởi công xây dựng Bảo tàng Phụ nữ Việt Nam,Event,,,khoi_cong_xay_dung_bao_tang_phu_nu_viet_nam,,,,approved
+EVENT_000092,Bảo tàng Phụ nữ Việt Nam chính thức mở cửa đón khách,Event,,,bao_tang_phu_nu_viet_nam_chinh_thuc_mo_cua_don_khach,,,,approved
+EVENT_000093,Mở cửa trở lại hệ thống trưng bày thường xuyên,Event,,,mo_cua_tro_lai_he_thong_trung_bay_thuong_xuyen,,,,approved
+EVENT_000094,Mở cửa trở lại Phòng Khám phá sau đổi mới,Event,,,mo_cua_tro_lai_phong_kham_pha_sau_doi_moi,,,,approved
+HOBJ_000135,Sưu tập tài liệu và hiện vật về phụ nữ Việt Nam,HeritageObject,,"Kho tài liệu, hiện vật về phụ nữ Việt Nam",suu_tap_tai_lieu_va_hien_vat_ve_phu_nu_viet_nam,,,,approved
+HOBJ_000136,Sưu tập trang phục phụ nữ Việt Nam,HeritageObject,,Bộ sưu tập trang phục,suu_tap_trang_phuc_phu_nu_viet_nam,,,,approved
+HOBJ_000137,Sưu tập trang sức phụ nữ Việt Nam,HeritageObject,,Bộ sưu tập trang sức,suu_tap_trang_suc_phu_nu_viet_nam,,,,approved
+ORG_000023,Hội Liên hiệp Phụ nữ Việt Nam,Organization,,Trung ương Hội Liên hiệp Phụ nữ Việt Nam|Hội LHPN Việt Nam,hoi_lien_hiep_phu_nu_viet_nam,,,,approved
+PERSON_000073,Nguyễn Thị Định,Person,,Bà Nguyễn Thị Định|Nữ tướng Nguyễn Thị Định,nguyen_thi_dinh,,,,approved
+PLACE_000049,Bảo tàng Phụ nữ Việt Nam,Place,,Vietnamese Women's Museum|Bảo tàng Phụ nữ,bao_tang_phu_nu_viet_nam,,,,approved
+TIME_000133,Năm 1995,Time,,1995,nam_1995,,,,approved
+TIME_000159,Ngày 1 tháng 10 năm 1987,Time,,Năm 1987|1/10/1987,ngay_1_thang_10_nam_1987,,,,approved
+TIME_000160,Năm 1991,Time,,,nam_1991,,,,approved
+TIME_000161,Cuối năm 2010,Time,,,cuoi_nam_2010,,,,approved
+TIME_000162,Tháng 11 năm 2017,Time,,,thang_11_nam_2017,,,,approved
+VALUE_000099,Hơn 28.000 hiện vật và tài liệu,Value,,"Trên hai mươi tám nghìn hiện vật, tài liệu",hon_28_000_hien_vat_va_tai_lieu,28000,hiện vật và tài liệu,minimum_count,approved
+VALUE_000100,3 chủ đề trưng bày thường xuyên,Value,,,3_chu_de_trung_bay_thuong_xuyen,3,chủ đề,count,approved
+VALUE_000101,Gần 60 câu chuyện thuyết minh tự động,Value,,Khoảng sáu mươi câu chuyện audio guide,gan_60_cau_chuyen_thuyet_minh_tu_dong,60,câu chuyện,approximate_count,approved
+VALUE_000102,3 mô hình khoa học tại Phòng Khám phá,Value,,,3_mo_hinh_khoa_hoc_tai_phong_kham_pha,3,mô hình khoa học,count,approved

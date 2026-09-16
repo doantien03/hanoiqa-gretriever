@@ -31,7 +31,7 @@ ORG_000020,"Bộ Văn hóa, Thể thao và Du lịch",Organization,,Bộ Văn h�
 PLACE_000047,Bảo tàng Mỹ thuật Việt Nam,Place,,Vietnam National Fine Arts Museum|Vietnam Fine Arts Museum|VNFAM|BTMTVN,bao_tang_my_thuat_viet_nam,,,,approved
 PLACE_000048,Cơ sở 2 Bảo tàng Mỹ thuật Việt Nam tại Hoàng Cầu,Place,,Cơ sở Hoàng Cầu - Ô Chợ Dừa,co_so_2_bao_tang_my_thuat_viet_nam_tai_hoang_cau,,,,approved
 TIME_000068,Năm 1962,Time,,1962,nam_1962,,,,approved
-TIME_000157,Ngày 24 tháng 6 năm 1966,Time,,24/6/1966,ngay_24_thang_6_nam_1966,,,,approved
+TIME_000157,Ngày 24 tháng 6 năm 1966,Time,,24/06/1966,ngay_24_thang_6_nam_1966,,,,approved
 TIME_000158,Giai đoạn 1997-1999,Time,,Từ năm 1997 đến năm 1999,giai_doan_1997_1999,,,,approved
 VALUE_000094,Khoảng 4.737 mét vuông diện tích khuôn viên,Value,,Diện tích toàn bộ 4.737 m²,khoang_4_737_met_vuong_dien_tich_khuon_vien,4737,m²,area,approved
 VALUE_000095,Trên 3.000 mét vuông diện tích trưng bày,Value,,Diện tích trưng bày hơn 3.000 m²,tren_3_000_met_vuong_dien_tich_trung_bay,3000,m²,minimum_area,approved

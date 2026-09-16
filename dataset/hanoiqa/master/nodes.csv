@@ -1001,10 +1001,10 @@ ADMIN_000018,Phường Từ Liêm,AdministrativeArea,ward,,phuong_tu_liem,,,,app
 CATEGORY_000010,Bảo tàng lịch sử và văn hóa Hà Nội,TourismCategory,,Bảo tàng lịch sử - văn hóa|Bảo tàng về Thăng Long - Hà Nội,bao_tang_lich_su_va_van_hoa_ha_noi,,,,approved
 HSTATUS_000009,Điểm du lịch cấp thành phố,HeritageStatus,,Điểm du lịch Bảo tàng Hà Nội,diem_du_lich_cap_thanh_pho,,,,approved
 ORG_000019,Sở Văn hóa và Thể thao Hà Nội,Organization,,"Sở Văn hóa, Thể thao và Du lịch thành phố Hà Nội|Sở VHTT Hà Nội",so_van_hoa_va_the_thao_ha_noi,,,,approved
-TIME_000137,Ngày 19 tháng 5 năm 2008,Time,,19/5/2008,ngay_19_thang_5_nam_2008,,,,approved
+TIME_000137,Ngày 19 tháng 5 năm 2008,Time,,19/05/2008,ngay_19_thang_5_nam_2008,,,,approved
 TIME_000138,Ngày 6 tháng 10 năm 2010,Time,,06/10/2010,ngay_6_thang_10_nam_2010,,,,approved
 TIME_000139,Ngày 3 tháng 2 năm 2026,Time,,03/02/2026,ngay_3_thang_2_nam_2026,,,,approved
-TIME_000140,Ngày 30 tháng 3 năm 2026,Time,,30/3/2026,ngay_30_thang_3_nam_2026,,,,approved
+TIME_000140,Ngày 30 tháng 3 năm 2026,Time,,30/03/2026,ngay_30_thang_3_nam_2026,,,,approved
 EVENT_000066,Thành lập Bảo tàng Hà Nội,Event,,,thanh_lap_bao_tang_ha_noi,,,,approved
 EVENT_000067,Khởi công xây dựng trụ sở mới Bảo tàng Hà Nội,Event,,,khoi_cong_xay_dung_tru_so_moi_bao_tang_ha_noi,,,,approved
 EVENT_000068,Khánh thành Bảo tàng Hà Nội tại đường Phạm Hùng,Event,,,khanh_thanh_bao_tang_ha_noi_tai_duong_pham_hung,,,,approved
@@ -1049,7 +1049,7 @@ TIME_000141,Ngày 25 tháng 11 năm 1970,Time,,25/11/1970,ngay_25_thang_11_nam_1
 TIME_000142,Ngày 12 tháng 9 năm 1977,Time,,12/09/1977,ngay_12_thang_9_nam_1977,,,,approved
 TIME_000143,Ngày 15 tháng 10 năm 1979,Time,,15/10/1979,ngay_15_thang_10_nam_1979,,,,approved
 TIME_000144,Ngày 31 tháng 8 năm 1985,Time,,31/08/1985,ngay_31_thang_8_nam_1985,,,,approved
-TIME_000145,Tháng 11 năm 1987,Time,,11/1987,thang_11_nam_1987,,,,approved
+TIME_000145,Tháng 11 năm 1987,Time,,Nov-87,thang_11_nam_1987,,,,approved
 TIME_000146,Ngày 19 tháng 5 năm 1990,Time,,19/05/1990,ngay_19_thang_5_nam_1990,,,,approved
 EVENT_000071,Thành lập Ban Phụ trách xây dựng Bảo tàng Hồ Chí Minh,Event,,Bắt đầu chuẩn bị xây dựng Bảo tàng Hồ Chí Minh,thanh_lap_ban_phu_trach_xay_dung_bao_tang_ho_chi_minh,,,,approved
 EVENT_000072,Ban hành Nghị quyết 04-NQ/TW thành lập Viện Bảo tàng Hồ Chí Minh,Event,,Thành lập Viện Bảo tàng Hồ Chí Minh,ban_hanh_nghi_quyet_04_nq_tw_thanh_lap_vien_bao_tang_ho_chi_minh,,,,approved
@@ -1066,7 +1066,7 @@ ADDRESS_000035,"Km 6+500 Đại lộ Thăng Long, phường Xuân Phương, thà
 ADMIN_000019,Phường Xuân Phương,AdministrativeArea,ward,,phuong_xuan_phuong,,,,approved
 CATEGORY_000012,Bảo tàng lịch sử quân sự,TourismCategory,,Bảo tàng quân sự|Bảo tàng quốc gia về lịch sử quân sự,bao_tang_lich_su_quan_su,,,,approved
 ORG_000022,Tổng cục Chính trị Quân đội nhân dân Việt Nam,Organization,,Tổng cục Chính trị QĐND Việt Nam,tong_cuc_chinh_tri_quan_doi_nhan_dan_viet_nam,,,,approved
-TIME_000147,Ngày 17 tháng 7 năm 1956,Time,,17/7/1956,ngay_17_thang_7_nam_1956,,,,approved
+TIME_000147,Ngày 17 tháng 7 năm 1956,Time,,17/07/1956,ngay_17_thang_7_nam_1956,,,,approved
 TIME_000148,Ngày 22 tháng 12 năm 1959,Time,,22/12/1959,ngay_22_thang_12_nam_1959,,,,approved
 TIME_000149,Năm 2019,Time,,,nam_2019,,,,approved
 TIME_000150,Ngày 1 tháng 11 năm 2024,Time,,1/11/2024|Tháng 11 năm 2024,ngay_1_thang_11_nam_2024,,,,approved
@@ -1104,7 +1104,7 @@ VALUE_000089,Hơn 80.000 tài liệu và hiện vật từ giữa thế kỷ XIX
 TIME_000151,Ngày 26 tháng 9 năm 2011,Time,,26/09/2011|26-9-2011,ngay_26_thang_9_nam_2011,,,,approved
 TIME_000152,Năm 1926,Time,,,nam_1926,,,,approved
 TIME_000153,Năm 1932,Time,,,nam_1932,,,,approved
-TIME_000154,Ngày 3 tháng 9 năm 1958,Time,,3/9/1958,ngay_3_thang_9_nam_1958,,,,approved
+TIME_000154,Ngày 3 tháng 9 năm 1958,Time,,03/09/1958,ngay_3_thang_9_nam_1958,,,,approved
 TIME_000155,Năm 1917,Time,,,nam_1917,,,,approved
 TIME_000156,Ngày 6 tháng 1 năm 1959,Time,,6/1/1959|6-1-1959,ngay_6_thang_1_nam_1959,,,,approved
 EVENT_000081,Thành lập Bảo tàng Lịch sử Quốc gia,Event,,,thanh_lap_bao_tang_lich_su_quoc_gia,,,,approved
@@ -1127,7 +1127,7 @@ VALUE_000093,Gần 8.000 tài liệu và hiện vật trưng bày,Value,,"Gần 
 PLACE_000047,Bảo tàng Mỹ thuật Việt Nam,Place,,Vietnam National Fine Arts Museum|Vietnam Fine Arts Museum|VNFAM|BTMTVN,bao_tang_my_thuat_viet_nam,,,,approved
 ADDRESS_000037,"Số 66 phố Nguyễn Thái Học, phường Ba Đình, thành phố Hà Nội",Address,,"66 Nguyễn Thái Học, Ba Đình, Hà Nội",so_66_pho_nguyen_thai_hoc_phuong_ba_dinh_thanh_pho_ha_noi,,,,approved
 CATEGORY_000014,Bảo tàng mỹ thuật quốc gia,TourismCategory,,Bảo tàng mỹ thuật|Bảo tàng nghệ thuật,bao_tang_my_thuat_quoc_gia,,,,approved
-TIME_000157,Ngày 24 tháng 6 năm 1966,Time,,24/6/1966,ngay_24_thang_6_nam_1966,,,,approved
+TIME_000157,Ngày 24 tháng 6 năm 1966,Time,,24/06/1966,ngay_24_thang_6_nam_1966,,,,approved
 TIME_000158,Giai đoạn 1997-1999,Time,,Từ năm 1997 đến năm 1999,giai_doan_1997_1999,,,,approved
 EVENT_000087,Cải tạo tòa nhà thành nơi sưu tầm và trưng bày mỹ thuật,Event,,,cai_tao_toa_nha_thanh_noi_suu_tam_va_trung_bay_my_thuat,,,,approved
 EVENT_000088,Bảo tàng Mỹ thuật Việt Nam chính thức mở cửa,Event,,,bao_tang_my_thuat_viet_nam_chinh_thuc_mo_cua,,,,approved
@@ -1194,7 +1194,7 @@ ADMIN_000020,Phường Phương Liệt,AdministrativeArea,ward,,phuong_phuong_li
 CATEGORY_000016,Bảo tàng chuyên ngành quân sự,TourismCategory,,Bảo tàng chuyên ngành Phòng không - Không quân,bao_tang_chuyen_nganh_quan_su,,,,approved
 ORG_000024,Cục Chính trị Quân chủng Phòng không - Không quân,Organization,,Cục Chính trị Quân chủng PK-KQ,cuc_chinh_tri_quan_chung_phong_khong_khong_quan,,,,approved
 TIME_000163,Ngày 22 tháng 10 năm 1963,Time,,22/10/1963,ngay_22_thang_10_nam_1963,,,,approved
-TIME_000164,Ngày 28 tháng 8 năm 2007,Time,,28/8/2007,ngay_28_thang_8_nam_2007,,,,approved
+TIME_000164,Ngày 28 tháng 8 năm 2007,Time,,28/08/2007,ngay_28_thang_8_nam_2007,,,,approved
 EVENT_000095,Thành lập Bảo tàng Phòng không - Không quân,Event,,,thanh_lap_bao_tang_phong_khong_khong_quan,,,,approved
 EVENT_000096,Khánh thành công trình Bảo tàng Phòng không - Không quân,Event,,,khanh_thanh_cong_trinh_bao_tang_phong_khong_khong_quan,,,,approved
 ARCH_000324,Tòa nhà Bảo tàng Phòng không - Không quân,Architecture,,,toa_nha_bao_tang_phong_khong_khong_quan,,,,approved
@@ -1222,3 +1222,43 @@ VALUE_000108,Hơn 3.000 hiện vật và hình ảnh trưng bày,Value,,"Trên b
 VALUE_000109,6 chủ đề trưng bày trong nhà,Value,,,6_chu_de_trung_bay_trong_nha,6,chủ đề,count,approved
 VALUE_000110,2 tầng trưng bày,Value,,,2_tang_trung_bay,2,tầng,count,approved
 ACTIVITY_000057,"Sưu tầm, kiểm kê và bảo quản hiện vật quân sự",Activity,,"Bảo quản tư liệu, hiện vật Phòng không - Không quân",suu_tam_kiem_ke_va_bao_quan_hien_vat_quan_su,,,,approved
+PLACE_000051,Bảo tàng Gốm Bát Tràng,Place,,Trung tâm Tinh hoa Làng nghề Việt|Bảo tàng làng gốm Bát Tràng|Bảo tàng Gốm sứ Bát Tràng,bao_tang_gom_bat_trang,,,,approved
+ADDRESS_000040,"Số 28 đường Làng cổ Bát Tràng, xã Bát Tràng, thành phố Hà Nội",Address,,Số 28 thôn 5 Bát Tràng|28 đường Làng cổ Bát Tràng,so_28_duong_lang_co_bat_trang_xa_bat_trang_thanh_pho_ha_noi,,,,approved
+TIME_000165,Năm 2023,Time,,2023,nam_2023,,,,approved
+ARCH_000329,Khối kiến trúc chính Bảo tàng Gốm Bát Tràng,Architecture,,Khối kiến trúc bảo tàng chính|Khối bảo tàng trung tâm,khoi_kien_truc_chinh_bao_tang_gom_bat_trang,,,,approved
+ARCH_000330,Các công trình phụ trợ Bảo tàng Gốm Bát Tràng,Architecture,,Các công trình phụ trợ|Khối công trình phụ trợ,cac_cong_trinh_phu_tro_bao_tang_gom_bat_trang,,,,approved
+ARCH_000331,Bảy khối xoáy ốc Bảo tàng Gốm Bát Tràng,Architecture,,Bảy khối xoáy ốc|Bảy hình xoáy ốc|Bảy khối bàn xoay,bay_khoi_xoay_oc_bao_tang_gom_bat_trang,,,,approved
+ARCH_000332,Tầng G Bảo tàng Gốm Bát Tràng,Architecture,,Tầng G|Khu trải nghiệm tầng G,tang_g_bao_tang_gom_bat_trang,,,,approved
+ARCH_000333,Tầng 1 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 1|Không gian đón tiếp tầng 1,tang_1_bao_tang_gom_bat_trang,,,,approved
+ARCH_000334,Tầng 2 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 2|Không gian gốm truyền thống tầng 2,tang_2_bao_tang_gom_bat_trang,,,,approved
+ARCH_000335,Tầng 3 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 3|Không gian nghệ thuật đương đại tầng 3,tang_3_bao_tang_gom_bat_trang,,,,approved
+ARCH_000336,Tầng 4 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 4|Hội trường Cung đình tầng 4,tang_4_bao_tang_gom_bat_trang,,,,approved
+ARCH_000337,Tầng 5 Bảo tàng Gốm Bát Tràng,Architecture,,Tầng 5|Không gian trà đạo tầng 5,tang_5_bao_tang_gom_bat_trang,,,,approved
+ARCH_000338,Không gian trưng bày thường xuyên của Bảo tàng Gốm Bát Tràng,Architecture,,,khong_gian_trung_bay_thuong_xuyen_cua_bao_tang_gom_bat_trang,,,,approved
+ARCH_000339,Không gian trưng bày chuyên đề của Bảo tàng Gốm Bát Tràng,Architecture,,,khong_gian_trung_bay_chuyen_de_cua_bao_tang_gom_bat_trang,,,,approved
+ARCH_000340,Không gian trưng bày thực tế ảo và mô phỏng 3D Bảo tàng Gốm Bát Tràng,Architecture,,Không gian trưng bày thực tế ảo và mô phỏng 3D|Trưng bày 3D|Không gian thực tế ảo,khong_gian_trung_bay_thuc_te_ao_va_mo_phong_3d_bao_tang_gom_bat_trang,,,,approved
+MATERIAL_000015,Gạch nung,Material,,Gạch đất nung,gach_nung,,,,approved
+MATERIAL_000016,Gạch men,Material,,Gạch tráng men,gach_men,,,,approved
+MATERIAL_000017,Gạch gốm cổ,Material,,Gạch gốm truyền thống,gach_gom_co,,,,approved
+HSTATUS_000010,Giải Vàng Giải thưởng Kiến trúc Quốc gia 2022-2023,HeritageStatus,,Giải Vàng Kiến trúc Quốc gia,giai_vang_giai_thuong_kien_truc_quoc_gia_2022_2023,,,,approved
+ORG_000025,Hội Kiến trúc sư Việt Nam,Organization,,,hoi_kien_truc_su_viet_nam,,,,approved
+ORG_000026,Bộ Xây dựng,Organization,,,bo_xay_dung,,,,approved
+ORG_000027,Công ty trách nhiệm hữu hạn Gốm sứ Quang Vinh,Organization,,Công ty Gốm sứ Quang Vinh,cong_ty_trach_nhiem_huu_han_gom_su_quang_vinh,,,,approved
+ORG_000028,Hiệp hội Làng nghề Hà Nội,Organization,,Hiệp hội thủ công mỹ nghệ và Làng nghề Hà Nội,hiep_hoi_lang_nghe_ha_noi,,,,approved
+EVENT_000097,Khởi công xây dựng Trung tâm Tinh hoa Làng nghề Việt,Event,,Khởi công Bảo tàng Gốm Bát Tràng,khoi_cong_xay_dung_trung_tam_tinh_hoa_lang_nghe_viet,,,,approved
+EVENT_000098,Công bố Giải Vàng Kiến trúc Quốc gia cho Trung tâm Gốm Bát Tràng,Event,,Sự kiện nhận Giải Vàng Kiến trúc Quốc gia,cong_bo_giai_vang_kien_truc_quoc_gia_cho_trung_tam_gom_bat_trang,,,,approved
+ACTIVITY_000058,Tham quan trưng bày gốm sứ,Activity,,Xem trưng bày gốm,tham_quan_trung_bay_gom_su,,,,approved
+ACTIVITY_000059,Tìm hiểu văn hóa làng nghề Bát Tràng,Activity,,Tìm hiểu lịch sử nghề gốm,tim_hieu_van_hoa_lang_nghe_bat_trang,,,,approved
+ACTIVITY_000060,Trải nghiệm nặn gốm,Activity,,Làm gốm trên bàn xoay,trai_nghiem_nan_gom,,,,approved
+ACTIVITY_000061,Tô tượng gốm,Activity,,Vẽ tượng gốm,to_tuong_gom,,,,approved
+ACTIVITY_000062,Trải nghiệm trà đạo,Activity,,Thưởng trà,trai_nghiem_tra_dao,,,,approved
+ACTIVITY_000063,Khám phá trưng bày thực tế ảo và mô phỏng 3D,Activity,,Xem trưng bày 3D,kham_pha_trung_bay_thuc_te_ao_va_mo_phong_3d,,,,approved
+ACTIVITY_000064,Mua đồ gốm làm quà lưu niệm,Activity,,Mua sản phẩm gốm,mua_do_gom_lam_qua_luu_niem,,,,approved
+PERSON_000074,Hà Thị Vinh,Person,,Nghệ nhân Hà Thị Vinh,ha_thi_vinh,,,,approved
+PERSON_000075,Hoàng Thúc Hào,Person,,Kiến trúc sư Hoàng Thúc Hào,hoang_thuc_hao,,,,approved
+ROLE_000005,Chủ tịch Trung tâm Tinh hoa Làng nghề Việt,Role,,Chủ tịch Trung tâm,chu_tich_trung_tam_tinh_hoa_lang_nghe_viet,,,,approved
+ROLE_000006,Đại diện chủ đầu tư Bảo tàng Gốm Bát Tràng,Role,,Đại diện chủ đầu tư,dai_dien_chu_dau_tu_bao_tang_gom_bat_trang,,,,approved
+ROLE_000007,Kiến trúc sư thiết kế Bảo tàng Gốm Bát Tràng,Role,,Kiến trúc sư thiết kế,kien_truc_su_thiet_ke_bao_tang_gom_bat_trang,,,,approved
+CATEGORY_000017,Bảo tàng chuyên đề về gốm sứ,TourismCategory,,Bảo tàng gốm,bao_tang_chuyen_de_ve_gom_su,,,,approved
+CATEGORY_000018,Điểm đến du lịch văn hóa làng nghề,TourismCategory,,Du lịch văn hóa làng nghề,diem_den_du_lich_van_hoa_lang_nghe,,,,approved
+CATEGORY_000019,Bảo tàng mở và bảo tàng sống,TourismCategory,,Bảo tàng mở|Bảo tàng sống,bao_tang_mo_va_bao_tang_song,,,,approved

@@ -16,8 +16,8 @@ EVENT_000095,Thành lập Bảo tàng Phòng không - Không quân,Event,,,thanh
 EVENT_000096,Khánh thành công trình Bảo tàng Phòng không - Không quân,Event,,,khanh_thanh_cong_trinh_bao_tang_phong_khong_khong_quan,,,,approved
 HOBJ_000138,Bộ sưu tập hiện vật về Ban Nghiên cứu Không quân,HeritageObject,,Hiện vật Ban Nghiên cứu KQ,bo_suu_tap_hien_vat_ve_ban_nghien_cuu_khong_quan,,,,approved
 HOBJ_000139,Bộ sưu tập hiện vật Trung đoàn Pháo cao xạ 367 tại Điện Biên Phủ,HeritageObject,,Hiện vật Trung đoàn 367,bo_suu_tap_hien_vat_trung_doan_phao_cao_xa_367_tai_dien_bien_phu,,,,approved
-HOBJ_000140,Khẩu pháo cao xạ 37 mm,HeritageObject,,Pháo cao xạ 37mm,khau_phao_cao_xa_37_mm,,,,approved
-HOBJ_000141,Khẩu pháo phòng không 90 mm,HeritageObject,,Pháo 90mm,khau_phao_phong_khong_90_mm,,,,approved
+HOBJ_000140,Khẩu pháo cao xạ 37 mm,HeritageObject,,Pháo cao xạ 37mm ,khau_phao_cao_xa_37_mm,,,,approved
+HOBJ_000141,Khẩu pháo phòng không 90 mm ,HeritageObject,,Pháo 90mm,khau_phao_phong_khong_90_mm,,,,approved
 HOBJ_000142,Ra-đa phát hiện máy bay B-52,HeritageObject,,Ra-đa bắt tín hiệu B-52,ra_da_phat_hien_may_bay_b_52,,,,approved
 HOBJ_000143,Bệ phóng tên lửa,HeritageObject,,Bệ phóng tên lửa hạ B-52 ,be_phong_ten_lua,,,,approved
 HOBJ_000144,Máy bay MiG-17,HeritageObject,,,may_bay_mig_17,,,,approved
@@ -28,7 +28,7 @@ HOBJ_000148,Trực thăng vận tải,HeritageObject,,,truc_thang_van_tai,,,,app
 ORG_000024,Cục Chính trị Quân chủng Phòng không - Không quân,Organization,,Cục Chính trị Quân chủng PK-KQ,cuc_chinh_tri_quan_chung_phong_khong_khong_quan,,,,approved
 PLACE_000050,Bảo tàng Phòng không - Không quân,Place,,Bảo tàng PK-KQ|Bảo tàng Quân chủng Phòng không - Không quân|Vietnam People's Air Force Museum,bao_tang_phong_khong_khong_quan,,,,approved
 TIME_000163,Ngày 22 tháng 10 năm 1963,Time,,22/10/1963,ngay_22_thang_10_nam_1963,,,,approved
-TIME_000164,Ngày 28 tháng 8 năm 2007,Time,,28/8/2007,ngay_28_thang_8_nam_2007,,,,approved
+TIME_000164,Ngày 28 tháng 8 năm 2007,Time,,28/08/2007,ngay_28_thang_8_nam_2007,,,,approved
 VALUE_000103,"Hơn 56.000 hiện vật, hình ảnh và tư liệu",Value,,Trên năm mươi sáu nghìn hiện vật,hon_56_000_hien_vat_hinh_anh_va_tu_lieu,56000,"hiện vật, hình ảnh và tư liệu",minimum_count,approved
 VALUE_000104,16.000 mét vuông diện tích trưng bày,Value,,Tổng diện tích trưng bày 16.000 m²,16_000_met_vuong_dien_tich_trung_bay,16000,m²,area,approved
 VALUE_000105,12.800 mét vuông diện tích trưng bày ngoài trời,Value,,Diện tích ngoài trời 12.800 m²,12_800_met_vuong_dien_tich_trung_bay_ngoai_troi,12800,m²,area,approved

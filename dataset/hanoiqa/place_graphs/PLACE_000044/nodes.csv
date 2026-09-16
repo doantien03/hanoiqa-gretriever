@@ -32,7 +32,7 @@ TIME_000141,Ngày 25 tháng 11 năm 1970,Time,,25/11/1970,ngay_25_thang_11_nam_1
 TIME_000142,Ngày 12 tháng 9 năm 1977,Time,,12/09/1977,ngay_12_thang_9_nam_1977,,,,approved
 TIME_000143,Ngày 15 tháng 10 năm 1979,Time,,15/10/1979,ngay_15_thang_10_nam_1979,,,,approved
 TIME_000144,Ngày 31 tháng 8 năm 1985,Time,,31/08/1985,ngay_31_thang_8_nam_1985,,,,approved
-TIME_000145,Tháng 11 năm 1987,Time,,11/1987,thang_11_nam_1987,,,,approved
+TIME_000145,Tháng 11 năm 1987,Time,,Nov-87,thang_11_nam_1987,,,,approved
 TIME_000146,Ngày 19 tháng 5 năm 1990,Time,,19/05/1990,ngay_19_thang_5_nam_1990,,,,approved
 VALUE_000078,18.000 m²,Value,,"Tổng diện tích 18.000 m²|1,8 ha",18_000_m,18000,m²,area,approved
 VALUE_000079,3 tầng,Value,,Tòa nhà cao 3 tầng,3_tang,3,tầng,count,approved

@@ -27,10 +27,10 @@ HSTATUS_000009,Điểm du lịch cấp thành phố,HeritageStatus,,Điểm du l
 ORG_000019,Sở Văn hóa và Thể thao Hà Nội,Organization,,"Sở Văn hóa, Thể thao và Du lịch thành phố Hà Nội|Sở VHTT Hà Nội",so_van_hoa_va_the_thao_ha_noi,,,,approved
 PLACE_000043,Bảo tàng Hà Nội,Place,,Hanoi Museum|Điểm du lịch Bảo tàng Hà Nội,bao_tang_ha_noi,,,,approved
 TIME_000017,Năm 1982,Time,,1982,nam_1982,1982,năm,year,approved
-TIME_000137,Ngày 19 tháng 5 năm 2008,Time,,19/5/2008,ngay_19_thang_5_nam_2008,,,,approved
+TIME_000137,Ngày 19 tháng 5 năm 2008,Time,,19/05/2008,ngay_19_thang_5_nam_2008,,,,approved
 TIME_000138,Ngày 6 tháng 10 năm 2010,Time,,06/10/2010,ngay_6_thang_10_nam_2010,,,,approved
 TIME_000139,Ngày 3 tháng 2 năm 2026,Time,,03/02/2026,ngay_3_thang_2_nam_2026,,,,approved
-TIME_000140,Ngày 30 tháng 3 năm 2026,Time,,30/3/2026,ngay_30_thang_3_nam_2026,,,,approved
+TIME_000140,Ngày 30 tháng 3 năm 2026,Time,,30/03/2026,ngay_30_thang_3_nam_2026,,,,approved
 VALUE_000071,Hơn 54.000 mét vuông diện tích đất,Value,,Diện tích khu đất hơn 54 nghìn m²,hon_54_000_met_vuong_dien_tich_dat,54000,m²,minimum_area,approved
 VALUE_000072,6 tầng,Value,,,6_tang,6,tầng,count,approved
 VALUE_000073,4 tầng nổi,Value,,,4_tang_noi,4,tầng nổi,count,approved

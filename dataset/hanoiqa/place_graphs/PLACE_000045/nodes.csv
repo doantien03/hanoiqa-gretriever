@@ -29,7 +29,7 @@ ORG_000003,Bộ Quốc phòng,Organization,,,bo_quoc_phong,,,,approved
 ORG_000022,Tổng cục Chính trị Quân đội nhân dân Việt Nam,Organization,,Tổng cục Chính trị QĐND Việt Nam,tong_cuc_chinh_tri_quan_doi_nhan_dan_viet_nam,,,,approved
 PLACE_000045,Bảo tàng Lịch sử Quân sự Việt Nam,Place,,Bảo tàng LSQS Việt Nam|Bảo tàng Quân đội|Vietnam Military History Museum,bao_tang_lich_su_quan_su_viet_nam,,,,approved
 TIME_000009,Tháng 12 năm 2002,Time,,Năm 2002,thang_12_nam_2002,,,,approved
-TIME_000147,Ngày 17 tháng 7 năm 1956,Time,,17/7/1956,ngay_17_thang_7_nam_1956,,,,approved
+TIME_000147,Ngày 17 tháng 7 năm 1956,Time,,17/07/1956,ngay_17_thang_7_nam_1956,,,,approved
 TIME_000148,Ngày 22 tháng 12 năm 1959,Time,,22/12/1959,ngay_22_thang_12_nam_1959,,,,approved
 TIME_000149,Năm 2019,Time,,,nam_2019,,,,approved
 TIME_000150,Ngày 1 tháng 11 năm 2024,Time,,1/11/2024|Tháng 11 năm 2024,ngay_1_thang_11_nam_2024,,,,approved

@@ -1,0 +1,779 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_gamuda_overview",
+      "title": "Công viên Yên Sở - lá phổi xanh phía Nam Hà Nội",
+      "url": "https://gamudaland.com.vn/vn/news/news-and-story-11",
+      "source_type": "official_developer_website",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vietnamplus_opening",
+      "title": "Hà Nội chính thức khai trương, mở cửa Công viên Yên Sở",
+      "url": "https://www.vietnamplus.vn/ha-noi-chinh-thuc-khai-truong-mo-cua-cong-vien-yen-so-post252717.vnp",
+      "source_type": "state_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vnexpress_components",
+      "title": "Hành trình biến rốn nước Nam Hà Nội thành khu nhà cho người giàu",
+      "url": "https://vnexpress.net/hanh-trinh-bien-ron-nuoc-nam-ha-noi-thanh-khu-nha-cho-nguoi-giau-3884698.html",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_yenso_handover",
+      "title": "Diện mạo mới Công viên Yên Sở phục vụ tốt hơn nhu cầu người dân",
+      "url": "https://yenso.hanoi.gov.vn/tuyen-truyen-dai-hoi-xiv-cua-dang-63607/dien-mao-moi-cong-vien-yen-so-phuc-vu-tot-hon-nhu-cau-nguoi-dan-2797260226102645753.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Công viên Yên Sở",
+      "aliases": ["Công viên hồ điều hòa Yên Sở"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Quốc lộ 1A, phường Yên Sở, thành phố Hà Nội",
+      "match": "new"
+    },
+    {
+      "key": "time_construction_2007",
+      "type": "Time",
+      "canonical_name": "Năm 2007",
+      "aliases": ["2007"],
+      "match": "auto"
+    },
+    {
+      "key": "time_opening_2014",
+      "type": "Time",
+      "canonical_name": "Ngày 4 tháng 4 năm 2014",
+      "aliases": ["04/04/2014", "4-4-2014"],
+      "match": "auto"
+    },
+    {
+      "key": "time_handover_2026",
+      "type": "Time",
+      "canonical_name": "Ngày 10 tháng 2 năm 2026",
+      "aliases": ["10/02/2026", "10-2-2026"],
+      "match": "auto"
+    },
+    {
+      "key": "time_renovation_2026",
+      "type": "Time",
+      "canonical_name": "Tháng 2 năm 2026",
+      "aliases": ["02/2026"],
+      "match": "auto"
+    },
+    {
+      "key": "lake_complex",
+      "type": "Place",
+      "canonical_name": "Cụm năm hồ Yên Sở",
+      "aliases": ["Hệ thống năm hồ điều hòa Yên Sở", "Năm hồ Yên Sở"],
+      "match": "new"
+    },
+    {
+      "key": "art_exhibition_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà triển lãm nghệ thuật",
+      "match": "new"
+    },
+    {
+      "key": "boathouse",
+      "type": "Architecture",
+      "canonical_name": "Nhà thuyền Công viên Yên Sở",
+      "aliases": ["Nhà thuyền"],
+      "match": "new"
+    },
+    {
+      "key": "outdoor_theater",
+      "type": "Architecture",
+      "canonical_name": "Sân khấu ngoài trời công viên",
+      "match": "new"
+    },
+    {
+      "key": "maze_garden",
+      "type": "Architecture",
+      "canonical_name": "Vườn mê cung",
+      "match": "new"
+    },
+    {
+      "key": "cultural_village",
+      "type": "Architecture",
+      "canonical_name": "Làng văn hóa",
+      "aliases": ["Khu làng văn hóa"],
+      "match": "new"
+    },
+    {
+      "key": "exercise_area",
+      "type": "Architecture",
+      "canonical_name": "Khu thể dục thể thao",
+      "aliases": ["Khu tập thể dục thể thao"],
+      "match": "new"
+    },
+    {
+      "key": "camping_area",
+      "type": "Architecture",
+      "canonical_name": "Khu cắm trại và dã ngoại",
+      "aliases": ["Khu cắm trại", "Khu dã ngoại và nướng ngoài trời"],
+      "match": "new"
+    },
+    {
+      "key": "children_playground",
+      "type": "Architecture",
+      "canonical_name": "Khu vực vui chơi dành cho trẻ em",
+      "match": "new"
+    },
+    {
+      "key": "walking_paths",
+      "type": "Architecture",
+      "canonical_name": "Hệ thống đường dạo",
+      "aliases": ["Đường dạo nội bộ", "Đường đi bộ trong công viên"],
+      "match": "new"
+    },
+    {
+      "key": "value_total_area",
+      "type": "Value",
+      "canonical_name": "323 hecta diện tích công viên",
+      "aliases": ["Diện tích 323 ha"],
+      "numeric_value": 323,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_green_water_area",
+      "type": "Value",
+      "canonical_name": "280 hecta diện tích cây xanh và mặt nước",
+      "aliases": ["280 ha cây xanh và hồ nước"],
+      "numeric_value": 280,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_lake_count",
+      "type": "Value",
+      "canonical_name": "5 hồ điều hòa",
+      "aliases": ["Năm hồ Yên Sở"],
+      "numeric_value": 5,
+      "unit": "hồ",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "category_urban_park",
+      "type": "TourismCategory",
+      "canonical_name": "Công viên đô thị",
+      "aliases": ["Công viên đô thị quy mô lớn"],
+      "match": "auto"
+    },
+    {
+      "key": "category_public_green_space",
+      "type": "TourismCategory",
+      "canonical_name": "Không gian xanh công cộng",
+      "aliases": ["Không gian cây xanh và mặt nước công cộng"],
+      "match": "auto"
+    },
+    {
+      "key": "org_gamuda_land",
+      "type": "Organization",
+      "canonical_name": "Gamuda Land Việt Nam",
+      "aliases": ["Gamuda Land", "Công ty Gamuda Land Việt Nam"],
+      "match": "auto"
+    },
+    {
+      "key": "org_ward_yen_so_ubnd",
+      "type": "Organization",
+      "canonical_name": "Ủy ban nhân dân phường Yên Sở",
+      "aliases": ["UBND phường Yên Sở"],
+      "match": "auto"
+    },
+    {
+      "key": "event_opening",
+      "type": "Event",
+      "canonical_name": "Khai trương Công viên Yên Sở",
+      "aliases": ["Lễ khai trương Công viên Yên Sở", "Mở cửa Công viên Yên Sở"],
+      "match": "new"
+    },
+    {
+      "key": "event_handover_renovation",
+      "type": "Event",
+      "canonical_name": "Bàn giao và chỉnh trang Công viên Yên Sở",
+      "aliases": ["Bàn giao Công viên Yên Sở cho địa phương quản lý", "Chỉnh trang Công viên Yên Sở tháng 2 năm 2026"],
+      "match": "new"
+    },
+    {
+      "key": "person_najib_razak",
+      "type": "Person",
+      "canonical_name": "Najib Razak",
+      "aliases": ["Thủ tướng Malaysia Najib Razak", "Najib Tun Razak"],
+      "match": "auto"
+    },
+    {
+      "key": "person_pham_quang_nghi",
+      "type": "Person",
+      "canonical_name": "Phạm Quang Nghị",
+      "aliases": ["Bí thư Thành ủy Hà Nội Phạm Quang Nghị"],
+      "match": "auto"
+    },
+    {
+      "key": "person_cheong_ho_kuan",
+      "type": "Person",
+      "canonical_name": "Cheong Ho Kuan",
+      "aliases": ["Ông Cheong Ho Kuan"],
+      "match": "new"
+    },
+    {
+      "key": "person_vu_tuan_dat",
+      "type": "Person",
+      "canonical_name": "Vũ Tuấn Đạt",
+      "aliases": ["Ông Vũ Tuấn Đạt"],
+      "match": "new"
+    },
+    {
+      "key": "role_malaysia_prime_minister",
+      "type": "Role",
+      "canonical_name": "Thủ tướng Malaysia",
+      "match": "new"
+    },
+    {
+      "key": "role_hanoi_party_secretary",
+      "type": "Role",
+      "canonical_name": "Bí thư Thành ủy Hà Nội",
+      "match": "new"
+    },
+    {
+      "key": "role_gamuda_general_director",
+      "type": "Role",
+      "canonical_name": "Tổng giám đốc Gamuda Land Việt Nam",
+      "match": "new"
+    },
+    {
+      "key": "role_ward_chairman",
+      "type": "Role",
+      "canonical_name": "Chủ tịch Ủy ban nhân dân phường Yên Sở",
+      "aliases": ["Chủ tịch UBND phường Yên Sở"],
+      "match": "new"
+    },
+    {
+      "key": "activity_art_exhibition",
+      "type": "Activity",
+      "canonical_name": "Tham quan triển lãm nghệ thuật",
+      "aliases": ["Xem triển lãm nghệ thuật"],
+      "match": "new"
+    },
+    {
+      "key": "activity_outdoor_performance",
+      "type": "Activity",
+      "canonical_name": "Tổ chức và xem biểu diễn ngoài trời",
+      "aliases": ["Xem biểu diễn tại sân khấu ngoài trời"],
+      "match": "new"
+    },
+    {
+      "key": "activity_exercise",
+      "type": "Activity",
+      "canonical_name": "Tập thể dục và thể thao",
+      "aliases": ["Rèn luyện thể chất"],
+      "match": "auto"
+    },
+    {
+      "key": "activity_camping",
+      "type": "Activity",
+      "canonical_name": "Cắm trại và dã ngoại",
+      "aliases": ["Cắm trại", "Tổ chức dã ngoại"],
+      "match": "auto"
+    },
+    {
+      "key": "activity_children_recreation",
+      "type": "Activity",
+      "canonical_name": "Vui chơi dành cho trẻ em",
+      "aliases": ["Hoạt động vui chơi thiếu nhi"],
+      "match": "auto"
+    },
+    {
+      "key": "activity_walking",
+      "type": "Activity",
+      "canonical_name": "Đi bộ và thư giãn trong không gian xanh",
+      "aliases": ["Đi dạo", "Thư giãn ngoài trời"],
+      "match": "auto"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_gamuda_overview",
+      "topic": "address",
+      "normalized_text": "Công viên Yên Sở nằm tại Quốc lộ 1A, phường Yên Sở, thành phố Hà Nội và gần nút giao Pháp Vân - Cầu Giẽ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_construction",
+      "source": "src_gamuda_overview",
+      "topic": "construction_and_developer",
+      "normalized_text": "Dự án Công viên Yên Sở do Gamuda Land Việt Nam đầu tư xây dựng và được khởi công vào năm 2007.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_total_area",
+      "source": "src_gamuda_overview",
+      "topic": "total_area",
+      "normalized_text": "Công viên Yên Sở có tổng diện tích 323 ha, trong đó khoảng 280 ha là diện tích cây xanh và mặt nước.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_lake_complex",
+      "source": "src_vietnamplus_opening",
+      "topic": "lake_complex",
+      "normalized_text": "Cụm năm hồ Yên Sở là một hạng mục cảnh quan của Công viên Yên Sở; năm hồ đã được nạo vét, làm sạch để góp phần điều hòa môi trường khu vực.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_cultural_components",
+      "source": "src_vnexpress_components",
+      "topic": "cultural_components",
+      "normalized_text": "Các hạng mục văn hóa và cảnh quan của Công viên Yên Sở gồm Nhà triển lãm nghệ thuật, Sân khấu ngoài trời, Vườn mê cung và Làng văn hóa.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recreation_components",
+      "source": "src_vnexpress_components",
+      "topic": "recreation_components",
+      "normalized_text": "Các hạng mục phục vụ giải trí tại Công viên Yên Sở gồm Nhà thuyền, Khu thể dục thể thao, Khu cắm trại và dã ngoại cùng các không gian vui chơi, đi dạo ngoài trời.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_category_and_function",
+      "source": "src_vietnamplus_opening",
+      "topic": "category_and_function",
+      "normalized_text": "Công viên Yên Sở là công viên đô thị và không gian xanh công cộng, phục vụ nhu cầu vui chơi, giải trí của người dân đồng thời hỗ trợ điều hòa môi trường phía Nam Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_exhibition_usage",
+      "source": "src_vnexpress_components",
+      "topic": "exhibition_activity",
+      "normalized_text": "Nhà triển lãm nghệ thuật của Công viên Yên Sở được sử dụng cho hoạt động tham quan và thưởng thức triển lãm nghệ thuật.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_theater_usage",
+      "source": "src_vnexpress_components",
+      "topic": "outdoor_performance_activity",
+      "normalized_text": "Sân khấu ngoài trời của Công viên Yên Sở là không gian phục vụ tổ chức và xem các chương trình biểu diễn ngoài trời.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_exercise_usage",
+      "source": "src_vnexpress_components",
+      "topic": "exercise_activity",
+      "normalized_text": "Khu thể dục thể thao của Công viên Yên Sở phục vụ hoạt động tập thể dục và rèn luyện thể chất.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_camping_usage",
+      "source": "src_vnexpress_components",
+      "topic": "camping_activity",
+      "normalized_text": "Khu cắm trại và dã ngoại của Công viên Yên Sở phục vụ hoạt động cắm trại, dã ngoại và sinh hoạt ngoài trời.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_children_walking_usage",
+      "source": "src_yenso_handover",
+      "topic": "children_and_walking_activities",
+      "normalized_text": "Khu vui chơi trẻ em và hệ thống đường dạo tại Công viên Yên Sở phục vụ hoạt động vui chơi thiếu nhi, đi bộ và thư giãn của người dân.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_opening",
+      "source": "src_vietnamplus_opening",
+      "topic": "official_opening",
+      "normalized_text": "Sự kiện Khai trương Công viên Yên Sở diễn ra ngày 4 tháng 4 năm 2014, đánh dấu việc công viên chính thức mở cửa phục vụ người dân.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_opening_persons",
+      "source": "src_vietnamplus_opening",
+      "topic": "opening_participants",
+      "normalized_text": "Thủ tướng Malaysia Najib Razak và Bí thư Thành ủy Hà Nội Phạm Quang Nghị tham dự và thực hiện nghi thức cắt băng tại sự kiện Khai trương Công viên Yên Sở.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_gamuda_person",
+      "source": "src_vietnamplus_opening",
+      "topic": "developer_representative",
+      "normalized_text": "Cheong Ho Kuan, Tổng giám đốc Gamuda Land Việt Nam, là nhân vật gắn với Công viên Yên Sở trong vai trò đại diện doanh nghiệp đầu tư phát triển dự án.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_management_handover",
+      "source": "src_yenso_handover",
+      "topic": "management_handover",
+      "normalized_text": "Ngày 10 tháng 2 năm 2026, Công viên Yên Sở được bàn giao cho Ủy ban nhân dân phường Yên Sở quản lý; việc bàn giao gắn với đợt chỉnh trang công viên.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_works",
+      "source": "src_yenso_handover",
+      "topic": "renovation_works",
+      "normalized_text": "Trong tháng 2 năm 2026, Ủy ban nhân dân phường Yên Sở thực hiện chỉnh trang Công viên Yên Sở, gồm tháo khoảng 300 m hàng rào, mở hai lối vào mới, cải tạo đường dạo và hoàn thiện khu vui chơi trẻ em.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_person",
+      "source": "src_yenso_handover",
+      "topic": "renovation_direction",
+      "normalized_text": "Vũ Tuấn Đạt, Chủ tịch Ủy ban nhân dân phường Yên Sở, tham gia chỉ đạo sự kiện bàn giao và chỉnh trang Công viên Yên Sở năm 2026.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {
+      "source": "place",
+      "relation": "HAS_ADDRESS",
+      "target": "address",
+      "evidence": ["ev_address"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "BUILT_IN",
+      "target": "time_construction_2007",
+      "evidence": ["ev_construction"],
+      "confidence": 0.98,
+      "qualifiers": {"construction_phase": "start"}
+    },
+    {
+      "source": "place",
+      "relation": "BUILT_BY",
+      "target": "org_gamuda_land",
+      "evidence": ["ev_construction"],
+      "confidence": 0.97
+    },
+    {
+      "source": "place",
+      "relation": "ESTABLISHED_IN",
+      "target": "time_opening_2014",
+      "evidence": ["ev_opening"],
+      "confidence": 0.95,
+      "qualifiers": {"establishment_basis": "official_opening"}
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_urban_park",
+      "evidence": ["ev_category_and_function"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_public_green_space",
+      "evidence": ["ev_category_and_function"],
+      "confidence": 0.97
+    },
+    {
+      "source": "place",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_total_area",
+      "evidence": ["ev_total_area"],
+      "confidence": 1.0,
+      "qualifiers": {"measurement_kind": "area"}
+    },
+    {
+      "source": "place",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_green_water_area",
+      "evidence": ["ev_total_area"],
+      "confidence": 1.0,
+      "qualifiers": {"measurement_kind": "area", "scope": "green_and_water_area"}
+    },
+    {
+      "source": "lake_complex",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_lake_count",
+      "evidence": ["ev_lake_complex"],
+      "confidence": 1.0,
+      "qualifiers": {"measurement_kind": "count"}
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "lake_complex",
+      "evidence": ["ev_lake_complex"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "art_exhibition_house",
+      "evidence": ["ev_cultural_components"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "boathouse",
+      "evidence": ["ev_recreation_components"],
+      "confidence": 0.96
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "outdoor_theater",
+      "evidence": ["ev_cultural_components"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "maze_garden",
+      "evidence": ["ev_cultural_components"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "cultural_village",
+      "evidence": ["ev_cultural_components"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "exercise_area",
+      "evidence": ["ev_recreation_components"],
+      "confidence": 0.97
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "camping_area",
+      "evidence": ["ev_recreation_components"],
+      "confidence": 0.97
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "children_playground",
+      "evidence": ["ev_children_walking_usage", "ev_renovation_works"],
+      "confidence": 0.96
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "walking_paths",
+      "evidence": ["ev_children_walking_usage", "ev_renovation_works"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_art_exhibition",
+      "evidence": ["ev_exhibition_usage"],
+      "confidence": 0.96
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_outdoor_performance",
+      "evidence": ["ev_theater_usage"],
+      "confidence": 0.95
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_exercise",
+      "evidence": ["ev_exercise_usage"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_camping",
+      "evidence": ["ev_camping_usage"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_children_recreation",
+      "evidence": ["ev_children_walking_usage"],
+      "confidence": 0.96
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_walking",
+      "evidence": ["ev_children_walking_usage"],
+      "confidence": 0.98
+    },
+    {
+      "source": "art_exhibition_house",
+      "relation": "USED_FOR",
+      "target": "activity_art_exhibition",
+      "evidence": ["ev_exhibition_usage"],
+      "confidence": 0.98
+    },
+    {
+      "source": "outdoor_theater",
+      "relation": "USED_FOR",
+      "target": "activity_outdoor_performance",
+      "evidence": ["ev_theater_usage"],
+      "confidence": 0.98
+    },
+    {
+      "source": "exercise_area",
+      "relation": "USED_FOR",
+      "target": "activity_exercise",
+      "evidence": ["ev_exercise_usage"],
+      "confidence": 0.99
+    },
+    {
+      "source": "camping_area",
+      "relation": "USED_FOR",
+      "target": "activity_camping",
+      "evidence": ["ev_camping_usage"],
+      "confidence": 0.99
+    },
+    {
+      "source": "children_playground",
+      "relation": "USED_FOR",
+      "target": "activity_children_recreation",
+      "evidence": ["ev_children_walking_usage"],
+      "confidence": 0.98
+    },
+    {
+      "source": "walking_paths",
+      "relation": "USED_FOR",
+      "target": "activity_walking",
+      "evidence": ["ev_children_walking_usage"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "event_opening",
+      "evidence": ["ev_opening"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_opening",
+      "relation": "OCCURRED_IN",
+      "target": "time_opening_2014",
+      "evidence": ["ev_opening"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_opening",
+      "relation": "INVOLVED_PERSON",
+      "target": "person_najib_razak",
+      "evidence": ["ev_opening_persons"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_opening",
+      "relation": "INVOLVED_PERSON",
+      "target": "person_pham_quang_nghi",
+      "evidence": ["ev_opening_persons"],
+      "confidence": 1.0
+    },
+    {
+      "source": "person_najib_razak",
+      "relation": "HELD_ROLE",
+      "target": "role_malaysia_prime_minister",
+      "evidence": ["ev_opening_persons"],
+      "confidence": 1.0
+    },
+    {
+      "source": "person_pham_quang_nghi",
+      "relation": "HELD_ROLE",
+      "target": "role_hanoi_party_secretary",
+      "evidence": ["ev_opening_persons"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_PERSON",
+      "target": "person_cheong_ho_kuan",
+      "evidence": ["ev_gamuda_person"],
+      "confidence": 0.98
+    },
+    {
+      "source": "person_cheong_ho_kuan",
+      "relation": "HELD_ROLE",
+      "target": "role_gamuda_general_director",
+      "evidence": ["ev_gamuda_person"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "event_handover_renovation",
+      "evidence": ["ev_management_handover", "ev_renovation_works"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_handover_renovation",
+      "relation": "OCCURRED_IN",
+      "target": "time_handover_2026",
+      "evidence": ["ev_management_handover"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_handover_renovation",
+      "relation": "INVOLVED_PERSON",
+      "target": "person_vu_tuan_dat",
+      "evidence": ["ev_renovation_person"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_PERSON",
+      "target": "person_vu_tuan_dat",
+      "evidence": ["ev_renovation_person"],
+      "confidence": 0.96
+    },
+    {
+      "source": "person_vu_tuan_dat",
+      "relation": "HELD_ROLE",
+      "target": "role_ward_chairman",
+      "evidence": ["ev_renovation_person"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_IN",
+      "target": "time_renovation_2026",
+      "evidence": ["ev_renovation_works"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_BY",
+      "target": "org_ward_yen_so_ubnd",
+      "evidence": ["ev_renovation_works"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "MANAGED_BY",
+      "target": "org_ward_yen_so_ubnd",
+      "evidence": ["ev_management_handover"],
+      "confidence": 1.0
+    }
+  ]
+}

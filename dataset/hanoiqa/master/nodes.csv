@@ -1353,3 +1353,38 @@ PERSON_000081,Ngô Văn Quý,Person,,Ông Ngô Văn Quý,ngo_van_quy,,,,approved
 ROLE_000011,Phó Chủ tịch Ủy ban nhân dân thành phố Hà Nội,Role,,Phó Chủ tịch UBND thành phố Hà Nội,pho_chu_tich_uy_ban_nhan_dan_thanh_pho_ha_noi,,,,approved
 ACTIVITY_000072,Tham quan và tìm hiểu động vật,Activity,,Tham quan vườn thú|Quan sát động vật,tham_quan_va_tim_hieu_dong_vat,,,,approved
 ACTIVITY_000073,Vui chơi và giải trí,Activity,,Vui chơi tại công viên,vui_choi_va_giai_tri,,,,approved
+PLACE_000059,Công viên Yên Sở,Place,,Công viên hồ điều hòa Yên Sở,cong_vien_yen_so,,,,approved
+ADDRESS_000044,"Quốc lộ 1A, phường Yên Sở, thành phố Hà Nội",Address,,,quoc_lo_1a_phuong_yen_so_thanh_pho_ha_noi,,,,approved
+TIME_000180,Năm 2007,Time,,2007,nam_2007,,,,approved
+TIME_000181,Ngày 4 tháng 4 năm 2014,Time,,04/04/2014|4-4-2014,ngay_4_thang_4_nam_2014,,,,approved
+TIME_000182,Ngày 10 tháng 2 năm 2026,Time,,10/02/2026|10-2-2026,ngay_10_thang_2_nam_2026,,,,approved
+TIME_000183,Tháng 2 năm 2026,Time,,02/2026,thang_2_nam_2026,,,,approved
+PLACE_000060,Cụm năm hồ Yên Sở,Place,,Hệ thống năm hồ điều hòa Yên Sở|Năm hồ Yên Sở,cum_nam_ho_yen_so,,,,approved
+ARCH_000351,Nhà triển lãm nghệ thuật,Architecture,,,nha_trien_lam_nghe_thuat,,,,approved
+ARCH_000352,Nhà thuyền Công viên Yên Sở,Architecture,,Nhà thuyền,nha_thuyen_cong_vien_yen_so,,,,approved
+ARCH_000353,Sân khấu ngoài trời công viên,Architecture,,,san_khau_ngoai_troi_cong_vien,,,,approved
+ARCH_000354,Vườn mê cung,Architecture,,,vuon_me_cung,,,,approved
+ARCH_000355,Làng văn hóa,Architecture,,Khu làng văn hóa,lang_van_hoa,,,,approved
+ARCH_000356,Khu thể dục thể thao,Architecture,,Khu tập thể dục thể thao,khu_the_duc_the_thao,,,,approved
+ARCH_000357,Khu cắm trại và dã ngoại,Architecture,,Khu cắm trại|Khu dã ngoại và nướng ngoài trời,khu_cam_trai_va_da_ngoai,,,,approved
+ARCH_000358,Khu vực vui chơi dành cho trẻ em,Architecture,,,khu_vuc_vui_choi_danh_cho_tre_em,,,,approved
+ARCH_000359,Hệ thống đường dạo,Architecture,,Đường dạo nội bộ|Đường đi bộ trong công viên,he_thong_duong_dao,,,,approved
+VALUE_000119,323 hecta diện tích công viên,Value,,Diện tích 323 ha,323_hecta_dien_tich_cong_vien,323,ha,area,approved
+VALUE_000120,280 hecta diện tích cây xanh và mặt nước,Value,,280 ha cây xanh và hồ nước,280_hecta_dien_tich_cay_xanh_va_mat_nuoc,280,ha,area,approved
+VALUE_000121,5 hồ điều hòa,Value,,Năm hồ Yên Sở,5_ho_dieu_hoa,5,hồ,count,approved
+ORG_000033,Gamuda Land Việt Nam,Organization,,Gamuda Land|Công ty Gamuda Land Việt Nam,gamuda_land_viet_nam,,,,approved
+ORG_000034,Ủy ban nhân dân phường Yên Sở,Organization,,UBND phường Yên Sở,uy_ban_nhan_dan_phuong_yen_so,,,,approved
+EVENT_000113,Khai trương Công viên Yên Sở,Event,,Lễ khai trương Công viên Yên Sở|Mở cửa Công viên Yên Sở,khai_truong_cong_vien_yen_so,,,,approved
+EVENT_000114,Bàn giao và chỉnh trang Công viên Yên Sở,Event,,Bàn giao Công viên Yên Sở cho địa phương quản lý|Chỉnh trang Công viên Yên Sở tháng 2 năm 2026,ban_giao_va_chinh_trang_cong_vien_yen_so,,,,approved
+PERSON_000082,Najib Razak,Person,,Thủ tướng Malaysia Najib Razak|Najib Tun Razak,najib_razak,,,,approved
+PERSON_000083,Phạm Quang Nghị,Person,,Bí thư Thành ủy Hà Nội Phạm Quang Nghị,pham_quang_nghi,,,,approved
+PERSON_000084,Cheong Ho Kuan,Person,,Ông Cheong Ho Kuan,cheong_ho_kuan,,,,approved
+PERSON_000085,Vũ Tuấn Đạt,Person,,Ông Vũ Tuấn Đạt,vu_tuan_dat,,,,approved
+ROLE_000012,Thủ tướng Malaysia,Role,,,thu_tuong_malaysia,,,,approved
+ROLE_000013,Bí thư Thành ủy Hà Nội,Role,,,bi_thu_thanh_uy_ha_noi,,,,approved
+ROLE_000014,Tổng giám đốc Gamuda Land Việt Nam,Role,,,tong_giam_doc_gamuda_land_viet_nam,,,,approved
+ROLE_000015,Chủ tịch Ủy ban nhân dân phường Yên Sở,Role,,Chủ tịch UBND phường Yên Sở,chu_tich_uy_ban_nhan_dan_phuong_yen_so,,,,approved
+ACTIVITY_000074,Tham quan triển lãm nghệ thuật,Activity,,Xem triển lãm nghệ thuật,tham_quan_trien_lam_nghe_thuat,,,,approved
+ACTIVITY_000075,Tổ chức và xem biểu diễn ngoài trời,Activity,,Xem biểu diễn tại sân khấu ngoài trời,to_chuc_va_xem_bieu_dien_ngoai_troi,,,,approved
+ACTIVITY_000076,Cắm trại và dã ngoại,Activity,,Cắm trại|Tổ chức dã ngoại,cam_trai_va_da_ngoai,,,,approved
+ACTIVITY_000077,Đi bộ và thư giãn trong không gian xanh,Activity,,Đi dạo|Thư giãn ngoài trời,di_bo_va_thu_gian_trong_khong_gian_xanh,,,,approved

@@ -1421,3 +1421,26 @@ PERSON_000088,Hoàng Minh Dũng Tiến,Person,,Ông Hoàng Minh Dũng Tiến,hoa
 ROLE_000018,Bí thư Quận ủy Ba Đình,Role,,Bí thư Quận uỷ Ba Đình,bi_thu_quan_uy_ba_dinh,,,,approved
 EVENT_000116,"Hạ hàng rào ,mở không gian Công viên Bách Thảo",Event,,Hạ rào Công viên Bách Thảo|Mở không gian Công viên Bách Thảo năm 2026,ha_hang_rao_mo_khong_gian_cong_vien_bach_thao,,,,approved
 TIME_000186,Ngày 27 tháng 1 năm 2026,Time,,27/01/2026|27-1-2026,ngay_27_thang_1_nam_2026,,,,approved
+PLACE_000065,Công viên Nghĩa Đô,Place,,Công viên Nghĩa Đô Hà Nội|Nghĩa Đô Park,cong_vien_nghia_do,,,,approved
+VALUE_000123,Hơn 42.000 mét vuông diện tích,Value,,"Diện tích trên 42.000 m²|Hơn 4,2 hecta",hon_42_000_met_vuong_dien_tich,42000,m²,minimum_area,approved
+ARCH_000365,Hồ điều hòa,Architecture,,Hồ nước Công viên Nghĩa Đô|Hồ cảnh quan,ho_dieu_hoa,,,,approved
+ARCH_000366,Cầu đi bộ hình cây đàn,Architecture,,Cầu đi bộ hình cây đàn|Cầu cây đàn,cau_di_bo_hinh_cay_dan,,,,approved
+ARCH_000367,Quảng trường trung tâm,Architecture,,Quảng trường trung tâm|Không gian quảng trường mở,quang_truong_trung_tam,,,,approved
+ARCH_000368,Hệ thống chiếu sáng,Architecture,,Hệ thống đèn chiếu sáng,he_thong_chieu_sang,,,,approved
+ARCH_000369,Nhà bảo vệ,Architecture,,,nha_bao_ve,,,,approved
+ARCH_000370,Nhà điều hành,Architecture,,,nha_dieu_hanh,,,,approved
+ARCH_000371,Khu vệ sinh công cộng,Architecture,,Khu vệ sinh,khu_ve_sinh_cong_cong,,,,approved
+ARCH_000372,Nhà dịch vụ,Architecture,,Khu nhà dịch vụ,nha_dich_vu,,,,approved
+ARCH_000373,Nhà tập kết rác,Architecture,,Điểm tập kết rác trong công viên,nha_tap_ket_rac,,,,approved
+MATERIAL_000020,Thép định hình,Material,,Kết cấu thép định hình,thep_dinh_hinh,,,,approved
+MATERIAL_000021,Tấm nhựa giả gỗ,Material,,Vật liệu nhựa giả gỗ,tam_nhua_gia_go,,,,approved
+ACTIVITY_000080,Sinh hoạt cộng đồng ngoài trời,Activity,,Tổ chức hoạt động cộng đồng|Hoạt động ngoài trời,sinh_hoat_cong_dong_ngoai_troi,,,,approved
+ACTIVITY_000081,Tham quan và chụp ảnh,Activity,,Tham quan công viên|Chụp ảnh tại cầu cây đàn,tham_quan_va_chup_anh,,,,approved
+TIME_000187,Ngày 25 tháng 2 năm 2025,Time,,25/02/2025|25-2-2025,ngay_25_thang_2_nam_2025,,,,approved
+EVENT_000117,"Cải tạo, sửa chữa Công viên Nghĩa Đô",Event,,Dự án cải tạo Công viên Nghĩa Đô|Đợt sửa chữa Công viên Nghĩa Đô năm 2025,cai_tao_sua_chua_cong_vien_nghia_do,,,,approved
+EVENT_000118,Khánh thành công trình cải tạo Công viên Nghĩa Đô,Event,,Lễ khánh thành Công viên Nghĩa Đô|Lễ gắn biển công trình cải tạo Công viên Nghĩa Đô,khanh_thanh_cong_trinh_cai_tao_cong_vien_nghia_do,,,,approved
+TIME_000188,Ngày 29 tháng 1 năm 2026,Time,,29/01/2026|29-1-2026,ngay_29_thang_1_nam_2026,,,,approved
+HSTATUS_000014,Công trình cấp Thành phố chào mừng thành công Đại hội XIV của Đảng,HeritageStatus,,Công trình chào mừng Đại hội XIV cấp Thành phố|Công trình gắn biển cấp Thành phố,cong_trinh_cap_thanh_pho_chao_mung_thanh_cong_dai_hoi_xiv_cua_dang,,,,approved
+ORG_000037,Chính quyền phường Nghĩa Đô,Organization,,Phường Nghĩa Đô|UBND phường Nghĩa Đô,chinh_quyen_phuong_nghia_do,,,,approved
+PERSON_000089,Nguyễn Thanh Tùng,Person,,Trung tướng Nguyễn Thanh Tùng,nguyen_thanh_tung,,,,approved
+ROLE_000019,Giám đốc Công an thành phố Hà Nội,Role,,Giám đốc Công an TP Hà Nội,giam_doc_cong_an_thanh_pho_ha_noi,,,,approved

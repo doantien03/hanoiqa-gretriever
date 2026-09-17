@@ -1,0 +1,34 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000068,Tập thể dục,Activity,,Rèn luyện thể chất,tap_the_duc,,,,approved
+ACTIVITY_000069,Đi bộ và dạo chơi,Activity,,Tản bộ|Dạo bộ trong công viên,di_bo_va_dao_choi,,,,approved
+ACTIVITY_000071,Vui chơi dành cho trẻ em,Activity,,Vui chơi thiếu nhi,vui_choi_danh_cho_tre_em,,,,approved
+ACTIVITY_000080,Sinh hoạt cộng đồng ngoài trời,Activity,,Tổ chức hoạt động cộng đồng|Hoạt động ngoài trời,sinh_hoat_cong_dong_ngoai_troi,,,,approved
+ACTIVITY_000081,Tham quan và chụp ảnh,Activity,,Tham quan công viên|Chụp ảnh tại cầu cây đàn,tham_quan_va_chup_anh,,,,approved
+ADDRESS_000032,"Đường Nguyễn Văn Huyên, phường Nghĩa Đô, thành phố Hà Nội",Address,,"Nguyễn Văn Huyên, Nghĩa Đô, Hà Nội",duong_nguyen_van_huyen_phuong_nghia_do_thanh_pho_ha_noi,,,,approved
+ARCH_000356,Khu thể dục thể thao,Architecture,,Khu tập thể dục thể thao,khu_the_duc_the_thao,,,,approved
+ARCH_000358,Khu vực vui chơi dành cho trẻ em,Architecture,,,khu_vuc_vui_choi_danh_cho_tre_em,,,,approved
+ARCH_000359,Hệ thống đường dạo,Architecture,,Đường dạo nội bộ|Đường đi bộ trong công viên,he_thong_duong_dao,,,,approved
+ARCH_000365,Hồ điều hòa,Architecture,,Hồ nước Công viên Nghĩa Đô|Hồ cảnh quan,ho_dieu_hoa,,,,approved
+ARCH_000366,Cầu đi bộ hình cây đàn,Architecture,,Cầu đi bộ hình cây đàn|Cầu cây đàn,cau_di_bo_hinh_cay_dan,,,,approved
+ARCH_000367,Quảng trường trung tâm,Architecture,,Quảng trường trung tâm|Không gian quảng trường mở,quang_truong_trung_tam,,,,approved
+ARCH_000368,Hệ thống chiếu sáng,Architecture,,Hệ thống đèn chiếu sáng,he_thong_chieu_sang,,,,approved
+ARCH_000369,Nhà bảo vệ,Architecture,,,nha_bao_ve,,,,approved
+ARCH_000370,Nhà điều hành,Architecture,,,nha_dieu_hanh,,,,approved
+ARCH_000371,Khu vệ sinh công cộng,Architecture,,Khu vệ sinh,khu_ve_sinh_cong_cong,,,,approved
+ARCH_000372,Nhà dịch vụ,Architecture,,Khu nhà dịch vụ,nha_dich_vu,,,,approved
+ARCH_000373,Nhà tập kết rác,Architecture,,Điểm tập kết rác trong công viên,nha_tap_ket_rac,,,,approved
+CATEGORY_000020,Công viên đô thị,TourismCategory,,Công viên trong đô thị,cong_vien_do_thi,,,,approved
+EVENT_000117,"Cải tạo, sửa chữa Công viên Nghĩa Đô",Event,,Dự án cải tạo Công viên Nghĩa Đô|Đợt sửa chữa Công viên Nghĩa Đô năm 2025,cai_tao_sua_chua_cong_vien_nghia_do,,,,approved
+EVENT_000118,Khánh thành công trình cải tạo Công viên Nghĩa Đô,Event,,Lễ khánh thành Công viên Nghĩa Đô|Lễ gắn biển công trình cải tạo Công viên Nghĩa Đô,khanh_thanh_cong_trinh_cai_tao_cong_vien_nghia_do,,,,approved
+HSTATUS_000014,Công trình cấp Thành phố chào mừng thành công Đại hội XIV của Đảng,HeritageStatus,,Công trình chào mừng Đại hội XIV cấp Thành phố|Công trình gắn biển cấp Thành phố,cong_trinh_cap_thanh_pho_chao_mung_thanh_cong_dai_hoi_xiv_cua_dang,,,,approved
+MATERIAL_000005,Bê tông cốt thép,Material,,,be_tong_cot_thep,,,,approved
+MATERIAL_000020,Thép định hình,Material,,Kết cấu thép định hình,thep_dinh_hinh,,,,approved
+MATERIAL_000021,Tấm nhựa giả gỗ,Material,,Vật liệu nhựa giả gỗ,tam_nhua_gia_go,,,,approved
+ORG_000037,Chính quyền phường Nghĩa Đô,Organization,,Phường Nghĩa Đô|UBND phường Nghĩa Đô,chinh_quyen_phuong_nghia_do,,,,approved
+PERSON_000089,Nguyễn Thanh Tùng,Person,,Trung tướng Nguyễn Thanh Tùng,nguyen_thanh_tung,,,,approved
+PLACE_000065,Công viên Nghĩa Đô,Place,,Công viên Nghĩa Đô Hà Nội|Nghĩa Đô Park,cong_vien_nghia_do,,,,approved
+ROLE_000019,Giám đốc Công an thành phố Hà Nội,Role,,Giám đốc Công an TP Hà Nội,giam_doc_cong_an_thanh_pho_ha_noi,,,,approved
+TIME_000009,Tháng 12 năm 2002,Time,,Năm 2002,thang_12_nam_2002,,,,approved
+TIME_000187,Ngày 25 tháng 2 năm 2025,Time,,25/02/2025|25-2-2025,ngay_25_thang_2_nam_2025,,,,approved
+TIME_000188,Ngày 29 tháng 1 năm 2026,Time,,29/01/2026|29-1-2026,ngay_29_thang_1_nam_2026,,,,approved
+VALUE_000123,Hơn 42.000 mét vuông diện tích,Value,,"Diện tích trên 42.000 m²|Hơn 4,2 hecta",hon_42_000_met_vuong_dien_tich,42000,m²,minimum_area,approved

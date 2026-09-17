@@ -1,0 +1,746 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_vntrip_history",
+      "title": "Hoạt động vui chơi tại Công viên Nghĩa Đô Hà Nội",
+      "url": "https://www.vntrip.vn/cam-nang/cong-vien-nghia-do-5669",
+      "source_type": "tourism_information_website",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_tienphong_bridge",
+      "title": "Cầu đi bộ hình cây đàn lạ trong Công viên Nghĩa Đô",
+      "url": "https://tienphong.vn/cau-di-bo-hinh-cay-dan-la-trong-cong-vien-nghia-do-post1779203.tpo",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_skds_renovated_components",
+      "title": "Công viên Nghĩa Đô: Điểm đến mới lạ giữa lòng Hà Nội",
+      "url": "https://suckhoedoisong.vn/cong-vien-nghia-do-len-day-dan-giua-long-ha-noi-169251218233640508.htm",
+      "source_type": "state_news",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_tienphong_completion",
+      "title": "Diện mạo mới của Công viên Nghĩa Đô",
+      "url": "https://tienphong.vn/dien-mao-moi-cua-cong-vien-nghia-do-post1817546.tpo",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_government_inauguration",
+      "title": "Khánh thành Công viên Nghĩa Đô - Công trình cấp thành phố chào mừng thành công Đại hội XIV của Đảng",
+      "url": "https://thanglong.chinhphu.vn/khanh-thanh-cong-vien-nghia-do-cong-trinh-cap-thanh-pho-chao-mung-thanh-cong-dai-hoi-xiv-cua-dang-10326012917501381.htm",
+      "source_type": "central_government_portal",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Công viên Nghĩa Đô",
+      "aliases": [
+        "Công viên Nghĩa Đô Hà Nội",
+        "Nghĩa Đô Park"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Đường Nguyễn Văn Huyên, phường Nghĩa Đô, thành phố Hà Nội",
+      "match": "existing",
+      "existing_id": "ADDRESS_000032"
+    },
+    {
+      "key": "time_construction_2002",
+      "type": "Time",
+      "canonical_name": "Năm 2002",
+      "aliases": [
+        "2002"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "value_park_area",
+      "type": "Value",
+      "canonical_name": "Hơn 42.000 mét vuông diện tích",
+      "aliases": [
+        "Diện tích trên 42.000 m²",
+        "Hơn 4,2 hecta"
+      ],
+      "numeric_value": 42000,
+      "unit": "m²",
+      "value_kind": "minimum_area",
+      "match": "new"
+    },
+    {
+      "key": "category_urban_park",
+      "type": "TourismCategory",
+      "canonical_name": "Công viên đô thị",
+      "match": "existing",
+      "existing_id": "CATEGORY_000020"
+    },
+    {
+      "key": "category_public_green_space",
+      "type": "TourismCategory",
+      "canonical_name": "Không gian xanh công cộng",
+      "match": "existing",
+      "existing_id": "CATEGORY_000020"
+    },
+    {
+      "key": "lake",
+      "type": "Architecture",
+      "canonical_name": "Hồ điều hòa",
+      "aliases": [
+        "Hồ nước Công viên Nghĩa Đô",
+        "Hồ cảnh quan"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "musical_bridge",
+      "type": "Architecture",
+      "canonical_name": "Cầu đi bộ hình cây đàn",
+      "aliases": [
+        "Cầu đi bộ hình cây đàn",
+        "Cầu cây đàn"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "central_square",
+      "type": "Architecture",
+      "canonical_name": "Quảng trường trung tâm",
+      "aliases": [
+        "Quảng trường trung tâm",
+        "Không gian quảng trường mở"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "children_playground",
+      "type": "Architecture",
+      "canonical_name": "Khu vực vui chơi dành cho trẻ em",
+      "match": "existing",
+      "existing_id": "ARCH_000358"
+    },
+    {
+      "key": "sports_area",
+      "type": "Architecture",
+      "canonical_name": "Khu thể dục thể thao",
+      "match": "existing",
+      "existing_id": "ARCH_000356"
+    },
+    {
+      "key": "walking_paths",
+      "type": "Architecture",
+      "canonical_name": "Hệ thống đường dạo",
+      "match": "existing",
+      "existing_id": "ARCH_000359"
+    },
+    {
+      "key": "lighting_system",
+      "type": "Architecture",
+      "canonical_name": "Hệ thống chiếu sáng",
+      "aliases": ["Hệ thống đèn chiếu sáng"],
+      "match": "new"
+    },
+    {
+      "key": "guard_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà bảo vệ",
+      "match": "new"
+    },
+    {
+      "key": "operation_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà điều hành",
+      "match": "new"
+    },
+    {
+      "key": "public_toilets",
+      "type": "Architecture",
+      "canonical_name": "Khu vệ sinh công cộng",
+      "aliases": ["Khu vệ sinh"],
+      "match": "new"
+    },
+    {
+      "key": "service_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà dịch vụ",
+      "aliases": [
+        "Khu nhà dịch vụ"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "waste_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà tập kết rác",
+      "aliases": ["Điểm tập kết rác trong công viên"],
+      "match": "new"
+    },
+    {
+      "key": "material_structural_steel",
+      "type": "Material",
+      "canonical_name": "Thép định hình",
+      "aliases": [
+        "Kết cấu thép định hình"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "material_reinforced_concrete",
+      "type": "Material",
+      "canonical_name": "Bê tông cốt thép",
+      "aliases": ["Kết cấu bê tông cốt thép"],
+      "match": "existing",
+      "existing_id": "MATERIAL_000005"  
+    },
+    {
+      "key": "material_faux_wood_plastic",
+      "type": "Material",
+      "canonical_name": "Tấm nhựa giả gỗ",
+      "aliases": [
+        "Vật liệu nhựa giả gỗ"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "activity_walking",
+      "type": "Activity",
+      "canonical_name": "Đi bộ và dạo chơi",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000069"  
+    },
+    {
+      "key": "activity_exercise",
+      "type": "Activity",
+      "canonical_name": "Tập thể dục",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000068" 
+    },
+    {
+      "key": "activity_children_play",
+      "type": "Activity",
+      "canonical_name": "Vui chơi dành cho trẻ em",
+      "aliases": ["Hoạt động vui chơi trẻ em"],
+      "match": "existing",
+      "existing_id": "ACTIVITY_000071" 
+    },
+    {
+      "key": "activity_community",
+      "type": "Activity",
+      "canonical_name": "Sinh hoạt cộng đồng ngoài trời",
+      "aliases": [
+        "Tổ chức hoạt động cộng đồng",
+        "Hoạt động ngoài trời"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "activity_sightseeing",
+      "type": "Activity",
+      "canonical_name": "Tham quan và chụp ảnh",
+      "aliases": [
+        "Tham quan công viên",
+        "Chụp ảnh tại cầu cây đàn"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "time_renovation_start",
+      "type": "Time",
+      "canonical_name": "Ngày 25 tháng 2 năm 2025",
+      "aliases": [
+        "25/02/2025",
+        "25-2-2025"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "event_renovation",
+      "type": "Event",
+      "canonical_name": "Cải tạo, sửa chữa Công viên Nghĩa Đô",
+      "aliases": [
+        "Dự án cải tạo Công viên Nghĩa Đô",
+        "Đợt sửa chữa Công viên Nghĩa Đô năm 2025"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "event_inauguration",
+      "type": "Event",
+      "canonical_name": "Khánh thành công trình cải tạo Công viên Nghĩa Đô",
+      "aliases": [
+        "Lễ khánh thành Công viên Nghĩa Đô",
+        "Lễ gắn biển công trình cải tạo Công viên Nghĩa Đô"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "time_inauguration",
+      "type": "Time",
+      "canonical_name": "Ngày 29 tháng 1 năm 2026",
+      "aliases": [
+        "29/01/2026",
+        "29-1-2026"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "status_city_project",
+      "type": "HeritageStatus",
+      "canonical_name": "Công trình cấp Thành phố chào mừng thành công Đại hội XIV của Đảng",
+      "aliases": [
+        "Công trình chào mừng Đại hội XIV cấp Thành phố",
+        "Công trình gắn biển cấp Thành phố"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "org_nghia_do_ward",
+      "type": "Organization",
+      "canonical_name": "Chính quyền phường Nghĩa Đô",
+      "aliases": [
+        "Phường Nghĩa Đô",
+        "UBND phường Nghĩa Đô"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "person_nguyen_thanh_tung",
+      "type": "Person",
+      "canonical_name": "Nguyễn Thanh Tùng",
+      "aliases": [
+        "Trung tướng Nguyễn Thanh Tùng"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "role_hanoi_police_director",
+      "type": "Role",
+      "canonical_name": "Giám đốc Công an thành phố Hà Nội",
+      "aliases": [
+        "Giám đốc Công an TP Hà Nội"
+      ],
+      "match": "new"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address_and_area",
+      "source": "src_tienphong_bridge",
+      "topic": "address_and_area",
+      "normalized_text": "Công viên Nghĩa Đô nằm tại đường Nguyễn Văn Huyên, phường Nghĩa Đô, thành phố Hà Nội, với diện tích hơn 42.000 mét vuông.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_initial_construction",
+      "source": "src_vntrip_history",
+      "topic": "initial_construction",
+      "normalized_text": "Dự án xây dựng Công viên Nghĩa Đô được phê duyệt và bắt đầu triển khai xây dựng vào năm 2002.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_categories",
+      "source": "src_government_inauguration",
+      "topic": "park_categories",
+      "normalized_text": "Công viên Nghĩa Đô là một công viên đô thị và không gian xanh công cộng phục vụ cộng đồng dân cư phường Nghĩa Đô và thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_landscape_components",
+      "source": "src_skds_renovated_components",
+      "topic": "landscape_and_activity_components",
+      "normalized_text": "Các hạng mục cảnh quan và hoạt động của Công viên Nghĩa Đô gồm hồ điều hòa, cầu đi bộ hình cây đàn, quảng trường trung tâm, khu vui chơi trẻ em, khu tập luyện thể dục thể thao và hệ thống đường dạo.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_infrastructure_components",
+      "source": "src_government_inauguration",
+      "topic": "supporting_infrastructure",
+      "normalized_text": "Công viên Nghĩa Đô có hệ thống chiếu sáng, nhà bảo vệ, nhà điều hành, khu vệ sinh công cộng, nhà dịch vụ và nhà tập kết rác phục vụ quản lý, vận hành và sử dụng công viên.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_bridge_materials",
+      "source": "src_tienphong_bridge",
+      "topic": "bridge_materials",
+      "normalized_text": "Cầu đi bộ hình cây đàn trong Công viên Nghĩa Đô sử dụng kết cấu thép định hình; móng và trụ cầu được làm bằng bê tông cốt thép; mặt cầu hoàn thiện bằng tấm nhựa giả gỗ trên sàn thép.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_visitor_activities",
+      "source": "src_skds_renovated_components",
+      "topic": "visitor_activities",
+      "normalized_text": "Công viên Nghĩa Đô phục vụ các hoạt động đi bộ, tập luyện thể dục thể thao, vui chơi dành cho trẻ em, sinh hoạt cộng đồng ngoài trời, tham quan và chụp ảnh.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_component_functions",
+      "source": "src_skds_renovated_components",
+      "topic": "component_functions",
+      "normalized_text": "Hệ thống đường dạo của Công viên Nghĩa Đô được sử dụng cho hoạt động đi bộ; khu tập luyện phục vụ thể dục thể thao; khu vui chơi phục vụ trẻ em; quảng trường trung tâm phục vụ sinh hoạt cộng đồng ngoài trời.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_bridge_function",
+      "source": "src_tienphong_bridge",
+      "topic": "bridge_function",
+      "normalized_text": "Cầu đi bộ hình cây đàn trong Công viên Nghĩa Đô kết nối các lối đi qua hồ, đồng thời phục vụ người dân và du khách tham quan, chụp ảnh.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_start",
+      "source": "src_tienphong_completion",
+      "topic": "renovation_start",
+      "normalized_text": "Công viên Nghĩa Đô bắt đầu được cải tạo, sửa chữa vào ngày 25 tháng 2 năm 2025; dự án nâng cấp các cổng, hàng rào, hồ nước, khu vui chơi, khu thể thao, đường dạo và các công trình phục vụ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_inauguration_and_status",
+      "source": "src_government_inauguration",
+      "topic": "inauguration_and_city_designation",
+      "normalized_text": "Ngày 29 tháng 1 năm 2026, công trình cải tạo, sửa chữa Công viên Nghĩa Đô được khánh thành và gắn biển Công trình cấp Thành phố chào mừng thành công Đại hội đại biểu toàn quốc lần thứ XIV của Đảng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_management_and_person",
+      "source": "src_government_inauguration",
+      "topic": "management_and_inauguration_participant",
+      "normalized_text": "Chính quyền phường Nghĩa Đô được yêu cầu nâng cao trách nhiệm quản lý, khai thác, bảo vệ cảnh quan, cây xanh và vệ sinh môi trường tại Công viên Nghĩa Đô; Nguyễn Thanh Tùng, Giám đốc Công an thành phố Hà Nội, tham dự và phát biểu tại lễ khánh thành công trình ngày 29 tháng 1 năm 2026.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {
+      "source": "place",
+      "relation": "HAS_ADDRESS",
+      "target": "address",
+      "evidence": ["ev_address_and_area"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "address_precision": "street_bounding_area"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "BUILT_IN",
+      "target": "time_construction_2002",
+      "evidence": ["ev_initial_construction"],
+      "confidence": 0.86,
+      "qualifiers": {
+        "construction_phase": "initial_construction",
+        "needs_historical_verification": true
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_park_area",
+      "evidence": ["ev_address_and_area"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "measurement_kind": "minimum_area"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_urban_park",
+      "evidence": ["ev_categories"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_public_green_space",
+      "evidence": ["ev_categories"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "lake",
+      "evidence": ["ev_landscape_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "musical_bridge",
+      "evidence": ["ev_landscape_components", "ev_bridge_materials"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "central_square",
+      "evidence": ["ev_landscape_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "children_playground",
+      "evidence": ["ev_landscape_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "sports_area",
+      "evidence": ["ev_landscape_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "walking_paths",
+      "evidence": ["ev_landscape_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "lighting_system",
+      "evidence": ["ev_infrastructure_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "guard_house",
+      "evidence": ["ev_infrastructure_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "operation_house",
+      "evidence": ["ev_infrastructure_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "public_toilets",
+      "evidence": ["ev_infrastructure_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "service_house",
+      "evidence": ["ev_infrastructure_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "waste_house",
+      "evidence": ["ev_infrastructure_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "musical_bridge",
+      "relation": "BUILT_WITH",
+      "target": "material_structural_steel",
+      "evidence": ["ev_bridge_materials"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "bridge_structure"
+      }
+    },
+    {
+      "source": "musical_bridge",
+      "relation": "BUILT_WITH",
+      "target": "material_reinforced_concrete",
+      "evidence": ["ev_bridge_materials"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "foundation_and_piers"
+      }
+    },
+    {
+      "source": "musical_bridge",
+      "relation": "BUILT_WITH",
+      "target": "material_faux_wood_plastic",
+      "evidence": ["ev_bridge_materials"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "bridge_surface"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_walking",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_exercise",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_children_play",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_community",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_sightseeing",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "walking_paths",
+      "relation": "USED_FOR",
+      "target": "activity_walking",
+      "evidence": ["ev_component_functions"],
+      "confidence": 1.0
+    },
+    {
+      "source": "sports_area",
+      "relation": "USED_FOR",
+      "target": "activity_exercise",
+      "evidence": ["ev_component_functions"],
+      "confidence": 1.0
+    },
+    {
+      "source": "children_playground",
+      "relation": "USED_FOR",
+      "target": "activity_children_play",
+      "evidence": ["ev_component_functions"],
+      "confidence": 1.0
+    },
+    {
+      "source": "central_square",
+      "relation": "USED_FOR",
+      "target": "activity_community",
+      "evidence": ["ev_component_functions"],
+      "confidence": 1.0
+    },
+    {
+      "source": "musical_bridge",
+      "relation": "USED_FOR",
+      "target": "activity_sightseeing",
+      "evidence": ["ev_bridge_function"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_IN",
+      "target": "time_renovation_start",
+      "evidence": ["ev_renovation_start"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "renovation_phase": "start"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "event_renovation",
+      "evidence": ["ev_renovation_start"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_renovation",
+      "relation": "OCCURRED_IN",
+      "target": "time_renovation_start",
+      "evidence": ["ev_renovation_start"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "event_inauguration",
+      "evidence": ["ev_inauguration_and_status"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_inauguration",
+      "relation": "OCCURRED_IN",
+      "target": "time_inauguration",
+      "evidence": ["ev_inauguration_and_status"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_inauguration",
+      "relation": "INVOLVED_PERSON",
+      "target": "person_nguyen_thanh_tung",
+      "evidence": ["ev_management_and_person"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "participation": "attendee_and_speaker"
+      }
+    },
+    {
+      "source": "person_nguyen_thanh_tung",
+      "relation": "HELD_ROLE",
+      "target": "role_hanoi_police_director",
+      "evidence": ["ev_management_and_person"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "as_of": "2026-01-29"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "MANAGED_BY",
+      "target": "org_nghia_do_ward",
+      "evidence": ["ev_management_and_person"],
+      "confidence": 0.88,
+      "qualifiers": {
+        "management_scope": "operation_landscape_security_and_sanitation"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_AS",
+      "target": "status_city_project",
+      "evidence": ["ev_inauguration_and_status"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "designation_scope": "renovation_project_not_heritage_ranking"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_IN",
+      "target": "time_inauguration",
+      "evidence": ["ev_inauguration_and_status"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "designation": "Công trình cấp Thành phố chào mừng thành công Đại hội XIV của Đảng"
+      }
+    }
+  ]
+}

@@ -1388,3 +1388,36 @@ ACTIVITY_000074,Tham quan triển lãm nghệ thuật,Activity,,Xem triển lãm
 ACTIVITY_000075,Tổ chức và xem biểu diễn ngoài trời,Activity,,Xem biểu diễn tại sân khấu ngoài trời,to_chuc_va_xem_bieu_dien_ngoai_troi,,,,approved
 ACTIVITY_000076,Cắm trại và dã ngoại,Activity,,Cắm trại|Tổ chức dã ngoại,cam_trai_va_da_ngoai,,,,approved
 ACTIVITY_000077,Đi bộ và thư giãn trong không gian xanh,Activity,,Đi dạo|Thư giãn ngoài trời,di_bo_va_thu_gian_trong_khong_gian_xanh,,,,approved
+PLACE_000061,Công viên Bách Thảo,Place,,Vườn Bách Thảo Hà Nội|Vườn Bách Thảo|Công viên Bách Thảo Hà Nội,cong_vien_bach_thao,,,,approved
+ADDRESS_000045,"Số 3 phố Hoàng Hoa Thám, phường Ba Đình, thành phố Hà Nội",Address,,,so_3_pho_hoang_hoa_tham_phuong_ba_dinh_thanh_pho_ha_noi,,,,approved
+TIME_000184,Năm 1890,Time,,1890,nam_1890,,,,approved
+VALUE_000122,Hơn 10 hecta diện tích,Value,,Diện tích hiện tại trên 10 ha,hon_10_hecta_dien_tich,10,ha,minimum_area,approved
+ARCH_000360,Khu sưu tập thực vật,Architecture,,Khu vườn thực vật|Không gian sưu tập cây Bách Thảo,khu_suu_tap_thuc_vat,,,,approved
+HOBJ_000154,Bộ sưu tập các loài cây bản địa quý hiếm,HeritageObject,,Các giống cây bản địa quý hiếm|Sưu tập cây bản địa,bo_suu_tap_cac_loai_cay_ban_dia_quy_hiem,,,,approved
+HOBJ_000155,Bộ sưu tập các loài cây nhập nội,HeritageObject,,Các loài cây nhập nội|Sưu tập cây từ nhiều châu lục,bo_suu_tap_cac_loai_cay_nhap_noi,,,,approved
+PLACE_000062,Hồ Vị Danh,Place,,,ho_vi_danh,,,,approved
+PLACE_000063,Núi Sưa,Place,,,nui_sua,,,,approved
+ARCH_000361,Đền Núi Sưa,Architecture,,Đền thờ Huyền Thiên Hắc Đế|Sưa Sơn Linh Từ|Khán Sơn Đình,den_nui_sua,,,,approved
+ARCH_000362,Vườn tượng nghệ thuật,Architecture,,Khu vườn tượng,vuon_tuong_nghe_thuat,,,,approved
+PLACE_000064,Đảo tròn trong hồ Công viên Bách Thảo,Place,,Đảo tròn|Đảo tròn trong hồ,dao_tron_trong_ho_cong_vien_bach_thao,,,,approved
+ARCH_000363,Cầu nối ra đảo tròn,Architecture,,Cầu gỗ ra đảo tròn|Cầu nối đảo tròn,cau_noi_ra_dao_tron,,,,approved
+ARCH_000364,Khu nuôi chim công,Architecture,,Khu vực nuôi chim công|Lồng chim công,khu_nuoi_chim_cong,,,,approved
+CATEGORY_000024,Vườn thực vật,TourismCategory,,Vườn bách thảo,vuon_thuc_vat,,,,approved
+ACTIVITY_000078,Tham quan và tìm hiểu thực vật,Activity,,Tham quan cây xanh|Nghiên cứu các loài thực vật,tham_quan_va_tim_hieu_thuc_vat,,,,approved
+ACTIVITY_000079,Dâng hương tưởng niệm,Activity,,Dâng hương tại Đền Núi Sưa|Thực hành tín ngưỡng tại Đền Núi Sưa,dang_huong_tuong_niem,,,,approved
+ORG_000035,Chính quyền thực dân Pháp tại Hà Nội,Organization,,Người Pháp tại Hà Nội thời thuộc địa|Chính quyền Pháp ở Hà Nội,chinh_quyen_thuc_dan_phap_tai_ha_noi,,,,approved
+ORG_000036,Công ty trách nhiệm hữu hạn một thành viên Công viên cây xanh Hà Nội,Organization,,Công ty TNHH MTV Công viên cây xanh Hà Nội|Xí nghiệp Quản lý công viên cây xanh số 3,cong_ty_trach_nhiem_huu_han_mot_thanh_vien_cong_vien_cay_xanh_ha_noi,,,,approved
+PERSON_000086,Huyền Thiên Hắc Đế,Person,,Đức Thánh Huyền Thiên Hắc Đế|Hắc Công|Huyền Thiên Hắc Đế Thượng đẳng phúc thần,huyen_thien_hac_de,,,,approved
+ROLE_000016,Hoàng đế triều Lý,Role,,Vua nhà Lý,hoang_de_trieu_ly,,,,approved
+HSTATUS_000013,"Di tích Lịch sử văn hóa, Kiến trúc - Nghệ thuật cấp Thành phố",HeritageStatus,,Di tích cấp Thành phố|Di tích lịch sử văn hóa và kiến trúc nghệ thuật cấp thành phố,di_tich_lich_su_van_hoa_kien_truc_nghe_thuat_cap_thanh_pho,,,,approved
+MATERIAL_000019,Bê tông giả gỗ,Material,,Kết cấu bê tông giả gỗ,be_tong_gia_go,,,,approved
+ASTYLE_000021,Kiến trúc truyền thống Bắc Bộ,ArchitecturalStyle,,Phong cách truyền thống Bắc Bộ,kien_truc_truyen_thong_bac_bo,,,,approved
+HPERIOD_000004,Thời kỳ Pháp thuộc,HistoricalPeriod,,Thời Pháp thuộc|Giai đoạn thuộc địa Pháp,thoi_ky_phap_thuoc,,,,approved
+EVENT_000115,Lễ kỷ niệm ngày hóa Đức Thánh Huyền Thiên Hắc Đế,Event,,Lễ hội Đền Núi Sưa năm 2024|Lễ kỷ niệm tại Đền Núi Sưa năm 2024,le_ky_niem_ngay_hoa_duc_thanh_huyen_thien_hac_de,,,,approved
+TIME_000185,Ngày 21 tháng 12 năm 2024,Time,,21/12/2024|21-12-2024,ngay_21_thang_12_nam_2024,,,,approved
+PERSON_000087,Tạ Nam Chiến,Person,,Ông Tạ Nam Chiến,ta_nam_chien,,,,approved
+ROLE_000017,Chủ tịch Ủy ban nhân dân quận Ba Đình,Role,,Chủ tịch UBND quận Ba Đình,chu_tich_uy_ban_nhan_dan_quan_ba_dinh,,,,approved
+PERSON_000088,Hoàng Minh Dũng Tiến,Person,,Ông Hoàng Minh Dũng Tiến,hoang_minh_dung_tien,,,,approved
+ROLE_000018,Bí thư Quận ủy Ba Đình,Role,,Bí thư Quận uỷ Ba Đình,bi_thu_quan_uy_ba_dinh,,,,approved
+EVENT_000116,"Hạ hàng rào ,mở không gian Công viên Bách Thảo",Event,,Hạ rào Công viên Bách Thảo|Mở không gian Công viên Bách Thảo năm 2026,ha_hang_rao_mo_khong_gian_cong_vien_bach_thao,,,,approved
+TIME_000186,Ngày 27 tháng 1 năm 2026,Time,,27/01/2026|27-1-2026,ngay_27_thang_1_nam_2026,,,,approved

@@ -1302,7 +1302,7 @@ TIME_000173,Ngày 28 tháng 11 năm 1958,Time,,28/11/1958|28-11-1958,ngay_28_tha
 TIME_000174,Ngày 30 tháng 5 năm 1961,Time,,30/05/1961|30-5-1961,ngay_30_thang_5_nam_1961,,,,approved
 TIME_000175,Ngày 11 tháng 1 năm 1960,Time,,11/01/1960|11-1-1960,ngay_11_thang_1_nam_1960,,,,approved
 TIME_000176,Tháng 12 năm 2022,Time,,Cuối năm 2022,thang_12_nam_2022,,,,approved
-TIME_000177,Tháng 3 năm 2025,Time,,03/2025,thang_3_nam_2025,,,,approved
+TIME_000177,Tháng 3 năm 2025,Time,,Mar-25,thang_3_nam_2025,,,,approved
 PLACE_000054,Hồ Bảy Mẫu,Place,,Hồ 7 Mẫu,ho_bay_mau,,,,approved
 PLACE_000055,Đảo Hòa Bình,Place,,Đảo Hòa Bình trong Hồ Bảy Mẫu,dao_hoa_binh,,,,approved
 PLACE_000056,Đảo Thống Nhất,Place,,Đảo Thống Nhất trong Hồ Bảy Mẫu,dao_thong_nhat,,,,approved
@@ -1358,7 +1358,7 @@ ADDRESS_000044,"Quốc lộ 1A, phường Yên Sở, thành phố Hà Nội",Add
 TIME_000180,Năm 2007,Time,,2007,nam_2007,,,,approved
 TIME_000181,Ngày 4 tháng 4 năm 2014,Time,,04/04/2014|4-4-2014,ngay_4_thang_4_nam_2014,,,,approved
 TIME_000182,Ngày 10 tháng 2 năm 2026,Time,,10/02/2026|10-2-2026,ngay_10_thang_2_nam_2026,,,,approved
-TIME_000183,Tháng 2 năm 2026,Time,,02/2026,thang_2_nam_2026,,,,approved
+TIME_000183,Tháng 2 năm 2026,Time,,Feb-26,thang_2_nam_2026,,,,approved
 PLACE_000060,Cụm năm hồ Yên Sở,Place,,Hệ thống năm hồ điều hòa Yên Sở|Năm hồ Yên Sở,cum_nam_ho_yen_so,,,,approved
 ARCH_000351,Nhà triển lãm nghệ thuật,Architecture,,,nha_trien_lam_nghe_thuat,,,,approved
 ARCH_000352,Nhà thuyền Công viên Yên Sở,Architecture,,Nhà thuyền,nha_thuyen_cong_vien_yen_so,,,,approved
@@ -1423,7 +1423,7 @@ EVENT_000116,"Hạ hàng rào ,mở không gian Công viên Bách Thảo",Event,
 TIME_000186,Ngày 27 tháng 1 năm 2026,Time,,27/01/2026|27-1-2026,ngay_27_thang_1_nam_2026,,,,approved
 PLACE_000065,Công viên Nghĩa Đô,Place,,Công viên Nghĩa Đô Hà Nội|Nghĩa Đô Park,cong_vien_nghia_do,,,,approved
 VALUE_000123,Hơn 42.000 mét vuông diện tích,Value,,"Diện tích trên 42.000 m²|Hơn 4,2 hecta",hon_42_000_met_vuong_dien_tich,42000,m²,minimum_area,approved
-ARCH_000365,Hồ điều hòa,Architecture,,Hồ nước Công viên Nghĩa Đô|Hồ cảnh quan,ho_dieu_hoa,,,,approved
+ARCH_000365,Hồ điều hòa,Architecture,,Hồ nước|Hồ cảnh quan,ho_dieu_hoa,,,,approved
 ARCH_000366,Cầu đi bộ hình cây đàn,Architecture,,Cầu đi bộ hình cây đàn|Cầu cây đàn,cau_di_bo_hinh_cay_dan,,,,approved
 ARCH_000367,Quảng trường trung tâm,Architecture,,Quảng trường trung tâm|Không gian quảng trường mở,quang_truong_trung_tam,,,,approved
 ARCH_000368,Hệ thống chiếu sáng,Architecture,,Hệ thống đèn chiếu sáng,he_thong_chieu_sang,,,,approved
@@ -1478,3 +1478,27 @@ ROLE_000020,Phó Chủ tịch nước Việt Nam,Role,,Phó Chủ tịch nước
 ROLE_000021,Chủ tịch Ủy ban nhân dân thành phố Hà Nội,Role,,Chủ tịch UBND thành phố Hà Nội,chu_tich_uy_ban_nhan_dan_thanh_pho_ha_noi,,,,approved
 ROLE_000022,Nhà thơ Nga,Role,,Đại thi hào Nga,nha_tho_nga,,,,approved
 ROLE_000023,Nhà điêu khắc,Role,,Nghệ sĩ điêu khắc,nha_dieu_khac,,,,approved
+PLACE_000067,Công viên Cầu Giấy,Place,,Công viên Yên Hòa,cong_vien_cau_giay,,,,approved
+ADDRESS_000047,"Đường Thành Thái, phường Cầu Giấy, thành phố Hà Nội",Address,,,duong_thanh_thai_phuong_cau_giay_thanh_pho_ha_noi,,,,approved
+TIME_000192,Năm 2014,Time,,2014,nam_2014,,,,approved
+TIME_000193,Tháng 2 năm 2025,Time,,02/2025,thang_2_nam_2025,,,,approved
+TIME_000194,Tháng 10 năm 2025,Time,,10/2025,thang_10_nam_2025,,,,approved
+TIME_000195,Ngày 11 tháng 10 năm 2025,Time,,11/10/2025|11-10-2025,ngay_11_thang_10_nam_2025,,,,approved
+VALUE_000132,95.282 mét vuông diện tích,Value,,Hơn 95.000 m² diện tích công trình|95.282 m²,95_282_met_vuong_dien_tich,95282,m²,area,approved
+VALUE_000133,14.808 mét vuông diện tích,Value,,14.808 m² diện tích hồ|14.808 m²,14_808_met_vuong_dien_tich,14808,m²,area,approved
+ARCH_000380,Lối vào chính,Architecture,,,loi_vao_chinh,,,,approved
+ARCH_000381,Đài phun nước nghệ thuật,Architecture,,,dai_phun_nuoc_nghe_thuat,,,,approved
+ARCH_000382,Nhà chòi nghỉ,Architecture,,Chòi nghỉ|Nhà nghỉ chân,nha_choi_nghi,,,,approved
+MATERIAL_000024,Bê tông đá mài,Material,,Bê tông phủ đá mài,be_tong_da_mai,,,,approved
+MATERIAL_000025,Đá ốp,Material,,,da_op,,,,approved
+CATEGORY_000025,Công viên công cộng,TourismCategory,,Công viên phục vụ cộng đồng,cong_vien_cong_cong,,,,approved
+EVENT_000121,"Cải tạo, sửa chữa Công viên Cầu Giấy",Event,,Đợt chỉnh trang Công viên Cầu Giấy,cai_tao_sua_chua_cong_vien_cau_giay,,,,approved
+EVENT_000122,Lễ gắn biển công trình Công viên Cầu Giấy,Event,,Lễ khánh thành và gắn biển Công viên Cầu Giấy,le_gan_bien_cong_trinh_cong_vien_cau_giay,,,,approved
+HSTATUS_000016,Công trình chào mừng 71 năm Ngày Giải phóng Thủ đô,HeritageStatus,,Công trình tiêu biểu chào mừng 71 năm Giải phóng Thủ đô,cong_trinh_chao_mung_71_nam_ngay_giai_phong_thu_do,,,,approved
+ORG_000038,Ủy ban nhân dân phường Cầu Giấy,Organization,,UBND phường Cầu Giấy,uy_ban_nhan_dan_phuong_cau_giay,,,,approved
+ORG_000039,Ban Quản lý Dự án Đầu tư - Hạ tầng phường Cầu Giấy,Organization,,Ban Quản lý dự án đầu tư - hạ tầng phường Cầu Giấy,ban_quan_ly_du_an_dau_tu_ha_tang_phuong_cau_giay,,,,approved
+ORG_000040,Công ty Cổ phần Xây dựng và Môi trường Hà Nội,Organization,,Công ty CP Xây dựng và Môi trường Hà Nội,cong_ty_co_phan_xay_dung_va_moi_truong_ha_noi,,,,approved
+ORG_000041,Công ty Cổ phần Tư vấn Đầu tư Xây dựng Hà Thành,Organization,,Công ty CP Tư vấn Đầu tư Xây dựng Hà Thành,cong_ty_co_phan_tu_van_dau_tu_xay_dung_ha_thanh,,,,approved
+PERSON_000094,Dương Đức Tuấn,Person,,Ông Dương Đức Tuấn,duong_duc_tuan,,,,approved
+PERSON_000095,Ngô Ngọc Phương,Person,,Ông Ngô Ngọc Phương,ngo_ngoc_phuong,,,,approved
+ROLE_000024,Chủ tịch Ủy ban nhân dân phường Cầu Giấy,Role,,Chủ tịch UBND phường Cầu Giấy,chu_tich_uy_ban_nhan_dan_phuong_cau_giay,,,,approved

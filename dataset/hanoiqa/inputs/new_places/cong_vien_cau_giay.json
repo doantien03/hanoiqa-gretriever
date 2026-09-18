@@ -1,0 +1,481 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_vtv_renovation_2025",
+      "title": "Cải tạo công viên Cầu Giấy (Hà Nội): Khôi phục không gian xanh",
+      "url": "https://vtv.vn/xa-hoi/cai-tao-cong-vien-cau-giay-ha-noi-khoi-phuc-khong-gian-xanh-20250318090637369.htm",
+      "source_type": "national_television_news",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vov_renovation_2025",
+      "title": "Công viên Cầu Giấy đang dần lột xác sau hơn 3 tháng cải tạo",
+      "url": "https://vov.gov.vn/cong-vien-cau-giay-dang-dan-lot-xac-sau-hon-3-thang-cai-tao-dtnew-1087848",
+      "source_type": "national_radio_news",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vnexpress_after_renovation",
+      "title": "Công viên Hà Nội lột xác sau chỉnh trang",
+      "url": "https://vnexpress.net/cong-vien-ha-noi-lot-xac-sau-chinh-trang-5001521.html",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_signboard_2025",
+      "title": "Gắn biển công trình Công viên Cầu Giấy mừng 71 năm Giải phóng Thủ đô",
+      "url": "https://nguoihanoi.vn/gan-bien-cong-trinh-cong-vien-cau-giay-mung-71-nam-giai-phong-thu-do-93517.html",
+      "source_type": "local_culture_news",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_official_signboard_plan",
+      "title": "Kế hoạch tổ chức gắn biển công trình cải tạo, sửa chữa Công viên Cầu Giấy",
+      "url": "https://datafiles.hanoi.gov.vn/gov-hni/6961/VanBan/2025/10/8/KH%20g%E1%BA%AFn%20bi%E1%BB%83n%20c%C3%B4ng%20tr%C3%ACnh%20CV%20C%E1%BA%A6U%20GI%E1%BA%A4Y.pdf",
+      "source_type": "local_government_document",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Văn bản cơ quan nhà nước; lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Công viên Cầu Giấy",
+      "aliases": ["Công viên Yên Hòa"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Đường Thành Thái, phường Cầu Giấy, thành phố Hà Nội",
+      "match": "auto"
+    },
+    {
+      "key": "time_2014",
+      "type": "Time",
+      "canonical_name": "Năm 2014",
+      "aliases": ["2014"],
+      "match": "auto"
+    },
+    {
+      "key": "time_february_2025",
+      "type": "Time",
+      "canonical_name": "Tháng 2 năm 2025",
+      "aliases": ["02/2025"],
+      "match": "auto"
+    },
+    {
+      "key": "time_october_2025",
+      "type": "Time",
+      "canonical_name": "Tháng 10 năm 2025",
+      "aliases": ["10/2025"],
+      "match": "auto"
+    },
+    {
+      "key": "time_11_october_2025",
+      "type": "Time",
+      "canonical_name": "Ngày 11 tháng 10 năm 2025",
+      "aliases": ["11/10/2025", "11-10-2025"],
+      "match": "auto"
+    },
+    {
+      "key": "value_project_area",
+      "type": "Value",
+      "canonical_name": "95.282 mét vuông diện tích",
+      "aliases": ["Hơn 95.000 m² diện tích công trình", "95.282 m²"],
+      "numeric_value": 95282,
+      "unit": "m²",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_lake_area",
+      "type": "Value",
+      "canonical_name": "14.808 mét vuông diện tích",
+      "aliases": ["14.808 m² diện tích hồ", "14.808 m²"],
+      "numeric_value": 14808,
+      "unit": "m²",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "children_playground",
+      "type": "Architecture",
+      "canonical_name": "Khu vực vui chơi dành cho trẻ em",
+      "match": "existing",
+      "existing_id": "ARCH_000358"
+    },
+    {
+      "key": "sports_area",
+      "type": "Architecture",
+      "canonical_name": "Khu thể dục thể thao",
+      "match": "existing",
+      "existing_id": "ARCH_000356"
+    },
+    {
+      "key": "lake",
+      "type": "Architecture",
+      "canonical_name": "Hồ điều hòa",
+      "match": "existing",
+      "existing_id": "ARCH_000365"
+    },
+    {
+      "key": "central_square",
+      "type": "Architecture",
+      "canonical_name": "Quảng trường trung tâm",
+      "match": "existing",
+      "existing_id": "ARCH_000367"
+    },
+    {
+      "key": "main_gate",
+      "type": "Architecture",
+      "canonical_name": "Lối vào chính",
+      "match": "new"
+    },
+    {
+      "key": "artistic_fountain",
+      "type": "Architecture",
+      "canonical_name": "Đài phun nước nghệ thuật",
+      "match": "new"
+    },
+    {
+      "key": "internal_paths",
+      "type": "Architecture",
+      "canonical_name": "Hệ thống đường dạo",
+      "match": "existing",
+      "existing_id": "ARCH_000359"
+    },
+    {
+      "key": "rest_shelter",
+      "type": "Architecture",
+      "canonical_name": "Nhà chòi nghỉ",
+      "aliases": ["Chòi nghỉ", "Nhà nghỉ chân"],
+      "match": "new"
+    },
+    {
+      "key": "operation_house",
+      "type": "Architecture",
+      "canonical_name": "Nhà điều hành",
+      "match": "existing",
+      "existing_id": "ARCH_000370"
+    },
+    {
+      "key": "public_toilet",
+      "type": "Architecture",
+      "canonical_name": "Khu vệ sinh công cộng",
+      "match": "existing",
+      "existing_id": "ARCH_000371"
+    },
+    {
+      "key": "material_terrazzo_concrete",
+      "type": "Material",
+      "canonical_name": "Bê tông đá mài",
+      "aliases": ["Bê tông phủ đá mài"],
+      "match": "auto"
+    },
+    {
+      "key": "material_stone_cladding",
+      "type": "Material",
+      "canonical_name": "Đá ốp",
+      "match": "auto"
+    },
+    {
+      "key": "activity_children_play",
+      "type": "Activity",
+      "canonical_name": "Vui chơi dành cho trẻ em",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000071"
+    },
+    {
+      "key": "activity_exercise",
+      "type": "Activity",
+      "canonical_name": "Tập thể dục",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000068"
+    },
+    {
+      "key": "activity_community_recreation",
+      "type": "Activity",
+      "canonical_name": "Sinh hoạt cộng đồng ngoài trời",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000080"
+    },
+    {
+      "key": "category_public_park",
+      "type": "TourismCategory",
+      "canonical_name": "Công viên công cộng",
+      "aliases": ["Công viên phục vụ cộng đồng"],
+      "match": "auto"
+    },
+    {
+      "key": "category_urban_green_space",
+      "type": "TourismCategory",
+      "canonical_name": "Không gian xanh công cộng",
+      "match": "existing",
+      "existing_id": "CATEGORY_000021"
+    },
+    {
+      "key": "event_renovation_2025",
+      "type": "Event",
+      "canonical_name": "Cải tạo, sửa chữa Công viên Cầu Giấy",
+      "aliases": ["Đợt chỉnh trang Công viên Cầu Giấy"],
+      "match": "new"
+    },
+    {
+      "key": "event_signboard_2025",
+      "type": "Event",
+      "canonical_name": "Lễ gắn biển công trình Công viên Cầu Giấy",
+      "aliases": ["Lễ khánh thành và gắn biển Công viên Cầu Giấy"],
+      "match": "new"
+    },
+    {
+      "key": "status_commemorative_project",
+      "type": "HeritageStatus",
+      "canonical_name": "Công trình chào mừng 71 năm Ngày Giải phóng Thủ đô",
+      "aliases": ["Công trình tiêu biểu chào mừng 71 năm Giải phóng Thủ đô"],
+      "match": "new"
+    },
+    {
+      "key": "org_ubnd_cau_giay_ward",
+      "type": "Organization",
+      "canonical_name": "Ủy ban nhân dân phường Cầu Giấy",
+      "aliases": ["UBND phường Cầu Giấy"],
+      "match": "auto"
+    },
+    {
+      "key": "org_project_management_board",
+      "type": "Organization",
+      "canonical_name": "Ban Quản lý Dự án Đầu tư - Hạ tầng phường Cầu Giấy",
+      "aliases": ["Ban Quản lý dự án đầu tư - hạ tầng phường Cầu Giấy"],
+      "match": "auto"
+    },
+    {
+      "key": "org_hanoi_environment_construction",
+      "type": "Organization",
+      "canonical_name": "Công ty Cổ phần Xây dựng và Môi trường Hà Nội",
+      "aliases": ["Công ty CP Xây dựng và Môi trường Hà Nội"],
+      "match": "auto"
+    },
+    {
+      "key": "org_ha_thanh_consulting",
+      "type": "Organization",
+      "canonical_name": "Công ty Cổ phần Tư vấn Đầu tư Xây dựng Hà Thành",
+      "aliases": ["Công ty CP Tư vấn Đầu tư Xây dựng Hà Thành"],
+      "match": "auto"
+    },
+    {
+      "key": "person_duong_duc_tuan",
+      "type": "Person",
+      "canonical_name": "Dương Đức Tuấn",
+      "aliases": ["Ông Dương Đức Tuấn"],
+      "match": "auto"
+    },
+    {
+      "key": "person_ngo_ngoc_phuong",
+      "type": "Person",
+      "canonical_name": "Ngô Ngọc Phương",
+      "aliases": ["Ông Ngô Ngọc Phương"],
+      "match": "auto"
+    },
+    {
+      "key": "role_hanoi_vice_chairman",
+      "type": "Role",
+      "canonical_name": "Phó Chủ tịch Ủy ban nhân dân thành phố Hà Nội",
+      "match": "existing",
+      "existing_id": "ROLE_000011"
+    },
+    {
+      "key": "role_cau_giay_ward_chairman",
+      "type": "Role",
+      "canonical_name": "Chủ tịch Ủy ban nhân dân phường Cầu Giấy",
+      "aliases": ["Chủ tịch UBND phường Cầu Giấy"],
+      "match": "auto"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_official_signboard_plan",
+      "topic": "official_address",
+      "normalized_text": "Công viên Cầu Giấy có cổng chính tại phố Thành Thái, phường Cầu Giấy, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_inauguration_2014",
+      "source": "src_vtv_renovation_2025",
+      "topic": "inauguration_and_operation",
+      "normalized_text": "Công viên Cầu Giấy được khánh thành và đưa vào hoạt động từ năm 2014.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_project_measurements",
+      "source": "src_vtv_renovation_2025",
+      "topic": "renovation_project_measurements",
+      "normalized_text": "Phạm vi dự án cải tạo Công viên Cầu Giấy có diện tích 95.282 mét vuông, trong đó hồ nước Công viên Cầu Giấy có diện tích 14.808 mét vuông.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_categories",
+      "source": "src_signboard_2025",
+      "topic": "park_categories",
+      "normalized_text": "Công viên Cầu Giấy là công viên công cộng và không gian xanh đô thị phục vụ hoạt động vui chơi, thể thao và sinh hoạt cộng đồng của người dân.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_primary_components",
+      "source": "src_vtv_renovation_2025",
+      "topic": "primary_functional_components",
+      "normalized_text": "Các không gian chức năng chính của Công viên Cầu Giấy gồm Khu vui chơi trẻ em Công viên Cầu Giấy, Khu thể dục thể thao Công viên Cầu Giấy, Hồ nước Công viên Cầu Giấy và Quảng trường trung tâm Công viên Cầu Giấy.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_supporting_components",
+      "source": "src_signboard_2025",
+      "topic": "supporting_components",
+      "normalized_text": "Các hạng mục phụ trợ của Công viên Cầu Giấy gồm Hệ thống đường giao thông nội bộ Công viên Cầu Giấy, Nhà chòi nghỉ Công viên Cầu Giấy, Nhà điều hành Công viên Cầu Giấy và Nhà vệ sinh công cộng Công viên Cầu Giấy.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_entrance_components",
+      "source": "src_vnexpress_after_renovation",
+      "topic": "main_entrance_components",
+      "normalized_text": "Khu vực lối vào trên phố Thành Thái của Công viên Cầu Giấy gồm Cổng chính Công viên Cầu Giấy và Đài phun nước nghệ thuật Công viên Cầu Giấy.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_square_material",
+      "source": "src_vtv_renovation_2025",
+      "topic": "central_square_material",
+      "normalized_text": "Quảng trường trung tâm Công viên Cầu Giấy được cải tạo bằng bê tông đá mài và phủ lớp sơn tăng cứng chống rêu mốc.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_gate_material",
+      "source": "src_vtv_renovation_2025",
+      "topic": "main_gate_material",
+      "normalized_text": "Cổng chính Công viên Cầu Giấy được xây mới trụ và sử dụng đá ốp cho các trụ cổng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_children_area_use",
+      "source": "src_vnexpress_after_renovation",
+      "topic": "children_playground_use",
+      "normalized_text": "Khu vui chơi trẻ em Công viên Cầu Giấy có bể cát, khu vận động và cầu trượt, được sử dụng cho hoạt động vui chơi dành cho trẻ em.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_sports_area_use",
+      "source": "src_vtv_renovation_2025",
+      "topic": "sports_area_use",
+      "normalized_text": "Khu thể dục thể thao Công viên Cầu Giấy có thiết bị tập luyện ngoài trời và được sử dụng cho hoạt động tập thể dục, rèn luyện sức khỏe.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_square_use",
+      "source": "src_vnexpress_after_renovation",
+      "topic": "central_square_use",
+      "normalized_text": "Quảng trường trung tâm Công viên Cầu Giấy được sử dụng cho hoạt động vui chơi, tập luyện và sinh hoạt cộng đồng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_period",
+      "source": "src_vnexpress_after_renovation",
+      "topic": "renovation_period",
+      "normalized_text": "Sự kiện Cải tạo, sửa chữa Công viên Cầu Giấy năm 2025 bắt đầu vào tháng 2 năm 2025 và hoàn thành vào tháng 10 năm 2025.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_project_owner",
+      "source": "src_signboard_2025",
+      "topic": "renovation_project_owner",
+      "normalized_text": "Ban Quản lý Dự án Đầu tư – Hạ tầng phường Cầu Giấy là chủ đầu tư thực hiện dự án cải tạo, sửa chữa Công viên Cầu Giấy.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_contractors",
+      "source": "src_vtv_renovation_2025",
+      "topic": "renovation_contractors",
+      "normalized_text": "Công ty Cổ phần Xây dựng và Môi trường Hà Nội cùng Công ty Cổ phần Tư vấn Đầu tư Xây dựng Hà Thành là liên danh nhà thầu thực hiện việc cải tạo Công viên Cầu Giấy.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognition",
+      "source": "src_official_signboard_plan",
+      "topic": "commemorative_recognition",
+      "normalized_text": "Ngày 11 tháng 10 năm 2025, Ủy ban nhân dân phường Cầu Giấy tổ chức gắn biển Công viên Cầu Giấy là công trình chào mừng 71 năm Ngày Giải phóng Thủ đô và Đại hội đại biểu Đảng bộ thành phố Hà Nội lần thứ XVIII.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_signboard_event",
+      "source": "src_signboard_2025",
+      "topic": "signboard_event_people",
+      "normalized_text": "Lễ gắn biển công trình Công viên Cầu Giấy năm 2025 diễn ra ngày 11 tháng 10 năm 2025, có Dương Đức Tuấn và Ngô Ngọc Phương tham dự với tư cách lãnh đạo thành phố và phường Cầu Giấy.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_duong_duc_tuan_role",
+      "source": "src_signboard_2025",
+      "topic": "person_role",
+      "normalized_text": "Tại Lễ gắn biển công trình Công viên Cầu Giấy năm 2025, Dương Đức Tuấn giữ vai trò Phó Chủ tịch Ủy ban nhân dân thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_ngo_ngoc_phuong_role",
+      "source": "src_signboard_2025",
+      "topic": "person_role",
+      "normalized_text": "Tại Lễ gắn biển công trình Công viên Cầu Giấy năm 2025, Ngô Ngọc Phương giữ vai trò Chủ tịch Ủy ban nhân dân phường Cầu Giấy.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source":"place","relation":"HAS_ADDRESS","target":"address","evidence":["ev_address"],"confidence":1.0,"qualifiers":{"address_precision":"street_and_ward","entrance":"main"}},
+    {"source":"place","relation":"BUILT_IN","target":"time_2014","evidence":["ev_inauguration_2014"],"confidence":0.95,"qualifiers":{"construction_phase":"completion"}},
+    {"source":"place","relation":"ESTABLISHED_IN","target":"time_2014","evidence":["ev_inauguration_2014"],"confidence":0.9,"qualifiers":{"establishment_phase":"opened_to_public","question_generation":"disabled_to_avoid_duplicate"}},
+    {"source":"place","relation":"HAS_MEASUREMENT","target":"value_project_area","evidence":["ev_project_measurements"],"confidence":1.0,"qualifiers":{"measurement_kind":"area","measurement_scope":"renovation_project"}},
+    {"source":"lake","relation":"HAS_MEASUREMENT","target":"value_lake_area","evidence":["ev_project_measurements"],"confidence":1.0,"qualifiers":{"measurement_kind":"area"}},
+    {"source":"place","relation":"HAS_CATEGORY","target":"category_public_park","evidence":["ev_categories"],"confidence":1.0},
+    {"source":"place","relation":"HAS_CATEGORY","target":"category_urban_green_space","evidence":["ev_categories"],"confidence":1.0},
+    {"source":"place","relation":"HAS_COMPONENT","target":"children_playground","evidence":["ev_primary_components"],"confidence":1.0,"qualifiers":{"component_group":"primary_functional_space"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"sports_area","evidence":["ev_primary_components"],"confidence":1.0,"qualifiers":{"component_group":"primary_functional_space"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"lake","evidence":["ev_primary_components"],"confidence":1.0,"qualifiers":{"component_group":"primary_functional_space"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"central_square","evidence":["ev_primary_components"],"confidence":1.0,"qualifiers":{"component_group":"primary_functional_space"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"main_gate","evidence":["ev_entrance_components"],"confidence":1.0,"qualifiers":{"component_group":"main_entrance"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"artistic_fountain","evidence":["ev_entrance_components"],"confidence":1.0,"qualifiers":{"component_group":"main_entrance"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"internal_paths","evidence":["ev_supporting_components"],"confidence":1.0,"qualifiers":{"component_group":"supporting_work"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"rest_shelter","evidence":["ev_supporting_components"],"confidence":1.0,"qualifiers":{"component_group":"supporting_work"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"operation_house","evidence":["ev_supporting_components"],"confidence":1.0,"qualifiers":{"component_group":"supporting_work"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"public_toilet","evidence":["ev_supporting_components"],"confidence":1.0,"qualifiers":{"component_group":"supporting_work"}},
+    {"source":"central_square","relation":"BUILT_WITH","target":"material_terrazzo_concrete","evidence":["ev_square_material"],"confidence":1.0},
+    {"source":"main_gate","relation":"BUILT_WITH","target":"material_stone_cladding","evidence":["ev_gate_material"],"confidence":1.0,"qualifiers":{"material_scope":"gate_columns"}},
+    {"source":"children_playground","relation":"USED_FOR","target":"activity_children_play","evidence":["ev_children_area_use"],"confidence":1.0},
+    {"source":"sports_area","relation":"USED_FOR","target":"activity_exercise","evidence":["ev_sports_area_use"],"confidence":1.0},
+    {"source":"central_square","relation":"USED_FOR","target":"activity_community_recreation","evidence":["ev_square_use"],"confidence":1.0},
+    {"source":"place","relation":"HAS_EVENT","target":"event_renovation_2025","evidence":["ev_renovation_period"],"confidence":1.0},
+    {"source":"event_renovation_2025","relation":"OCCURRED_IN","target":"time_february_2025","evidence":["ev_renovation_period"],"confidence":1.0,"qualifiers":{"event_phase":"start"}},
+    {"source":"event_renovation_2025","relation":"OCCURRED_IN","target":"time_october_2025","evidence":["ev_renovation_period"],"confidence":1.0,"qualifiers":{"event_phase":"completion"}},
+    {"source":"place","relation":"RENOVATED_IN","target":"time_february_2025","evidence":["ev_renovation_period"],"confidence":1.0,"qualifiers":{"renovation_phase":"start"}},
+    {"source":"place","relation":"RENOVATED_IN","target":"time_october_2025","evidence":["ev_renovation_period"],"confidence":1.0,"qualifiers":{"renovation_phase":"completion"}},
+    {"source":"place","relation":"RENOVATED_BY","target":"org_project_management_board","evidence":["ev_project_owner"],"confidence":0.95,"qualifiers":{"role":"project_owner"}},
+    {"source":"place","relation":"RENOVATED_BY","target":"org_hanoi_environment_construction","evidence":["ev_renovation_contractors"],"confidence":1.0,"qualifiers":{"role":"construction_contractor"}},
+    {"source":"place","relation":"RENOVATED_BY","target":"org_ha_thanh_consulting","evidence":["ev_renovation_contractors"],"confidence":1.0,"qualifiers":{"role":"construction_contractor"}},
+    {"source":"place","relation":"HAS_EVENT","target":"event_signboard_2025","evidence":["ev_recognition","ev_signboard_event"],"confidence":1.0},
+    {"source":"event_signboard_2025","relation":"OCCURRED_IN","target":"time_11_october_2025","evidence":["ev_signboard_event"],"confidence":1.0},
+    {"source":"place","relation":"RECOGNIZED_AS","target":"status_commemorative_project","evidence":["ev_recognition"],"confidence":1.0},
+    {"source":"place","relation":"RECOGNIZED_IN","target":"time_11_october_2025","evidence":["ev_recognition"],"confidence":1.0,"qualifiers":{"designation":"Công trình chào mừng 71 năm Ngày Giải phóng Thủ đô và Đại hội Đảng bộ thành phố Hà Nội lần thứ XVIII"}},
+    {"source":"place","relation":"RECOGNIZED_BY","target":"org_ubnd_cau_giay_ward","evidence":["ev_recognition"],"confidence":0.95,"qualifiers":{"recognition_type":"commemorative_signboard"}},
+    {"source":"event_signboard_2025","relation":"INVOLVED_PERSON","target":"person_duong_duc_tuan","evidence":["ev_signboard_event"],"confidence":1.0,"qualifiers":{"participation_role":"city_leader"}},
+    {"source":"event_signboard_2025","relation":"INVOLVED_PERSON","target":"person_ngo_ngoc_phuong","evidence":["ev_signboard_event"],"confidence":1.0,"qualifiers":{"participation_role":"ward_leader"}},
+    {"source":"place","relation":"ASSOCIATED_WITH_PERSON","target":"person_duong_duc_tuan","evidence":["ev_signboard_event"],"confidence":0.9,"qualifiers":{"association_context":"signboard_event"}},
+    {"source":"place","relation":"ASSOCIATED_WITH_PERSON","target":"person_ngo_ngoc_phuong","evidence":["ev_signboard_event"],"confidence":0.9,"qualifiers":{"association_context":"signboard_event"}},
+    {"source":"person_duong_duc_tuan","relation":"HELD_ROLE","target":"role_hanoi_vice_chairman","evidence":["ev_duong_duc_tuan_role"],"confidence":1.0,"qualifiers":{"context_time":"2025-10-11"}},
+    {"source":"person_ngo_ngoc_phuong","relation":"HELD_ROLE","target":"role_cau_giay_ward_chairman","evidence":["ev_ngo_ngoc_phuong_role"],"confidence":1.0,"qualifiers":{"context_time":"2025-10-11"}}
+  ]
+}

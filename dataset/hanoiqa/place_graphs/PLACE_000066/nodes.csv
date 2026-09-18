@@ -1,0 +1,43 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000073,Vui chơi và giải trí,Activity,,Vui chơi tại công viên,vui_choi_va_giai_tri,,,,approved
+ACTIVITY_000081,Tham quan và chụp ảnh,Activity,,Tham quan công viên|Chụp ảnh tại cầu cây đàn,tham_quan_va_chup_anh,,,,approved
+ACTIVITY_000082,Trải nghiệm trò chơi 4D,Activity,,Xem phim và chơi trò chơi 4D,trai_nghiem_tro_choi_4d,,,,approved
+ADDRESS_000046,"Đường Phạm Văn Đồng, khu vực Xuân Đỉnh, thành phố Hà Nội",Address,,"Phạm Văn Đồng, Xuân Đỉnh, Hà Nội",duong_pham_van_dong_khu_vuc_xuan_dinh_thanh_pho_ha_noi,,,,approved
+ARCH_000356,Khu thể dục thể thao,Architecture,,Khu tập thể dục thể thao,khu_the_duc_the_thao,,,,approved
+ARCH_000365,Hồ điều hòa,Architecture,,Hồ nước Công viên Nghĩa Đô|Hồ cảnh quan,ho_dieu_hoa,,,,approved
+ARCH_000367,Quảng trường trung tâm,Architecture,,Quảng trường trung tâm|Không gian quảng trường mở,quang_truong_trung_tam,,,,approved
+ARCH_000374,Khu điều hành và dịch vụ,Architecture,,,khu_dieu_hanh_va_dich_vu,,,,approved
+ARCH_000375,Khu đỗ xe,Architecture,,Bãi đỗ xe,khu_do_xe,,,,approved
+ARCH_000376,Nhà trò chơi 4D,Architecture,,Khu trò chơi 4D,nha_tro_choi_4d,,,,approved
+ARCH_000377,Ba cổng chính,Architecture,,Hệ thống ba cổng chính,ba_cong_chinh,,,,approved
+ARCH_000378,Tượng đài Hòa Bình,Architecture,,Tượng Hòa Bình|Tượng Mẹ bồng con và chim bồ câu,tuong_dai_hoa_binh,,,,approved
+ARCH_000379,Tượng đài Aleksandr Sergeyevich Pushkin,Architecture,,Tượng Pushkin,tuong_dai_aleksandr_sergeyevich_pushkin,,,,approved
+ASTYLE_000022,Kiến trúc truyền thống phương Đông,ArchitecturalStyle,,Phong cách truyền thống phương Đông,kien_truc_truyen_thong_phuong_dong,,,,approved
+CATEGORY_000020,Công viên đô thị,TourismCategory,,Công viên trong đô thị,cong_vien_do_thi,,,,approved
+CATEGORY_000021,Không gian xanh công cộng,TourismCategory,,Không gian xanh đô thị,khong_gian_xanh_cong_cong,,,,approved
+EVENT_000119,Khánh thành Công viên Hòa Bình,Event,,Lễ khánh thành Công viên Hòa Bình năm 2010,khanh_thanh_cong_vien_hoa_binh,,,,approved
+EVENT_000120,Khánh thành tượng đài Pushkin,Event,,Lễ khánh thành tượng Pushkin năm 2021,khanh_thanh_tuong_dai_pushkin,,,,approved
+HSTATUS_000015,Công trình kỷ niệm Đại lễ 1000 năm Thăng Long - Hà Nội,HeritageStatus,,Công trình chào mừng 1000 năm Thăng Long - Hà Nội,cong_trinh_ky_niem_dai_le_1000_nam_thang_long_ha_noi,,,,approved
+MATERIAL_000022,Đồng đỏ,Material,,Chất liệu đồng đỏ,dong_do,,,,approved
+MATERIAL_000023,Đồng nguyên khối,Material,,Chất liệu đồng nguyên khối,dong_nguyen_khoi,,,,approved
+ORG_000004,Ủy ban nhân dân thành phố Hà Nội,Organization,,UBND thành phố Hà Nội,uy_ban_nhan_dan_thanh_pho_ha_noi,,,,approved
+PERSON_000090,Nguyễn Thị Doan,Person,,Phó Chủ tịch nước Nguyễn Thị Doan,nguyen_thi_doan,,,,approved
+PERSON_000091,Nguyễn Thế Thảo,Person,,Chủ tịch UBND thành phố Hà Nội Nguyễn Thế Thảo,nguyen_the_thao,,,,approved
+PERSON_000092,Aleksandr Sergeyevich Pushkin,Person,,A. S. Pushkin|Aleksandr Pushkin|Puskin,aleksandr_sergeyevich_pushkin,,,,approved
+PERSON_000093,Nguyễn Phú Cường,Person,,Họa sĩ Nguyễn Phú Cường,nguyen_phu_cuong,,,,approved
+PLACE_000066,Công viên Hòa Bình,Place,,Công viên Hòa Bình Hà Nội|Hoa Binh Park,cong_vien_hoa_binh,,,,approved
+ROLE_000020,Phó Chủ tịch nước Việt Nam,Role,,Phó Chủ tịch nước,pho_chu_tich_nuoc_viet_nam,,,,approved
+ROLE_000021,Chủ tịch Ủy ban nhân dân thành phố Hà Nội,Role,,Chủ tịch UBND thành phố Hà Nội,chu_tich_uy_ban_nhan_dan_thanh_pho_ha_noi,,,,approved
+ROLE_000022,Nhà thơ Nga,Role,,Đại thi hào Nga,nha_tho_nga,,,,approved
+ROLE_000023,Nhà điêu khắc,Role,,Nghệ sĩ điêu khắc,nha_dieu_khac,,,,approved
+TIME_000189,Ngày 20 tháng 2 năm 2009,Time,,20/02/2009|20-2-2009,ngay_20_thang_2_nam_2009,,,,approved
+TIME_000190,Ngày 8 tháng 10 năm 2010,Time,,08/10/2010|8-10-2010,ngay_8_thang_10_nam_2010,,,,approved
+TIME_000191,Ngày 17 tháng 3 năm 2021,Time,,17/03/2021|17-3-2021,ngay_17_thang_3_nam_2021,,,,approved
+VALUE_000124,Gần 20 ha diện tích,Value,,Diện tích gần 20 ha,gan_20_ha_dien_tich,20,ha,approximate_area,approved
+VALUE_000125,"6,3 ha diện tích",Value,,,6_3_ha_dien_tich,6.3,ha,area,approved
+VALUE_000126,"5,54 ha diện tích",Value,,,5_54_ha_dien_tich,5.54,ha,area,approved
+VALUE_000127,Gần 3 ha diện tích,Value,,gần 3 ha,gan_3_ha_dien_tich,3,ha,approximate_area,approved
+VALUE_000128,"7,2 m chiều cao",Value,,"cao 7,2 m",7_2_m_chieu_cao,7.2,m,height,approved
+VALUE_000129,Khoảng 20 tấn,Value,,,khoang_20_tan,20,tấn,approximate_weight,approved
+VALUE_000130,"2,1 m chiều cao",Value,,"cao 2,1 m",2_1_m_chieu_cao,2.1,m,height,approved
+VALUE_000131,"1,5 tấn",Value,,"nặng 1,5 tấn",1_5_tan,1.5,tấn,weight,approved

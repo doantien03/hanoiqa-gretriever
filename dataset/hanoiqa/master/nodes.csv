@@ -1339,7 +1339,7 @@ TIME_000178,Ngày 19 tháng 5 năm 1975,Time,,19/05/1975|19-5-1975,ngay_19_thang
 TIME_000179,Giai đoạn 2024-2026,Time,,Từ năm 2024 đến năm 2026,giai_doan_2024_2026,,,,approved
 PLACE_000058,Hồ nước trong Công viên Thủ Lệ,Place,,Hồ Thủ Lệ|Hồ nước Công viên Thủ Lệ,ho_nuoc_trong_cong_vien_thu_le,,,,approved
 ARCH_000349,Khu vườn thú Công viên Thủ Lệ,Architecture,,Khu nuôi và giới thiệu động vật|Khu chuồng thú,khu_vuon_thu_cong_vien_thu_le,,,,approved
-ARCH_000350,Khu vui chơi Công viên Thủ Lệ,Architecture,,Khu vui chơi trong Công viên Thủ Lệ,khu_vui_choi_cong_vien_thu_le,,,,approved
+ARCH_000350,Khu vui chơi và giải trí,Architecture,,,khu_vui_choi_va_giai_tri,,,,approved
 VALUE_000115,Hơn 28 hecta diện tích công viên,Value,,Khoảng 29 hecta diện tích công viên,hon_28_hecta_dien_tich_cong_vien,28,ha,minimum_area,approved
 VALUE_000116,6 hecta diện tích hồ nước,Value,,Diện tích hồ nước 6 ha,6_hecta_dien_tich_ho_nuoc,6,ha,area,approved
 VALUE_000117,Gần 600 cá thể động vật,Value,,Khoảng 600 cá thể động vật,gan_600_ca_the_dong_vat,600,cá thể,approximate_count,approved
@@ -1361,7 +1361,7 @@ TIME_000182,Ngày 10 tháng 2 năm 2026,Time,,10/02/2026|10-2-2026,ngay_10_thang
 TIME_000183,Tháng 2 năm 2026,Time,,Feb-26,thang_2_nam_2026,,,,approved
 PLACE_000060,Cụm năm hồ Yên Sở,Place,,Hệ thống năm hồ điều hòa Yên Sở|Năm hồ Yên Sở,cum_nam_ho_yen_so,,,,approved
 ARCH_000351,Nhà triển lãm nghệ thuật,Architecture,,,nha_trien_lam_nghe_thuat,,,,approved
-ARCH_000352,Nhà thuyền Công viên Yên Sở,Architecture,,Nhà thuyền,nha_thuyen_cong_vien_yen_so,,,,approved
+ARCH_000352,Nhà thuyền ,Architecture,,,nha_thuyen,,,,approved
 ARCH_000353,Sân khấu ngoài trời công viên,Architecture,,,san_khau_ngoai_troi_cong_vien,,,,approved
 ARCH_000354,Vườn mê cung,Architecture,,,vuon_me_cung,,,,approved
 ARCH_000355,Làng văn hóa,Architecture,,Khu làng văn hóa,lang_van_hoa,,,,approved
@@ -1481,8 +1481,8 @@ ROLE_000023,Nhà điêu khắc,Role,,Nghệ sĩ điêu khắc,nha_dieu_khac,,,,a
 PLACE_000067,Công viên Cầu Giấy,Place,,Công viên Yên Hòa,cong_vien_cau_giay,,,,approved
 ADDRESS_000047,"Đường Thành Thái, phường Cầu Giấy, thành phố Hà Nội",Address,,,duong_thanh_thai_phuong_cau_giay_thanh_pho_ha_noi,,,,approved
 TIME_000192,Năm 2014,Time,,2014,nam_2014,,,,approved
-TIME_000193,Tháng 2 năm 2025,Time,,02/2025,thang_2_nam_2025,,,,approved
-TIME_000194,Tháng 10 năm 2025,Time,,10/2025,thang_10_nam_2025,,,,approved
+TIME_000193,Tháng 2 năm 2025,Time,,Feb-25,thang_2_nam_2025,,,,approved
+TIME_000194,Tháng 10 năm 2025,Time,,Oct-25,thang_10_nam_2025,,,,approved
 TIME_000195,Ngày 11 tháng 10 năm 2025,Time,,11/10/2025|11-10-2025,ngay_11_thang_10_nam_2025,,,,approved
 VALUE_000132,95.282 mét vuông diện tích,Value,,Hơn 95.000 m² diện tích công trình|95.282 m²,95_282_met_vuong_dien_tich,95282,m²,area,approved
 VALUE_000133,14.808 mét vuông diện tích,Value,,14.808 m² diện tích hồ|14.808 m²,14_808_met_vuong_dien_tich,14808,m²,area,approved
@@ -1502,3 +1502,31 @@ ORG_000041,Công ty Cổ phần Tư vấn Đầu tư Xây dựng Hà Thành,Orga
 PERSON_000094,Dương Đức Tuấn,Person,,Ông Dương Đức Tuấn,duong_duc_tuan,,,,approved
 PERSON_000095,Ngô Ngọc Phương,Person,,Ông Ngô Ngọc Phương,ngo_ngoc_phuong,,,,approved
 ROLE_000024,Chủ tịch Ủy ban nhân dân phường Cầu Giấy,Role,,Chủ tịch UBND phường Cầu Giấy,chu_tich_uy_ban_nhan_dan_phuong_cau_giay,,,,approved
+PLACE_000068,Công viên Thanh Xuân,Place,,Công viên hồ điều hòa Nhân Chính|Công viên Nhân Chính|Công viên hồ điều hòa Thanh Xuân,cong_vien_thanh_xuan,,,,approved
+ADDRESS_000048,"Đường Hoàng Minh Giám, phường Thanh Xuân, thành phố Hà Nội.",Address,,,duong_hoang_minh_giam_phuong_thanh_xuan_thanh_pho_ha_noi,,,,approved
+TIME_000196,Ngày 8 tháng 5 năm 2016,Time,,08/05/2016|8-5-2016,ngay_8_thang_5_nam_2016,,,,approved
+TIME_000197,Ngày 10 tháng 9 năm 2018,Time,,10/09/2018|10-9-2018,ngay_10_thang_9_nam_2018,,,,approved
+TIME_000198,Tháng 8 năm 2018,Time,,08/2018,thang_8_nam_2018,,,,approved
+VALUE_000134,"13,2 ha diện tích",Value,,"13,2 ha|132.000 m² diện tích công viên",13_2_ha_dien_tich,13.2,ha,area,approved
+VALUE_000135,Khoảng 8 ha,Value,,8 ha|Khoảng 80.000 m² diện tích hồ,khoang_8_ha,8,ha,area,approved
+VALUE_000136,"Khoảng 5,23 ha diện tích",Value,,"5,23 ha khu cây xanh và hạ tầng|Khoảng 52.300 m²",khoang_5_23_ha_dien_tich,5.23,ha,area,approved
+VALUE_000137,Hơn 1.300 cây,Value,,Trên 1.300 cây,hon_1_300_cay,1300,cây,minimum_count,approved
+VALUE_000138,628 cây thân gỗ,Value,,,628_cay_than_go,628,cây thân gỗ,count,approved
+ARCH_000383,Khu công viên cây xanh,Architecture,,,khu_cong_vien_cay_xanh,,,,approved
+ARCH_000384,Bến tàu,Architecture,,,ben_tau,,,,approved
+ARCH_000385,Các cụm tiểu cảnh,Architecture,,Cụm tiểu cảnh|Tiểu cảnh công viên,cac_cum_tieu_canh,,,,approved
+ARCH_000386,Trạm bơm,Architecture,,Trạm bơm của công viên,tram_bom,,,,approved
+ARCH_000387,Vỉa hè phía đường Hoàng Minh Giám,Architecture,,Vỉa hè ngoài công viên,via_he_phia_duong_hoang_minh_giam,,,,approved
+ACTIVITY_000083,Tổ chức hoạt động lễ hội,Activity,,Hoạt động lễ hội|Tổ chức lễ hội,to_chuc_hoat_dong_le_hoi,,,,approved
+ACTIVITY_000084,Điều hòa không khí khu vực,Activity,,Cải thiện không khí khu vực|Điều hòa vi khí hậu,dieu_hoa_khong_khi_khu_vuc,,,,approved
+EVENT_000123,Khởi công xây dựng Công viên hồ điều hòa Nhân Chính,Event,,Khởi công Công viên Thanh Xuân|Sự kiện khởi công công viên,khoi_cong_xay_dung_cong_vien_ho_dieu_hoa_nhan_chinh,,,,approved
+EVENT_000124,Mở cửa Công viên hồ điều hòa Nhân Chính,Event,,Công viên Thanh Xuân mở cửa đón khách|Đưa công viên vào sử dụng,mo_cua_cong_vien_ho_dieu_hoa_nhan_chinh,,,,approved
+EVENT_000125,Hoàn thiện Công viên hồ điều hòa Nhân Chính,Event,,Quá trình hoàn thiện Công viên Thanh Xuân|Hoàn thiện dự án công viên năm 2018,hoan_thien_cong_vien_ho_dieu_hoa_nhan_chinh,,,,approved
+ORG_000042,Ủy ban nhân dân quận Thanh Xuân,Organization,,UBND quận Thanh Xuân,uy_ban_nhan_dan_quan_thanh_xuan,,,,approved
+ORG_000043,Công ty Cổ phần Đầu tư và Xây dựng Thành Nam,Organization,,Công ty CP Đầu tư và Xây dựng Thành Nam,cong_ty_co_phan_dau_tu_va_xay_dung_thanh_nam,,,,approved
+ORG_000044,Công ty Cổ phần Đầu tư và Xây lắp Constrexim số 8,Organization,,Công ty CP Đầu tư và Xây lắp Constrexim số 8|Constrexim số 8,cong_ty_co_phan_dau_tu_va_xay_lap_constrexim_so_8,,,,approved
+ORG_000045,Công ty TNHH Xây dựng và Môi trường ECO,Organization,,Công ty Xây dựng và Môi trường ECO,cong_ty_tnhh_xay_dung_va_moi_truong_eco,,,,approved
+PERSON_000096,Lê Hồng Thắng,Person,,Ông Lê Hồng Thắng,le_hong_thang,,,,approved
+PERSON_000097,Đặng Hồng Thái,Person,,Ông Đặng Hồng Thái,dang_hong_thai,,,,approved
+ROLE_000025,Giám đốc Ban Quản lý dự án quận Thanh Xuân,Role,,Giám đốc Ban QLDA quận Thanh Xuân,giam_doc_ban_quan_ly_du_an_quan_thanh_xuan,,,,approved
+ROLE_000026,Phó Chủ tịch Ủy ban nhân dân quận Thanh Xuân,Role,,Phó Chủ tịch UBND quận Thanh Xuân,pho_chu_tich_uy_ban_nhan_dan_quan_thanh_xuan,,,,approved

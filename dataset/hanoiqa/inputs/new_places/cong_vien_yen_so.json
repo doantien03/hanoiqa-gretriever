@@ -94,8 +94,7 @@
     {
       "key": "boathouse",
       "type": "Architecture",
-      "canonical_name": "Nhà thuyền Công viên Yên Sở",
-      "aliases": ["Nhà thuyền"],
+      "canonical_name": "Nhà thuyền",
       "match": "new"
     },
     {

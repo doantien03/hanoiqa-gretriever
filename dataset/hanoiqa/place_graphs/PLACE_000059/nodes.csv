@@ -7,7 +7,7 @@ ACTIVITY_000076,Cắm trại và dã ngoại,Activity,,Cắm trại|Tổ chức 
 ACTIVITY_000077,Đi bộ và thư giãn trong không gian xanh,Activity,,Đi dạo|Thư giãn ngoài trời,di_bo_va_thu_gian_trong_khong_gian_xanh,,,,approved
 ADDRESS_000044,"Quốc lộ 1A, phường Yên Sở, thành phố Hà Nội",Address,,,quoc_lo_1a_phuong_yen_so_thanh_pho_ha_noi,,,,approved
 ARCH_000351,Nhà triển lãm nghệ thuật,Architecture,,,nha_trien_lam_nghe_thuat,,,,approved
-ARCH_000352,Nhà thuyền Công viên Yên Sở,Architecture,,Nhà thuyền,nha_thuyen_cong_vien_yen_so,,,,approved
+ARCH_000352,Nhà thuyền ,Architecture,,,nha_thuyen,,,,approved
 ARCH_000353,Sân khấu ngoài trời công viên,Architecture,,,san_khau_ngoai_troi_cong_vien,,,,approved
 ARCH_000354,Vườn mê cung,Architecture,,,vuon_me_cung,,,,approved
 ARCH_000355,Làng văn hóa,Architecture,,Khu làng văn hóa,lang_van_hoa,,,,approved

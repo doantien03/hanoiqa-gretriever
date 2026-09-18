@@ -30,8 +30,8 @@ PLACE_000067,Công viên Cầu Giấy,Place,,Công viên Yên Hòa,cong_vien_cau
 ROLE_000011,Phó Chủ tịch Ủy ban nhân dân thành phố Hà Nội,Role,,Phó Chủ tịch UBND thành phố Hà Nội,pho_chu_tich_uy_ban_nhan_dan_thanh_pho_ha_noi,,,,approved
 ROLE_000024,Chủ tịch Ủy ban nhân dân phường Cầu Giấy,Role,,Chủ tịch UBND phường Cầu Giấy,chu_tich_uy_ban_nhan_dan_phuong_cau_giay,,,,approved
 TIME_000192,Năm 2014,Time,,2014,nam_2014,,,,approved
-TIME_000193,Tháng 2 năm 2025,Time,,02/2025,thang_2_nam_2025,,,,approved
-TIME_000194,Tháng 10 năm 2025,Time,,10/2025,thang_10_nam_2025,,,,approved
+TIME_000193,Tháng 2 năm 2025,Time,,Feb-25,thang_2_nam_2025,,,,approved
+TIME_000194,Tháng 10 năm 2025,Time,,Oct-25,thang_10_nam_2025,,,,approved
 TIME_000195,Ngày 11 tháng 10 năm 2025,Time,,11/10/2025|11-10-2025,ngay_11_thang_10_nam_2025,,,,approved
 VALUE_000132,95.282 mét vuông diện tích,Value,,Hơn 95.000 m² diện tích công trình|95.282 m²,95_282_met_vuong_dien_tich,95282,m²,area,approved
 VALUE_000133,14.808 mét vuông diện tích,Value,,14.808 m² diện tích hồ|14.808 m²,14_808_met_vuong_dien_tich,14808,m²,area,approved

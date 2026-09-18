@@ -1,0 +1,44 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000068,Tập thể dục,Activity,,Rèn luyện thể chất,tap_the_duc,,,,approved
+ACTIVITY_000069,Đi bộ và dạo chơi,Activity,,Tản bộ|Dạo bộ trong công viên,di_bo_va_dao_choi,,,,approved
+ACTIVITY_000070,Nghỉ ngơi và thư giãn,Activity,,Thư giãn trong không gian xanh,nghi_ngoi_va_thu_gian,,,,approved
+ACTIVITY_000073,Vui chơi và giải trí,Activity,,Vui chơi tại công viên,vui_choi_va_giai_tri,,,,approved
+ACTIVITY_000083,Tổ chức hoạt động lễ hội,Activity,,Hoạt động lễ hội|Tổ chức lễ hội,to_chuc_hoat_dong_le_hoi,,,,approved
+ACTIVITY_000084,Điều hòa không khí khu vực,Activity,,Cải thiện không khí khu vực|Điều hòa vi khí hậu,dieu_hoa_khong_khi_khu_vuc,,,,approved
+ADDRESS_000048,"Đường Hoàng Minh Giám, phường Thanh Xuân, thành phố Hà Nội.",Address,,,duong_hoang_minh_giam_phuong_thanh_xuan_thanh_pho_ha_noi,,,,approved
+ARCH_000350,Khu vui chơi và giải trí,Architecture,,,khu_vui_choi_va_giai_tri,,,,approved
+ARCH_000352,Nhà thuyền ,Architecture,,,nha_thuyen,,,,approved
+ARCH_000359,Hệ thống đường dạo,Architecture,,Đường dạo nội bộ|Đường đi bộ trong công viên,he_thong_duong_dao,,,,approved
+ARCH_000365,Hồ điều hòa,Architecture,,Hồ nước|Hồ cảnh quan,ho_dieu_hoa,,,,approved
+ARCH_000367,Quảng trường trung tâm,Architecture,,Quảng trường trung tâm|Không gian quảng trường mở,quang_truong_trung_tam,,,,approved
+ARCH_000370,Nhà điều hành,Architecture,,,nha_dieu_hanh,,,,approved
+ARCH_000375,Khu đỗ xe,Architecture,,Bãi đỗ xe,khu_do_xe,,,,approved
+ARCH_000381,Đài phun nước nghệ thuật,Architecture,,,dai_phun_nuoc_nghe_thuat,,,,approved
+ARCH_000382,Nhà chòi nghỉ,Architecture,,Chòi nghỉ|Nhà nghỉ chân,nha_choi_nghi,,,,approved
+ARCH_000383,Khu công viên cây xanh,Architecture,,,khu_cong_vien_cay_xanh,,,,approved
+ARCH_000384,Bến tàu,Architecture,,,ben_tau,,,,approved
+ARCH_000385,Các cụm tiểu cảnh,Architecture,,Cụm tiểu cảnh|Tiểu cảnh công viên,cac_cum_tieu_canh,,,,approved
+ARCH_000386,Trạm bơm,Architecture,,Trạm bơm của công viên,tram_bom,,,,approved
+ARCH_000387,Vỉa hè phía đường Hoàng Minh Giám,Architecture,,Vỉa hè ngoài công viên,via_he_phia_duong_hoang_minh_giam,,,,approved
+CATEGORY_000025,Công viên công cộng,TourismCategory,,Công viên phục vụ cộng đồng,cong_vien_cong_cong,,,,approved
+EVENT_000123,Khởi công xây dựng Công viên hồ điều hòa Nhân Chính,Event,,Khởi công Công viên Thanh Xuân|Sự kiện khởi công công viên,khoi_cong_xay_dung_cong_vien_ho_dieu_hoa_nhan_chinh,,,,approved
+EVENT_000124,Mở cửa Công viên hồ điều hòa Nhân Chính,Event,,Công viên Thanh Xuân mở cửa đón khách|Đưa công viên vào sử dụng,mo_cua_cong_vien_ho_dieu_hoa_nhan_chinh,,,,approved
+EVENT_000125,Hoàn thiện Công viên hồ điều hòa Nhân Chính,Event,,Quá trình hoàn thiện Công viên Thanh Xuân|Hoàn thiện dự án công viên năm 2018,hoan_thien_cong_vien_ho_dieu_hoa_nhan_chinh,,,,approved
+MATERIAL_000025,Đá ốp,Material,,,da_op,,,,approved
+ORG_000042,Ủy ban nhân dân quận Thanh Xuân,Organization,,UBND quận Thanh Xuân,uy_ban_nhan_dan_quan_thanh_xuan,,,,approved
+ORG_000043,Công ty Cổ phần Đầu tư và Xây dựng Thành Nam,Organization,,Công ty CP Đầu tư và Xây dựng Thành Nam,cong_ty_co_phan_dau_tu_va_xay_dung_thanh_nam,,,,approved
+ORG_000044,Công ty Cổ phần Đầu tư và Xây lắp Constrexim số 8,Organization,,Công ty CP Đầu tư và Xây lắp Constrexim số 8|Constrexim số 8,cong_ty_co_phan_dau_tu_va_xay_lap_constrexim_so_8,,,,approved
+ORG_000045,Công ty TNHH Xây dựng và Môi trường ECO,Organization,,Công ty Xây dựng và Môi trường ECO,cong_ty_tnhh_xay_dung_va_moi_truong_eco,,,,approved
+PERSON_000096,Lê Hồng Thắng,Person,,Ông Lê Hồng Thắng,le_hong_thang,,,,approved
+PERSON_000097,Đặng Hồng Thái,Person,,Ông Đặng Hồng Thái,dang_hong_thai,,,,approved
+PLACE_000068,Công viên Thanh Xuân,Place,,Công viên hồ điều hòa Nhân Chính|Công viên Nhân Chính|Công viên hồ điều hòa Thanh Xuân,cong_vien_thanh_xuan,,,,approved
+ROLE_000025,Giám đốc Ban Quản lý dự án quận Thanh Xuân,Role,,Giám đốc Ban QLDA quận Thanh Xuân,giam_doc_ban_quan_ly_du_an_quan_thanh_xuan,,,,approved
+ROLE_000026,Phó Chủ tịch Ủy ban nhân dân quận Thanh Xuân,Role,,Phó Chủ tịch UBND quận Thanh Xuân,pho_chu_tich_uy_ban_nhan_dan_quan_thanh_xuan,,,,approved
+TIME_000196,Ngày 8 tháng 5 năm 2016,Time,,08/05/2016|8-5-2016,ngay_8_thang_5_nam_2016,,,,approved
+TIME_000197,Ngày 10 tháng 9 năm 2018,Time,,10/09/2018|10-9-2018,ngay_10_thang_9_nam_2018,,,,approved
+TIME_000198,Tháng 8 năm 2018,Time,,08/2018,thang_8_nam_2018,,,,approved
+VALUE_000134,"13,2 ha diện tích",Value,,"13,2 ha|132.000 m² diện tích công viên",13_2_ha_dien_tich,13.2,ha,area,approved
+VALUE_000135,Khoảng 8 ha,Value,,8 ha|Khoảng 80.000 m² diện tích hồ,khoang_8_ha,8,ha,area,approved
+VALUE_000136,"Khoảng 5,23 ha diện tích",Value,,"5,23 ha khu cây xanh và hạ tầng|Khoảng 52.300 m²",khoang_5_23_ha_dien_tich,5.23,ha,area,approved
+VALUE_000137,Hơn 1.300 cây,Value,,Trên 1.300 cây,hon_1_300_cay,1300,cây,minimum_count,approved
+VALUE_000138,628 cây thân gỗ,Value,,,628_cay_than_go,628,cây thân gỗ,count,approved

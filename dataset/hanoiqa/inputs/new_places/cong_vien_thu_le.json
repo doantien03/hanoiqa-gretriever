@@ -104,8 +104,7 @@
     {
       "key": "play_area",
       "type": "Architecture",
-      "canonical_name": "Khu vui chơi Công viên Thủ Lệ",
-      "aliases": ["Khu vui chơi trong Công viên Thủ Lệ"],
+      "canonical_name": "Khu vui chơi và giải trí",
       "match": "new"
     },
     {

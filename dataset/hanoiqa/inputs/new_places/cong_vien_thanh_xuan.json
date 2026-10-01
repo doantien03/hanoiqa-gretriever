@@ -1,0 +1,542 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_government_opening_2018",
+      "title": "Đưa vào sử dụng công viên hồ điều hòa Nhân Chính, quận Thanh Xuân",
+      "url": "https://thanglong.chinhphu.vn/dua-vao-su-dung-cong-vien-ho-dieu-hoa-nhan-chinh-quan-thanh-xuan-10323989.htm",
+      "source_type": "government_news",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_procurement_2016",
+      "title": "Dự án Công viên hồ điều hòa Nhân Chính: Gói xây lắp giảm gần 25 tỷ đồng",
+      "url": "https://baodauthau.vn/du-an-cong-vien-ho-dieu-hoa-nhan-chinh-goi-xay-lap-giam-gan-25-ty-dong-post13234.html",
+      "source_type": "national_procurement_news",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_environment_2018",
+      "title": "Hà Nội: Công viên hồ điều hòa Nhân Chính sắp mở cửa đón khách",
+      "url": "https://moitruong.net.vn/ha-noi-cong-vien-ho-dieu-hoa-nhan-chinh-sap-mo-cua-don-khach-7109.html",
+      "source_type": "environment_news",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_current_name_address",
+      "title": "Công viên Thanh Xuân - Không gian xanh tại Hà Nội",
+      "url": "https://www.greensm.com/vn-vi/news/cong-vien-thanh-xuan-ha-noi",
+      "source_type": "travel_service_site",
+      "retrieved_at": "2026-09-18",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Công viên Thanh Xuân",
+      "aliases": ["Công viên hồ điều hòa Nhân Chính", "Công viên Nhân Chính", "Công viên hồ điều hòa Thanh Xuân"],
+      "match": "new"
+    },
+    {
+      "key": "address_main",
+      "type": "Address",
+      "canonical_name": "Đường Hoàng Minh Giám, phường Thanh Xuân, thành phố Hà Nội.",
+      "match": "auto"
+    },
+    {
+      "key": "time_construction_start",
+      "type": "Time",
+      "canonical_name": "Ngày 8 tháng 5 năm 2016",
+      "aliases": ["08/05/2016", "8-5-2016"],
+      "match": "auto"
+    },
+    {
+      "key": "time_public_opening",
+      "type": "Time",
+      "canonical_name": "Ngày 10 tháng 9 năm 2018",
+      "aliases": ["10/09/2018", "10-9-2018"],
+      "match": "auto"
+    },
+    {
+      "key": "time_august_2018",
+      "type": "Time",
+      "canonical_name": "Tháng 8 năm 2018",
+      "aliases": ["08/2018"],
+      "match": "auto"
+    },
+    {
+      "key": "value_total_area",
+      "type": "Value",
+      "canonical_name": "13,2 ha diện tích ",
+      "aliases": ["13,2 ha", "132.000 m² diện tích công viên"],
+      "numeric_value": 13.2,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_lake_area",
+      "type": "Value",
+      "canonical_name": "Khoảng 8 ha",
+      "aliases": ["8 ha", "Khoảng 80.000 m² diện tích hồ"],
+      "numeric_value": 8,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_green_area",
+      "type": "Value",
+      "canonical_name": "Khoảng 5,23 ha diện tích",
+      "aliases": ["5,23 ha khu cây xanh và hạ tầng", "Khoảng 52.300 m²"],
+      "numeric_value": 5.23,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_tree_count",
+      "type": "Value",
+      "canonical_name": "Hơn 1.300 cây",
+      "aliases": ["Trên 1.300 cây"],
+      "numeric_value": 1300,
+      "unit": "cây",
+      "value_kind": "minimum_count",
+      "match": "new"
+    },
+    {
+      "key": "value_timber_tree_count",
+      "type": "Value",
+      "canonical_name": "628 cây thân gỗ",
+      "numeric_value": 628,
+      "unit": "cây thân gỗ",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "lake",
+      "type": "Architecture",
+      "canonical_name": "Hồ điều hòa",
+      "match": "existing",
+      "existing_id": "ARCH_000365"
+    },
+    {
+      "key": "green_park",
+      "type": "Architecture",
+      "canonical_name": "Khu công viên cây xanh",
+      "match": "new"
+    },
+    {
+      "key": "walking_paths",
+      "type": "Architecture",
+      "canonical_name": "Hệ thống đường dạo",
+      "match": "existing",
+      "existing_id": "ARCH_000359"
+    },
+    {
+      "key": "lotus_fountain",
+      "type": "Architecture",
+      "canonical_name": "Đài phun nước nghệ thuật",
+      "match": "existing",
+      "existing_id": "ARCH_000381"
+    },
+    {
+      "key": "square",
+      "type": "Architecture",
+      "canonical_name": "Quảng trường trung tâm",
+      "match": "existing",
+      "existing_id": "ARCH_000367"
+    },
+    {
+      "key": "boathouse",
+      "type": "Architecture",
+      "canonical_name": "Nhà thuyền",
+      "match": "existing",
+      "existing_id": "ARCH_000352"
+    },
+    {
+      "key": "wharf",
+      "type": "Architecture",
+      "canonical_name": "Bến tàu",
+      "match": "new"
+    },
+    {
+      "key": "rest_shelter",
+      "type": "Architecture",
+      "canonical_name": "Nhà chòi nghỉ",
+      "match": "existing",
+      "existing_id": "ARCH_000382"
+    },
+    {
+      "key": "landscape_clusters",
+      "type": "Architecture",
+      "canonical_name": "Các cụm tiểu cảnh",
+      "aliases": ["Cụm tiểu cảnh", "Tiểu cảnh công viên"],
+      "match": "new"
+    },
+    {
+      "key": "playground",
+      "type": "Architecture",
+      "canonical_name": "Khu vui chơi giải trí",
+      "match": "existing",
+      "existing_id": "ARCH_000350"
+    },
+    {
+      "key": "parking",
+      "type": "Architecture",
+      "canonical_name": "Khu đỗ xe",
+      "match": "existing",
+      "existing_id": "ARCH_000375"
+    },
+    {
+      "key": "pump_station",
+      "type": "Architecture",
+      "canonical_name": "Trạm bơm",
+      "aliases": ["Trạm bơm của công viên"],
+      "match": "new"
+    },
+    {
+      "key": "administration_building",
+      "type": "Architecture",
+      "canonical_name": "Nhà điều hành",
+      "match": "existing",
+      "existing_id": "ARCH_000370"
+    },
+    {
+      "key": "sidewalk_hoang_minh_giam",
+      "type": "Architecture",
+      "canonical_name": "Vỉa hè phía đường Hoàng Minh Giám",
+      "aliases": ["Vỉa hè ngoài công viên"],
+      "match": "new"
+    },
+    {
+      "key": "material_paving_stone",
+      "type": "Material",
+      "canonical_name": "Đá ốp",
+      "aliases": ["Đá ốp vỉa hè"],
+      "match": "existing",
+      "existing_id": "MATERIAL_000025"
+    },
+    {
+      "key": "activity_walking",
+      "type": "Activity",
+      "canonical_name": "Đi bộ và dạo chơi",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000069"
+    },
+    {
+      "key": "activity_resting",
+      "type": "Activity",
+      "canonical_name": "Nghỉ ngơi và thư giãn",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000070"
+    },
+    {
+      "key": "activity_recreation",
+      "type": "Activity",
+      "canonical_name": "Vui chơi và giải trí",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000073"
+    },
+    {
+      "key": "activity_outdoor_sports",
+      "type": "Activity",
+      "canonical_name": "Tập thể dục",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000068"
+    },
+    {
+      "key": "activity_festival",
+      "type": "Activity",
+      "canonical_name": "Tổ chức hoạt động lễ hội",
+      "aliases": ["Hoạt động lễ hội", "Tổ chức lễ hội"],
+      "match": "auto"
+    },
+    {
+      "key": "activity_air_regulation",
+      "type": "Activity",
+      "canonical_name": "Điều hòa không khí khu vực",
+      "aliases": ["Cải thiện không khí khu vực", "Điều hòa vi khí hậu"],
+      "match": "auto"
+    },
+    {
+      "key": "category_public_park",
+      "type": "TourismCategory",
+      "canonical_name": "Công viên công cộng",
+      "match": "existing",
+      "existing_id": "CATEGORY_000025"
+    },
+    {
+      "key": "event_construction_start",
+      "type": "Event",
+      "canonical_name": "Khởi công xây dựng Công viên hồ điều hòa Nhân Chính",
+      "aliases": ["Khởi công Công viên Thanh Xuân", "Sự kiện khởi công công viên"],
+      "match": "new"
+    },
+    {
+      "key": "event_public_opening",
+      "type": "Event",
+      "canonical_name": "Mở cửa Công viên hồ điều hòa Nhân Chính",
+      "aliases": ["Công viên Thanh Xuân mở cửa đón khách", "Đưa công viên vào sử dụng"],
+      "match": "new"
+    },
+    {
+      "key": "event_project_completion_2018",
+      "type": "Event",
+      "canonical_name": "Hoàn thiện Công viên hồ điều hòa Nhân Chính",
+      "aliases": ["Quá trình hoàn thiện Công viên Thanh Xuân", "Hoàn thiện dự án công viên năm 2018"],
+      "match": "new"
+    },
+    {
+      "key": "org_thanh_xuan_district_people_committee",
+      "type": "Organization",
+      "canonical_name": "Ủy ban nhân dân quận Thanh Xuân",
+      "aliases": ["UBND quận Thanh Xuân"],
+      "match": "auto"
+    },
+    {
+      "key": "org_thanh_nam",
+      "type": "Organization",
+      "canonical_name": "Công ty Cổ phần Đầu tư và Xây dựng Thành Nam",
+      "aliases": ["Công ty CP Đầu tư và Xây dựng Thành Nam"],
+      "match": "auto"
+    },
+    {
+      "key": "org_constrexim_8",
+      "type": "Organization",
+      "canonical_name": "Công ty Cổ phần Đầu tư và Xây lắp Constrexim số 8",
+      "aliases": ["Công ty CP Đầu tư và Xây lắp Constrexim số 8", "Constrexim số 8"],
+      "match": "auto"
+    },
+    {
+      "key": "org_eco",
+      "type": "Organization",
+      "canonical_name": "Công ty TNHH Xây dựng và Môi trường ECO",
+      "aliases": ["Công ty Xây dựng và Môi trường ECO"],
+      "match": "auto"
+    },
+    {
+      "key": "person_le_hong_thang",
+      "type": "Person",
+      "canonical_name": "Lê Hồng Thắng",
+      "aliases": ["Ông Lê Hồng Thắng"],
+      "match": "auto"
+    },
+    {
+      "key": "person_dang_hong_thai",
+      "type": "Person",
+      "canonical_name": "Đặng Hồng Thái",
+      "aliases": ["Ông Đặng Hồng Thái"],
+      "match": "auto"
+    },
+    {
+      "key": "role_project_management_director",
+      "type": "Role",
+      "canonical_name": "Giám đốc Ban Quản lý dự án quận Thanh Xuân",
+      "aliases": ["Giám đốc Ban QLDA quận Thanh Xuân"],
+      "match": "auto"
+    },
+    {
+      "key": "role_district_vice_chairman",
+      "type": "Role",
+      "canonical_name": "Phó Chủ tịch Ủy ban nhân dân quận Thanh Xuân",
+      "aliases": ["Phó Chủ tịch UBND quận Thanh Xuân"],
+      "match": "auto"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_identity_address",
+      "source": "src_current_name_address",
+      "topic": "identity_and_main_address",
+      "normalized_text": "Công viên Thanh Xuân còn được gọi là Công viên hồ điều hòa Nhân Chính; cổng chính của công viên hướng ra đường Hoàng Minh Giám, phường Thanh Xuân, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_construction_and_opening",
+      "source": "src_government_opening_2018",
+      "topic": "construction_and_public_opening",
+      "normalized_text": "Công viên hồ điều hòa Nhân Chính được khởi công ngày 8 tháng 5 năm 2016 và chính thức mở cửa đón khách ngày 10 tháng 9 năm 2018.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_total_area_and_location",
+      "source": "src_government_opening_2018",
+      "topic": "total_area_and_location",
+      "normalized_text": "Công viên hồ điều hòa Nhân Chính được xây dựng trên khu đất rộng khoảng 13,2 ha thuộc phường Nhân Chính, quận Thanh Xuân và một phần phường Trung Hòa, quận Cầu Giấy.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_functional_zones",
+      "source": "src_government_opening_2018",
+      "topic": "functional_zones_and_measurements",
+      "normalized_text": "Công viên Thanh Xuân gồm Hồ điều hòa Nhân Chính rộng khoảng 8 ha và Khu công viên cây xanh Công viên Thanh Xuân cùng hạ tầng kỹ thuật, đường dạo rộng khoảng 5,23 ha.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_lake_fountain",
+      "source": "src_government_opening_2018",
+      "topic": "lake_fountain",
+      "normalized_text": "Giữa Hồ điều hòa Nhân Chính có Đài phun nước nghệ thuật kết hợp với hệ thống chiếu sáng bằng đèn LED.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_landscape_components",
+      "source": "src_environment_2018",
+      "topic": "landscape_components",
+      "normalized_text": "Các hạng mục cảnh quan của Công viên Thanh Xuân gồm Hệ thống đường dạo quanh hồ, Quảng trường trung tâm, Đài phun nước nghệ thuật, Khu vui chơi giải trí và khu đỗ xe.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_auxiliary_components",
+      "source": "src_government_opening_2018",
+      "topic": "auxiliary_components",
+      "normalized_text": "Các công trình phụ trợ của Công viên Thanh Xuân gồm Nhà thuyền, Bến tàu, nhà chòi nghỉ và các cụm tiểu cảnh Công viên Thanh Xuân.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_technical_components",
+      "source": "src_procurement_2016",
+      "topic": "technical_components",
+      "normalized_text": "Các hạng mục của dự án Công viên hồ điều hòa Nhân Chính gồm Hồ điều hòa Nhân Chính, Trạm bơm, Khu công viên cây xanh và Nhà điều hành hai tầng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_tree_counts",
+      "source": "src_government_opening_2018",
+      "topic": "tree_counts",
+      "normalized_text": "Công viên Thanh Xuân có hơn 1.300 cây, trong đó có 628 cây thân gỗ gồm các loài như muồng hoàng yến, phượng, sấu, xoài, hoàng lan và hoa anh đào.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_visitor_activities",
+      "source": "src_government_opening_2018",
+      "topic": "visitor_activities",
+      "normalized_text": "Công viên Thanh Xuân phục vụ người dân nghỉ ngơi và thư giãn, vui chơi và giải trí, tổ chức hoạt động lễ hội và tập thể dục thể thao.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_walking_paths_use",
+      "source": "src_environment_2018",
+      "topic": "walking_paths_use",
+      "normalized_text": "Hệ thống đường dạo quanh hồ Công viên Thanh Xuân được bố trí để người dân đi bộ và dạo quanh hồ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_component_uses",
+      "source": "src_government_opening_2018",
+      "topic": "component_uses",
+      "normalized_text": "Khu công viên cây xanh Công viên Thanh Xuân phục vụ nghỉ ngơi thư giãn và tập thể dục thể thao; Quảng trường trung tâm phục vụ vui chơi, giải trí và hoạt động lễ hội; Khu vui chơi giải trí Công viên Thanh Xuân phục vụ hoạt động vui chơi và giải trí.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_lake_environmental_use",
+      "source": "src_environment_2018",
+      "topic": "lake_environmental_function",
+      "normalized_text": "Hồ điều hòa Nhân Chính có diện tích mặt nước khoảng 8 ha và có công năng điều hòa không khí khu vực, góp phần tạo môi trường trong lành, tươi mát.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_sidewalk_material",
+      "source": "src_government_opening_2018",
+      "topic": "sidewalk_material",
+      "normalized_text": "Vỉa hè phía đường Hoàng Minh Giám của Công viên Thanh Xuân được hoàn thiện bằng đá ốp để người dân đi lại sạch sẽ và thuận tiện.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_categories",
+      "source": "src_government_opening_2018",
+      "topic": "park_categories",
+      "normalized_text": "Công viên Thanh Xuân là công viên công cộng kết hợp hồ điều hòa và khu không gian cây xanh phục vụ cộng đồng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_project_owner",
+      "source": "src_government_opening_2018",
+      "topic": "project_owner",
+      "normalized_text": "Ủy ban nhân dân quận Thanh Xuân là chủ đầu tư dự án xây dựng Công viên hồ điều hòa Nhân Chính.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_construction_contractors",
+      "source": "src_procurement_2016",
+      "topic": "construction_contractors",
+      "normalized_text": "Liên danh Công ty Cổ phần Đầu tư và Xây dựng Thành Nam, Công ty Cổ phần Đầu tư và Xây lắp Constrexim số 8 và Công ty TNHH Xây dựng và Môi trường ECO trúng gói thầu thi công xây dựng và lắp đặt thiết bị của Công viên hồ điều hòa Nhân Chính.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_le_hong_thang_role",
+      "source": "src_environment_2018",
+      "topic": "person_role_and_project_association",
+      "normalized_text": "Trong sự kiện hoàn thiện Công viên hồ điều hòa Nhân Chính vào tháng 8 năm 2018, Lê Hồng Thắng giữ vai trò Giám đốc Ban Quản lý dự án quận Thanh Xuân và cung cấp thông tin về các hạng mục còn lại của dự án.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_dang_hong_thai_role",
+      "source": "src_environment_2018",
+      "topic": "person_role_and_project_association",
+      "normalized_text": "Trong sự kiện hoàn thiện Công viên hồ điều hòa Nhân Chính vào tháng 8 năm 2018, Đặng Hồng Thái giữ vai trò Phó Chủ tịch Ủy ban nhân dân quận Thanh Xuân và giải thích các nguyên nhân làm chậm tiến độ dự án.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source":"place","relation":"HAS_ADDRESS","target":"address_main","evidence":["ev_identity_address"],"confidence":0.95,"qualifiers":{"address_precision":"street_ward_district_city","entrance":"main","administrative_context":"source_period"}},
+    {"source":"place","relation":"BUILT_IN","target":"time_construction_start","evidence":["ev_construction_and_opening"],"confidence":1.0,"qualifiers":{"construction_phase":"start"}},
+    {"source":"place","relation":"ESTABLISHED_IN","target":"time_public_opening","evidence":["ev_construction_and_opening"],"confidence":1.0,"qualifiers":{"establishment_phase":"opened_to_public"}},
+    {"source":"place","relation":"HAS_MEASUREMENT","target":"value_total_area","evidence":["ev_total_area_and_location"],"confidence":1.0,"qualifiers":{"measurement_kind":"area","measurement_scope":"entire_park"}},
+    {"source":"lake","relation":"HAS_MEASUREMENT","target":"value_lake_area","evidence":["ev_functional_zones","ev_lake_environmental_use"],"confidence":1.0,"qualifiers":{"measurement_kind":"area"}},
+    {"source":"green_park","relation":"HAS_MEASUREMENT","target":"value_green_area","evidence":["ev_functional_zones"],"confidence":1.0,"qualifiers":{"measurement_kind":"area","measurement_scope":"green_park_and_technical_infrastructure"}},
+    {"source":"place","relation":"HAS_MEASUREMENT","target":"value_tree_count","evidence":["ev_tree_counts"],"confidence":1.0,"qualifiers":{"measurement_kind":"minimum_count","measurement_scope":"all_trees"}},
+    {"source":"place","relation":"HAS_MEASUREMENT","target":"value_timber_tree_count","evidence":["ev_tree_counts"],"confidence":1.0,"qualifiers":{"measurement_kind":"count","measurement_scope":"timber_trees"}},
+    {"source":"place","relation":"HAS_CATEGORY","target":"category_public_park","evidence":["ev_categories"],"confidence":1.0},
+    {"source":"place","relation":"HAS_COMPONENT","target":"lake","evidence":["ev_functional_zones","ev_technical_components"],"confidence":1.0,"qualifiers":{"component_group":"primary_functional_space"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"green_park","evidence":["ev_functional_zones","ev_technical_components"],"confidence":1.0,"qualifiers":{"component_group":"primary_functional_space"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"walking_paths","evidence":["ev_functional_zones","ev_landscape_components"],"confidence":1.0,"qualifiers":{"component_group":"landscape_component"}},
+    {"source":"lake","relation":"HAS_COMPONENT","target":"lotus_fountain","evidence":["ev_lake_fountain"],"confidence":1.0,"qualifiers":{"component_group":"lake_feature"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"square","evidence":["ev_landscape_components"],"confidence":1.0,"qualifiers":{"component_group":"landscape_component"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"playground","evidence":["ev_landscape_components"],"confidence":1.0,"qualifiers":{"component_group":"visitor_facility"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"parking","evidence":["ev_landscape_components"],"confidence":1.0,"qualifiers":{"component_group":"visitor_facility"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"boathouse","evidence":["ev_auxiliary_components"],"confidence":1.0,"qualifiers":{"component_group":"auxiliary_work"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"wharf","evidence":["ev_auxiliary_components"],"confidence":1.0,"qualifiers":{"component_group":"auxiliary_work"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"rest_shelter","evidence":["ev_auxiliary_components"],"confidence":1.0,"qualifiers":{"component_group":"auxiliary_work"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"landscape_clusters","evidence":["ev_auxiliary_components"],"confidence":1.0,"qualifiers":{"component_group":"auxiliary_work"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"pump_station","evidence":["ev_technical_components"],"confidence":1.0,"qualifiers":{"component_group":"technical_infrastructure"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"administration_building","evidence":["ev_technical_components"],"confidence":1.0,"qualifiers":{"component_group":"technical_infrastructure"}},
+    {"source":"place","relation":"HAS_COMPONENT","target":"sidewalk_hoang_minh_giam","evidence":["ev_sidewalk_material"],"confidence":0.95,"qualifiers":{"component_group":"external_access_infrastructure"}},
+    {"source":"sidewalk_hoang_minh_giam","relation":"BUILT_WITH","target":"material_paving_stone","evidence":["ev_sidewalk_material"],"confidence":1.0},
+    {"source":"place","relation":"HAS_ACTIVITY","target":"activity_walking","evidence":["ev_walking_paths_use"],"confidence":1.0,"qualifiers":{"activity_scope":"visitor"}},
+    {"source":"place","relation":"HAS_ACTIVITY","target":"activity_resting","evidence":["ev_visitor_activities"],"confidence":1.0,"qualifiers":{"activity_scope":"visitor"}},
+    {"source":"place","relation":"HAS_ACTIVITY","target":"activity_recreation","evidence":["ev_visitor_activities"],"confidence":1.0,"qualifiers":{"activity_scope":"visitor"}},
+    {"source":"place","relation":"HAS_ACTIVITY","target":"activity_outdoor_sports","evidence":["ev_visitor_activities"],"confidence":1.0,"qualifiers":{"activity_scope":"visitor"}},
+    {"source":"place","relation":"HAS_ACTIVITY","target":"activity_festival","evidence":["ev_visitor_activities"],"confidence":1.0,"qualifiers":{"activity_scope":"community_event"}},
+    {"source":"walking_paths","relation":"USED_FOR","target":"activity_walking","evidence":["ev_walking_paths_use"],"confidence":1.0},
+    {"source":"green_park","relation":"USED_FOR","target":"activity_resting","evidence":["ev_component_uses"],"confidence":1.0},
+    {"source":"green_park","relation":"USED_FOR","target":"activity_outdoor_sports","evidence":["ev_component_uses"],"confidence":1.0},
+    {"source":"square","relation":"USED_FOR","target":"activity_festival","evidence":["ev_component_uses"],"confidence":1.0},
+    {"source":"playground","relation":"USED_FOR","target":"activity_recreation","evidence":["ev_component_uses"],"confidence":1.0},
+    {"source":"lake","relation":"USED_FOR","target":"activity_air_regulation","evidence":["ev_lake_environmental_use"],"confidence":1.0},
+    {"source":"place","relation":"HAS_EVENT","target":"event_construction_start","evidence":["ev_construction_and_opening"],"confidence":1.0},
+    {"source":"event_construction_start","relation":"OCCURRED_IN","target":"time_construction_start","evidence":["ev_construction_and_opening"],"confidence":1.0},
+    {"source":"place","relation":"HAS_EVENT","target":"event_public_opening","evidence":["ev_construction_and_opening"],"confidence":1.0},
+    {"source":"event_public_opening","relation":"OCCURRED_IN","target":"time_public_opening","evidence":["ev_construction_and_opening"],"confidence":1.0},
+    {"source":"place","relation":"BUILT_BY","target":"org_thanh_nam","evidence":["ev_construction_contractors"],"confidence":1.0,"qualifiers":{"project_role":"construction_contractor"}},
+    {"source":"place","relation":"BUILT_BY","target":"org_constrexim_8","evidence":["ev_construction_contractors"],"confidence":1.0,"qualifiers":{"project_role":"construction_contractor"}},
+    {"source":"place","relation":"BUILT_BY","target":"org_eco","evidence":["ev_construction_contractors"],"confidence":1.0,"qualifiers":{"project_role":"construction_contractor"}},
+    {"source":"place","relation":"BUILT_BY","target":"org_thanh_xuan_district_people_committee","evidence":["ev_project_owner"],"confidence":0.95,"qualifiers":{"project_role":"investor","question_generation":"disabled_unless_project_role_is_rendered"}},
+    {"source":"place","relation":"HAS_EVENT","target":"event_project_completion_2018","evidence":["ev_le_hong_thang_role","ev_dang_hong_thai_role"],"confidence":0.95},
+    {"source":"event_project_completion_2018","relation":"OCCURRED_IN","target":"time_august_2018","evidence":["ev_le_hong_thang_role","ev_dang_hong_thai_role"],"confidence":1.0},
+    {"source":"event_project_completion_2018","relation":"INVOLVED_PERSON","target":"person_le_hong_thang","evidence":["ev_le_hong_thang_role"],"confidence":1.0,"qualifiers":{"participation_role":"project_management_representative"}},
+    {"source":"event_project_completion_2018","relation":"INVOLVED_PERSON","target":"person_dang_hong_thai","evidence":["ev_dang_hong_thai_role"],"confidence":1.0,"qualifiers":{"participation_role":"district_leader_explaining_project_progress"}},
+    {"source":"place","relation":"ASSOCIATED_WITH_PERSON","target":"person_le_hong_thang","evidence":["ev_le_hong_thang_role"],"confidence":0.95,"qualifiers":{"association_context":"project_completion_2018"}},
+    {"source":"person_le_hong_thang","relation":"HELD_ROLE","target":"role_project_management_director","evidence":["ev_le_hong_thang_role"],"confidence":1.0,"qualifiers":{"context_time":"2018"}},
+    {"source":"place","relation":"ASSOCIATED_WITH_PERSON","target":"person_dang_hong_thai","evidence":["ev_dang_hong_thai_role"],"confidence":0.95,"qualifiers":{"association_context":"project_completion_2018"}},
+    {"source":"person_dang_hong_thai","relation":"HELD_ROLE","target":"role_district_vice_chairman","evidence":["ev_dang_hong_thai_role"],"confidence":1.0,"qualifiers":{"context_time":"2018"}}
+  ]
+}

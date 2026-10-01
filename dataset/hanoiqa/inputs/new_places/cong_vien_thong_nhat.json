@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_thanh_nien_history",
+      "title": "Vì sao Hà Nội đặt tên công viên Thống Nhất?",
+      "url": "https://thanhnien.vn/vi-sao-ha-noi-dat-ten-cong-vien-thong-nhat-185250424203913528.htm",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vna_tree_planting",
+      "title": "Bác Hồ phát động Tết trồng cây",
+      "url": "https://nvsk.vnanet.vn/bac-ho-phat-dong-tet-trong-cay-1-141210.vna",
+      "source_type": "state_news_archive",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_dantri_components",
+      "title": "Những điều ít biết về Công viên Thống Nhất",
+      "url": "https://dantri.com.vn/thoi-su/nhung-dieu-it-biet-ve-cong-vien-rong-lon-nhat-ha-noi-sap-tron-60-nam-tuoi-20210331014139061.htm",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vnexpress_renovation",
+      "title": "Công viên Thống Nhất tiếp tục được tháo rào",
+      "url": "https://vnexpress.net/cong-vien-thong-nhat-tiep-tuc-duoc-thao-rao-4862499.html",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_hanoi_renovation_plan",
+      "title": "Cải tạo, nâng cấp 3 công viên lớn trong nội đô Hà Nội",
+      "url": "https://vqh.hanoi.gov.vn/index.php?language=vi&nv=news&op=tin-lien-ket/cai-tao-nang-cap-3-cong-vien-lon-trong-no-do-ha-noi-khong-de-lang-phi-nhung-khoang-xanh-vo-gia-1990.html",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_park_official",
+      "title": "Công viên Thống Nhất",
+      "url": "https://congvienthongnhat.com.vn/",
+      "source_type": "official_operator_website",
+      "retrieved_at": "2026-09-16",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Công viên Thống Nhất",
+      "aliases": ["Công viên Lênin giai đoạn 1980-2003"],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Giữa các phố Trần Nhân Tông, Lê Duẩn, Đại Cồ Việt và Nguyễn Đình Chiểu, thành phố Hà Nội",
+      "match": "new"
+    },
+    {
+      "key": "time_construction_start",
+      "type": "Time",
+      "canonical_name": "Ngày 28 tháng 11 năm 1958",
+      "aliases": ["28/11/1958", "28-11-1958"],
+      "match": "auto"
+    },
+    {
+      "key": "time_inauguration",
+      "type": "Time",
+      "canonical_name": "Ngày 30 tháng 5 năm 1961",
+      "aliases": ["30/05/1961", "30-5-1961"],
+      "match": "auto"
+    },
+    {
+      "key": "time_tree_planting",
+      "type": "Time",
+      "canonical_name": "Ngày 11 tháng 1 năm 1960",
+      "aliases": ["11/01/1960", "11-1-1960"],
+      "match": "auto"
+    },
+    {
+      "key": "time_open_park_2022",
+      "type": "Time",
+      "canonical_name": "Tháng 12 năm 2022",
+      "aliases": ["Cuối năm 2022"],
+      "match": "auto"
+    },
+    {
+      "key": "time_renovation_2025",
+      "type": "Time",
+      "canonical_name": "Tháng 3 năm 2025",
+      "aliases": ["03/2025"],
+      "match": "auto"
+    },
+    {
+      "key": "lake_bay_mau",
+      "type": "Place",
+      "canonical_name": "Hồ Bảy Mẫu",
+      "aliases": ["Hồ 7 Mẫu"],
+      "match": "new"
+    },
+    {
+      "key": "island_hoa_binh",
+      "type": "Place",
+      "canonical_name": "Đảo Hòa Bình",
+      "aliases": ["Đảo Hòa Bình trong Hồ Bảy Mẫu"],
+      "match": "new"
+    },
+    {
+      "key": "island_thong_nhat",
+      "type": "Place",
+      "canonical_name": "Đảo Thống Nhất",
+      "aliases": ["Đảo Thống Nhất trong Hồ Bảy Mẫu"],
+      "match": "new"
+    },
+    {
+      "key": "bridge_thong_nhat",
+      "type": "Architecture",
+      "canonical_name": "Cầu Thống Nhất",
+      "aliases": ["Cầu dẫn vào Đảo Thống Nhất"],
+      "match": "new"
+    },
+    {
+      "key": "monument_ho_ton",
+      "type": "Architecture",
+      "canonical_name": "Tượng đài Bác Hồ và Bác Tôn",
+      "aliases": ["Tượng đài Hồ Chí Minh và Tôn Đức Thắng"],
+      "match": "new"
+    },
+    {
+      "key": "banyan_tree",
+      "type": "HeritageObject",
+      "canonical_name": "Cây đa do Chủ tịch Hồ Chí Minh trồng ",
+      "aliases": ["Cây đa Bác Hồ", "Cây đa lưu niệm năm 1960"],
+      "match": "new"
+    },
+    {
+      "key": "outdoor_stage",
+      "type": "Architecture",
+      "canonical_name": "Sân khấu ngoài trời Công viên Thống Nhất",
+      "aliases": ["Sân khấu ngoài trời"],
+      "match": "new"
+    },
+    {
+      "key": "children_playground",
+      "type": "Architecture",
+      "canonical_name": "Khu vui chơi thiếu nhi Công viên Thống Nhất",
+      "aliases": ["Khu vui chơi trẻ em"],
+      "match": "new"
+    },
+    {
+      "key": "walking_space",
+      "type": "Architecture",
+      "canonical_name": "Không gian đường dạo và cây xanh Công viên Thống Nhất",
+      "aliases": ["Đường dạo trong công viên", "Không gian cây xanh"],
+      "match": "new"
+    },
+    {
+      "key": "le_duan_entrance_area",
+      "type": "Architecture",
+      "canonical_name": "Khu vực cổng và hè phố Lê Duẩn ",
+      "aliases": ["Cổng Công viên Thống Nhất phía Lê Duẩn", "Hè phố Lê Duẩn giáp công viên"],
+      "match": "new"
+    },
+    {
+      "key": "value_total_area",
+      "type": "Value",
+      "canonical_name": "Hơn 50 hecta diện tích ",
+      "aliases": ["Diện tích công viên hơn 50 ha"],
+      "numeric_value": 50,
+      "unit": "ha",
+      "value_kind": "minimum_area",
+      "match": "new"
+    },
+    {
+      "key": "value_lake_area",
+      "type": "Value",
+      "canonical_name": "25 hecta diện tích ",
+      "numeric_value": 25,
+      "unit": "ha",
+      "value_kind": "area",
+      "match": "new"
+    },
+    {
+      "key": "value_island_area",
+      "type": "Value",
+      "canonical_name": "Hơn 6.000 mét vuông diện tích ",
+      "numeric_value": 6000,
+      "unit": "m²",
+      "value_kind": "minimum_area",
+      "match": "new"
+    },
+    {
+      "key": "value_gate_count",
+      "type": "Value",
+      "canonical_name": "7 vị trí cổng ra vào",
+      "aliases": ["Bảy cổng ra vào"],
+      "numeric_value": 7,
+      "unit": "cổng",
+      "value_kind": "count",
+      "match": "new"
+    },
+    {
+      "key": "activity_exercise",
+      "type": "Activity",
+      "canonical_name": "Tập thể dục",
+      "aliases": ["Rèn luyện thể chất"],
+      "match": "auto"
+    },
+    {
+      "key": "activity_walking",
+      "type": "Activity",
+      "canonical_name": "Đi bộ và dạo chơi",
+      "aliases": ["Tản bộ", "Dạo bộ trong công viên"],
+      "match": "auto"
+    },
+    {
+      "key": "activity_relaxation",
+      "type": "Activity",
+      "canonical_name": "Nghỉ ngơi và thư giãn",
+      "aliases": ["Thư giãn trong không gian xanh"],
+      "match": "auto"
+    },
+    {
+      "key": "activity_children_recreation",
+      "type": "Activity",
+      "canonical_name": "Vui chơi dành cho trẻ em",
+      "aliases": ["Vui chơi thiếu nhi"],
+      "match": "auto"
+    },
+    {
+      "key": "event_inauguration",
+      "type": "Event",
+      "canonical_name": "Khánh thành Công viên Thống Nhất",
+      "aliases": ["Lễ khánh thành Công viên Thống Nhất năm 1961"],
+      "match": "new"
+    },
+    {
+      "key": "event_first_tree_planting",
+      "type": "Event",
+      "canonical_name": "Chủ tịch Hồ Chí Minh trồng cây đa mở đầu phong trào Tết trồng cây",
+      "aliases": ["Sự kiện Bác Hồ trồng cây đa tại Công viên Thống Nhất"],
+      "match": "new"
+    },
+    {
+      "key": "event_open_park",
+      "type": "Event",
+      "canonical_name": "Chuyển sang mô hình công viên mở",
+      "aliases": ["Tháo hàng rào Công viên Thống Nhất năm 2022"],
+      "match": "new"
+    },
+    {
+      "key": "event_renovation_2025",
+      "type": "Event",
+      "canonical_name": "Cải tạo cổng, hàng rào và hè phố Lê Duẩn ",
+      "aliases": ["Đợt cải tạo Công viên Thống Nhất năm 2025"],
+      "match": "new"
+    },
+    {
+      "key": "ho_chi_minh",
+      "type": "Person",
+      "canonical_name": "Hồ Chí Minh",
+      "aliases": ["Chủ tịch Hồ Chí Minh", "Bác Hồ"],
+      "match": "auto"
+    },
+    {
+      "key": "ton_duc_thang",
+      "type": "Person",
+      "canonical_name": "Tôn Đức Thắng",
+      "aliases": ["Chủ tịch Tôn Đức Thắng", "Bác Tôn"],
+      "match": "auto"
+    },
+    {
+      "key": "tran_anh_tu",
+      "type": "Person",
+      "canonical_name": "Trần Anh Tú",
+      "match": "new"
+    },
+    {
+      "key": "management_company",
+      "type": "Organization",
+      "canonical_name": "Công ty trách nhiệm hữu hạn một thành viên Công viên Thống Nhất",
+      "aliases": ["Công ty TNHH MTV Công viên Thống Nhất", "Công ty Công viên Thống Nhất"],
+      "match": "auto"
+    },
+    {
+      "key": "role_general_director",
+      "type": "Role",
+      "canonical_name": "Tổng Giám đốc Công ty Công viên Thống Nhất",
+      "aliases": ["Tổng Giám đốc đơn vị quản lý Công viên Thống Nhất"],
+      "match": "new"
+    },
+    {
+      "key": "material_natural_stone",
+      "type": "Material",
+      "canonical_name": "Đá tự nhiên",
+      "aliases": ["Lớp lát đá tự nhiên"],
+      "match": "auto"
+    },
+    {
+      "key": "category_urban_park",
+      "type": "TourismCategory",
+      "canonical_name": "Công viên đô thị",
+      "aliases": ["Công viên trong đô thị"],
+      "match": "auto"
+    },
+    {
+      "key": "category_public_green_space",
+      "type": "TourismCategory",
+      "canonical_name": "Không gian xanh công cộng",
+      "aliases": ["Không gian xanh đô thị"],
+      "match": "auto"
+    },
+    {
+      "key": "category_open_park",
+      "type": "TourismCategory",
+      "canonical_name": "Công viên mở",
+      "aliases": ["Mô hình công viên mở"],
+      "match": "auto"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_dantri_components",
+      "topic": "geographic_address",
+      "normalized_text": "Công viên Thống Nhất nằm giữa bốn tuyến phố Trần Nhân Tông, Lê Duẩn, Đại Cồ Việt và Nguyễn Đình Chiểu thuộc thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_built_in",
+      "source": "src_thanh_nien_history",
+      "topic": "construction_start",
+      "normalized_text": "Công viên Thống Nhất được khởi công xây dựng ngày 28 tháng 11 năm 1958 trên khu vực trước đây là đầm hồ và bãi rác.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_categories",
+      "source": "src_hanoi_renovation_plan",
+      "topic": "park_categories",
+      "normalized_text": "Công viên Thống Nhất là công viên đô thị và không gian xanh công cộng phục vụ nhu cầu vui chơi, giải trí, nghỉ ngơi của người dân Thủ đô.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_total_area",
+      "source": "src_vnexpress_renovation",
+      "topic": "total_area",
+      "normalized_text": "Công viên Thống Nhất có tổng diện tích hơn 50 hecta.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_main_components",
+      "source": "src_dantri_components",
+      "topic": "lake_and_islands",
+      "normalized_text": "Công viên Thống Nhất bao quanh Hồ Bảy Mẫu; trong Hồ Bảy Mẫu có hai hòn đảo là Đảo Hòa Bình và Đảo Thống Nhất.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_lake_area",
+      "source": "src_dantri_components",
+      "topic": "lake_area",
+      "normalized_text": "Hồ Bảy Mẫu, một hạng mục thuộc Công viên Thống Nhất, có diện tích khoảng 25 hecta.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_island_and_bridge",
+      "source": "src_dantri_components",
+      "topic": "island_and_bridge",
+      "normalized_text": "Đảo Thống Nhất trong Công viên Thống Nhất có diện tích hơn 6.000 mét vuông và được nối với khu vực phía đường Lê Duẩn bằng Cầu Thống Nhất.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recreation_components",
+      "source": "src_dantri_components",
+      "topic": "recreation_components",
+      "normalized_text": "Công viên Thống Nhất có Sân khấu ngoài trời, Khu vui chơi thiếu nhi và Không gian đường dạo, cây xanh phục vụ người dân.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_visitor_activities",
+      "source": "src_thanh_nien_history",
+      "topic": "visitor_activities",
+      "normalized_text": "Khách đến Công viên Thống Nhất có thể tập thể dục, đi bộ, dạo chơi, nghỉ ngơi và thư giãn trong không gian cây xanh.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_island_usage",
+      "source": "src_dantri_components",
+      "topic": "hoa_binh_island_usage",
+      "normalized_text": "Đảo Hòa Bình thuộc Công viên Thống Nhất là không gian yên tĩnh được sử dụng cho hoạt động tập thể dục, nghỉ ngơi và thư giãn.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_walking_space_usage",
+      "source": "src_hanoi_renovation_plan",
+      "topic": "walking_space_usage",
+      "normalized_text": "Không gian đường dạo và cây xanh của Công viên Thống Nhất được sử dụng cho hoạt động đi bộ, dạo chơi và tập thể dục.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_children_playground_usage",
+      "source": "src_dantri_components",
+      "topic": "children_playground_usage",
+      "normalized_text": "Khu vui chơi thiếu nhi của Công viên Thống Nhất được sử dụng cho hoạt động vui chơi dành cho trẻ em.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_inauguration",
+      "source": "src_dantri_components",
+      "topic": "park_inauguration",
+      "normalized_text": "Công viên Thống Nhất gắn với sự kiện Khánh thành Công viên Thống Nhất diễn ra ngày 30 tháng 5 năm 1961.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_tree_planting",
+      "source": "src_vna_tree_planting",
+      "topic": "first_tree_planting",
+      "normalized_text": "Ngày 11 tháng 1 năm 1960, Chủ tịch Hồ Chí Minh trồng một cây đa tại Công viên hồ Bảy Mẫu, nay là Công viên Thống Nhất, mở đầu phong trào Tết trồng cây đầu tiên.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_person_and_tree",
+      "source": "src_thanh_nien_history",
+      "topic": "ho_chi_minh_association",
+      "normalized_text": "Công viên Thống Nhất gắn với Chủ tịch Hồ Chí Minh thông qua Cây đa do Chủ tịch Hồ Chí Minh trực tiếp trồng ngày 11 tháng 1 năm 1960.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_monument",
+      "source": "src_dantri_components",
+      "topic": "commemorative_monument",
+      "normalized_text": "Đảo Thống Nhất có Tượng đài Bác Hồ và Bác Tôn, công trình tưởng niệm Chủ tịch Hồ Chí Minh và Chủ tịch Tôn Đức Thắng được xây dựng vào năm 2010.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_open_park",
+      "source": "src_thanh_nien_history",
+      "topic": "open_park_conversion",
+      "normalized_text": "Cuối tháng 12 năm 2022, gần 400 mét hàng rào phía đường Trần Nhân Tông được tháo dỡ, chuyển Công viên Thống Nhất sang mô hình Công viên mở và không thu phí vào cửa.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_2025",
+      "source": "src_vnexpress_renovation",
+      "topic": "renovation_2025",
+      "normalized_text": "Tháng 3 năm 2025, Công viên Thống Nhất gắn với sự kiện Cải tạo cổng, hàng rào và hè phố Lê Duẩn; Ban Quản lý dự án đầu tư xây dựng quận Hai Bà Trưng là chủ đầu tư tổ chức khởi công dự án.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation_material",
+      "source": "src_vnexpress_renovation",
+      "topic": "renovation_material",
+      "normalized_text": "Khu vực cổng và hè phố Lê Duẩn giáp Công viên Thống Nhất được cải tạo bằng cách thay lớp gạch block cũ bằng Đá tự nhiên.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_gate_count",
+      "source": "src_vnexpress_renovation",
+      "topic": "entrance_count",
+      "normalized_text": "Công viên Thống Nhất có 7 vị trí cổng ra vào.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_management",
+      "source": "src_park_official",
+      "topic": "park_management",
+      "normalized_text": "Công ty trách nhiệm hữu hạn một thành viên Công viên Thống Nhất là đơn vị gắn với công tác quản lý và vận hành Công viên Thống Nhất.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_manager_role",
+      "source": "src_thanh_nien_history",
+      "topic": "management_person",
+      "normalized_text": "Trần Anh Tú được giới thiệu là Tổng Giám đốc Công ty Công viên Thống Nhất và là nhân vật gắn với công tác quản lý Công viên Thống Nhất.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address"], "confidence": 1.0},
+    {"source": "place", "relation": "BUILT_IN", "target": "time_construction_start", "evidence": ["ev_built_in"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_urban_park", "evidence": ["ev_categories"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_public_green_space", "evidence": ["ev_categories"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_open_park", "evidence": ["ev_open_park"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "value_total_area", "evidence": ["ev_total_area"], "confidence": 1.0, "qualifiers": {"measurement_kind": "area", "approximate": true}},
+    {"source": "lake_bay_mau", "relation": "HAS_MEASUREMENT", "target": "value_lake_area", "evidence": ["ev_lake_area"], "confidence": 1.0, "qualifiers": {"measurement_kind": "area", "approximate": true}},
+    {"source": "island_thong_nhat", "relation": "HAS_MEASUREMENT", "target": "value_island_area", "evidence": ["ev_island_and_bridge"], "confidence": 1.0, "qualifiers": {"measurement_kind": "area", "approximate": true}},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "value_gate_count", "evidence": ["ev_gate_count"], "confidence": 1.0, "qualifiers": {"measurement_kind": "count"}},
+
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "lake_bay_mau", "evidence": ["ev_main_components"], "confidence": 1.0},
+    {"source": "lake_bay_mau", "relation": "HAS_COMPONENT", "target": "island_hoa_binh", "evidence": ["ev_main_components"], "confidence": 1.0},
+    {"source": "lake_bay_mau", "relation": "HAS_COMPONENT", "target": "island_thong_nhat", "evidence": ["ev_main_components"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "bridge_thong_nhat", "evidence": ["ev_island_and_bridge"], "confidence": 0.95},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "outdoor_stage", "evidence": ["ev_recreation_components"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "children_playground", "evidence": ["ev_recreation_components", "ev_children_playground_usage"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "walking_space", "evidence": ["ev_recreation_components", "ev_walking_space_usage"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "banyan_tree", "evidence": ["ev_person_and_tree"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "le_duan_entrance_area", "evidence": ["ev_renovation_2025", "ev_renovation_material"], "confidence": 0.9},
+    {"source": "island_thong_nhat", "relation": "HAS_COMPONENT", "target": "monument_ho_ton", "evidence": ["ev_monument"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_exercise", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_walking", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_relaxation", "evidence": ["ev_visitor_activities"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_children_recreation", "evidence": ["ev_children_playground_usage"], "confidence": 1.0},
+
+    {"source": "island_hoa_binh", "relation": "USED_FOR", "target": "activity_exercise", "evidence": ["ev_island_usage"], "confidence": 1.0},
+    {"source": "island_hoa_binh", "relation": "USED_FOR", "target": "activity_relaxation", "evidence": ["ev_island_usage"], "confidence": 1.0},
+    {"source": "walking_space", "relation": "USED_FOR", "target": "activity_walking", "evidence": ["ev_walking_space_usage"], "confidence": 1.0},
+    {"source": "walking_space", "relation": "USED_FOR", "target": "activity_exercise", "evidence": ["ev_walking_space_usage"], "confidence": 1.0},
+    {"source": "children_playground", "relation": "USED_FOR", "target": "activity_children_recreation", "evidence": ["ev_children_playground_usage"], "confidence": 1.0},
+
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_inauguration", "evidence": ["ev_inauguration"], "confidence": 1.0},
+    {"source": "event_inauguration", "relation": "OCCURRED_IN", "target": "time_inauguration", "evidence": ["ev_inauguration"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_first_tree_planting", "evidence": ["ev_tree_planting"], "confidence": 1.0},
+    {"source": "event_first_tree_planting", "relation": "OCCURRED_IN", "target": "time_tree_planting", "evidence": ["ev_tree_planting"], "confidence": 1.0},
+    {"source": "event_first_tree_planting", "relation": "INVOLVED_PERSON", "target": "ho_chi_minh", "evidence": ["ev_tree_planting"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_open_park", "evidence": ["ev_open_park"], "confidence": 1.0},
+    {"source": "event_open_park", "relation": "OCCURRED_IN", "target": "time_open_park_2022", "evidence": ["ev_open_park"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_renovation_2025", "evidence": ["ev_renovation_2025"], "confidence": 1.0},
+    {"source": "event_renovation_2025", "relation": "OCCURRED_IN", "target": "time_renovation_2025", "evidence": ["ev_renovation_2025"], "confidence": 1.0},
+
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_open_park_2022", "evidence": ["ev_open_park"], "confidence": 0.95},
+    {"source": "place", "relation": "RENOVATED_IN", "target": "time_renovation_2025", "evidence": ["ev_renovation_2025"], "confidence": 1.0},
+    {"source": "le_duan_entrance_area", "relation": "BUILT_WITH", "target": "material_natural_stone", "evidence": ["ev_renovation_material"], "confidence": 1.0},
+
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "ho_chi_minh", "evidence": ["ev_person_and_tree"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "tran_anh_tu", "evidence": ["ev_manager_role"], "confidence": 0.9},
+    {"source": "tran_anh_tu", "relation": "HELD_ROLE", "target": "role_general_director", "evidence": ["ev_manager_role"], "confidence": 0.9},
+    {"source": "place", "relation": "MANAGED_BY", "target": "management_company", "evidence": ["ev_management"], "confidence": 0.9},
+
+    {"source": "monument_ho_ton", "relation": "HONORS", "target": "ho_chi_minh", "evidence": ["ev_monument"], "confidence": 1.0},
+    {"source": "monument_ho_ton", "relation": "HONORS", "target": "ton_duc_thang", "evidence": ["ev_monument"], "confidence": 1.0}
+  ]
+}

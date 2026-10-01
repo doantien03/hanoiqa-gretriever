@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_vietnamtourism_overview",
+      "title": "Công viên mang biểu tượng hòa bình",
+      "url": "https://vietnamtourism.vn/index.php/news/items/3465",
+      "source_type": "state_tourism_portal",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vnexpress_architecture",
+      "title": "Công viên hiện đại nhất Thủ đô xuống cấp",
+      "url": "https://vnexpress.net/cong-vien-hien-dai-nhat-thu-do-xuong-cap-2177961.html",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_nhandan_pushkin",
+      "title": "Khánh thành tượng đài nhà thơ Pushkin tại Công viên Hòa Bình",
+      "url": "https://nhandan.vn/khanh-thanh-tuong-dai-nha-tho-pushkin-tai-cong-vien-hoa-binh-post638779.html",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_government_inauguration",
+      "title": "Khánh thành Công viên Hòa Bình",
+      "url": "https://baochinhphu.vn/khanh-thanh-cong-vien-hoa-binh-10239559.htm",
+      "source_type": "central_government_portal",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {"key": "place", "type": "Place", "canonical_name": "Công viên Hòa Bình", "aliases": ["Công viên Hòa Bình Hà Nội", "Hoa Binh Park"], "match": "new"},
+    {"key": "address", "type": "Address", "canonical_name": "Đường Phạm Văn Đồng, khu vực Xuân Đỉnh, thành phố Hà Nội", "aliases": ["Phạm Văn Đồng, Xuân Đỉnh, Hà Nội"], "match": "new"},
+    {"key": "time_start_2009", "type": "Time", "canonical_name": "Ngày 20 tháng 2 năm 2009", "aliases": ["20/02/2009", "20-2-2009"], "match": "auto"},
+    {"key": "time_inauguration_2010", "type": "Time", "canonical_name": "Ngày 8 tháng 10 năm 2010", "aliases": ["08/10/2010", "8-10-2010"], "match": "auto"},
+    {"key": "time_pushkin_2021", "type": "Time", "canonical_name": "Ngày 17 tháng 3 năm 2021", "aliases": ["17/03/2021", "17-3-2021"], "match": "auto"},
+    {"key": "value_total_area", "type": "Value", "canonical_name": "Gần 20 ha diện tích", "aliases": ["Diện tích gần 20 ha"], "numeric_value": 20, "unit": "ha", "value_kind": "approximate_area", "match": "new"},
+    {"key": "value_recreation_area", "type": "Value", "canonical_name": "6,3 ha diện tích", "numeric_value": 6.3, "unit": "ha", "value_kind": "area", "match": "new"},
+    {"key": "value_lake_area", "type": "Value", "canonical_name": "5,54 ha diện tích ", "numeric_value": 5.54, "unit": "ha", "value_kind": "area", "match": "new"},
+    {"key": "value_square_area", "type": "Value", "canonical_name": "Gần 3 ha diện tích", "aliases": ["gần 3 ha"], "numeric_value": 3, "unit": "ha", "value_kind": "approximate_area", "match": "new"},
+    {"key": "value_peace_height", "type": "Value", "canonical_name": "7,2 m chiều cao", "aliases": ["cao 7,2 m"], "numeric_value": 7.2, "unit": "m", "value_kind": "height", "match": "new"},
+    {"key": "value_peace_weight", "type": "Value", "canonical_name": "Khoảng 20 tấn", "numeric_value": 20, "unit": "tấn", "value_kind": "approximate_weight", "match": "new"},
+    {"key": "value_pushkin_height", "type": "Value", "canonical_name": "2,1 m chiều cao", "aliases": ["cao 2,1 m"], "numeric_value": 2.1, "unit": "m", "value_kind": "height", "match": "new"},
+    {"key": "value_pushkin_weight", "type": "Value", "canonical_name": "1,5 tấn", "aliases": ["nặng 1,5 tấn"], "numeric_value": 1.5, "unit": "tấn", "value_kind": "weight", "match": "new"},
+    {"key": "arch_recreation_zone", "type": "Architecture", "canonical_name": "Khu thể dục thể thao", "match": "existing","existing_id": "ARCH_000356"},
+    {"key": "arch_lake", "type": "Architecture", "canonical_name": "Hồ điều hòa", "match": "existing","existing_id": "ARCH_000365"},
+    {"key": "arch_central_square", "type": "Architecture", "canonical_name": "Quảng trường trung tâm", "match": "existing","existing_id": "ARCH_000367"},
+    {"key": "arch_service_zone", "type": "Architecture", "canonical_name": "Khu điều hành và dịch vụ", "match": "new"},
+    {"key": "arch_parking", "type": "Architecture", "canonical_name": "Khu đỗ xe", "aliases": ["Bãi đỗ xe"], "match": "new"},
+    {"key": "arch_4d_house", "type": "Architecture", "canonical_name": "Nhà trò chơi 4D", "aliases": ["Khu trò chơi 4D"], "match": "new"},
+    {"key": "arch_gate_group", "type": "Architecture", "canonical_name": "Ba cổng chính", "aliases": ["Hệ thống ba cổng chính"], "match": "new"},
+    {"key": "arch_peace_monument", "type": "Architecture", "canonical_name": "Tượng đài Hòa Bình", "aliases": ["Tượng Hòa Bình", "Tượng Mẹ bồng con và chim bồ câu"], "match": "new"},
+    {"key": "arch_pushkin_monument", "type": "Architecture", "canonical_name": "Tượng đài Aleksandr Sergeyevich Pushkin", "aliases": ["Tượng Pushkin"], "match": "new"},
+    {"key": "material_red_bronze", "type": "Material", "canonical_name": "Đồng đỏ", "aliases": ["Chất liệu đồng đỏ"], "match": "auto"},
+    {"key": "material_monolithic_bronze", "type": "Material", "canonical_name": "Đồng nguyên khối", "aliases": ["Chất liệu đồng nguyên khối"], "match": "auto"},
+    {"key": "style_east_asian", "type": "ArchitecturalStyle", "canonical_name": "Kiến trúc truyền thống phương Đông", "aliases": ["Phong cách truyền thống phương Đông"], "match": "auto"},
+    {"key": "category_urban_park", "type": "TourismCategory", "canonical_name": "Công viên đô thị", "aliases": ["Công viên thành phố"], "match": "existing","existing_id": "CATEGORY_000020"},
+    {"key": "category_public_green_space", "type": "TourismCategory", "canonical_name": "Không gian xanh công cộng", "aliases": ["Không gian công cộng xanh"], "match": "existing","existing_id": "CATEGORY_000021"},
+    {"key": "activity_recreation_sports", "type": "Activity", "canonical_name": "Vui chơi và giải trí", "match": "existing","existing_id": "ACTIVITY_000073"},
+    {"key": "activity_sightseeing", "type": "Activity", "canonical_name": "Tham quan và chụp ảnh", "match": "existing","existing_id": "ACTIVITY_000081"},
+    {"key": "activity_4d_games", "type": "Activity", "canonical_name": "Trải nghiệm trò chơi 4D", "aliases": ["Xem phim và chơi trò chơi 4D"], "match": "auto"},
+    {"key": "status_millennium_project", "type": "HeritageStatus", "canonical_name": "Công trình kỷ niệm Đại lễ 1000 năm Thăng Long - Hà Nội", "aliases": ["Công trình chào mừng 1000 năm Thăng Long - Hà Nội"], "match": "auto"},
+    {"key": "event_park_inauguration", "type": "Event", "canonical_name": "Khánh thành Công viên Hòa Bình", "aliases": ["Lễ khánh thành Công viên Hòa Bình năm 2010"], "match": "new"},
+    {"key": "event_pushkin_inauguration", "type": "Event", "canonical_name": "Khánh thành tượng đài Pushkin", "aliases": ["Lễ khánh thành tượng Pushkin năm 2021"], "match": "new"},
+    {"key": "org_hanoi_people_committee", "type": "Organization", "canonical_name": "Ủy ban nhân dân thành phố Hà Nội", "aliases": ["UBND thành phố Hà Nội", "UBND TP Hà Nội"], "match": "existing","existing_id": "ORG_000004"},
+    {"key": "person_nguyen_thi_doan", "type": "Person", "canonical_name": "Nguyễn Thị Doan", "aliases": ["Phó Chủ tịch nước Nguyễn Thị Doan"], "match": "auto"},
+    {"key": "person_nguyen_the_thao", "type": "Person", "canonical_name": "Nguyễn Thế Thảo", "aliases": ["Chủ tịch UBND thành phố Hà Nội Nguyễn Thế Thảo"], "match": "auto"},
+    {"key": "person_pushkin", "type": "Person", "canonical_name": "Aleksandr Sergeyevich Pushkin", "aliases": ["A. S. Pushkin", "Aleksandr Pushkin", "Puskin"], "match": "auto"},
+    {"key": "person_nguyen_phu_cuong", "type": "Person", "canonical_name": "Nguyễn Phú Cường", "aliases": ["Họa sĩ Nguyễn Phú Cường"], "match": "auto"},
+    {"key": "role_vice_president", "type": "Role", "canonical_name": "Phó Chủ tịch nước Việt Nam", "aliases": ["Phó Chủ tịch nước"], "match": "auto"},
+    {"key": "role_hanoi_chairman", "type": "Role", "canonical_name": "Chủ tịch Ủy ban nhân dân thành phố Hà Nội", "aliases": ["Chủ tịch UBND thành phố Hà Nội"], "match": "auto"},
+    {"key": "role_russian_poet", "type": "Role", "canonical_name": "Nhà thơ Nga", "aliases": ["Đại thi hào Nga"], "match": "auto"},
+    {"key": "role_sculptor", "type": "Role", "canonical_name": "Nhà điêu khắc", "aliases": ["Nghệ sĩ điêu khắc"], "match": "auto"}
+  ],
+  "evidence": [
+    {
+      "key": "ev_address_xuan_dinh",
+      "source": "src_government_inauguration",
+      "topic": "address_xuan_dinh",
+      "normalized_text": "Công viên Hòa Bình được xây dựng tại khu vực Xuân Đỉnh, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_address_pham_van_dong",
+      "source": "src_vnexpress_architecture",
+      "topic": "address_pham_van_dong",
+      "normalized_text": "Một cổng chính của Công viên Hòa Bình tiếp giáp đường Phạm Văn Đồng tại khu vực Xuân Đỉnh, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_construction_start",
+      "source": "src_government_inauguration",
+      "topic": "construction_start",
+      "normalized_text": "Công viên Hòa Bình được khởi công xây dựng ngày 20 tháng 2 năm 2009.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_park_inauguration_status",
+      "source": "src_government_inauguration",
+      "topic": "inauguration_and_recognition",
+      "normalized_text": "Sự kiện Khánh thành Công viên Hòa Bình diễn ra ngày 8 tháng 10 năm 2010; tại sự kiện, Chủ tịch Ủy ban nhân dân thành phố Hà Nội Nguyễn Thế Thảo trao giấy chứng nhận Công trình kỷ niệm Đại lễ 1000 năm Thăng Long - Hà Nội cho Công viên Hòa Bình.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_inauguration_people_roles",
+      "source": "src_government_inauguration",
+      "topic": "inauguration_participants",
+      "normalized_text": "Phó Chủ tịch nước Việt Nam Nguyễn Thị Doan và Chủ tịch Ủy ban nhân dân thành phố Hà Nội Nguyễn Thế Thảo tham dự sự kiện Khánh thành Công viên Hòa Bình ngày 8 tháng 10 năm 2010.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_total_area_category_activity",
+      "source": "src_vietnamtourism_overview",
+      "topic": "area_category_and_use",
+      "normalized_text": "Công viên Hòa Bình là công viên đô thị và không gian xanh công cộng rộng gần 20 ha, phục vụ vui chơi và giải trí, tham quan và chụp ảnh.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_functional_areas",
+      "source": "src_vietnamtourism_overview",
+      "topic": "functional_components",
+      "normalized_text": "Các hạng mục của Công viên Hòa Bình gồm Khu vui chơi và giải trí rộng 6,3 ha, Hồ điều hòa Công viên Hòa Bình rộng khoảng 5,54 ha, Quảng trường trung tâm Công viên Hòa Bình rộng gần 3 ha, Khu điều hành ,dịch vụ và Khu đỗ xe .",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_architectural_style",
+      "source": "src_vietnamtourism_overview",
+      "topic": "architectural_style",
+      "normalized_text": "Các công trình kiến trúc thấp tầng trong Công viên Hòa Bình được thiết kế theo Kiến trúc truyền thống phương Đông.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_4d_house",
+      "source": "src_government_inauguration",
+      "topic": "entertainment_component",
+      "normalized_text": "Nhà trò chơi 4D Công viên Hòa Bình là một hạng mục kiến trúc phục vụ hoạt động Trải nghiệm trò chơi 4D tại Công viên Hòa Bình.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_gate_group",
+      "source": "src_vnexpress_architecture",
+      "topic": "main_gates",
+      "normalized_text": "Công viên Hòa Bình có Ba cổng chính Công viên Hòa Bình; cổng phía đường Phạm Văn Đồng mang hình chim Lạc, còn hai cổng khác mô phỏng chim bồ câu đang bay.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_peace_monument_measurement_person",
+      "source": "src_government_inauguration",
+      "topic": "peace_monument",
+      "normalized_text": "Tượng đài Hòa Bình là hạng mục của Công viên Hòa Bình, cao 7,2 m, nặng khoảng 20 tấn và là tác phẩm của Nhà điêu khắc Nguyễn Phú Cường.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_peace_monument_material",
+      "source": "src_vietnamtourism_overview",
+      "topic": "peace_monument_material",
+      "normalized_text": "Tượng đài Hòa Bình tại Công viên Hòa Bình được đúc bằng Đồng đỏ, thể hiện hình người mẹ bồng con và đàn chim bồ câu.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_pushkin_monument",
+      "source": "src_nhandan_pushkin",
+      "topic": "pushkin_monument_inauguration",
+      "normalized_text": "Sự kiện Khánh thành tượng đài Pushkin tại Công viên Hòa Bình diễn ra ngày 17 tháng 3 năm 2021; Tượng đài Aleksandr Sergeyevich Pushkin được làm bằng Đồng nguyên khối, cao 2,1 m, nặng 1,5 tấn và tưởng niệm Aleksandr Sergeyevich Pushkin.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_pushkin_role",
+      "source": "src_nhandan_pushkin",
+      "topic": "pushkin_identity",
+      "normalized_text": "Aleksandr Sergeyevich Pushkin là Nhà thơ Nga, sinh năm 1799 và mất năm 1837; tượng đài của ông tại Công viên Hòa Bình góp phần thể hiện tình hữu nghị Việt Nam - Liên bang Nga.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {"source": "place", "relation": "HAS_ADDRESS", "target": "address", "evidence": ["ev_address_xuan_dinh", "ev_address_pham_van_dong"], "confidence": 0.96, "qualifiers": {"address_precision": "street_and_locality"}},
+    {"source": "place", "relation": "BUILT_IN", "target": "time_start_2009", "evidence": ["ev_construction_start"], "confidence": 1.0, "qualifiers": {"construction_phase": "start"}},
+    {"source": "place", "relation": "HAS_MEASUREMENT", "target": "value_total_area", "evidence": ["ev_total_area_category_activity"], "confidence": 0.98, "qualifiers": {"measurement_kind": "approximate_area"}},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_urban_park", "evidence": ["ev_total_area_category_activity"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_CATEGORY", "target": "category_public_green_space", "evidence": ["ev_total_area_category_activity"], "confidence": 0.95},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_recreation_sports", "evidence": ["ev_total_area_category_activity"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_sightseeing", "evidence": ["ev_total_area_category_activity"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_ACTIVITY", "target": "activity_4d_games", "evidence": ["ev_4d_house"], "confidence": 1.0},
+    {"source": "place", "relation": "USED_FOR", "target": "activity_sightseeing", "evidence": ["ev_total_area_category_activity"], "confidence": 0.96},
+    {"source": "place", "relation": "HAS_ARCHITECTURAL_STYLE", "target": "style_east_asian", "evidence": ["ev_architectural_style"], "confidence": 0.95, "qualifiers": {"scope": "low_rise_buildings"}},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_recreation_zone", "evidence": ["ev_functional_areas"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_lake", "evidence": ["ev_functional_areas"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_central_square", "evidence": ["ev_functional_areas"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_service_zone", "evidence": ["ev_functional_areas"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_parking", "evidence": ["ev_functional_areas"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_4d_house", "evidence": ["ev_4d_house"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_gate_group", "evidence": ["ev_gate_group"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_peace_monument", "evidence": ["ev_peace_monument_measurement_person", "ev_peace_monument_material"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_COMPONENT", "target": "arch_pushkin_monument", "evidence": ["ev_pushkin_monument"], "confidence": 1.0},
+    {"source": "arch_recreation_zone", "relation": "HAS_MEASUREMENT", "target": "value_recreation_area", "evidence": ["ev_functional_areas"], "confidence": 1.0, "qualifiers": {"measurement_kind": "area"}},
+    {"source": "arch_lake", "relation": "HAS_MEASUREMENT", "target": "value_lake_area", "evidence": ["ev_functional_areas"], "confidence": 0.98, "qualifiers": {"measurement_kind": "area"}},
+    {"source": "arch_central_square", "relation": "HAS_MEASUREMENT", "target": "value_square_area", "evidence": ["ev_functional_areas"], "confidence": 0.98, "qualifiers": {"measurement_kind": "approximate_area"}},
+    {"source": "arch_recreation_zone", "relation": "USED_FOR", "target": "activity_recreation_sports", "evidence": ["ev_functional_areas", "ev_total_area_category_activity"], "confidence": 1.0},
+    {"source": "arch_4d_house", "relation": "USED_FOR", "target": "activity_4d_games", "evidence": ["ev_4d_house"], "confidence": 1.0},
+    {"source": "arch_peace_monument", "relation": "HAS_MEASUREMENT", "target": "value_peace_height", "evidence": ["ev_peace_monument_measurement_person"], "confidence": 1.0, "qualifiers": {"measurement_kind": "height"}},
+    {"source": "arch_peace_monument", "relation": "HAS_MEASUREMENT", "target": "value_peace_weight", "evidence": ["ev_peace_monument_measurement_person"], "confidence": 0.98, "qualifiers": {"measurement_kind": "approximate_weight"}},
+    {"source": "arch_peace_monument", "relation": "BUILT_WITH", "target": "material_red_bronze", "evidence": ["ev_peace_monument_material"], "confidence": 1.0},
+    {"source": "arch_peace_monument", "relation": "ASSOCIATED_WITH_PERSON", "target": "person_nguyen_phu_cuong", "evidence": ["ev_peace_monument_measurement_person"], "confidence": 1.0, "qualifiers": {"association": "idea_author"}},
+    {"source": "person_nguyen_phu_cuong", "relation": "HELD_ROLE", "target": "role_sculptor", "evidence": ["ev_peace_monument_measurement_person"], "confidence": 1.0, "qualifiers": {"as_of": "2010-10-08"}},
+    {"source": "arch_pushkin_monument", "relation": "HAS_MEASUREMENT", "target": "value_pushkin_height", "evidence": ["ev_pushkin_monument"], "confidence": 1.0, "qualifiers": {"measurement_kind": "height"}},
+    {"source": "arch_pushkin_monument", "relation": "HAS_MEASUREMENT", "target": "value_pushkin_weight", "evidence": ["ev_pushkin_monument"], "confidence": 1.0, "qualifiers": {"measurement_kind": "weight"}},
+    {"source": "arch_pushkin_monument", "relation": "BUILT_WITH", "target": "material_monolithic_bronze", "evidence": ["ev_pushkin_monument"], "confidence": 1.0},
+    {"source": "arch_pushkin_monument", "relation": "HONORS", "target": "person_pushkin", "evidence": ["ev_pushkin_monument", "ev_pushkin_role"], "confidence": 1.0},
+    {"source": "place", "relation": "ASSOCIATED_WITH_PERSON", "target": "person_pushkin", "evidence": ["ev_pushkin_monument", "ev_pushkin_role"], "confidence": 1.0, "qualifiers": {"association": "commemorative_monument"}},
+    {"source": "person_pushkin", "relation": "HELD_ROLE", "target": "role_russian_poet", "evidence": ["ev_pushkin_role"], "confidence": 1.0},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_park_inauguration", "evidence": ["ev_park_inauguration_status"], "confidence": 1.0},
+    {"source": "event_park_inauguration", "relation": "OCCURRED_IN", "target": "time_inauguration_2010", "evidence": ["ev_park_inauguration_status"], "confidence": 1.0},
+    {"source": "event_park_inauguration", "relation": "INVOLVED_PERSON", "target": "person_nguyen_thi_doan", "evidence": ["ev_inauguration_people_roles"], "confidence": 1.0, "qualifiers": {"participation": "attendee"}},
+    {"source": "event_park_inauguration", "relation": "INVOLVED_PERSON", "target": "person_nguyen_the_thao", "evidence": ["ev_inauguration_people_roles", "ev_park_inauguration_status"], "confidence": 1.0, "qualifiers": {"participation": "attendee_and_certificate_presenter"}},
+    {"source": "person_nguyen_thi_doan", "relation": "HELD_ROLE", "target": "role_vice_president", "evidence": ["ev_inauguration_people_roles"], "confidence": 1.0, "qualifiers": {"as_of": "2010-10-08"}},
+    {"source": "person_nguyen_the_thao", "relation": "HELD_ROLE", "target": "role_hanoi_chairman", "evidence": ["ev_inauguration_people_roles", "ev_park_inauguration_status"], "confidence": 1.0, "qualifiers": {"as_of": "2010-10-08"}},
+    {"source": "place", "relation": "RECOGNIZED_AS", "target": "status_millennium_project", "evidence": ["ev_park_inauguration_status"], "confidence": 1.0, "qualifiers": {"designation_scope": "commemorative_project_not_heritage_ranking"}},
+    {"source": "place", "relation": "RECOGNIZED_IN", "target": "time_inauguration_2010", "evidence": ["ev_park_inauguration_status"], "confidence": 1.0, "qualifiers": {"designation": "Công trình kỷ niệm Đại lễ 1000 năm Thăng Long - Hà Nội"}},
+    {"source": "place", "relation": "RECOGNIZED_BY", "target": "org_hanoi_people_committee", "evidence": ["ev_park_inauguration_status"], "confidence": 0.95, "qualifiers": {"designation": "Công trình kỷ niệm Đại lễ 1000 năm Thăng Long - Hà Nội"}},
+    {"source": "place", "relation": "HAS_EVENT", "target": "event_pushkin_inauguration", "evidence": ["ev_pushkin_monument"], "confidence": 1.0},
+    {"source": "event_pushkin_inauguration", "relation": "OCCURRED_IN", "target": "time_pushkin_2021", "evidence": ["ev_pushkin_monument"], "confidence": 1.0}
+  ]
+}

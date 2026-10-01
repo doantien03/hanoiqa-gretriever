@@ -1,0 +1,947 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_badinh_botanical_garden",
+      "title": "Vườn Bách Thảo",
+      "url": "https://visitbadinh.com.vn/vi/place/details/vuon-bach-thao-12",
+      "source_type": "local_government_tourism_portal",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_travelhanoi_history",
+      "title": "Vườn Bách Thảo Hà Nội",
+      "url": "https://travelhanoi.com.vn/chi-tiet-du-lich/vuon-bach-thao-ha-noi-199-1580.html",
+      "source_type": "tourism_information_website",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_vov_management",
+      "title": "Công viên Bách Thảo xuống cấp nghiêm trọng, cải tạo chậm trễ",
+      "url": "https://vov.vn/xa-hoi/cong-vien-bach-thao-xuong-cap-nghiem-trong-ha-noi-cai-tao-cham-tre-post1156955.vov",
+      "source_type": "state_news",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_skds_sculpture_garden",
+      "title": "Vườn tượng nghệ thuật trong công viên Bách Thảo có nguy cơ đổ sập",
+      "url": "https://suckhoedoisong.vn/vuon-tuong-nghe-thuat-trong-cong-vien-bach-thao-co-nguy-co-do-sap-169250220144435506.htm",
+      "source_type": "state_news",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_badinh_nui_sua_temple",
+      "title": "Đền Núi Sưa",
+      "url": "https://visitbadinh.com.vn/vi/place/details/den-nui-sua-41",
+      "source_type": "local_government_tourism_portal",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_thanhuy_nui_sua_festival",
+      "title": "Kỷ niệm ngày hóa Đức Thánh Huyền Thiên Hắc Đế: Bảo tồn và phát huy giá trị di sản văn hóa",
+      "url": "https://thanhuyhanoi.vn/tin-tuc/quan-ba-dinh/ky-niem-ngay-hoa-duc-thanh-huyen-thien-hac-de-bao-ton-va-phat-huy-gia-tri-di-san-van-hoa-50015783.html",
+      "source_type": "local_party_committee_portal",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    },
+    {
+      "key": "src_danviet_open_space",
+      "title": "Hà Nội hạ rào sắt thêm một công viên, biến thành không gian mở",
+      "url": "https://danviet.vn/them-mot-cong-vien-nao-cua-ha-noi-vua-duoc-ha-rao-tro-thanh-khong-gian-mo-voi-nguoi-dan-d1398548.html",
+      "source_type": "national_news",
+      "retrieved_at": "2026-09-17",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu bản tóm tắt chuẩn hóa và URL nguồn"
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Công viên Bách Thảo",
+      "aliases": [
+        "Vườn Bách Thảo Hà Nội",
+        "Vườn Bách Thảo",
+        "Công viên Bách Thảo Hà Nội"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Số 3 phố Hoàng Hoa Thám, phường Ba Đình, thành phố Hà Nội",
+      "match": "new"
+    },
+    {
+      "key": "time_1890",
+      "type": "Time",
+      "canonical_name": "Năm 1890",
+      "aliases": [
+        "1890"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "value_current_area",
+      "type": "Value",
+      "canonical_name": "Hơn 10 hecta diện tích",
+      "aliases": [
+        "Diện tích hiện tại trên 10 ha"
+      ],
+      "numeric_value": 10,
+      "unit": "ha",
+      "value_kind": "minimum_area",
+      "match": "new"
+    },
+    {
+      "key": "botanical_collection_area",
+      "type": "Architecture",
+      "canonical_name": "Khu sưu tập thực vật",
+      "aliases": [
+        "Khu vườn thực vật",
+        "Không gian sưu tập cây Bách Thảo"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "native_tree_collection",
+      "type": "HeritageObject",
+      "canonical_name": "Bộ sưu tập các loài cây bản địa quý hiếm",
+      "aliases": [
+        "Các giống cây bản địa quý hiếm",
+        "Sưu tập cây bản địa"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "imported_tree_collection",
+      "type": "HeritageObject",
+      "canonical_name": "Bộ sưu tập các loài cây nhập nội",
+      "aliases": [
+        "Các loài cây nhập nội",
+        "Sưu tập cây từ nhiều châu lục"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "lake_vi_danh",
+      "type": "Place",
+      "canonical_name": "Hồ Vị Danh",
+      "match": "new"
+    },
+    {
+      "key": "mount_sua",
+      "type": "Place",
+      "canonical_name": "Núi Sưa",
+      "match": "new"
+    },
+    {
+      "key": "temple_nui_sua",
+      "type": "Architecture",
+      "canonical_name": "Đền Núi Sưa",
+      "aliases": [
+        "Đền thờ Huyền Thiên Hắc Đế",
+        "Sưa Sơn Linh Từ",
+        "Khán Sơn Đình"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "sculpture_garden",
+      "type": "Architecture",
+      "canonical_name": "Vườn tượng nghệ thuật",
+      "aliases": ["Khu vườn tượng"],
+      "match": "new"
+    },
+    {
+      "key": "round_island",
+      "type": "Place",
+      "canonical_name": "Đảo tròn trong hồ Công viên Bách Thảo",
+      "aliases": [
+        "Đảo tròn",
+        "Đảo tròn trong hồ"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "round_island_bridge",
+      "type": "Architecture",
+      "canonical_name": "Cầu nối ra đảo tròn",
+      "aliases": [
+        "Cầu gỗ ra đảo tròn",
+        "Cầu nối đảo tròn"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "walking_paths",
+      "type": "Architecture",
+      "canonical_name": "Đường đi bộ trong công viên",
+      "match": "existing", 
+      "existing_id": "ARCH_000359"
+    },
+    {
+      "key": "children_play_area",
+      "type": "Architecture",
+      "canonical_name": "Khu vui chơi dành cho trẻ em",
+      "match": "existing", 
+      "existing_id": "ARCH_000358"
+    },
+    {
+      "key": "peacock_enclosure",
+      "type": "Architecture",
+      "canonical_name": "Khu nuôi chim công",
+      "aliases": [
+        "Khu vực nuôi chim công",
+        "Lồng chim công"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "category_botanical_garden",
+      "type": "TourismCategory",
+      "canonical_name": "Vườn thực vật",
+      "aliases": [
+        "Vườn bách thảo"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "category_urban_park",
+      "type": "TourismCategory",
+      "canonical_name": "Công viên đô thị",
+      "aliases": [
+        "Công viên cây xanh đô thị"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "category_public_green_space",
+      "type": "TourismCategory",
+      "canonical_name": "Không gian xanh công cộng",
+      "aliases": [
+        "Không gian công cộng xanh"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "activity_walking",
+      "type": "Activity",
+      "canonical_name": "Đi bộ và dạo quanh công viên",
+      "aliases": [
+        "Đi dạo",
+        "Chạy bộ"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "activity_exercise",
+      "type": "Activity",
+      "canonical_name": "Tập luyện thể dục thể thao",
+      "aliases": [
+        "Tập thể dục",
+        "Tập võ"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "activity_botanical_visit",
+      "type": "Activity",
+      "canonical_name": "Tham quan và tìm hiểu thực vật",
+      "aliases": [
+        "Tham quan cây xanh",
+        "Nghiên cứu các loài thực vật"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "activity_children_play",
+      "type": "Activity",
+      "canonical_name": "Vui chơi dành cho trẻ em",
+      "aliases": [
+        "Trẻ em vui chơi"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "activity_worship",
+      "type": "Activity",
+      "canonical_name": "Dâng hương tưởng niệm",
+      "aliases": [
+        "Dâng hương tại Đền Núi Sưa",
+        "Thực hành tín ngưỡng tại Đền Núi Sưa"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "org_french_colonial_authority",
+      "type": "Organization",
+      "canonical_name": "Chính quyền thực dân Pháp tại Hà Nội",
+      "aliases": [
+        "Người Pháp tại Hà Nội thời thuộc địa",
+        "Chính quyền Pháp ở Hà Nội"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "org_hanoi_green_parks_company",
+      "type": "Organization",
+      "canonical_name": "Công ty trách nhiệm hữu hạn một thành viên Công viên cây xanh Hà Nội",
+      "aliases": [
+        "Công ty TNHH MTV Công viên cây xanh Hà Nội",
+        "Xí nghiệp Quản lý công viên cây xanh số 3"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "person_huyen_thien_hac_de",
+      "type": "Person",
+      "canonical_name": "Huyền Thiên Hắc Đế",
+      "aliases": [
+        "Đức Thánh Huyền Thiên Hắc Đế",
+        "Hắc Công",
+        "Huyền Thiên Hắc Đế Thượng đẳng phúc thần"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "person_ly_thanh_tong",
+      "type": "Person",
+      "canonical_name": "Lý Thánh Tông",
+      "aliases": [
+        "Vua Lý Thánh Tông"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "dynasty_ly",
+      "type": "Dynasty",
+      "canonical_name": "Triều Lý",
+      "aliases": [
+        "Nhà Lý",
+        "Thời Lý"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "role_ly_emperor",
+      "type": "Role",
+      "canonical_name": "Hoàng đế triều Lý",
+      "aliases": [
+        "Vua nhà Lý"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "status_city_heritage",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích Lịch sử văn hóa, Kiến trúc - Nghệ thuật cấp Thành phố",
+      "aliases": [
+        "Di tích cấp Thành phố",
+        "Di tích lịch sử văn hóa và kiến trúc nghệ thuật cấp thành phố"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "time_recognition_2015",
+      "type": "Time",
+      "canonical_name": "Năm 2015",
+      "aliases": [
+        "2015"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "material_roof_tile",
+      "type": "Material",
+      "canonical_name": "Ngói mũi hài",
+      "aliases": [
+        "Ngói ta",
+        "Ngói mũi hài truyền thống"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "material_faux_wood_concrete",
+      "type": "Material",
+      "canonical_name": "Bê tông giả gỗ",
+      "aliases": [
+        "Kết cấu bê tông giả gỗ"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "style_traditional_northern",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc truyền thống Bắc Bộ",
+      "aliases": [
+        "Phong cách truyền thống Bắc Bộ"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "period_french_colonial",
+      "type": "HistoricalPeriod",
+      "canonical_name": "Thời kỳ Pháp thuộc",
+      "aliases": [
+        "Thời Pháp thuộc",
+        "Giai đoạn thuộc địa Pháp"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "event_nui_sua_festival_2024",
+      "type": "Event",
+      "canonical_name": "Lễ kỷ niệm ngày hóa Đức Thánh Huyền Thiên Hắc Đế",
+      "aliases": [
+        "Lễ hội Đền Núi Sưa năm 2024",
+        "Lễ kỷ niệm tại Đền Núi Sưa năm 2024"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "time_december_21_2024",
+      "type": "Time",
+      "canonical_name": "Ngày 21 tháng 12 năm 2024",
+      "aliases": [
+        "21/12/2024",
+        "21-12-2024"
+      ],
+      "match": "auto"
+    },
+    {
+      "key": "person_ta_nam_chien",
+      "type": "Person",
+      "canonical_name": "Tạ Nam Chiến",
+      "aliases": [
+        "Ông Tạ Nam Chiến"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "role_badinh_district_chairman",
+      "type": "Role",
+      "canonical_name": "Chủ tịch Ủy ban nhân dân quận Ba Đình",
+      "aliases": [
+        "Chủ tịch UBND quận Ba Đình"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "person_hoang_minh_dung_tien",
+      "type": "Person",
+      "canonical_name": "Hoàng Minh Dũng Tiến",
+      "aliases": [
+        "Ông Hoàng Minh Dũng Tiến"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "role_badinh_district_party_secretary",
+      "type": "Role",
+      "canonical_name": "Bí thư Quận ủy Ba Đình",
+      "aliases": [
+        "Bí thư Quận uỷ Ba Đình"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "event_open_space_2026",
+      "type": "Event",
+      "canonical_name": "Hạ hàng rào ,mở không gian Công viên Bách Thảo ",
+      "aliases": [
+        "Hạ rào Công viên Bách Thảo",
+        "Mở không gian Công viên Bách Thảo năm 2026"
+      ],
+      "match": "new"
+    },
+    {
+      "key": "time_january_27_2026",
+      "type": "Time",
+      "canonical_name": "Ngày 27 tháng 1 năm 2026",
+      "aliases": [
+        "27/01/2026",
+        "27-1-2026"
+      ],
+      "match": "auto"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_badinh_botanical_garden",
+      "topic": "main_entrance_address",
+      "normalized_text": "Công viên Bách Thảo có cổng chính tại số 3 phố Hoàng Hoa Thám, phường Ba Đình, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_establishment_1890",
+      "source": "src_travelhanoi_history",
+      "topic": "establishment_and_historical_layer",
+      "normalized_text": "Chính quyền thực dân Pháp tại Hà Nội xây dựng và thành lập Vườn Bách Thảo vào năm 1890; nguồn gốc này gắn Công viên Bách Thảo với thời kỳ Pháp thuộc.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_current_area",
+      "source": "src_badinh_botanical_garden",
+      "topic": "current_area",
+      "normalized_text": "Sau khi bị thu hẹp để nhường đất xây dựng Khu di tích lịch sử Ba Đình, Công viên Bách Thảo hiện có diện tích hơn 10 hecta.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_categories",
+      "source": "src_badinh_botanical_garden",
+      "topic": "park_categories",
+      "normalized_text": "Công viên Bách Thảo là một vườn thực vật, đồng thời là công viên đô thị và không gian xanh công cộng của Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_landscape_components",
+      "source": "src_badinh_botanical_garden",
+      "topic": "landscape_components",
+      "normalized_text": "Các hạng mục cảnh quan của Công viên Bách Thảo gồm Hồ Vị Danh và hệ thống đường đi bộ; trong hồ Vị Danh có một cây cầu phục vụ việc đi dạo và tham quan.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_botanical_collections",
+      "source": "src_travelhanoi_history",
+      "topic": "botanical_collections",
+      "normalized_text": "Khu sưu tập thực vật của Công viên Bách Thảo gồm bộ sưu tập các loài cây bản địa quý hiếm từ nhiều vùng Việt Nam và bộ sưu tập các loài cây nhập nội từ nhiều châu lục.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_visitor_activities",
+      "source": "src_badinh_botanical_garden",
+      "topic": "visitor_activities_and_facilities",
+      "normalized_text": "Công viên Bách Thảo có khu vui chơi trẻ em và phục vụ các hoạt động đi bộ, chạy bộ, tập thể dục thể thao, vui chơi dành cho trẻ em, tham quan và tìm hiểu các loài thực vật.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_peacock_and_management",
+      "source": "src_vov_management",
+      "topic": "peacock_enclosure_and_management",
+      "normalized_text": "Công viên Bách Thảo có khu nuôi chim công và do Xí nghiệp Quản lý công viên cây xanh số 3 thuộc Công ty trách nhiệm hữu hạn một thành viên Công viên cây xanh Hà Nội quản lý.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_sculpture_and_bridge",
+      "source": "src_skds_sculpture_garden",
+      "topic": "sculpture_garden_round_island_bridge",
+      "normalized_text": "Vườn tượng nghệ thuật là một hạng mục trong Công viên Bách Thảo; công viên còn có đảo tròn trong hồ và cầu nối từ bờ ra đảo tròn.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_nui_sua_temple",
+      "source": "src_badinh_nui_sua_temple",
+      "topic": "nui_sua_temple_history_and_worship",
+      "normalized_text": "Đền Núi Sưa nằm trên đỉnh Núi Sưa trong khuôn viên Công viên Bách Thảo, thờ Huyền Thiên Hắc Đế; thần tích của đền gắn với vua Lý Thánh Tông và triều Lý, còn hoạt động tín ngưỡng tại đền gồm dâng hương tưởng niệm vị thần.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_nui_sua_architecture",
+      "source": "src_badinh_nui_sua_temple",
+      "topic": "nui_sua_architecture_materials",
+      "normalized_text": "Đền Núi Sưa mang phong cách kiến trúc truyền thống Bắc Bộ; mái đền lợp ngói mũi hài và bộ khung chịu lực chủ yếu làm bằng bê tông giả gỗ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_nui_sua_recognition",
+      "source": "src_badinh_nui_sua_temple",
+      "topic": "nui_sua_heritage_recognition",
+      "normalized_text": "Đền Núi Sưa được xếp hạng Di tích Lịch sử văn hóa, Kiến trúc - Nghệ thuật cấp Thành phố vào năm 2015.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_nui_sua_festival_2024",
+      "source": "src_thanhuy_nui_sua_festival",
+      "topic": "nui_sua_festival_people_time",
+      "normalized_text": "Lễ kỷ niệm ngày hóa Đức Thánh Huyền Thiên Hắc Đế năm 2024 diễn ra tại Đền Núi Sưa thuộc Công viên Bách Thảo vào ngày 21 tháng 12 năm 2024; Hoàng Minh Dũng Tiến, Bí thư Quận ủy Ba Đình, tham dự và Tạ Nam Chiến, Chủ tịch Ủy ban nhân dân quận Ba Đình, phát biểu tại sự kiện.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_open_space_2026",
+      "source": "src_danviet_open_space",
+      "topic": "open_space_fence_removal",
+      "normalized_text": "Ngày 27 tháng 1 năm 2026, hoạt động hạ hàng rào mở không gian Công viên Bách Thảo đang được triển khai; việc tháo rào là một hạng mục chỉnh trang giúp người dân tiếp cận công viên thuận tiện hơn.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {
+      "source": "place",
+      "relation": "HAS_ADDRESS",
+      "target": "address",
+      "evidence": ["ev_address"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "entrance": "main"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "BUILT_IN",
+      "target": "time_1890",
+      "evidence": ["ev_establishment_1890"],
+      "confidence": 0.98,
+      "qualifiers": {
+        "construction_phase": "initial_construction"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "ESTABLISHED_IN",
+      "target": "time_1890",
+      "evidence": ["ev_establishment_1890"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "ESTABLISHED_BY",
+      "target": "org_french_colonial_authority",
+      "evidence": ["ev_establishment_1890"],
+      "confidence": 0.95
+    },
+    {
+      "source": "place",
+      "relation": "HAS_MEASUREMENT",
+      "target": "value_current_area",
+      "evidence": ["ev_current_area"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "measurement_kind": "minimum_area",
+        "scope": "current_area"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_botanical_garden",
+      "evidence": ["ev_categories"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_urban_park",
+      "evidence": ["ev_categories"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category_public_green_space",
+      "evidence": ["ev_categories"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "botanical_collection_area",
+      "evidence": ["ev_botanical_collections"],
+      "confidence": 0.98
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "lake_vi_danh",
+      "evidence": ["ev_landscape_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "mount_sua",
+      "evidence": ["ev_nui_sua_temple"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "temple_nui_sua",
+      "evidence": ["ev_nui_sua_temple"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "sculpture_garden",
+      "evidence": ["ev_sculpture_and_bridge"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "round_island",
+      "evidence": ["ev_sculpture_and_bridge"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "round_island_bridge",
+      "evidence": ["ev_landscape_components", "ev_sculpture_and_bridge"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "walking_paths",
+      "evidence": ["ev_landscape_components"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "children_play_area",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "peacock_enclosure",
+      "evidence": ["ev_peacock_and_management"],
+      "confidence": 1.0
+    },
+    {
+      "source": "botanical_collection_area",
+      "relation": "HAS_COMPONENT",
+      "target": "native_tree_collection",
+      "evidence": ["ev_botanical_collections"],
+      "confidence": 1.0
+    },
+    {
+      "source": "botanical_collection_area",
+      "relation": "HAS_COMPONENT",
+      "target": "imported_tree_collection",
+      "evidence": ["ev_botanical_collections"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_walking",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_exercise",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_botanical_visit",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "activity_children_play",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "walking_paths",
+      "relation": "USED_FOR",
+      "target": "activity_walking",
+      "evidence": ["ev_landscape_components", "ev_visitor_activities"],
+      "confidence": 0.98
+    },
+    {
+      "source": "botanical_collection_area",
+      "relation": "USED_FOR",
+      "target": "activity_botanical_visit",
+      "evidence": ["ev_botanical_collections", "ev_visitor_activities"],
+      "confidence": 0.98
+    },
+    {
+      "source": "children_play_area",
+      "relation": "USED_FOR",
+      "target": "activity_children_play",
+      "evidence": ["ev_visitor_activities"],
+      "confidence": 1.0
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "USED_FOR",
+      "target": "activity_worship",
+      "evidence": ["ev_nui_sua_temple"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "MANAGED_BY",
+      "target": "org_hanoi_green_parks_company",
+      "evidence": ["ev_peacock_and_management"],
+      "confidence": 1.0
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "HONORS",
+      "target": "person_huyen_thien_hac_de",
+      "evidence": ["ev_nui_sua_temple"],
+      "confidence": 1.0
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "ASSOCIATED_WITH_PERSON",
+      "target": "person_ly_thanh_tong",
+      "evidence": ["ev_nui_sua_temple"],
+      "confidence": 0.98
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "ASSOCIATED_WITH_DYNASTY",
+      "target": "dynasty_ly",
+      "evidence": ["ev_nui_sua_temple"],
+      "confidence": 1.0
+    },
+    {
+      "source": "person_ly_thanh_tong",
+      "relation": "HELD_ROLE",
+      "target": "role_ly_emperor",
+      "evidence": ["ev_nui_sua_temple"],
+      "confidence": 1.0
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "RECOGNIZED_AS",
+      "target": "status_city_heritage",
+      "evidence": ["ev_nui_sua_recognition"],
+      "confidence": 1.0
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "RECOGNIZED_IN",
+      "target": "time_recognition_2015",
+      "evidence": ["ev_nui_sua_recognition"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "designation": "Di tích Lịch sử văn hóa, Kiến trúc - Nghệ thuật cấp Thành phố"
+      }
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "BUILT_WITH",
+      "target": "material_roof_tile",
+      "evidence": ["ev_nui_sua_architecture"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "roof"
+      }
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "BUILT_WITH",
+      "target": "material_faux_wood_concrete",
+      "evidence": ["ev_nui_sua_architecture"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "load_bearing_frame"
+      }
+    },
+    {
+      "source": "temple_nui_sua",
+      "relation": "HAS_ARCHITECTURAL_STYLE",
+      "target": "style_traditional_northern",
+      "evidence": ["ev_nui_sua_architecture"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CULTURAL_LAYER",
+      "target": "period_french_colonial",
+      "evidence": ["ev_establishment_1890"],
+      "confidence": 0.9
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "event_nui_sua_festival_2024",
+      "evidence": ["ev_nui_sua_festival_2024"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_nui_sua_festival_2024",
+      "relation": "OCCURRED_IN",
+      "target": "time_december_21_2024",
+      "evidence": ["ev_nui_sua_festival_2024"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_nui_sua_festival_2024",
+      "relation": "INVOLVED_PERSON",
+      "target": "person_ta_nam_chien",
+      "evidence": ["ev_nui_sua_festival_2024"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "participation": "speaker"
+      }
+    },
+    {
+      "source": "event_nui_sua_festival_2024",
+      "relation": "INVOLVED_PERSON",
+      "target": "person_hoang_minh_dung_tien",
+      "evidence": ["ev_nui_sua_festival_2024"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "participation": "attendee"
+      }
+    },
+    {
+      "source": "person_ta_nam_chien",
+      "relation": "HELD_ROLE",
+      "target": "role_badinh_district_chairman",
+      "evidence": ["ev_nui_sua_festival_2024"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "as_of": "2024-12-21"
+      }
+    },
+    {
+      "source": "person_hoang_minh_dung_tien",
+      "relation": "HELD_ROLE",
+      "target": "role_badinh_district_party_secretary",
+      "evidence": ["ev_nui_sua_festival_2024"],
+      "confidence": 1.0,
+      "qualifiers": {
+        "as_of": "2024-12-21"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "event_open_space_2026",
+      "evidence": ["ev_open_space_2026"],
+      "confidence": 1.0
+    },
+    {
+      "source": "event_open_space_2026",
+      "relation": "OCCURRED_IN",
+      "target": "time_january_27_2026",
+      "evidence": ["ev_open_space_2026"],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_IN",
+      "target": "time_january_27_2026",
+      "evidence": ["ev_open_space_2026"],
+      "confidence": 0.92,
+      "qualifiers": {
+        "renovation_scope": "fence_removal_and_open_space_phase"
+      }
+    }
+  ]
+}

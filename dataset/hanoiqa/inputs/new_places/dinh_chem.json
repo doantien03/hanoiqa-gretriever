@@ -1,0 +1,864 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_dsvh",
+      "title": "Đình Chèm",
+      "url": "https://dsvh.gov.vn/dinh-chem-3229",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu tóm tắt chuẩn hóa và URL nguồn, không sao chép toàn văn."
+    },
+    {
+      "key": "src_local",
+      "title": "Kiến trúc cổ Đình Chèm (Phường Đông Ngạc - Thành phố Hà Nội) độc đáo, quý hiếm không dễ nơi nào có được",
+      "url": "https://dongngac.hanoi.gov.vn/van-hoa-xa-hoi/kien-truc-co-dinh-chem-phuong-dong-ngac-thanh-pho-ha-noi-doc-dao-quy-hiem-khong-de-noi-nao-co-duoc-280726042508265975.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu tóm tắt chuẩn hóa và URL nguồn, không sao chép toàn văn."
+    },
+    {
+      "key": "src_history",
+      "title": "Quận Bắc Từ Liêm đón nhận Bằng xếp hạng Di tích Quốc gia đặc biệt Đình Chèm",
+      "url": "https://sovhtt.hanoi.gov.vn/quan-bac-tu-liem-don-nhan-bang-xep-hang-di-tich-quoc-gia-dac-biet-dinh-chem/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu tóm tắt chuẩn hóa và URL nguồn, không sao chép toàn văn."
+    },
+    {
+      "key": "src_recognition",
+      "title": "Thủ tướng Chính phủ ký Quyết định xếp hạng di tích quốc gia đặc biệt năm 2017",
+      "url": "https://dsvh.gov.vn/thu-tuong-chinh-phu-ky-quyet-dinh-xep-hang-di-tich-quoc-gia-dac-biet-nam-2017-1487",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu tóm tắt chuẩn hóa và URL nguồn, không sao chép toàn văn."
+    },
+    {
+      "key": "src_festival",
+      "title": "Phường Đông Ngạc tưng bừng khai mạc Lễ hội truyền thống Đình Chèm năm 2026",
+      "url": "https://dongngac.hanoi.gov.vn/thong-tin-cong-khai/phuong-dong-ngac-tung-bung-khai-mac-le-hoi-truyen-thong-dinh-chem-nam-2026-2807260629150020136.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; chỉ lưu tóm tắt chuẩn hóa và URL nguồn, không sao chép toàn văn."
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Đình Chèm",
+      "match": "new",
+      "aliases": [
+        "Đình Thụy Phương",
+        "Đền Chèm"
+      ]
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Làng Chèm, phường Đông Ngạc, thành phố Hà Nội",
+      "match": "new"
+    },
+    {
+      "key": "ward",
+      "type": "AdministrativeArea",
+      "canonical_name": "Phường Đông Ngạc",
+      "match": "new",
+      "admin_level": "ward"
+    },
+    {
+      "key": "category",
+      "type": "TourismCategory",
+      "canonical_name": "Di tích kiến trúc nghệ thuật",
+      "match": "existing",
+      "existing_id": "CATEGORY_000008"
+    },
+    {
+      "key": "spiritual",
+      "type": "TourismCategory",
+      "canonical_name": "Điểm tham quan văn hóa - tín ngưỡng",
+      "match": "existing",
+      "existing_id": "CATEGORY_000005"
+    },
+    {
+      "key": "ly",
+      "type": "Person",
+      "canonical_name": "Lý Ông Trọng",
+      "match": "new",
+      "aliases": [
+        "Lý Thân",
+        "Đức Thánh Chèm"
+      ]
+    },
+    {
+      "key": "bach",
+      "type": "Person",
+      "canonical_name": "Bạch Tĩnh Cung",
+      "match": "new",
+      "aliases": [
+        "Hoàng phi Bạch Tĩnh Cung",
+        "Bạch Tịnh Cung"
+      ]
+    },
+    {
+      "key": "trieu",
+      "type": "Person",
+      "canonical_name": "Triệu Xương",
+      "match": "new"
+    },
+    {
+      "key": "cao",
+      "type": "Person",
+      "canonical_name": "Cao Biền",
+      "match": "existing",
+      "existing_id": "PERSON_000051"
+    },
+    {
+      "key": "nghiem",
+      "type": "Person",
+      "canonical_name": "Nghiêm Xuân Quảng",
+      "match": "new"
+    },
+    {
+      "key": "nghi",
+      "type": "Architecture",
+      "canonical_name": "Nghi môn nội Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "phuong",
+      "type": "Architecture",
+      "canonical_name": "Phương đình Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "dai",
+      "type": "Architecture",
+      "canonical_name": "Đại bái Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "hau",
+      "type": "Architecture",
+      "canonical_name": "Hậu cung Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "bia",
+      "type": "Architecture",
+      "canonical_name": "Cặp nhà bia Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "cung1",
+      "type": "Architecture",
+      "canonical_name": "Cung đệ nhất Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "cung2",
+      "type": "Architecture",
+      "canonical_name": "Cung đệ nhị Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "cam",
+      "type": "Architecture",
+      "canonical_name": "Cung cấm Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "le",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Lê Trung hưng",
+      "match": "existing",
+      "existing_id": "DYNASTY_000005"
+    },
+    {
+      "key": "duong",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Đường",
+      "match": "existing",
+      "existing_id": "DYNASTY_000009"
+    },
+    {
+      "key": "t785",
+      "type": "Time",
+      "canonical_name": "Năm 785",
+      "match": "new"
+    },
+    {
+      "key": "t864",
+      "type": "Time",
+      "canonical_name": "Năm 864",
+      "match": "new"
+    },
+    {
+      "key": "t1916",
+      "type": "Time",
+      "canonical_name": "Năm 1916",
+      "match": "new"
+    },
+    {
+      "key": "festival_time",
+      "type": "Time",
+      "canonical_name": "Ngày 14 đến 16 tháng Năm âm lịch hằng năm",
+      "match": "new"
+    },
+    {
+      "key": "t1989",
+      "type": "Time",
+      "canonical_name": "Năm 1989",
+      "match": "existing",
+      "existing_id": "TIME_000028"
+    },
+    {
+      "key": "recognition_time",
+      "type": "Time",
+      "canonical_name": "Ngày 25 tháng 12 năm 2017",
+      "match": "existing",
+      "existing_id": "TIME_000120"
+    },
+    {
+      "key": "status",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích quốc gia đặc biệt",
+      "match": "existing",
+      "existing_id": "HSTATUS_000003"
+    },
+    {
+      "key": "prime",
+      "type": "Organization",
+      "canonical_name": "Thủ tướng Chính phủ Việt Nam",
+      "match": "existing",
+      "existing_id": "ORG_000012"
+    },
+    {
+      "key": "manager",
+      "type": "Organization",
+      "canonical_name": "Ban Quản lý di tích Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "style",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc nội Công ngoại Quốc",
+      "match": "existing",
+      "existing_id": "ASTYLE_000013"
+    },
+    {
+      "key": "e785",
+      "type": "Event",
+      "canonical_name": "Triệu Xương sửa miếu thờ Lý Ông Trọng",
+      "match": "new"
+    },
+    {
+      "key": "e864",
+      "type": "Event",
+      "canonical_name": "Cao Biền mở rộng đền thờ Lý Ông Trọng",
+      "match": "new"
+    },
+    {
+      "key": "e1916",
+      "type": "Event",
+      "canonical_name": "Kiệu nâng Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "festival",
+      "type": "Event",
+      "canonical_name": "Lễ hội truyền thống Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "mocduc",
+      "type": "Activity",
+      "canonical_name": "Lễ mộc dục tại Đình Chèm",
+      "match": "new"
+    },
+    {
+      "key": "water",
+      "type": "Activity",
+      "canonical_name": "Rước nước trên sông Hồng tại Lễ hội Đình Chèm",
+      "match": "new"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "address",
+      "source": "src_local",
+      "topic": "address",
+      "normalized_text": "Đình Chèm nằm tại làng Chèm, nay thuộc phường Đông Ngạc, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "category",
+      "source": "src_local",
+      "topic": "category",
+      "normalized_text": "Đình Chèm là công trình tín ngưỡng có giá trị kiến trúc nghệ thuật.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "honors",
+      "source": "src_festival",
+      "topic": "worship",
+      "normalized_text": "Hai vị được thờ tại Đình Chèm là Lý Ông Trọng và Bạch Tĩnh Cung.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "dating",
+      "source": "src_dsvh",
+      "topic": "historical_architecture",
+      "normalized_text": "Kiến trúc hiện còn của Đình Chèm có nguồn gốc thời Lê Trung Hưng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "architecture",
+      "source": "src_dsvh",
+      "topic": "architecture",
+      "normalized_text": "Đình Chèm bố trí theo kiểu nội Công ngoại Quốc; có nghi môn nội, phương đình, đại bái, hậu cung và hai nhà bia.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "inner",
+      "source": "src_dsvh",
+      "topic": "architecture",
+      "normalized_text": "Hậu cung gồm Cung đệ nhất, Cung đệ nhị (ống muống) và Cung cấm.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "phuong",
+      "source": "src_dsvh",
+      "topic": "renovation_and_function",
+      "normalized_text": "Phương đình được dựng lại năm 1989 và dùng làm lễ tắm tượng trước hội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "steles",
+      "source": "src_dsvh",
+      "topic": "associated_person",
+      "normalized_text": "Nghiêm Xuân Quảng soạn hai bia năm 1917, ghi công Thánh Chèm và việc nâng đình.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "lift",
+      "source": "src_dsvh",
+      "topic": "renovation",
+      "normalized_text": "Năm 1916, đình được nâng thêm 2,4 m; hậu cung còn ghi niên đại tu sửa cùng năm.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "trieu",
+      "source": "src_history",
+      "topic": "renovation_tradition",
+      "normalized_text": "Theo thần tích, năm 785 thời Đường, Triệu Xương sửa miếu thờ Lý Ông Trọng thành nhà cao tầng chồng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "cao",
+      "source": "src_history",
+      "topic": "renovation_tradition",
+      "normalized_text": "Theo thần tích, năm 864, Cao Biền mở rộng đền thờ Lý Ông Trọng, cho tạc tượng gỗ và sơn son thếp vàng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "recognition",
+      "source": "src_recognition",
+      "topic": "recognition",
+      "normalized_text": "Đình Chèm được xếp hạng di tích quốc gia đặc biệt theo Quyết định 2082/QĐ-TTg ngày 25/12/2017 của Thủ tướng Chính phủ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "management",
+      "source": "src_local",
+      "topic": "management",
+      "normalized_text": "Ban Quản lý di tích Đình Chèm tham gia quản lý và bảo tồn đình; trưởng Ban Khánh tiết đồng thời là phó ban quản lý.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "festival",
+      "source": "src_local",
+      "topic": "festival",
+      "normalized_text": "Lễ hội Đình Chèm tổ chức hằng năm từ 14 đến 16 tháng Năm âm lịch, có nghi thức tắm tượng và rước nước sông Hồng.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {
+      "source": "place",
+      "relation": "HAS_ADDRESS",
+      "target": "address",
+      "evidence": [
+        "address"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "LOCATED_IN",
+      "target": "ward",
+      "evidence": [
+        "address"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category",
+      "evidence": [
+        "category"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "spiritual",
+      "evidence": [
+        "category"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HONORS",
+      "target": "ly",
+      "evidence": [
+        "honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HONORS",
+      "target": "bach",
+      "evidence": [
+        "honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "nghi",
+      "evidence": [
+        "architecture"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "phuong",
+      "evidence": [
+        "architecture"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "dai",
+      "evidence": [
+        "architecture"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "hau",
+      "evidence": [
+        "architecture"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "bia",
+      "evidence": [
+        "architecture"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "hau",
+      "relation": "HAS_COMPONENT",
+      "target": "cung1",
+      "evidence": [
+        "inner"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "hau",
+      "relation": "HAS_COMPONENT",
+      "target": "cung2",
+      "evidence": [
+        "inner"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "hau",
+      "relation": "HAS_COMPONENT",
+      "target": "cam",
+      "evidence": [
+        "inner"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_PERSON",
+      "target": "ly",
+      "evidence": [
+        "honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_PERSON",
+      "target": "bach",
+      "evidence": [
+        "honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_PERSON",
+      "target": "nghiem",
+      "evidence": [
+        "steles"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_DYNASTY",
+      "target": "le",
+      "evidence": [
+        "dating"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "kiến trúc hiện còn"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_DYNASTY",
+      "target": "duong",
+      "evidence": [
+        "trieu"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_BY",
+      "target": "trieu",
+      "evidence": [
+        "trieu"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 785
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_IN",
+      "target": "t785",
+      "evidence": [
+        "trieu"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 785
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "e785",
+      "evidence": [
+        "trieu"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 785
+      }
+    },
+    {
+      "source": "e785",
+      "relation": "OCCURRED_IN",
+      "target": "t785",
+      "evidence": [
+        "trieu"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 785
+      }
+    },
+    {
+      "source": "e785",
+      "relation": "INVOLVED_PERSON",
+      "target": "trieu",
+      "evidence": [
+        "trieu"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 785
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_BY",
+      "target": "cao",
+      "evidence": [
+        "cao"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 864
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_IN",
+      "target": "t864",
+      "evidence": [
+        "cao"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 864
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "e864",
+      "evidence": [
+        "cao"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 864
+      }
+    },
+    {
+      "source": "e864",
+      "relation": "OCCURRED_IN",
+      "target": "t864",
+      "evidence": [
+        "cao"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 864
+      }
+    },
+    {
+      "source": "e864",
+      "relation": "INVOLVED_PERSON",
+      "target": "cao",
+      "evidence": [
+        "cao"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "knowledge_type": "tradition",
+        "qa_prefix": "Theo thần tích",
+        "renovation_year": 864
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_IN",
+      "target": "t1916",
+      "evidence": [
+        "lift"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "hau",
+      "relation": "RENOVATED_IN",
+      "target": "t1916",
+      "evidence": [
+        "lift"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "phuong",
+      "relation": "RENOVATED_IN",
+      "target": "t1989",
+      "evidence": [
+        "phuong"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "e1916",
+      "evidence": [
+        "lift"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "e1916",
+      "relation": "OCCURRED_IN",
+      "target": "t1916",
+      "evidence": [
+        "lift"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_AS",
+      "target": "status",
+      "evidence": [
+        "recognition"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "decision_number": "2082/QĐ-TTg",
+        "recognition": "Di tích quốc gia đặc biệt"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_IN",
+      "target": "recognition_time",
+      "evidence": [
+        "recognition"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "decision_number": "2082/QĐ-TTg",
+        "recognition": "Di tích quốc gia đặc biệt"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_BY",
+      "target": "prime",
+      "evidence": [
+        "recognition"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "decision_number": "2082/QĐ-TTg",
+        "recognition": "Di tích quốc gia đặc biệt"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "MANAGED_BY",
+      "target": "manager",
+      "evidence": [
+        "management"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ARCHITECTURAL_STYLE",
+      "target": "style",
+      "evidence": [
+        "architecture"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "festival",
+      "evidence": [
+        "festival"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "festival",
+      "relation": "OCCURRED_IN",
+      "target": "festival_time",
+      "evidence": [
+        "festival"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "mocduc",
+      "evidence": [
+        "festival"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "water",
+      "evidence": [
+        "festival"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "phuong",
+      "relation": "USED_FOR",
+      "target": "mocduc",
+      "evidence": [
+        "phuong"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "review_notes": [
+    "Dữ liệu có nguồn và đã kiểm tra cấu trúc; trạng thái draft chờ người dùng duyệt.",
+    "Chỉ một HAS_ADDRESS hiện hành, chi tiết đến làng/phường/thành phố. Không tự tạo số nhà hoặc tên đường vì nguồn chưa xác nhận.",
+    "Quyết định xếp hạng là 2082/QĐ-TTg, đối chiếu nguồn src_recognition; không dùng số 2028 bị ghi nhầm trong bài src_dsvh.",
+    "Các thông tin năm 785 và 864 là theo thần tích; qualifiers.knowledge_type=tradition. Khi sinh QA phải giữ cụm Theo thần tích, không diễn đạt như sự kiện lịch sử đã kiểm chứng độc lập.",
+    "HAS_COMPONENT tại place chọn năm hạng mục/nhóm hạng mục có nguồn, không phải danh mục đầy đủ. Cặp nhà bia là một nhóm gồm hai tiểu phương đình như mô tả nguồn; hậu cung có ba hạng mục trực thuộc.",
+    "Nguồn src_local và src_festival được đọc qua nội dung lập chỉ mục. normalized_text là tóm tắt chuẩn hóa, không phải trích nguyên văn.",
+    "Không thêm ESTABLISHED_BY hoặc ESTABLISHED_IN vì chưa có căn cứ đủ chắc; không biến thời điểm tu bổ thành thời điểm thành lập."
+  ]
+}

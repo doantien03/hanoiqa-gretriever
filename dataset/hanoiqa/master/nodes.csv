@@ -1555,3 +1555,29 @@ ASTYLE_000024,Kiến trúc tứ trụ,ArchitecturalStyle,,,kien_truc_tu_tru,,,,a
 EVENT_000126,Khai mạc Lễ hội Đình Tây Đằng Xuân Bính Ngọ 2026,Event,,,khai_mac_le_hoi_dinh_tay_dang_xuan_binh_ngo_2026,,,,approved
 TIME_000202,Ngày 27 tháng 2 năm 2026,Time,,,ngay_27_thang_2_nam_2026,,,,approved
 ACTIVITY_000085,Sinh hoạt văn hóa cộng đồng,Activity,,,sinh_hoat_van_hoa_cong_dong,,,,approved
+PLACE_000070,Đình Chèm,Place,,Đình Thụy Phương|Đền Chèm,dinh_chem,,,,approved
+ADDRESS_000050,"Làng Chèm, phường Đông Ngạc, thành phố Hà Nội",Address,,,lang_chem_phuong_dong_ngac_thanh_pho_ha_noi,,,,approved
+ADMIN_000022,Phường Đông Ngạc,AdministrativeArea,ward,,phuong_dong_ngac,,,,approved
+PERSON_000100,Lý Ông Trọng,Person,,Lý Thân|Đức Thánh Chèm,ly_ong_trong,,,,approved
+PERSON_000101,Bạch Tĩnh Cung,Person,,Hoàng phi Bạch Tĩnh Cung|Bạch Tịnh Cung,bach_tinh_cung,,,,approved
+PERSON_000102,Triệu Xương,Person,,,trieu_xuong,,,,approved
+PERSON_000103,Nghiêm Xuân Quảng,Person,,,nghiem_xuan_quang,,,,approved
+ARCH_000397,Nghi môn nội Đình Chèm,Architecture,,,nghi_mon_noi_dinh_chem,,,,approved
+ARCH_000398,Phương đình Đình Chèm,Architecture,,,phuong_dinh_dinh_chem,,,,approved
+ARCH_000399,Đại bái Đình Chèm,Architecture,,,dai_bai_dinh_chem,,,,approved
+ARCH_000400,Hậu cung Đình Chèm,Architecture,,,hau_cung_dinh_chem,,,,approved
+ARCH_000401,Cặp nhà bia Đình Chèm,Architecture,,,cap_nha_bia_dinh_chem,,,,approved
+ARCH_000402,Cung đệ nhất Đình Chèm,Architecture,,,cung_de_nhat_dinh_chem,,,,approved
+ARCH_000403,Cung đệ nhị Đình Chèm,Architecture,,,cung_de_nhi_dinh_chem,,,,approved
+ARCH_000404,Cung cấm Đình Chèm,Architecture,,,cung_cam_dinh_chem,,,,approved
+TIME_000203,Năm 785,Time,,,nam_785,,,,approved
+TIME_000204,Năm 864,Time,,,nam_864,,,,approved
+TIME_000205,Năm 1916,Time,,,nam_1916,,,,approved
+TIME_000206,Ngày 14 đến 16 tháng Năm âm lịch hằng năm,Time,,,ngay_14_den_16_thang_nam_am_lich_hang_nam,,,,approved
+ORG_000046,Ban Quản lý di tích Đình Chèm,Organization,,,ban_quan_ly_di_tich_dinh_chem,,,,approved
+EVENT_000127,Triệu Xương sửa miếu thờ Lý Ông Trọng,Event,,,trieu_xuong_sua_mieu_tho_ly_ong_trong,,,,approved
+EVENT_000128,Cao Biền mở rộng đền thờ Lý Ông Trọng,Event,,,cao_bien_mo_rong_den_tho_ly_ong_trong,,,,approved
+EVENT_000129,Kiệu nâng Đình Chèm,Event,,,kieu_nang_dinh_chem,,,,approved
+EVENT_000130,Lễ hội truyền thống Đình Chèm,Event,,,le_hoi_truyen_thong_dinh_chem,,,,approved
+ACTIVITY_000086,Lễ mộc dục tại Đình Chèm,Activity,,,le_moc_duc_tai_dinh_chem,,,,approved
+ACTIVITY_000087,Rước nước trên sông Hồng tại Lễ hội Đình Chèm,Activity,,,ruoc_nuoc_tren_song_hong_tai_le_hoi_dinh_chem,,,,approved

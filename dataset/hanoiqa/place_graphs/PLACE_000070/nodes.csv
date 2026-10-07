@@ -1,0 +1,37 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000086,Lễ mộc dục tại Đình Chèm,Activity,,,le_moc_duc_tai_dinh_chem,,,,approved
+ACTIVITY_000087,Rước nước trên sông Hồng tại Lễ hội Đình Chèm,Activity,,,ruoc_nuoc_tren_song_hong_tai_le_hoi_dinh_chem,,,,approved
+ADDRESS_000050,"Làng Chèm, phường Đông Ngạc, thành phố Hà Nội",Address,,,lang_chem_phuong_dong_ngac_thanh_pho_ha_noi,,,,approved
+ADMIN_000022,Phường Đông Ngạc,AdministrativeArea,ward,,phuong_dong_ngac,,,,approved
+ARCH_000397,Nghi môn nội Đình Chèm,Architecture,,,nghi_mon_noi_dinh_chem,,,,approved
+ARCH_000398,Phương đình Đình Chèm,Architecture,,,phuong_dinh_dinh_chem,,,,approved
+ARCH_000399,Đại bái Đình Chèm,Architecture,,,dai_bai_dinh_chem,,,,approved
+ARCH_000400,Hậu cung Đình Chèm,Architecture,,,hau_cung_dinh_chem,,,,approved
+ARCH_000401,Cặp nhà bia Đình Chèm,Architecture,,,cap_nha_bia_dinh_chem,,,,approved
+ARCH_000402,Cung đệ nhất Đình Chèm,Architecture,,,cung_de_nhat_dinh_chem,,,,approved
+ARCH_000403,Cung đệ nhị Đình Chèm,Architecture,,,cung_de_nhi_dinh_chem,,,,approved
+ARCH_000404,Cung cấm Đình Chèm,Architecture,,,cung_cam_dinh_chem,,,,approved
+ASTYLE_000013,Kiến trúc nội Công ngoại Quốc,ArchitecturalStyle,,Nội công ngoại quốc,kien_truc_noi_cong_ngoai_quoc,,,,approved
+CATEGORY_000005,Điểm tham quan văn hóa - tín ngưỡng,TourismCategory,,Điểm du lịch văn hóa tâm linh|Công trình tín ngưỡng dân gian,diem_tham_quan_van_hoa_tin_nguong,,,,approved
+CATEGORY_000008,Di tích kiến trúc nghệ thuật,TourismCategory,,Di tích lịch sử - kiến trúc nghệ thuật,di_tich_kien_truc_nghe_thuat,,,,approved
+DYNASTY_000005,Nhà Lê Trung hưng,Dynasty,,Triều Lê Trung hưng,nha_le_trung_hung,,,,approved
+DYNASTY_000009,Nhà Đường,Dynasty,,Triều Đường,nha_duong,,,,approved
+EVENT_000127,Triệu Xương sửa miếu thờ Lý Ông Trọng,Event,,,trieu_xuong_sua_mieu_tho_ly_ong_trong,,,,approved
+EVENT_000128,Cao Biền mở rộng đền thờ Lý Ông Trọng,Event,,,cao_bien_mo_rong_den_tho_ly_ong_trong,,,,approved
+EVENT_000129,Kiệu nâng Đình Chèm,Event,,,kieu_nang_dinh_chem,,,,approved
+EVENT_000130,Lễ hội truyền thống Đình Chèm,Event,,,le_hoi_truyen_thong_dinh_chem,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+ORG_000012,Thủ tướng Chính phủ Việt Nam,Organization,,Thủ tướng Chính phủ,thu_tuong_chinh_phu_viet_nam,,,,approved
+ORG_000046,Ban Quản lý di tích Đình Chèm,Organization,,,ban_quan_ly_di_tich_dinh_chem,,,,approved
+PERSON_000051,Cao Biền,Person,,,cao_bien,,,,approved
+PERSON_000100,Lý Ông Trọng,Person,,Lý Thân|Đức Thánh Chèm,ly_ong_trong,,,,approved
+PERSON_000101,Bạch Tĩnh Cung,Person,,Hoàng phi Bạch Tĩnh Cung|Bạch Tịnh Cung,bach_tinh_cung,,,,approved
+PERSON_000102,Triệu Xương,Person,,,trieu_xuong,,,,approved
+PERSON_000103,Nghiêm Xuân Quảng,Person,,,nghiem_xuan_quang,,,,approved
+PLACE_000070,Đình Chèm,Place,,Đình Thụy Phương|Đền Chèm,dinh_chem,,,,approved
+TIME_000028,Năm 1989,Time,,1989,nam_1989,,,,approved
+TIME_000120,Ngày 25 tháng 12 năm 2017,Time,,25/12/2017|2017-12-25,ngay_25_thang_12_nam_2017,,,,approved
+TIME_000203,Năm 785,Time,,,nam_785,,,,approved
+TIME_000204,Năm 864,Time,,,nam_864,,,,approved
+TIME_000205,Năm 1916,Time,,,nam_1916,,,,approved
+TIME_000206,Ngày 14 đến 16 tháng Năm âm lịch hằng năm,Time,,,ngay_14_den_16_thang_nam_am_lich_hang_nam,,,,approved

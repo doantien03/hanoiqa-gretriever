@@ -1,0 +1,15 @@
+﻿evidence_id,source_id,primary_place_id,topic,normalized_text,text_kind,review_status
+EVD_000863,SRC_000301,PLACE_000070,address,"Đình Chèm nằm tại làng Chèm, nay thuộc phường Đông Ngạc, thành phố Hà Nội.",normalized_summary,approved
+EVD_000864,SRC_000301,PLACE_000070,category,Đình Chèm là công trình tín ngưỡng có giá trị kiến trúc nghệ thuật.,normalized_summary,approved
+EVD_000865,SRC_000303,PLACE_000070,worship,Hai vị được thờ tại Đình Chèm là Lý Ông Trọng và Bạch Tĩnh Cung.,normalized_summary,approved
+EVD_000866,SRC_000300,PLACE_000070,historical_architecture,Kiến trúc hiện còn của Đình Chèm có nguồn gốc thời Lê Trung Hưng.,normalized_summary,approved
+EVD_000867,SRC_000300,PLACE_000070,architecture,"Đình Chèm bố trí theo kiểu nội Công ngoại Quốc; có nghi môn nội, phương đình, đại bái, hậu cung và hai nhà bia.",normalized_summary,approved
+EVD_000868,SRC_000300,PLACE_000070,architecture,"Hậu cung gồm Cung đệ nhất, Cung đệ nhị (ống muống) và Cung cấm.",normalized_summary,approved
+EVD_000869,SRC_000300,PLACE_000070,renovation_and_function,Phương đình được dựng lại năm 1989 và dùng làm lễ tắm tượng trước hội.,normalized_summary,approved
+EVD_000870,SRC_000300,PLACE_000070,associated_person,"Nghiêm Xuân Quảng soạn hai bia năm 1917, ghi công Thánh Chèm và việc nâng đình.",normalized_summary,approved
+EVD_000871,SRC_000300,PLACE_000070,renovation,"Năm 1916, đình được nâng thêm 2,4 m; hậu cung còn ghi niên đại tu sửa cùng năm.",normalized_summary,approved
+EVD_000872,SRC_000302,PLACE_000070,renovation_tradition,"Theo thần tích, năm 785 thời Đường, Triệu Xương sửa miếu thờ Lý Ông Trọng thành nhà cao tầng chồng.",normalized_summary,approved
+EVD_000873,SRC_000302,PLACE_000070,renovation_tradition,"Theo thần tích, năm 864, Cao Biền mở rộng đền thờ Lý Ông Trọng, cho tạc tượng gỗ và sơn son thếp vàng.",normalized_summary,approved
+EVD_000874,SRC_000166,PLACE_000070,recognition,Đình Chèm được xếp hạng di tích quốc gia đặc biệt theo Quyết định 2082/QĐ-TTg ngày 25/12/2017 của Thủ tướng Chính phủ.,normalized_summary,approved
+EVD_000875,SRC_000301,PLACE_000070,management,Ban Quản lý di tích Đình Chèm tham gia quản lý và bảo tồn đình; trưởng Ban Khánh tiết đồng thời là phó ban quản lý.,normalized_summary,approved
+EVD_000876,SRC_000301,PLACE_000070,festival,"Lễ hội Đình Chèm tổ chức hằng năm từ 14 đến 16 tháng Năm âm lịch, có nghi thức tắm tượng và rước nước sông Hồng.",normalized_summary,approved

@@ -1,0 +1,35 @@
+﻿node_id,canonical_name,type,admin_level,aliases,normalized_key,numeric_value,unit,value_kind,review_status
+ACTIVITY_000079,Dâng hương tưởng niệm,Activity,,Dâng hương tại Đền Núi Sưa|Thực hành tín ngưỡng tại Đền Núi Sưa,dang_huong_tuong_niem,,,,approved
+ACTIVITY_000085,Sinh hoạt văn hóa cộng đồng,Activity,,,sinh_hoat_van_hoa_cong_dong,,,,approved
+ADDRESS_000049,"Thôn Đông, xã Quảng Oai, thành phố Hà Nội",Address,,,thon_dong_xa_quang_oai_thanh_pho_ha_noi,,,,approved
+ADMIN_000021,Xã Quảng Oai,AdministrativeArea,,,xa_quang_oai,,,,approved
+ARCH_000388,Cổng Đình Tây Đằng,Architecture,,,cong_dinh_tay_dang,,,,approved
+ARCH_000389,Hồ bán nguyệt Đình Tây Đằng,Architecture,,,ho_ban_nguyet_dinh_tay_dang,,,,approved
+ARCH_000390,Nghi môn Đình Tây Đằng,Architecture,,,nghi_mon_dinh_tay_dang,,,,approved
+ARCH_000391,Tả mạc Đình Tây Đằng,Architecture,,,ta_mac_dinh_tay_dang,,,,approved
+ARCH_000392,Hữu mạc Đình Tây Đằng,Architecture,,,huu_mac_dinh_tay_dang,,,,approved
+ARCH_000393,Đại đình Đình Tây Đằng,Architecture,,,dai_dinh_dinh_tay_dang,,,,approved
+ARCH_000394,Giếng Đình Tây Đằng,Architecture,,,gieng_dinh_tay_dang,,,,approved
+ARCH_000395,Hậu cung Đình Tây Đằng,Architecture,,,hau_cung_dinh_tay_dang,,,,approved
+ARCH_000396,Sân Đình Tây Đằng,Architecture,,,san_dinh_tay_dang,,,,approved
+ASTYLE_000023,Bố cục chữ Nhất,ArchitecturalStyle,,,bo_cuc_chu_nhat,,,,approved
+ASTYLE_000024,Kiến trúc tứ trụ,ArchitecturalStyle,,,kien_truc_tu_tru,,,,approved
+CATEGORY_000005,Điểm tham quan văn hóa - tín ngưỡng,TourismCategory,,Điểm du lịch văn hóa tâm linh|Công trình tín ngưỡng dân gian,diem_tham_quan_van_hoa_tin_nguong,,,,approved
+CATEGORY_000008,Di tích kiến trúc nghệ thuật,TourismCategory,,Di tích lịch sử - kiến trúc nghệ thuật,di_tich_kien_truc_nghe_thuat,,,,approved
+DYNASTY_000004,Nhà Mạc,Dynasty,,Triều Mạc,nha_mac,,,,approved
+EVENT_000126,Khai mạc Lễ hội Đình Tây Đằng Xuân Bính Ngọ 2026,Event,,,khai_mac_le_hoi_dinh_tay_dang_xuan_binh_ngo_2026,,,,approved
+HSTATUS_000003,Di tích quốc gia đặc biệt,HeritageStatus,,Di tích Quốc gia đặc biệt,di_tich_quoc_gia_dac_biet,,,,approved
+MATERIAL_000013,Gỗ mít,Material,,,go_mit,,,,approved
+MATERIAL_000026,Ngói mũi hài,Material,,,ngoi_mui_hai,,,,approved
+MATERIAL_000027,Gạch Bát Tràng,Material,,,gach_bat_trang,,,,approved
+ORG_000012,Thủ tướng Chính phủ Việt Nam,Organization,,Thủ tướng Chính phủ,thu_tuong_chinh_phu_viet_nam,,,,approved
+PERSON_000053,Cao Sơn Đại Vương,Person,,Thần Cao Sơn|Đức thần Cao Sơn,cao_son_dai_vuong,,,,approved
+PERSON_000098,Tản Viên Sơn Thánh,Person,,Thánh Tản Viên,tan_vien_son_thanh,,,,approved
+PERSON_000099,Quý Minh,Person,,,quy_minh,,,,approved
+PLACE_000069,Đình Tây Đằng,Place,,,dinh_tay_dang,,,,approved
+ROLE_000027,Thành hoàng làng Tây Đằng,Role,,,thanh_hoang_lang_tay_dang,,,,approved
+TIME_000065,Ngày 9 tháng 12 năm 2013,Time,,09/12/2013|2013-12-09,ngay_9_thang_12_nam_2013,,,,approved
+TIME_000199,Thế kỷ XVI,Time,,,the_ky_xvi,,,,approved
+TIME_000200,Năm 1860,Time,,Canh Thân (1860),nam_1860,,,,approved
+TIME_000201,Giai đoạn 2002-2004,Time,,2002-2004,giai_doan_2002_2004,,,,approved
+TIME_000202,Ngày 27 tháng 2 năm 2026,Time,,,ngay_27_thang_2_nam_2026,,,,approved

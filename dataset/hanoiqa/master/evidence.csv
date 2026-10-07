@@ -848,3 +848,30 @@ EVD_000846,SRC_000292,PLACE_000068,project_owner,Ủy ban nhân dân quận Than
 EVD_000847,SRC_000293,PLACE_000068,construction_contractors,"Liên danh Công ty Cổ phần Đầu tư và Xây dựng Thành Nam, Công ty Cổ phần Đầu tư và Xây lắp Constrexim số 8 và Công ty TNHH Xây dựng và Môi trường ECO trúng gói thầu thi công xây dựng và lắp đặt thiết bị của Công viên hồ điều hòa Nhân Chính.",normalized_summary,approved
 EVD_000848,SRC_000294,PLACE_000068,person_role_and_project_association,"Trong sự kiện hoàn thiện Công viên hồ điều hòa Nhân Chính vào tháng 8 năm 2018, Lê Hồng Thắng giữ vai trò Giám đốc Ban Quản lý dự án quận Thanh Xuân và cung cấp thông tin về các hạng mục còn lại của dự án.",normalized_summary,approved
 EVD_000849,SRC_000294,PLACE_000068,person_role_and_project_association,"Trong sự kiện hoàn thiện Công viên hồ điều hòa Nhân Chính vào tháng 8 năm 2018, Đặng Hồng Thái giữ vai trò Phó Chủ tịch Ủy ban nhân dân quận Thanh Xuân và giải thích các nguyên nhân làm chậm tiến độ dự án.",normalized_summary,approved
+EVD_000850,SRC_000297,PLACE_000069,address,"Đình Tây Đằng có địa chỉ ở thôn Đông, xã Quảng Oai, thành phố Hà Nội.",normalized_summary,approved
+EVD_000851,SRC_000297,PLACE_000069,category,Đình Tây Đằng là di tích kiến trúc nghệ thuật và nơi thờ Thánh Tản Viên.,normalized_summary,approved
+EVD_000852,SRC_000296,PLACE_000069,worship,"Ba Thành hoàng được thờ ở đình Tây Đằng là Tản Viên, Cao Sơn, Quý Minh.",normalized_summary,approved
+EVD_000853,SRC_000296,PLACE_000069,dating,"Niên đại khởi dựng đình Tây Đằng được nhận định là thế kỷ XVI, thời Mạc.",normalized_summary,approved
+EVD_000854,SRC_000296,PLACE_000069,renovation,Đình Tây Đằng được tu bổ trong giai đoạn 2002-2004.,normalized_summary,approved
+EVD_000855,SRC_000296,PLACE_000069,architecture,"Quần thể đình Tây Đằng gồm cổng, hồ bán nguyệt, nghi môn, tả mạc, hữu mạc, đại đình và giếng.",normalized_summary,approved
+EVD_000856,SRC_000296,PLACE_000069,architecture,"Tả mạc và hữu mạc được dựng năm 1860, mái dùng ngói mũi hài.",normalized_summary,approved
+EVD_000857,SRC_000296,PLACE_000069,architecture,"Đại đình có mặt bằng chữ Nhất, mái ngói mũi hài; phần lớn cấu kiện gỗ dùng gỗ mít.",normalized_summary,approved
+EVD_000858,SRC_000296,PLACE_000069,worship_architecture,"Hậu cung nằm trong đại đình, đặt ba ngai thờ Thành hoàng.",normalized_summary,approved
+EVD_000859,SRC_000296,PLACE_000069,architecture,Sân sau nghi môn lát gạch Bát Tràng. Nghi môn có dạng tứ trụ.,normalized_summary,approved
+EVD_000860,SRC_000296,PLACE_000069,function,Các gian bên của đại đình dành không gian sinh hoạt văn hóa cộng đồng.,normalized_summary,approved
+EVD_000861,SRC_000298,PLACE_000069,recognition,"Đình Tây Đằng được Thủ tướng Chính phủ xếp hạng di tích quốc gia đặc biệt ngày 9/12/2013, theo Quyết định 2383/QĐ-TTg.",normalized_summary,approved
+EVD_000862,SRC_000299,PLACE_000069,festival,Lễ hội Đình Tây Đằng Xuân Bính Ngọ khai mạc ngày 27/2/2026; nghi lễ có dâng hương tưởng nhớ Thánh Tản Viên.,normalized_summary,approved
+EVD_000863,SRC_000301,PLACE_000070,address,"Đình Chèm nằm tại làng Chèm, nay thuộc phường Đông Ngạc, thành phố Hà Nội.",normalized_summary,approved
+EVD_000864,SRC_000301,PLACE_000070,category,Đình Chèm là công trình tín ngưỡng có giá trị kiến trúc nghệ thuật.,normalized_summary,approved
+EVD_000865,SRC_000303,PLACE_000070,worship,Hai vị được thờ tại Đình Chèm là Lý Ông Trọng và Bạch Tĩnh Cung.,normalized_summary,approved
+EVD_000866,SRC_000300,PLACE_000070,historical_architecture,Kiến trúc hiện còn của Đình Chèm có nguồn gốc thời Lê Trung Hưng.,normalized_summary,approved
+EVD_000867,SRC_000300,PLACE_000070,architecture,"Đình Chèm bố trí theo kiểu nội Công ngoại Quốc; có nghi môn nội, phương đình, đại bái, hậu cung và hai nhà bia.",normalized_summary,approved
+EVD_000868,SRC_000300,PLACE_000070,architecture,"Hậu cung gồm Cung đệ nhất, Cung đệ nhị (ống muống) và Cung cấm.",normalized_summary,approved
+EVD_000869,SRC_000300,PLACE_000070,renovation_and_function,Phương đình được dựng lại năm 1989 và dùng làm lễ tắm tượng trước hội.,normalized_summary,approved
+EVD_000870,SRC_000300,PLACE_000070,associated_person,"Nghiêm Xuân Quảng soạn hai bia năm 1917, ghi công Thánh Chèm và việc nâng đình.",normalized_summary,approved
+EVD_000871,SRC_000300,PLACE_000070,renovation,"Năm 1916, đình được nâng thêm 2,4 m; hậu cung còn ghi niên đại tu sửa cùng năm.",normalized_summary,approved
+EVD_000872,SRC_000302,PLACE_000070,renovation_tradition,"Theo thần tích, năm 785 thời Đường, Triệu Xương sửa miếu thờ Lý Ông Trọng thành nhà cao tầng chồng.",normalized_summary,approved
+EVD_000873,SRC_000302,PLACE_000070,renovation_tradition,"Theo thần tích, năm 864, Cao Biền mở rộng đền thờ Lý Ông Trọng, cho tạc tượng gỗ và sơn son thếp vàng.",normalized_summary,approved
+EVD_000874,SRC_000166,PLACE_000070,recognition,Đình Chèm được xếp hạng di tích quốc gia đặc biệt theo Quyết định 2082/QĐ-TTg ngày 25/12/2017 của Thủ tướng Chính phủ.,normalized_summary,approved
+EVD_000875,SRC_000301,PLACE_000070,management,Ban Quản lý di tích Đình Chèm tham gia quản lý và bảo tồn đình; trưởng Ban Khánh tiết đồng thời là phó ban quản lý.,normalized_summary,approved
+EVD_000876,SRC_000301,PLACE_000070,festival,"Lễ hội Đình Chèm tổ chức hằng năm từ 14 đến 16 tháng Năm âm lịch, có nghi thức tắm tượng và rước nước sông Hồng.",normalized_summary,approved

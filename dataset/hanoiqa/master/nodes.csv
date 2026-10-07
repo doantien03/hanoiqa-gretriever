@@ -1530,3 +1530,28 @@ PERSON_000096,Lê Hồng Thắng,Person,,Ông Lê Hồng Thắng,le_hong_thang,,
 PERSON_000097,Đặng Hồng Thái,Person,,Ông Đặng Hồng Thái,dang_hong_thai,,,,approved
 ROLE_000025,Giám đốc Ban Quản lý dự án quận Thanh Xuân,Role,,Giám đốc Ban QLDA quận Thanh Xuân,giam_doc_ban_quan_ly_du_an_quan_thanh_xuan,,,,approved
 ROLE_000026,Phó Chủ tịch Ủy ban nhân dân quận Thanh Xuân,Role,,Phó Chủ tịch UBND quận Thanh Xuân,pho_chu_tich_uy_ban_nhan_dan_quan_thanh_xuan,,,,approved
+PLACE_000069,Đình Tây Đằng,Place,,,dinh_tay_dang,,,,approved
+ADDRESS_000049,"Thôn Đông, xã Quảng Oai, thành phố Hà Nội",Address,,,thon_dong_xa_quang_oai_thanh_pho_ha_noi,,,,approved
+ADMIN_000021,Xã Quảng Oai,AdministrativeArea,,,xa_quang_oai,,,,approved
+PERSON_000098,Tản Viên Sơn Thánh,Person,,Thánh Tản Viên,tan_vien_son_thanh,,,,approved
+PERSON_000099,Quý Minh,Person,,,quy_minh,,,,approved
+ROLE_000027,Thành hoàng làng Tây Đằng,Role,,,thanh_hoang_lang_tay_dang,,,,approved
+ARCH_000388,Cổng Đình Tây Đằng,Architecture,,,cong_dinh_tay_dang,,,,approved
+ARCH_000389,Hồ bán nguyệt Đình Tây Đằng,Architecture,,,ho_ban_nguyet_dinh_tay_dang,,,,approved
+ARCH_000390,Nghi môn Đình Tây Đằng,Architecture,,,nghi_mon_dinh_tay_dang,,,,approved
+ARCH_000391,Tả mạc Đình Tây Đằng,Architecture,,,ta_mac_dinh_tay_dang,,,,approved
+ARCH_000392,Hữu mạc Đình Tây Đằng,Architecture,,,huu_mac_dinh_tay_dang,,,,approved
+ARCH_000393,Đại đình Đình Tây Đằng,Architecture,,,dai_dinh_dinh_tay_dang,,,,approved
+ARCH_000394,Giếng Đình Tây Đằng,Architecture,,,gieng_dinh_tay_dang,,,,approved
+ARCH_000395,Hậu cung Đình Tây Đằng,Architecture,,,hau_cung_dinh_tay_dang,,,,approved
+ARCH_000396,Sân Đình Tây Đằng,Architecture,,,san_dinh_tay_dang,,,,approved
+TIME_000199,Thế kỷ XVI,Time,,,the_ky_xvi,,,,approved
+TIME_000200,Năm 1860,Time,,Canh Thân (1860),nam_1860,,,,approved
+TIME_000201,Giai đoạn 2002-2004,Time,,2002-2004,giai_doan_2002_2004,,,,approved
+MATERIAL_000026,Ngói mũi hài,Material,,,ngoi_mui_hai,,,,approved
+MATERIAL_000027,Gạch Bát Tràng,Material,,,gach_bat_trang,,,,approved
+ASTYLE_000023,Bố cục chữ Nhất,ArchitecturalStyle,,,bo_cuc_chu_nhat,,,,approved
+ASTYLE_000024,Kiến trúc tứ trụ,ArchitecturalStyle,,,kien_truc_tu_tru,,,,approved
+EVENT_000126,Khai mạc Lễ hội Đình Tây Đằng Xuân Bính Ngọ 2026,Event,,,khai_mac_le_hoi_dinh_tay_dang_xuan_binh_ngo_2026,,,,approved
+TIME_000202,Ngày 27 tháng 2 năm 2026,Time,,,ngay_27_thang_2_nam_2026,,,,approved
+ACTIVITY_000085,Sinh hoạt văn hóa cộng đồng,Activity,,,sinh_hoat_van_hoa_cong_dong,,,,approved

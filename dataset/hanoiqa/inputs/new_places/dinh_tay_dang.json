@@ -1,0 +1,765 @@
+{
+  "schema_version": 1,
+  "place_key": "place",
+  "review_status": "approved",
+  "sources": [
+    {
+      "key": "src_dsvh",
+      "title": "Di tích kiến trúc nghệ thuật đình Tây Đằng (huyện Ba Vì, thành phố Hà Nội)",
+      "url": "https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-dinh-tay-dang-huyen-ba-vi-thanh-pho-ha-noi-2979",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; lưu tóm tắt chuẩn hóa và URL, không sao chép toàn văn."
+    },
+    {
+      "key": "src_quangoai",
+      "title": "Đình Tây Đằng – Di tích Quốc gia đặc biệt, biểu tượng văn hóa và niềm tự hào của người dân Quảng Oai",
+      "url": "https://quangoai.hanoi.gov.vn/van-hoa-xa-hoi/dinh-tay-dang-di-tich-quoc-gia-dac-biet-bieu-tuong-van-hoa-va-niem-tu-hao-cua-nguoi-dan-quang-oai-2678251024102825266.htm",
+      "source_type": "local_government_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; lưu tóm tắt chuẩn hóa và URL, không sao chép toàn văn."
+    },
+    {
+      "key": "src_recognition",
+      "title": "Hà Nội có thêm 5 Di tích Quốc gia đặc biệt",
+      "url": "https://baochinhphu.vn/ha-noi-co-them-5-di-tich-quoc-gia-dac-biet-102159515.htm",
+      "source_type": "government_news_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; lưu tóm tắt chuẩn hóa và URL, không sao chép toàn văn."
+    },
+    {
+      "key": "src_festival",
+      "title": "Quảng Oai khai mạc Lễ hội truyền thống Đình Tây Đằng Xuân Bính Ngọ 2026",
+      "url": "https://sovhtt.hanoi.gov.vn/quang-oai-khai-mac-le-hoi-truyen-thong-dinh-tay-dang-xuan-binh-ngo-2026/",
+      "source_type": "government_cultural_portal",
+      "retrieved_at": "2026-10-07",
+      "license_note": "Bản quyền thuộc nguồn; lưu tóm tắt chuẩn hóa và URL, không sao chép toàn văn."
+    }
+  ],
+  "nodes": [
+    {
+      "key": "place",
+      "type": "Place",
+      "canonical_name": "Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "address",
+      "type": "Address",
+      "canonical_name": "Thôn Đông, xã Quảng Oai, thành phố Hà Nội",
+      "match": "new"
+    },
+    {
+      "key": "commune",
+      "type": "AdministrativeArea",
+      "canonical_name": "Xã Quảng Oai",
+      "match": "new"   
+    },
+    {
+      "key": "category",
+      "type": "TourismCategory",
+      "canonical_name": "Di tích kiến trúc nghệ thuật",
+      "match": "existing",
+      "existing_id": "CATEGORY_000008"
+    },
+    {
+      "key": "spiritual",
+      "type": "TourismCategory",
+      "canonical_name": "Điểm tham quan văn hóa - tín ngưỡng",
+      "match": "existing",
+      "existing_id": "CATEGORY_000005"
+    },
+    {
+      "key": "tan_vien",
+      "type": "Person",
+      "canonical_name": "Tản Viên Sơn Thánh",
+      "match": "new",
+      "aliases": [
+        "Thánh Tản Viên"
+      ]
+    },
+    {
+      "key": "cao_son",
+      "type": "Person",
+      "canonical_name": "Cao Sơn Đại Vương",
+      "match": "existing",
+      "existing_id": "PERSON_000053"
+    },
+    {
+      "key": "quy_minh",
+      "type": "Person",
+      "canonical_name": "Quý Minh",
+      "match": "new"
+    },
+    {
+      "key": "role",
+      "type": "Role",
+      "canonical_name": "Thành hoàng làng Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "gate",
+      "type": "Architecture",
+      "canonical_name": "Cổng Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "pond",
+      "type": "Architecture",
+      "canonical_name": "Hồ bán nguyệt Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "nghi_mon",
+      "type": "Architecture",
+      "canonical_name": "Nghi môn Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "ta_mac",
+      "type": "Architecture",
+      "canonical_name": "Tả mạc Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "huu_mac",
+      "type": "Architecture",
+      "canonical_name": "Hữu mạc Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "dai_dinh",
+      "type": "Architecture",
+      "canonical_name": "Đại đình Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "well",
+      "type": "Architecture",
+      "canonical_name": "Giếng Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "hau_cung",
+      "type": "Architecture",
+      "canonical_name": "Hậu cung Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "yard",
+      "type": "Architecture",
+      "canonical_name": "Sân Đình Tây Đằng",
+      "match": "new"
+    },
+    {
+      "key": "mac",
+      "type": "Dynasty",
+      "canonical_name": "Nhà Mạc",
+      "match": "existing",
+      "existing_id": "DYNASTY_000004"
+    },
+    {
+      "key": "century16",
+      "type": "Time",
+      "canonical_name": "Thế kỷ XVI",
+      "match": "new"
+    },
+    {
+      "key": "year1860",
+      "type": "Time",
+      "canonical_name": "Năm 1860",
+      "match": "new",
+      "aliases": [
+        "Canh Thân (1860)"
+      ]
+    },
+    {
+      "key": "renovation_time",
+      "type": "Time",
+      "canonical_name": "Giai đoạn 2002-2004",
+      "match": "new",
+      "aliases": [
+        "2002-2004"
+      ]
+    },
+    {
+      "key": "recognition_time",
+      "type": "Time",
+      "canonical_name": "Ngày 9 tháng 12 năm 2013",
+      "match": "existing",
+      "existing_id": "TIME_000065"
+    },
+    {
+      "key": "status",
+      "type": "HeritageStatus",
+      "canonical_name": "Di tích quốc gia đặc biệt",
+      "match": "existing",
+      "existing_id": "HSTATUS_000003"
+    },
+    {
+      "key": "prime_minister",
+      "type": "Organization",
+      "canonical_name": "Thủ tướng Chính phủ Việt Nam",
+      "match": "existing",
+      "existing_id": "ORG_000012"
+    },
+    {
+      "key": "wood",
+      "type": "Material",
+      "canonical_name": "Gỗ mít",
+      "match": "existing",
+      "existing_id": "MATERIAL_000013"
+    },
+    {
+      "key": "tiles",
+      "type": "Material",
+      "canonical_name": "Ngói mũi hài",
+      "match": "new"
+    },
+    {
+      "key": "brick",
+      "type": "Material",
+      "canonical_name": "Gạch Bát Tràng",
+      "match": "new"
+    },
+    {
+      "key": "style_nhat",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Bố cục chữ Nhất",
+      "match": "new"
+    },
+    {
+      "key": "style_tru",
+      "type": "ArchitecturalStyle",
+      "canonical_name": "Kiến trúc tứ trụ",
+      "match": "new"
+    },
+    {
+      "key": "festival",
+      "type": "Event",
+      "canonical_name": "Khai mạc Lễ hội Đình Tây Đằng Xuân Bính Ngọ 2026",
+      "match": "new"
+    },
+    {
+      "key": "festival_day",
+      "type": "Time",
+      "canonical_name": "Ngày 27 tháng 2 năm 2026",
+      "match": "new"
+    },
+    {
+      "key": "incense",
+      "type": "Activity",
+      "canonical_name": "Dâng hương tưởng niệm",
+      "match": "existing",
+      "existing_id": "ACTIVITY_000079"
+    },
+    {
+      "key": "community",
+      "type": "Activity",
+      "canonical_name": "Sinh hoạt văn hóa cộng đồng",
+      "match": "new"
+    }
+  ],
+  "evidence": [
+    {
+      "key": "ev_address",
+      "source": "src_quangoai",
+      "topic": "address",
+      "normalized_text": "Đình Tây Đằng có địa chỉ ở thôn Đông, xã Quảng Oai, thành phố Hà Nội.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_category",
+      "source": "src_quangoai",
+      "topic": "category",
+      "normalized_text": "Đình Tây Đằng là di tích kiến trúc nghệ thuật và nơi thờ Thánh Tản Viên.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_honors",
+      "source": "src_dsvh",
+      "topic": "worship",
+      "normalized_text": "Ba Thành hoàng được thờ ở đình Tây Đằng là Tản Viên, Cao Sơn, Quý Minh.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_dating",
+      "source": "src_dsvh",
+      "topic": "dating",
+      "normalized_text": "Niên đại khởi dựng đình Tây Đằng được nhận định là thế kỷ XVI, thời Mạc.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_renovation",
+      "source": "src_dsvh",
+      "topic": "renovation",
+      "normalized_text": "Đình Tây Đằng được tu bổ trong giai đoạn 2002-2004.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_components",
+      "source": "src_dsvh",
+      "topic": "architecture",
+      "normalized_text": "Quần thể đình Tây Đằng gồm cổng, hồ bán nguyệt, nghi môn, tả mạc, hữu mạc, đại đình và giếng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_auxiliary",
+      "source": "src_dsvh",
+      "topic": "architecture",
+      "normalized_text": "Tả mạc và hữu mạc được dựng năm 1860, mái dùng ngói mũi hài.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_main",
+      "source": "src_dsvh",
+      "topic": "architecture",
+      "normalized_text": "Đại đình có mặt bằng chữ Nhất, mái ngói mũi hài; phần lớn cấu kiện gỗ dùng gỗ mít.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_inner",
+      "source": "src_dsvh",
+      "topic": "worship_architecture",
+      "normalized_text": "Hậu cung nằm trong đại đình, đặt ba ngai thờ Thành hoàng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_yard",
+      "source": "src_dsvh",
+      "topic": "architecture",
+      "normalized_text": "Sân sau nghi môn lát gạch Bát Tràng. Nghi môn có dạng tứ trụ.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_community",
+      "source": "src_dsvh",
+      "topic": "function",
+      "normalized_text": "Các gian bên của đại đình dành không gian sinh hoạt văn hóa cộng đồng.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_recognition",
+      "source": "src_recognition",
+      "topic": "recognition",
+      "normalized_text": "Đình Tây Đằng được Thủ tướng Chính phủ xếp hạng di tích quốc gia đặc biệt ngày 9/12/2013, theo Quyết định 2383/QĐ-TTg.",
+      "text_kind": "normalized_summary"
+    },
+    {
+      "key": "ev_festival",
+      "source": "src_festival",
+      "topic": "festival",
+      "normalized_text": "Lễ hội Đình Tây Đằng Xuân Bính Ngọ khai mạc ngày 27/2/2026; nghi lễ có dâng hương tưởng nhớ Thánh Tản Viên.",
+      "text_kind": "normalized_summary"
+    }
+  ],
+  "facts": [
+    {
+      "source": "place",
+      "relation": "HAS_ADDRESS",
+      "target": "address",
+      "evidence": [
+        "ev_address"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "LOCATED_IN",
+      "target": "commune",
+      "evidence": [
+        "ev_address"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "category",
+      "evidence": [
+        "ev_category"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_CATEGORY",
+      "target": "spiritual",
+      "evidence": [
+        "ev_category"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HONORS",
+      "target": "tan_vien",
+      "evidence": [
+        "ev_honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "tan_vien",
+      "relation": "HELD_ROLE",
+      "target": "role",
+      "evidence": [
+        "ev_honors"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "Đình Tây Đằng",
+        "tradition": "tín ngưỡng dân gian"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HONORS",
+      "target": "cao_son",
+      "evidence": [
+        "ev_honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "cao_son",
+      "relation": "HELD_ROLE",
+      "target": "role",
+      "evidence": [
+        "ev_honors"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "Đình Tây Đằng",
+        "tradition": "tín ngưỡng dân gian"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HONORS",
+      "target": "quy_minh",
+      "evidence": [
+        "ev_honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "quy_minh",
+      "relation": "HELD_ROLE",
+      "target": "role",
+      "evidence": [
+        "ev_honors"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "Đình Tây Đằng",
+        "tradition": "tín ngưỡng dân gian"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "gate",
+      "evidence": [
+        "ev_components"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "pond",
+      "evidence": [
+        "ev_components"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "nghi_mon",
+      "evidence": [
+        "ev_components"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "ta_mac",
+      "evidence": [
+        "ev_components"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "huu_mac",
+      "evidence": [
+        "ev_components"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "dai_dinh",
+      "evidence": [
+        "ev_components"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "well",
+      "evidence": [
+        "ev_components"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_COMPONENT",
+      "target": "yard",
+      "evidence": [
+        "ev_yard"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "dai_dinh",
+      "relation": "HAS_COMPONENT",
+      "target": "hau_cung",
+      "evidence": [
+        "ev_inner"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "hau_cung",
+      "relation": "HONORS",
+      "target": "tan_vien",
+      "evidence": [
+        "ev_inner",
+        "ev_honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "hau_cung",
+      "relation": "HONORS",
+      "target": "cao_son",
+      "evidence": [
+        "ev_inner",
+        "ev_honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "hau_cung",
+      "relation": "HONORS",
+      "target": "quy_minh",
+      "evidence": [
+        "ev_inner",
+        "ev_honors"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "BUILT_IN",
+      "target": "century16",
+      "evidence": [
+        "ev_dating"
+      ],
+      "confidence": 1.0,
+      "review_status": "needs_revision",
+      "qualifiers": {
+        "dating_basis": "Niên đại nhận định từ kiến trúc và C14; xem review_notes về khác biệt nguồn."
+      }
+    },
+    {
+      "source": "place",
+      "relation": "ASSOCIATED_WITH_DYNASTY",
+      "target": "mac",
+      "evidence": [
+        "ev_dating"
+      ],
+      "confidence": 1.0,
+      "review_status": "needs_revision",
+      "qualifiers": {
+        "dating_basis": "Niên đại nhận định từ kiến trúc và C14; xem review_notes về khác biệt nguồn."
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RENOVATED_IN",
+      "target": "renovation_time",
+      "evidence": [
+        "ev_renovation"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "ta_mac",
+      "relation": "BUILT_IN",
+      "target": "year1860",
+      "evidence": [
+        "ev_auxiliary"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "ta_mac",
+      "relation": "BUILT_WITH",
+      "target": "tiles",
+      "evidence": [
+        "ev_auxiliary"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "huu_mac",
+      "relation": "BUILT_IN",
+      "target": "year1860",
+      "evidence": [
+        "ev_auxiliary"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "huu_mac",
+      "relation": "BUILT_WITH",
+      "target": "tiles",
+      "evidence": [
+        "ev_auxiliary"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "dai_dinh",
+      "relation": "BUILT_WITH",
+      "target": "tiles",
+      "evidence": [
+        "ev_main"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "dai_dinh",
+      "relation": "BUILT_WITH",
+      "target": "wood",
+      "evidence": [
+        "ev_main"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "scope": "phần lớn cấu kiện gỗ"
+      }
+    },
+    {
+      "source": "dai_dinh",
+      "relation": "HAS_ARCHITECTURAL_STYLE",
+      "target": "style_nhat",
+      "evidence": [
+        "ev_main"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "nghi_mon",
+      "relation": "HAS_ARCHITECTURAL_STYLE",
+      "target": "style_tru",
+      "evidence": [
+        "ev_yard"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "yard",
+      "relation": "BUILT_WITH",
+      "target": "brick",
+      "evidence": [
+        "ev_yard"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "dai_dinh",
+      "relation": "USED_FOR",
+      "target": "community",
+      "evidence": [
+        "ev_community"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_AS",
+      "target": "status",
+      "evidence": [
+        "ev_recognition"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "decision_number": "2383/QĐ-TTg",
+        "recognition": "Di tích quốc gia đặc biệt"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_IN",
+      "target": "recognition_time",
+      "evidence": [
+        "ev_recognition"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "decision_number": "2383/QĐ-TTg",
+        "recognition": "Di tích quốc gia đặc biệt"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "RECOGNIZED_BY",
+      "target": "prime_minister",
+      "evidence": [
+        "ev_recognition"
+      ],
+      "confidence": 1.0,
+      "qualifiers": {
+        "decision_number": "2383/QĐ-TTg",
+        "recognition": "Di tích quốc gia đặc biệt"
+      }
+    },
+    {
+      "source": "place",
+      "relation": "HAS_EVENT",
+      "target": "festival",
+      "evidence": [
+        "ev_festival"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "festival",
+      "relation": "OCCURRED_IN",
+      "target": "festival_day",
+      "evidence": [
+        "ev_festival"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "source": "place",
+      "relation": "HAS_ACTIVITY",
+      "target": "incense",
+      "evidence": [
+        "ev_festival"
+      ],
+      "confidence": 1.0
+    }
+  ]
+}
